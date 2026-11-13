@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 10:45:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:52:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -16,7 +16,15 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<title>使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
+</item>
+<item>
+<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
 <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
 <description>Hugging Face Blog</description>
@@ -72,20 +80,20 @@
 <pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
 </item>
 <item>
-<title>腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力</title>
-<link>https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</link>
-<guid isPermaLink="true">https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</guid>
-<description>公众号：腾讯混元</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
-</item>
-<item>
 <title>Gondola doubles revenue as its team builds more with Codex</title>
 <link>https://openai.com/business/customer-stories/gondola</link>
 <guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力</title>
+<link>https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</link>
+<guid isPermaLink="true">https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</guid>
+<description>公众号：腾讯混元</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归</title>
@@ -96,28 +104,12 @@
 <pubDate>Fri, 13 Nov 2026 06:56:56 +0000</pubDate>
 </item>
 <item>
-<title>Secret scanning detects Cloudflare service tokens</title>
-<link>https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
-</item>
-<item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
 <link>https://www.aibase.com/news/32309</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 10:45:28 +0000</pubDate>
-</item>
-<item>
-<title>黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末</title>
-<link>https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</link>
-<guid isPermaLink="true">https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 23:56:00 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 12:52:07 +0000</pubDate>
 </item>
 <item>
 <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
@@ -126,6 +118,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末</title>
+<link>https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</link>
+<guid isPermaLink="true">https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
 <title>民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排</title>

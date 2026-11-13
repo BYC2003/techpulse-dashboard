@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:46:16.109052Z",
+  "generated_at": "2026-11-13T12:52:57.549642Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T10:45:28.946415Z"
+      "observed_at": "2026-11-13T12:52:07.494021Z"
     },
     {
-      "id": "project_26974fd606da",
-      "project_name": "Aven App Agent",
-      "url": "https://www.producthunt.com/products/aven-app-agent",
-      "summary": "AI that guides users through your app",
+      "id": "project_1759ed031fc4",
+      "project_name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "summary": "Powerful content editor for people who aren’t editors",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI that guides users through your app」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI that guides users through your app\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T22:12:11Z",
-      "updated_at": "2026-11-13T10:45:40Z",
+      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T11:56:03Z",
+      "updated_at": "2026-11-13T12:52:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T10:46:01.913461Z"
+      "observed_at": "2026-11-13T12:52:44.985565Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T10:45:28.946415Z"
+      "observed_at": "2026-11-13T12:52:07.494021Z"
     },
     {
-      "id": "project_69d97e83d7af",
-      "project_name": "Trainn MCP",
-      "url": "https://www.producthunt.com/products/trainn",
-      "summary": "Create product videos and courses from any AI chat",
+      "id": "project_7ae8ceaacce8",
+      "project_name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Create product videos and courses from any AI chat」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Create product videos and courses from any AI chat\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T05:01:59Z",
-      "updated_at": "2026-11-13T10:45:37Z",
+      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T02:06:54Z",
+      "updated_at": "2026-11-13T12:50:21Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T10:46:01.913461Z"
+      "observed_at": "2026-11-13T12:52:44.985565Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1240,
+      "duration_ms": 1116,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 126,
+      "duration_ms": 113,
       "error": null
     }
   ]
