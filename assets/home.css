@@ -1311,3 +1311,14 @@ button {
   }
 }
 
+/* 2026-11-13: headline removed; restore a clean rhythm between kicker and lead. */
+.overview-hero .overview-kicker + .overview-lead {
+  margin-top: 14px;
+}
+
+@media (max-width: 760px) {
+  .overview-hero .overview-kicker + .overview-lead {
+    margin-top: 10px;
+  }
+}
+
