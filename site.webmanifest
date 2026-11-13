@@ -20,5 +20,27 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "shortcuts": [
+    {
+      "short_name": "情报",
+      "name": "今日情报",
+      "url": "./dashboard.html?view=news"
+    },
+    {
+      "short_name": "抖音选题",
+      "name": "抖音科普选题",
+      "url": "./dashboard.html?view=douyin"
+    },
+    {
+      "short_name": "GitHub",
+      "name": "GitHub 热榜",
+      "url": "./dashboard.html?view=github"
+    },
+    {
+      "short_name": "权威观点",
+      "name": "AI 权威观点",
+      "url": "./dashboard.html?view=voices"
+    }
   ]
 }

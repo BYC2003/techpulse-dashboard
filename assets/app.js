@@ -3,6 +3,12 @@
 const i18n = window.AINewsRadarI18n;
 const { t, isEN: IS_EN, locale: LOCALE } = i18n;
 
+const DASHBOARD_VIEW = (() => {
+  const view = new URLSearchParams(window.location.search).get("view") || "news";
+  return ["news", "douyin", "github", "voices"].includes(view) ? view : "news";
+})();
+const INITIAL_QUERY = new URLSearchParams(window.location.search).get("q") || "";
+
 const state = {
   itemsAi: [],
   itemsAll: [],
@@ -20,7 +26,7 @@ const state = {
   allDataPromise: null,
   siteFilter: "",
   authorFilter: "",
-  query: "",
+  query: INITIAL_QUERY,
   // 单层信息架构：category（内容 tab） x mode（精选/全量全局开关）两个维度。
   // mode=selected 主列表读 mergedStories()（AI 相关合并事件池，纯时间倒序）；
   // mode=all 主列表读 itemsAllRaw/itemsAll（全量原始条目池）。
@@ -114,6 +120,16 @@ const githubMonthlyBtnEl = document.getElementById("githubMonthlyBtn");
 const authorityVoicesWrapEl = document.getElementById("authorityVoicesWrap");
 const authorityVoicesListEl = document.getElementById("authorityVoicesList");
 const authorityVoicesMetaEl = document.getElementById("authorityVoicesMeta");
+
+document.body.dataset.dashboardView = DASHBOARD_VIEW;
+document.querySelectorAll("[data-view-link]").forEach((link) => {
+  const active = link.dataset.viewLink === DASHBOARD_VIEW;
+  link.classList.toggle("active", active);
+  if (active) link.setAttribute("aria-current", "page");
+});
+const DASHBOARD_TITLES = { news: "今日情报", douyin: "抖音科普选题", github: "GitHub 周/月热榜", voices: "AI 权威观点与会议" };
+document.title = `TechPulse｜${DASHBOARD_TITLES[DASHBOARD_VIEW]}`;
+if (searchInputEl && INITIAL_QUERY) searchInputEl.value = INITIAL_QUERY;
 const top3BoardWrapEl = document.getElementById("top3BoardWrap");
 const top3BoardListEl = document.getElementById("top3BoardList");
 const top3BoardMetaEl = document.getElementById("top3BoardMeta");

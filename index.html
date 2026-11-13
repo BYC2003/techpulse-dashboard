@@ -1,244 +1,138 @@
 <!doctype html>
-<html lang="zh-CN" data-radar-view="mobile">
+<html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TechPulse｜一手科技与 AI 情报看板</title>
-    <meta
-      name="description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
-    />
-    <link rel="alternate" type="application/rss+xml" title="TechPulse" href="/data/feed.xml" />
-    <meta property="og:title" content="TechPulse｜一手科技与 AI 情报看板" />
-    <meta
-      property="og:description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="TechPulse" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="TechPulse 一手科技与 AI 情报看板" />
-    <meta name="application-name" content="TechPulse" />
-    <meta name="theme-color" content="#f6f6f2" />
+    <title>TechPulse｜AI 信息总览</title>
+    <meta name="description" content="TechPulse AI 信息总览：实时热点词云、今日情报索引、抖音科普选题、GitHub 周/月热榜与 AI 权威观点会议。" />
+    <meta name="theme-color" content="#f4f2ec" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="TechPulse" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="TechPulse｜一手科技与 AI 情报看板" />
-    <meta
-      name="twitter:description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
-    />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
-    <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=curated-sources-1015a" />
-    <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
+    <link rel="stylesheet" href="./assets/home.css?v=overview-1016a" />
+    <script src="./assets/home.js?v=overview-1016a" defer></script>
   </head>
   <body>
-    <a class="skip-link" href="#douyinPicksWrap">跳到抖音科普选题</a>
-    <main class="shell">
-      <header class="hero">
-        <div class="hero-main">
-          <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="TechPulse Logo" />
-            <div>
-              <h1>TechPulse</h1>
-              <div class="hero-updated hero-view-row">
-                <span class="updated-label">更新时间</span>
-                <span class="updated" id="updatedAt">加载中...</span>
-              </div>
-            </div>
-          </div>
+    <main class="overview-shell">
+      <header class="overview-header">
+        <a class="overview-brand" href="./" aria-label="TechPulse 首页">
+          <img src="./assets/logo.svg" alt="" />
+          <span>
+            <strong>TechPulse</strong>
+            <small>AI SIGNAL OVERVIEW</small>
+          </span>
+        </a>
+        <div class="overview-header-meta">
+          <span class="overview-status" id="overviewSourceStatus">来源状态加载中</span>
+          <span class="overview-updated">数据更新 <strong id="overviewUpdatedAt">--</strong></span>
         </div>
-        <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
-          <div class="section-scroll-hint" aria-hidden="true">左右滑动，查看更多栏目 →</div>
-        </section>
       </header>
 
-      <section class="service-status-panel" id="serviceStatusPanel" aria-live="polite" hidden></section>
-
-      <section class="primary-controls">
-        <div class="mode-switch curation-mode-switch" role="group" aria-label="精选/全部/只看一手切换">
-          <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">
-            <span class="mode-btn-icon" aria-hidden="true">&#10022;</span>精选
-          </button>
-          <button id="modeAllBtn" class="mode-btn" type="button" aria-pressed="false">
-            <span class="mode-btn-icon" aria-hidden="true">&#9776;</span>全部
-          </button>
-          <button id="officialOnlyBtn" class="mode-btn official-only-btn" type="button" aria-pressed="false">
-            <span class="mode-btn-icon" aria-hidden="true">◎</span>只看一手
-          </button>
+      <section class="overview-hero" aria-labelledby="overviewTitle">
+        <div>
+          <p class="overview-kicker">TODAY'S AI LANDSCAPE</p>
+          <h1 id="overviewTitle">先看全局，<br />再进入你要的 AI 信息。</h1>
+          <p class="overview-lead">把官方发布、GitHub 趋势、AI 圈热议、科普选题和权威观点集中成一个索引页。所有内容保留原文链接，事实与观点分开标注。</p>
+          <div class="overview-actions">
+            <a class="overview-primary-action" href="dashboard.html?view=news">进入今日情报 <span aria-hidden="true">→</span></a>
+            <a class="overview-secondary-action" href="#wordCloudPanel">查看热点词云</a>
+          </div>
         </div>
-        <input id="searchInput" type="search" placeholder="搜索 GitHub / 开源 / 科技 / AI / 论文" aria-label="搜索科技与 AI 情报" />
-        <div class="mode-hint" id="modeHint">精选加载中</div>
-        <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>清除筛选</button>
+        <aside class="overview-snapshot" aria-label="当前数据快照">
+          <span class="overview-snapshot-label">CURRENT SNAPSHOT</span>
+          <strong id="overviewItemCount">--</strong>
+          <span>条 AI 信息</span>
+          <dl>
+            <div><dt>覆盖来源</dt><dd id="overviewSiteCount">--</dd></div>
+            <div><dt>自动检查</dt><dd>5 分钟</dd></div>
+            <div><dt>数据窗口</dt><dd>48 小时</dd></div>
+          </dl>
+        </aside>
       </section>
 
-      <details class="advanced-panel">
-          <summary>
-            <span>高级筛选</span>
-            <span class="advanced-hint">只看某个来源，或检查各信源采集是否正常</span>
-          </summary>
-          <div class="advanced-content">
-            <div class="advanced-controls">
-              <label class="field">
-                <span>具体来源</span>
-                <select id="siteSelect">
-                  <option value="">全部站点</option>
-                </select>
-              </label>
-            </div>
-            <div class="data-source-indicator" id="dataSourceIndicator" hidden>
-              <span id="dataSourceIndicatorText"></span>
-              <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">恢复本地</button>
-            </div>
-            <div class="source-health" id="sourceHealth">源状态加载中...</div>
-            <details class="source-detail-panel">
-              <summary>查看源状态详情</summary>
-              <div class="source-health-details" id="sourceHealthDetails"></div>
-              <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
-            </details>
+      <section class="word-cloud-panel" id="wordCloudPanel" aria-labelledby="wordCloudTitle">
+        <div class="word-cloud-header">
+          <div>
+            <p class="overview-kicker">LIVE AI KEYWORDS</p>
+            <h2 id="wordCloudTitle">AI 圈热点词云</h2>
+            <p id="wordCloudMeta">正在读取最新快照...</p>
           </div>
-      </details>
-
-
-      <section class="list-wrap douyin-picks-wrap" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
-        <div class="douyin-picks-head">
-          <div class="douyin-picks-heading">
-            <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
-            <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
-            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间；事实与观点均以原文为准。</p>
-          </div>
-          <div class="douyin-picks-actions">
-            <span id="douyinPicksMeta">正在挑选...</span>
-            <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
-          </div>
+          <span class="word-cloud-live"><i aria-hidden="true"></i> 每 5 分钟检查更新</span>
         </div>
-        <div class="douyin-picks-swipe-hint" aria-hidden="true">左右滑动查看 5 条选题 →</div>
-        <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
+        <div class="word-cloud" id="wordCloud" aria-live="polite"></div>
+        <p class="word-cloud-note">词云依据近 24 小时公开信息流的标题、信号词、来源等级和时效计算；它反映信息热度，不等同于搜索引擎的真实搜索量。</p>
       </section>
 
-      <section class="list-wrap curated-board github-rankings-wrap" id="githubRankingsWrap" aria-labelledby="githubRankingsTitle" hidden>
-        <div class="curated-board-head">
-          <div class="curated-board-heading">
-            <span class="curated-board-eyebrow">GITHUB TRENDING · OFFICIAL SOURCE</span>
-            <h2 id="githubRankingsTitle">GitHub 周热榜 / 月热榜 TOP10</h2>
-            <p>直接读取 GitHub 官方 Trending 页面，按周期新增 Star 排序；保留仓库原文与直达链接。</p>
+      <section class="overview-index-section" aria-labelledby="indexTitle">
+        <div class="overview-section-heading">
+          <div>
+            <p class="overview-kicker">EXPLORE BY DESK</p>
+            <h2 id="indexTitle">选择你要看的内容</h2>
           </div>
-          <div class="ranking-switch" role="group" aria-label="切换 GitHub 热榜周期">
-            <button id="githubWeeklyBtn" class="ranking-btn active" type="button" aria-pressed="true">周热榜</button>
-            <button id="githubMonthlyBtn" class="ranking-btn" type="button" aria-pressed="false">月热榜</button>
-          </div>
+          <a href="dashboard.html?view=news">打开完整看板 ↗</a>
         </div>
-        <div class="curated-board-meta" id="githubRankingMeta">等待 GitHub 官方数据...</div>
-        <div id="githubRankingList" class="github-ranking-list" aria-live="polite"></div>
-      </section>
-
-      <section class="list-wrap curated-board authority-voices-wrap" id="authorityVoicesWrap" aria-labelledby="authorityVoicesTitle" hidden>
-        <div class="curated-board-head">
-          <div class="curated-board-heading">
-            <span class="curated-board-eyebrow">AI VOICES · CURATED SOURCES</span>
-            <h2 id="authorityVoicesTitle">AI 权威观点、会议与访谈</h2>
-            <p>近 90 天精选官方实验室、研究机构、会议官方与明确标注的深度访谈；不把观点当作事实结论。</p>
-          </div>
-          <span class="curated-board-meta" id="authorityVoicesMeta">等待来源数据...</span>
-        </div>
-        <div class="authority-filter-row">
-          <div class="authority-filter" role="tablist" aria-label="筛选观点类型">
-            <button class="authority-filter-btn active" type="button" data-authority-filter="all" aria-pressed="true">全部</button>
-            <button class="authority-filter-btn" type="button" data-authority-filter="viewpoint" aria-pressed="false">观点 / 研究</button>
-            <button class="authority-filter-btn" type="button" data-authority-filter="interview" aria-pressed="false">访谈</button>
-            <button class="authority-filter-btn" type="button" data-authority-filter="conference" aria-pressed="false">会议</button>
-          </div>
-          <div class="authority-trust-note"><strong>核验原则</strong><span>原文可追溯 · 观点明确标注 · 不做二次事实断言</span></div>
-        </div>
-        <div id="authorityVoicesList" class="authority-voices-list" aria-live="polite"></div>
-      </section>
-
-      <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="近日要闻">
-        <div class="list-head">
-          <h2>近日要闻</h2>
-          <span id="hotBoardMeta">按热度排序</span>
-        </div>
-        <div id="hotBoardList" class="hot-board-list"></div>
-      </section>
-
-      <section class="list-wrap top3-board-wrap" id="top3BoardWrap" aria-label="今日 TOP3 · 三口味锐评" hidden>
-        <div class="list-head">
-          <h2>今日 TOP3 · 三口味锐评</h2>
-          <span id="top3BoardMeta"></span>
-        </div>
-        <div id="top3BoardList" class="top3-board-list"></div>
-      </section>
-
-      <section class="waytoagi-wrap" hidden>
-        <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
-          <div class="waytoagi-tools">
-            <div class="waytoagi-switch">
-              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
-              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">近7日</button>
-            </div>
-            <span id="waytoagiUpdatedAt">加载中...</span>
-          </div>
-        </div>
-        <div id="waytoagiMeta" class="waytoagi-meta"></div>
-        <div id="waytoagiList" class="waytoagi-list"></div>
-      </section>
-
-      <section class="list-wrap" id="newsListWrap">
-        <div class="list-head">
-          <h2 id="listTitle">精选</h2>
-          <div class="list-head-tools">
-            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
-              <input id="allDedupeToggle" type="checkbox" checked />
-              <span class="all-dedupe-dot"></span>
-              <span id="allDedupeLabel">去重开</span>
-            </label>
-            <span id="resultCount">0 条</span>
-          </div>
-        </div>
-        <div id="newsList" class="news-list" aria-live="polite"></div>
-      </section>
-
-      <section class="list-wrap today-projects-wrap" id="todayProjectsWrap" aria-labelledby="todayProjectsTitle">
-        <div class="list-head">
-          <h2 id="todayProjectsTitle">今日开源项目</h2>
-          <span id="todayProjectsMeta"></span>
-        </div>
-        <div id="todayProjectsList" class="today-projects-list" aria-live="polite">
-          <p class="today-projects-empty">项目推荐加载中...</p>
+        <div class="overview-index-grid">
+          <a class="overview-index-card card-news" href="dashboard.html?view=news">
+            <span class="index-number">01</span>
+            <span class="index-kicker">LIVE INTELLIGENCE</span>
+            <h3>今日情报</h3>
+            <p>看全部聚合事件、原始来源、分类筛选和一手信号。</p>
+            <div class="index-card-meta"><strong id="overviewNewsCount">--</strong><span>条信息 · <b id="overviewNewsSources">--</b> 个来源</span></div>
+            <span class="index-card-link">进入今日情报 <i aria-hidden="true">↗</i></span>
+          </a>
+          <a class="overview-index-card card-douyin" href="dashboard.html?view=douyin">
+            <span class="index-number">02</span>
+            <span class="index-kicker">CREATOR DESK</span>
+            <h3>抖音科普选题</h3>
+            <p>每天 5 条可拍的 AI 科普选题，附带讲解角度和原文来源。</p>
+            <div class="index-card-meta"><strong>5</strong><span>条今日选题 · 可换一批</span></div>
+            <span class="index-card-link">进入选题池 <i aria-hidden="true">↗</i></span>
+          </a>
+          <a class="overview-index-card card-github" href="dashboard.html?view=github">
+            <span class="index-number">03</span>
+            <span class="index-kicker">GITHUB TRENDING</span>
+            <h3>GitHub 周 / 月热榜</h3>
+            <p>官方 Trending 周期榜单，各取 TOP10，直达仓库原文。</p>
+            <div class="index-card-meta"><strong id="overviewGithubCount">--</strong><span>个仓库 · 周榜 / 月榜</span></div>
+            <span class="index-card-link">进入 GitHub 热榜 <i aria-hidden="true">↗</i></span>
+          </a>
+          <a class="overview-index-card card-voices" href="dashboard.html?view=voices">
+            <span class="index-number">04</span>
+            <span class="index-kicker">AI VOICES</span>
+            <h3>权威观点与会议</h3>
+            <p>官方实验室、研究机构、会议官方与深度访谈，观点明确标注。</p>
+            <div class="index-card-meta"><strong id="overviewVoiceCount">--</strong><span>条近 90 天内容 · <b id="overviewVoiceSources">--</b> 个来源</span></div>
+            <span class="index-card-link">进入观点库 <i aria-hidden="true">↗</i></span>
+          </a>
         </div>
       </section>
 
+      <section class="overview-latest" aria-labelledby="latestTitle">
+        <div class="overview-section-heading">
+          <div>
+            <p class="overview-kicker">LATEST SIGNALS</p>
+            <h2 id="latestTitle">最近要闻</h2>
+          </div>
+          <a href="dashboard.html?view=news">查看全部 ↗</a>
+        </div>
+        <div class="overview-latest-list" id="overviewLatestList" aria-live="polite">
+          <p class="overview-loading">正在读取最新信息...</p>
+        </div>
+      </section>
+
+      <footer class="overview-footer">
+        <span>TechPulse · 官方源优先 · 原文可追溯</span>
+        <div>
+          <a href="dashboard.html?view=news">今日情报</a>
+          <a href="setup.html">安装到手机</a>
+          <a href="dashboard.html?view=news#sourceHealth">来源与方法</a>
+        </div>
+      </footer>
     </main>
-
-    <template id="itemTpl">
-      <article class="news-card">
-        <div class="news-card-body">
-          <div class="meta-row">
-            <span class="curated-badge" hidden>精选</span>
-            <span class="site"></span>
-            <span class="source"></span>
-            <strong class="score-badge" hidden></strong>
-          </div>
-          <a class="title" target="_blank" rel="noopener noreferrer"></a>
-          <p class="news-summary"></p>
-          <div class="why-box" hidden>
-            <span class="why-label">推荐理由：</span>
-            <span class="why-text"></span>
-          </div>
-          <div class="persona-slot"></div>
-        </div>
-      </article>
-    </template>
-    <script src="./assets/app.js?v=curated-sources-1015a" defer></script>
   </body>
 </html>

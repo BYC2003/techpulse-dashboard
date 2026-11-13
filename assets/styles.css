@@ -3138,3 +3138,92 @@ summary:focus-visible {
     font-size: 16px;
   }
 }
+/* ---- Dashboard subpage navigation and view isolation ---- */
+.dashboard-view-nav {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line-soft);
+}
+
+.dashboard-view-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  border: 1px solid rgba(18, 106, 115, 0.18);
+  border-radius: 999px;
+  padding: 5px 12px;
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.045);
+  font-size: 12px;
+  font-weight: 720;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dashboard-view-nav a:hover {
+  border-color: rgba(18, 106, 115, 0.36);
+  background: rgba(18, 106, 115, 0.08);
+}
+
+.dashboard-view-nav a.active,
+.dashboard-view-nav a[aria-current="page"] {
+  color: #fff;
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+body[data-dashboard-view="news"] #douyinPicksWrap,
+body[data-dashboard-view="news"] #githubRankingsWrap,
+body[data-dashboard-view="news"] #authorityVoicesWrap,
+body[data-dashboard-view="douyin"] .primary-controls,
+body[data-dashboard-view="douyin"] .advanced-panel,
+body[data-dashboard-view="douyin"] .section-nav-wrap,
+body[data-dashboard-view="douyin"] #hotBoardWrap,
+body[data-dashboard-view="douyin"] #top3BoardWrap,
+body[data-dashboard-view="douyin"] #newsListWrap,
+body[data-dashboard-view="douyin"] #todayProjectsWrap,
+body[data-dashboard-view="douyin"] #githubRankingsWrap,
+body[data-dashboard-view="douyin"] #authorityVoicesWrap,
+body[data-dashboard-view="douyin"] .service-status-panel,
+body[data-dashboard-view="github"] .primary-controls,
+body[data-dashboard-view="github"] .advanced-panel,
+body[data-dashboard-view="github"] .section-nav-wrap,
+body[data-dashboard-view="github"] #douyinPicksWrap,
+body[data-dashboard-view="github"] #hotBoardWrap,
+body[data-dashboard-view="github"] #top3BoardWrap,
+body[data-dashboard-view="github"] #newsListWrap,
+body[data-dashboard-view="github"] #todayProjectsWrap,
+body[data-dashboard-view="github"] #authorityVoicesWrap,
+body[data-dashboard-view="github"] .service-status-panel,
+body[data-dashboard-view="voices"] .primary-controls,
+body[data-dashboard-view="voices"] .advanced-panel,
+body[data-dashboard-view="voices"] .section-nav-wrap,
+body[data-dashboard-view="voices"] #douyinPicksWrap,
+body[data-dashboard-view="voices"] #githubRankingsWrap,
+body[data-dashboard-view="voices"] #hotBoardWrap,
+body[data-dashboard-view="voices"] #top3BoardWrap,
+body[data-dashboard-view="voices"] #newsListWrap,
+body[data-dashboard-view="voices"] #todayProjectsWrap,
+body[data-dashboard-view="voices"] .service-status-panel {
+  display: none !important;
+}
+
+@media (max-width: 760px) {
+  .dashboard-view-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding: 9px 0 1px;
+    scrollbar-width: none;
+  }
+
+  .dashboard-view-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .dashboard-view-nav a {
+    flex: 0 0 auto;
+  }
+}

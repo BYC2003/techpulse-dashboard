@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="zh-CN" data-radar-view="mobile">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TechPulse｜一手科技与 AI 情报看板</title>
+    <meta
+      name="description"
+      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+    />
+    <link rel="alternate" type="application/rss+xml" title="TechPulse" href="/data/feed.xml" />
+    <meta property="og:title" content="TechPulse｜一手科技与 AI 情报看板" />
+    <meta
+      property="og:description"
+      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="TechPulse" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="TechPulse 一手科技与 AI 情报看板" />
+    <meta name="application-name" content="TechPulse" />
+    <meta name="theme-color" content="#f6f6f2" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="TechPulse" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="TechPulse｜一手科技与 AI 情报看板" />
+    <meta
+      name="twitter:description"
+      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+    />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
+    <script src="./assets/i18n.js?v=i18n-1013a"></script>
+    <link rel="stylesheet" href="./assets/styles.css?v=home-subpages-1016a" />
+    <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
+  </head>
+  <body data-dashboard-view="news">
+    <a class="skip-link" href="#dashboardContent">跳到主要内容</a>
+    <main class="shell" id="dashboardContent">
+      <header class="hero">
+        <div class="hero-main">
+          <div class="hero-headline">
+            <img class="hero-logo" src="./assets/logo.svg" alt="TechPulse Logo" />
+            <div>
+              <h1>TechPulse</h1>
+              <div class="hero-updated hero-view-row">
+                <span class="updated-label">更新时间</span>
+                <span class="updated" id="updatedAt">加载中...</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav class="dashboard-view-nav" aria-label="TechPulse 子页面">
+          <a href="index.html">首页</a>
+          <a href="dashboard.html?view=news" data-view-link="news">今日情报</a>
+          <a href="dashboard.html?view=douyin" data-view-link="douyin">抖音选题</a>
+          <a href="dashboard.html?view=github" data-view-link="github">GitHub 热榜</a>
+          <a href="dashboard.html?view=voices" data-view-link="voices">权威观点</a>
+        </nav>
+
+        <section class="section-nav-wrap" aria-label="内容栏目">
+          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
+          <div class="section-scroll-hint" aria-hidden="true">左右滑动，查看更多栏目 →</div>
+        </section>
+      </header>
+
+      <section class="service-status-panel" id="serviceStatusPanel" aria-live="polite" hidden></section>
+
+      <section class="primary-controls">
+        <div class="mode-switch curation-mode-switch" role="group" aria-label="精选/全部/只看一手切换">
+          <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">
+            <span class="mode-btn-icon" aria-hidden="true">&#10022;</span>精选
+          </button>
+          <button id="modeAllBtn" class="mode-btn" type="button" aria-pressed="false">
+            <span class="mode-btn-icon" aria-hidden="true">&#9776;</span>全部
+          </button>
+          <button id="officialOnlyBtn" class="mode-btn official-only-btn" type="button" aria-pressed="false">
+            <span class="mode-btn-icon" aria-hidden="true">◎</span>只看一手
+          </button>
+        </div>
+        <input id="searchInput" type="search" placeholder="搜索 GitHub / 开源 / 科技 / AI / 论文" aria-label="搜索科技与 AI 情报" />
+        <div class="mode-hint" id="modeHint">精选加载中</div>
+        <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>清除筛选</button>
+      </section>
+
+      <details class="advanced-panel">
+          <summary>
+            <span>高级筛选</span>
+            <span class="advanced-hint">只看某个来源，或检查各信源采集是否正常</span>
+          </summary>
+          <div class="advanced-content">
+            <div class="advanced-controls">
+              <label class="field">
+                <span>具体来源</span>
+                <select id="siteSelect">
+                  <option value="">全部站点</option>
+                </select>
+              </label>
+            </div>
+            <div class="data-source-indicator" id="dataSourceIndicator" hidden>
+              <span id="dataSourceIndicatorText"></span>
+              <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">恢复本地</button>
+            </div>
+            <div class="source-health" id="sourceHealth">源状态加载中...</div>
+            <details class="source-detail-panel">
+              <summary>查看源状态详情</summary>
+              <div class="source-health-details" id="sourceHealthDetails"></div>
+              <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
+            </details>
+          </div>
+      </details>
+
+
+      <section class="list-wrap douyin-picks-wrap" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
+        <div class="douyin-picks-head">
+          <div class="douyin-picks-heading">
+            <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
+            <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
+            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间；事实与观点均以原文为准。</p>
+          </div>
+          <div class="douyin-picks-actions">
+            <span id="douyinPicksMeta">正在挑选...</span>
+            <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
+          </div>
+        </div>
+        <div class="douyin-picks-swipe-hint" aria-hidden="true">左右滑动查看 5 条选题 →</div>
+        <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap curated-board github-rankings-wrap" id="githubRankingsWrap" aria-labelledby="githubRankingsTitle" hidden>
+        <div class="curated-board-head">
+          <div class="curated-board-heading">
+            <span class="curated-board-eyebrow">GITHUB TRENDING · OFFICIAL SOURCE</span>
+            <h2 id="githubRankingsTitle">GitHub 周热榜 / 月热榜 TOP10</h2>
+            <p>直接读取 GitHub 官方 Trending 页面，按周期新增 Star 排序；保留仓库原文与直达链接。</p>
+          </div>
+          <div class="ranking-switch" role="group" aria-label="切换 GitHub 热榜周期">
+            <button id="githubWeeklyBtn" class="ranking-btn active" type="button" aria-pressed="true">周热榜</button>
+            <button id="githubMonthlyBtn" class="ranking-btn" type="button" aria-pressed="false">月热榜</button>
+          </div>
+        </div>
+        <div class="curated-board-meta" id="githubRankingMeta">等待 GitHub 官方数据...</div>
+        <div id="githubRankingList" class="github-ranking-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap curated-board authority-voices-wrap" id="authorityVoicesWrap" aria-labelledby="authorityVoicesTitle" hidden>
+        <div class="curated-board-head">
+          <div class="curated-board-heading">
+            <span class="curated-board-eyebrow">AI VOICES · CURATED SOURCES</span>
+            <h2 id="authorityVoicesTitle">AI 权威观点、会议与访谈</h2>
+            <p>近 90 天精选官方实验室、研究机构、会议官方与明确标注的深度访谈；不把观点当作事实结论。</p>
+          </div>
+          <span class="curated-board-meta" id="authorityVoicesMeta">等待来源数据...</span>
+        </div>
+        <div class="authority-filter-row">
+          <div class="authority-filter" role="tablist" aria-label="筛选观点类型">
+            <button class="authority-filter-btn active" type="button" data-authority-filter="all" aria-pressed="true">全部</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="viewpoint" aria-pressed="false">观点 / 研究</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="interview" aria-pressed="false">访谈</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="conference" aria-pressed="false">会议</button>
+          </div>
+          <div class="authority-trust-note"><strong>核验原则</strong><span>原文可追溯 · 观点明确标注 · 不做二次事实断言</span></div>
+        </div>
+        <div id="authorityVoicesList" class="authority-voices-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="近日要闻">
+        <div class="list-head">
+          <h2>近日要闻</h2>
+          <span id="hotBoardMeta">按热度排序</span>
+        </div>
+        <div id="hotBoardList" class="hot-board-list"></div>
+      </section>
+
+      <section class="list-wrap top3-board-wrap" id="top3BoardWrap" aria-label="今日 TOP3 · 三口味锐评" hidden>
+        <div class="list-head">
+          <h2>今日 TOP3 · 三口味锐评</h2>
+          <span id="top3BoardMeta"></span>
+        </div>
+        <div id="top3BoardList" class="top3-board-list"></div>
+      </section>
+
+      <section class="waytoagi-wrap" hidden>
+        <div class="waytoagi-head">
+          <h2>社区更新 · WaytoAGI</h2>
+          <div class="waytoagi-tools">
+            <div class="waytoagi-switch">
+              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
+              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">近7日</button>
+            </div>
+            <span id="waytoagiUpdatedAt">加载中...</span>
+          </div>
+        </div>
+        <div id="waytoagiMeta" class="waytoagi-meta"></div>
+        <div id="waytoagiList" class="waytoagi-list"></div>
+      </section>
+
+      <section class="list-wrap" id="newsListWrap">
+        <div class="list-head">
+          <h2 id="listTitle">精选</h2>
+          <div class="list-head-tools">
+            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+              <input id="allDedupeToggle" type="checkbox" checked />
+              <span class="all-dedupe-dot"></span>
+              <span id="allDedupeLabel">去重开</span>
+            </label>
+            <span id="resultCount">0 条</span>
+          </div>
+        </div>
+        <div id="newsList" class="news-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap today-projects-wrap" id="todayProjectsWrap" aria-labelledby="todayProjectsTitle">
+        <div class="list-head">
+          <h2 id="todayProjectsTitle">今日开源项目</h2>
+          <span id="todayProjectsMeta"></span>
+        </div>
+        <div id="todayProjectsList" class="today-projects-list" aria-live="polite">
+          <p class="today-projects-empty">项目推荐加载中...</p>
+        </div>
+      </section>
+
+    </main>
+
+    <template id="itemTpl">
+      <article class="news-card">
+        <div class="news-card-body">
+          <div class="meta-row">
+            <span class="curated-badge" hidden>精选</span>
+            <span class="site"></span>
+            <span class="source"></span>
+            <strong class="score-badge" hidden></strong>
+          </div>
+          <a class="title" target="_blank" rel="noopener noreferrer"></a>
+          <p class="news-summary"></p>
+          <div class="why-box" hidden>
+            <span class="why-label">推荐理由：</span>
+            <span class="why-text"></span>
+          </div>
+          <div class="persona-slot"></div>
+        </div>
+      </article>
+    </template>
+    <script src="./assets/app.js?v=home-subpages-1016a" defer></script>
+  </body>
+</html>
