@@ -1,4 +1,12 @@
 const OVERVIEW_REFRESH_MS = 5 * 60 * 1000;
+const SYNC_TOKEN_KEY = "techpulse.githubToken";
+const SYNC_LAST_RUN_KEY = "techpulse.lastSyncAt";
+const SYNC_REPO = "BYC2003/techpulse-dashboard";
+const SYNC_WORKFLOW = "update-news.yml";
+const SYNC_BRANCH = "main";
+const SYNC_POLL_INTERVAL_MS = 10 * 1000;
+const SYNC_POLL_TIMEOUT_MS = 4 * 60 * 1000;
+const SYNC_COOLDOWN_MS = 2 * 60 * 1000;
 const overviewState = {
   news: null,
   github: null,
@@ -7,6 +15,7 @@ const overviewState = {
   status: null,
   lastRefresh: 0,
   lastDataKey: "",
+  syncInProgress: false,
 };
 
 const overviewEls = {
@@ -25,6 +34,15 @@ const overviewEls = {
   wordCloudMeta: document.getElementById("wordCloudMeta"),
   wordCloudDetails: document.getElementById("wordCloudDetails"),
   latestList: document.getElementById("overviewLatestList"),
+  syncButton: document.getElementById("overviewSyncButton"),
+  syncLabel: document.getElementById("overviewSyncLabel"),
+  syncStatus: document.getElementById("overviewSyncStatus"),
+  syncConfig: document.getElementById("overviewSyncConfig"),
+  syncDialog: document.getElementById("overviewSyncDialog"),
+  syncForm: document.getElementById("overviewSyncForm"),
+  syncTokenInput: document.getElementById("overviewSyncTokenInput"),
+  syncClose: document.getElementById("overviewSyncClose"),
+  syncClear: document.getElementById("overviewSyncClear"),
 };
 
 const KEYWORD_DEFS = [
@@ -211,6 +229,181 @@ function renderWordCloudMeta(terms) {
   overviewEls.wordCloudMeta.textContent = `${items.length} 条资讯 + ${paperCount} 篇论文 · ${terms.length} 个具体热词 · ${formatOverviewTime(overviewState.news?.generated_at)} 更新`;
 }
 
+
+function syncSleep(ms) {
+  return new Promise((resolve) => window.setTimeout(resolve, ms));
+}
+
+function getSyncToken() {
+  try {
+    return localStorage.getItem(SYNC_TOKEN_KEY) || "";
+  } catch {
+    return "";
+  }
+}
+
+function saveSyncToken(token) {
+  try {
+    localStorage.setItem(SYNC_TOKEN_KEY, token);
+  } catch {
+    // Private browsing can disable storage; the in-memory token still works for this click.
+  }
+}
+
+function removeSyncToken() {
+  try {
+    localStorage.removeItem(SYNC_TOKEN_KEY);
+    localStorage.removeItem(SYNC_LAST_RUN_KEY);
+  } catch {
+    // Ignore storage failures.
+  }
+}
+
+function setSyncStatus(message, tone = "") {
+  if (!overviewEls.syncStatus) return;
+  overviewEls.syncStatus.textContent = message || "";
+  overviewEls.syncStatus.hidden = !message;
+  overviewEls.syncStatus.className = `overview-sync-status${tone ? ` is-${tone}` : ""}`;
+}
+
+function setSyncBusy(busy) {
+  if (overviewEls.syncButton) {
+    overviewEls.syncButton.disabled = busy;
+    overviewEls.syncButton.classList.toggle("is-busy", busy);
+    overviewEls.syncButton.setAttribute("aria-busy", String(busy));
+  }
+  if (overviewEls.syncLabel) overviewEls.syncLabel.textContent = busy ? "正在同步" : "立即同步";
+}
+
+function openSyncDialog() {
+  if (!overviewEls.syncDialog) return;
+  if (overviewEls.syncTokenInput) overviewEls.syncTokenInput.value = getSyncToken();
+  if (!overviewEls.syncDialog.open) overviewEls.syncDialog.showModal();
+  window.setTimeout(() => overviewEls.syncTokenInput?.focus(), 40);
+}
+
+function closeSyncDialog() {
+  if (overviewEls.syncDialog?.open) overviewEls.syncDialog.close();
+}
+
+async function waitForFreshSnapshot(previousGeneratedAt) {
+  const deadline = Date.now() + SYNC_POLL_TIMEOUT_MS;
+  while (Date.now() < deadline) {
+    await syncSleep(SYNC_POLL_INTERVAL_MS);
+    try {
+      const data = await overviewFetch("data/latest-24h.json");
+      if (data.generated_at && data.generated_at !== previousGeneratedAt) {
+        overviewState.news = data;
+        await refreshOverview();
+        setSyncStatus(`已更新到 ${formatOverviewTime(data.generated_at)}`, "success");
+        return true;
+      }
+      const elapsed = Math.max(1, Math.floor((Date.now() - (deadline - SYNC_POLL_TIMEOUT_MS)) / 1000));
+      setSyncStatus(`GitHub 正在采集，已等待 ${elapsed} 秒…`, "pending");
+    } catch {
+      setSyncStatus("更新已提交，正在等待新快照发布…", "pending");
+    }
+  }
+  setSyncStatus("更新已提交，但 4 分钟内未检测到新快照；页面稍后会自动刷新。", "warn");
+  return false;
+}
+
+async function dispatchGitHubSync() {
+  const token = getSyncToken();
+  if (!token) {
+    setSyncStatus("首次使用请先连接 GitHub", "warn");
+    openSyncDialog();
+    return;
+  }
+  if (overviewState.syncInProgress) return;
+
+  let lastRunAt = 0;
+  try {
+    lastRunAt = Number(localStorage.getItem(SYNC_LAST_RUN_KEY) || 0);
+  } catch {
+    lastRunAt = 0;
+  }
+  const remaining = SYNC_COOLDOWN_MS - (Date.now() - lastRunAt);
+  if (remaining > 0) {
+    setSyncStatus(`刚刚已提交更新，请 ${Math.ceil(remaining / 1000)} 秒后再试`, "warn");
+    return;
+  }
+
+  overviewState.syncInProgress = true;
+  setSyncBusy(true);
+  setSyncStatus("正在向 GitHub 提交更新…", "pending");
+  const previousGeneratedAt = overviewState.news?.generated_at || "";
+
+  try {
+    const response = await fetch(
+      `https://api.github.com/repos/${SYNC_REPO}/actions/workflows/${SYNC_WORKFLOW}/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          Accept: "application/vnd.github+json",
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+          "X-GitHub-Api-Version": "2022-11-28",
+        },
+        body: JSON.stringify({ ref: SYNC_BRANCH }),
+      },
+    );
+
+    if (!response.ok) {
+      if ([401, 403, 404].includes(response.status)) {
+        setSyncStatus("Token 无效或权限不足，请重新连接", "error");
+        openSyncDialog();
+      } else {
+        setSyncStatus(`GitHub 返回错误 ${response.status}，请稍后重试`, "error");
+      }
+      return;
+    }
+
+    try {
+      localStorage.setItem(SYNC_LAST_RUN_KEY, String(Date.now()));
+    } catch {
+      // Ignore storage failures.
+    }
+    setSyncStatus("更新任务已启动，正在等待最新消息…", "pending");
+    await waitForFreshSnapshot(previousGeneratedAt);
+  } catch (error) {
+    console.error("TechPulse sync failed", error);
+    setSyncStatus("无法连接 GitHub，请检查网络后重试", "error");
+  } finally {
+    overviewState.syncInProgress = false;
+    setSyncBusy(false);
+  }
+}
+
+function bindSyncControls() {
+  overviewEls.syncButton?.addEventListener("click", dispatchGitHubSync);
+  overviewEls.syncConfig?.addEventListener("click", openSyncDialog);
+  overviewEls.syncClose?.addEventListener("click", closeSyncDialog);
+  overviewEls.syncDialog?.addEventListener("click", (event) => {
+    if (event.target === overviewEls.syncDialog) closeSyncDialog();
+  });
+  overviewEls.syncForm?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const token = overviewEls.syncTokenInput?.value.trim() || "";
+    if (!token) {
+      setSyncStatus("请填写 GitHub Token", "error");
+      overviewEls.syncTokenInput?.focus();
+      return;
+    }
+    saveSyncToken(token);
+    closeSyncDialog();
+    setSyncStatus("Token 已保存在本机，开始同步…", "pending");
+    dispatchGitHubSync();
+  });
+  overviewEls.syncClear?.addEventListener("click", () => {
+    removeSyncToken();
+    if (overviewEls.syncTokenInput) overviewEls.syncTokenInput.value = "";
+    setSyncStatus("已清除本机 Token", "warn");
+  });
+  if (getSyncToken()) setSyncStatus("同步按钮已连接", "");
+  if (window.location.hash === "#sync-setup") openSyncDialog();
+}
+
 async function refreshOverview() {
   overviewState.lastRefresh = Date.now();
   const [newsResult, githubResult, voicesResult, papersResult, statusResult] = await Promise.allSettled([
@@ -233,6 +426,7 @@ async function refreshOverview() {
   renderWordCloudMeta(terms);
 }
 
+bindSyncControls();
 refreshOverview();
 window.setInterval(refreshOverview, OVERVIEW_REFRESH_MS);
 document.addEventListener("visibilitychange", () => {

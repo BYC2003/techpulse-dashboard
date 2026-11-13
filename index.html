@@ -14,8 +14,8 @@
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/home.css?v=overview-1021a" />
-    <script src="./assets/home.js?v=overview-1021a" defer></script>
+    <link rel="stylesheet" href="./assets/home.css?v=sync-1022a" />
+    <script src="./assets/home.js?v=sync-1022a" defer></script>
   </head>
   <body>
     <main class="overview-shell">
@@ -28,6 +28,12 @@
           </span>
         </a>
         <div class="overview-header-meta">
+          <button class="overview-sync-action" id="overviewSyncButton" type="button">
+            <span class="overview-sync-icon" aria-hidden="true">↻</span>
+            <span id="overviewSyncLabel">立即同步</span>
+          </button>
+          <button class="overview-sync-config" id="overviewSyncConfig" type="button" aria-label="同步设置" title="同步设置">⚙</button>
+          <span class="overview-sync-status" id="overviewSyncStatus" role="status" aria-live="polite" hidden></span>
           <span class="overview-status" id="overviewSourceStatus">来源状态加载中</span>
           <span class="overview-updated">数据更新 <strong id="overviewUpdatedAt">--</strong></span>
         </div>
@@ -144,5 +150,27 @@
         </div>
       </footer>
     </main>
+
+    <dialog class="overview-sync-dialog" id="overviewSyncDialog" aria-labelledby="overviewSyncDialogTitle">
+      <form class="overview-sync-form" id="overviewSyncForm">
+        <div class="overview-sync-dialog-head">
+          <div>
+            <p class="overview-kicker">GITHUB SYNC</p>
+            <h2 id="overviewSyncDialogTitle">连接手机同步按钮</h2>
+          </div>
+          <button class="overview-sync-dialog-close" id="overviewSyncClose" type="button" aria-label="关闭">×</button>
+        </div>
+        <p class="overview-sync-dialog-copy">首次使用需要填写一条 GitHub Fine-grained Token。它会保存在这台设备的浏览器中，仅用于触发 TechPulse 数据采集，不会写入公开代码。</p>
+        <label class="overview-sync-field">
+          <span>GitHub Fine-grained Token</span>
+          <input id="overviewSyncTokenInput" type="password" autocomplete="new-password" autocapitalize="off" spellcheck="false" placeholder="github_pat_..." />
+        </label>
+        <p class="overview-sync-hint">仓库只选择 <strong>techpulse-dashboard</strong>，权限只勾选 <strong>Actions: Read and write</strong>。<a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">创建 Token ↗</a></p>
+        <div class="overview-sync-dialog-actions">
+          <button class="overview-sync-clear" id="overviewSyncClear" type="button">清除本机 Token</button>
+          <button class="overview-sync-save" type="submit">保存并同步</button>
+        </div>
+      </form>
+    </dialog>
   </body>
 </html>
