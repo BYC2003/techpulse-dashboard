@@ -1,0 +1,55 @@
+name: TechPulse Freshness Watchdog
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Dispatch an update even when the snapshot is still fresh"
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    # Four independent chances per hour. The update itself remains hourly.
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: techpulse-freshness-watchdog
+  cancel-in-progress: false
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Check latest snapshot age
+        id: freshness
+        run: |
+          if python scripts/check_snapshot_age.py \
+            --file data/latest-24h.json \
+            --max-age-minutes 70; then
+            echo "stale=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Dispatch update when stale
+        if: ${{ inputs.force == true || steps.freshness.outputs.stale == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run update-news.yml \
+            --repo "$GITHUB_REPOSITORY" \
+            --ref main
+          echo "Dispatched Update AI News Snapshot."

@@ -135,6 +135,9 @@ jobs:
       - name: Generate RSS feed
         run: python scripts/generate_feed.py --data-dir data
 
+      - name: Verify generated snapshot freshness
+        run: python scripts/check_snapshot_age.py --file data/latest-24h.json --max-age-minutes 15
+
       - name: Commit and push changes
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
