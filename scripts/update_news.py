@@ -2356,32 +2356,63 @@ def parse_aihot_api_items(payload: dict[str, Any], now: datetime | None = None) 
 
 
 def fetch_aihot(session: requests.Session, now: datetime) -> list[RawItem]:
+    """Fetch AI HOT with the official RSS feed first.
+
+    The legacy public JSON endpoint has been retired and currently returns
+    404. Keep it only as a compatibility fallback so AI HOT does not remain a
+    permanent failed source.
+    """
+    errors: list[str] = []
+    feed_urls = (AIHOT_FEED_URL, *AIHOT_FALLBACK_FEED_URLS)
+    for feed_url in feed_urls:
+        try:
+            response = session.get(
+                feed_url,
+                timeout=30,
+                headers={
+                    "User-Agent": AIHOT_API_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "application/rss+xml,application/xml,text/xml,*/*",
+                },
+            )
+            response.raise_for_status()
+            items = parse_aihot_feed_items(response.content, now, feed_url)
+            if items:
+                return items
+            errors.append(f"{feed_url}: no valid items")
+        except Exception as exc:
+            errors.append(f"{feed_url}: {exc}")
+
     out: list[RawItem] = []
     cursor = ""
-    for _ in range(AIHOT_API_MAX_PAGES):
-        params: dict[str, Any] = {"mode": "selected", "take": AIHOT_API_TAKE}
-        if cursor:
-            params["cursor"] = cursor
-        r = session.get(
-            AIHOT_ITEMS_API_URL,
-            timeout=30,
-            params=params,
-            headers={
-                "User-Agent": AIHOT_API_UA,
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-                "Accept": "application/json",
-            },
-        )
-        r.raise_for_status()
-        payload = r.json()
-        out.extend(parse_aihot_api_items(payload, now))
-        cursor = str(payload.get("nextCursor") or "")
-        if not payload.get("hasNext") or not cursor:
-            break
-    return out
+    try:
+        for _ in range(AIHOT_API_MAX_PAGES):
+            params: dict[str, Any] = {"mode": "selected", "take": AIHOT_API_TAKE}
+            if cursor:
+                params["cursor"] = cursor
+            response = session.get(
+                AIHOT_ITEMS_API_URL,
+                timeout=30,
+                params=params,
+                headers={
+                    "User-Agent": AIHOT_API_UA,
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                    "Accept": "application/json",
+                },
+            )
+            response.raise_for_status()
+            payload = response.json()
+            out.extend(parse_aihot_api_items(payload, now))
+            cursor = str(payload.get("nextCursor") or "")
+            if not payload.get("hasNext") or not cursor:
+                break
+        if out:
+            return out
+        errors.append(f"{AIHOT_ITEMS_API_URL}: no valid items")
+    except Exception as exc:
+        errors.append(f"{AIHOT_ITEMS_API_URL}: {exc}")
 
-
-
+    raise RuntimeError("AI HOT unavailable: " + "; ".join(errors))
 
 def extract_newsnow_source_ids(js: str) -> list[str]:
     marker = "{v2ex:vL"
