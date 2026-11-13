@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:39:16.075515+00:00",
+  "generated_at": "2026-11-13T17:06:30.430095+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Tao Lin"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 89,
+        "upvotes": 88,
         "comments": 2,
-        "discussion_score": 894.83,
+        "discussion_score": 884.82,
         "summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
         "keywords": [
           "few-step sampling",
@@ -419,8 +419,8 @@
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
         "upvotes": 71,
-        "comments": 1,
-        "discussion_score": 712.87,
+        "comments": 2,
+        "discussion_score": 714.87,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -449,7 +449,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 69,
         "comments": 7,
-        "discussion_score": 704.83,
+        "discussion_score": 704.82,
         "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
         "keywords": [
           "LLM agents",
@@ -467,6 +467,28 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.12885",
+        "title": "World In-Context Learning for Agentic Robot Manipulation",
+        "authors": [
+          "Heng Fang",
+          "Zehui Guo",
+          "Yuehan Zhang",
+          "Mingyang Du",
+          "Dingkang Liang",
+          "Xiang Bai"
+        ],
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "upvotes": 56,
+        "comments": 3,
+        "discussion_score": 566.78,
+        "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. B…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.12885",
+        "arxiv_url": "https://arxiv.org/abs/2611.12885",
+        "discussion_url": "https://huggingface.co/papers/2611.12885",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.14210",
         "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
         "authors": [
@@ -474,9 +496,9 @@
           "Ammar Ali"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 66,
+        "upvotes": 45,
         "comments": 3,
-        "discussion_score": 666.83,
+        "discussion_score": 456.82,
         "summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
         "keywords": [
           "weight-space programming",
@@ -494,25 +516,25 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.12885",
-        "title": "World In-Context Learning for Agentic Robot Manipulation",
+        "id": "2611.14815",
+        "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
         "authors": [
-          "Heng Fang",
-          "Zehui Guo",
-          "Yuehan Zhang",
-          "Mingyang Du",
-          "Dingkang Liang",
-          "Xiang Bai"
+          "Junyoung Seo",
+          "Jaewoo Seo",
+          "Seungryong Kim",
+          "Laura Leal-Taixé",
+          "Xiuming Zhang",
+          "Seung Wook Kim"
         ],
-        "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 58,
-        "comments": 3,
-        "discussion_score": 586.78,
-        "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. B…",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "upvotes": 44,
+        "comments": 1,
+        "discussion_score": 442.82,
+        "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
-        "url": "https://arxiv.org/abs/2611.12885",
-        "arxiv_url": "https://arxiv.org/abs/2611.12885",
-        "discussion_url": "https://huggingface.co/papers/2611.12885",
+        "url": "https://arxiv.org/abs/2611.14815",
+        "arxiv_url": "https://arxiv.org/abs/2611.14815",
+        "discussion_url": "https://huggingface.co/papers/2611.14815",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -529,9 +551,9 @@
           "Kai Chen"
         ],
         "published_at": "2026-10-29T00:00:00+00:00",
-        "upvotes": 44,
+        "upvotes": 43,
         "comments": 3,
-        "discussion_score": 446.25,
+        "discussion_score": 436.25,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -544,60 +566,6 @@
         "url": "https://arxiv.org/abs/2610.40394",
         "arxiv_url": "https://arxiv.org/abs/2610.40394",
         "discussion_url": "https://huggingface.co/papers/2610.40394",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.14815",
-        "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-        "authors": [
-          "Junyoung Seo",
-          "Jaewoo Seo",
-          "Seungryong Kim",
-          "Laura Leal-Taixé",
-          "Xiuming Zhang",
-          "Seung Wook Kim"
-        ],
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 43,
-        "comments": 1,
-        "discussion_score": 432.83,
-        "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.14815",
-        "arxiv_url": "https://arxiv.org/abs/2611.14815",
-        "discussion_url": "https://huggingface.co/papers/2611.14815",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.13001",
-        "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
-        "authors": [
-          "Yuanrui Wang",
-          "Kaifang Li",
-          "Xuanyue Li",
-          "Ziyun Li",
-          "Yan Lu",
-          "Xingxuan Zhang",
-          "Peng Cui"
-        ],
-        "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 40,
-        "comments": 7,
-        "discussion_score": 414.73,
-        "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
-        "keywords": [
-          "tabular generation",
-          "imputation",
-          "prediction",
-          "backbones",
-          "objective combinations",
-          "frozen foundation models",
-          "synthetic-data utility",
-          "distributional fidelity"
-        ],
-        "url": "https://arxiv.org/abs/2611.13001",
-        "arxiv_url": "https://arxiv.org/abs/2611.13001",
-        "discussion_url": "https://huggingface.co/papers/2611.13001",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -614,14 +582,46 @@
           "Wenhao Yan"
         ],
         "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 39,
+        "upvotes": 40,
         "comments": 1,
-        "discussion_score": 392.73,
+        "discussion_score": 402.73,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
         "arxiv_url": "https://arxiv.org/abs/2611.13004",
         "discussion_url": "https://huggingface.co/papers/2611.13004",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.13001",
+        "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+        "authors": [
+          "Yuanrui Wang",
+          "Kaifang Li",
+          "Xuanyue Li",
+          "Ziyun Li",
+          "Yan Lu",
+          "Xingxuan Zhang",
+          "Peng Cui"
+        ],
+        "published_at": "2026-11-08T00:00:00+00:00",
+        "upvotes": 39,
+        "comments": 7,
+        "discussion_score": 404.73,
+        "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
+        "keywords": [
+          "tabular generation",
+          "imputation",
+          "prediction",
+          "backbones",
+          "objective combinations",
+          "frozen foundation models",
+          "synthetic-data utility",
+          "distributional fidelity"
+        ],
+        "url": "https://arxiv.org/abs/2611.13001",
+        "arxiv_url": "https://arxiv.org/abs/2611.13001",
+        "discussion_url": "https://huggingface.co/papers/2611.13001",
         "source": "Hugging Face Daily Papers"
       },
       {

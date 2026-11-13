@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 15:37:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 17:05:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
+<link>https://huggingface.co/blog/allenai/xybench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+</item>
+<item>
+<title>Introducing ChatGPT Wallet</title>
+<link>https://openai.com/index/introducing-chatgpt-wallet</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -32,20 +40,20 @@
 <pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
-<title>构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
+<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
+<item>
+<title>Build once, run on any agent: A practical guide to agent skills</title>
 <link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
-</item>
-<item>
-<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/business/customer-stories/amplitude</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
@@ -64,12 +72,20 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
-<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<title>ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买</title>
+<link>https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq</link>
+<guid isPermaLink="true">https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq</guid>
+<description>ChatGPT</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 16:44:49 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明</title>
+<link>https://aihot.news/items/vsfne926njom5wnadceo8r04m</link>
+<guid isPermaLink="true">https://aihot.news/items/vsfne926njom5wnadceo8r04m</guid>
+<description>Anthropic</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 16:00:50 +0000</pubDate>
 </item>
 <item>
 <title>llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本</title>
@@ -88,6 +104,14 @@
 <pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
 </item>
 <item>
+<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Actions for ARM32 Linux &amp; Windows retirement</title>
 <link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
@@ -96,12 +120,12 @@
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
-<title>Gondola doubles revenue as its team builds more with Codex</title>
-<link>https://openai.com/business/customer-stories/gondola</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
+<link>https://www.aibase.com/news/32320</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32320</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 17:05:25 +0000</pubDate>
 </item>
 <item>
 <title>AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO</title>
@@ -120,14 +144,6 @@
 <pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 15:37:57 +0000</pubDate>
-</item>
-<item>
 <title>Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归</title>
 <link>https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w</link>
 <guid isPermaLink="true">https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w</guid>
@@ -136,36 +152,20 @@
 <pubDate>Fri, 13 Nov 2026 06:56:56 +0000</pubDate>
 </item>
 <item>
+<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
 <title>黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末</title>
 <link>https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</link>
 <guid isPermaLink="true">https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</guid>
 <description>公众号：数字生命卡兹克</description>
 <category>行业动态</category>
 <pubDate>Thu, 12 Nov 2026 23:56:00 +0000</pubDate>
-</item>
-<item>
-<title>Google 智能眼镜开放预购，12 月 10 日发货</title>
-<link>https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j</link>
-<guid isPermaLink="true">https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j</guid>
-<description>Josh Woodward</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 21:23:12 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen 今日起向全球所有用户推送</title>
-<link>https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4</link>
-<guid isPermaLink="true">https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4</guid>
-<description>Gemini</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 20:50:50 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%</title>
-<link>https://aihot.news/items/mt013742fhedisepp2i31h1r4</link>
-<guid isPermaLink="true">https://aihot.news/items/mt013742fhedisepp2i31h1r4</guid>
-<description>Matt Palmer</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 18:22:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
