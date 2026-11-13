@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:20:04.209262Z",
+  "generated_at": "2026-11-13T14:55:18.361038Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T14:18:49.744222Z"
+      "observed_at": "2026-11-13T14:54:32.635339Z"
     },
     {
-      "id": "project_69d97e83d7af",
-      "project_name": "Trainn MCP",
-      "url": "https://www.producthunt.com/products/trainn",
-      "summary": "Create product videos and courses from any AI chat",
+      "id": "project_7ae8ceaacce8",
+      "project_name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Create product videos and courses from any AI chat」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Create product videos and courses from any AI chat\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T05:01:59Z",
-      "updated_at": "2026-11-13T14:17:22Z",
+      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T02:06:54Z",
+      "updated_at": "2026-11-13T14:53:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T14:19:43.657191Z"
+      "observed_at": "2026-11-13T14:55:06.724811Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T14:18:49.744222Z"
+      "observed_at": "2026-11-13T14:54:32.635339Z"
     },
     {
-      "id": "project_7ae8ceaacce8",
-      "project_name": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
+      "id": "project_b6c09a86566b",
+      "project_name": "Burnstate",
+      "url": "https://www.producthunt.com/products/burnstate",
+      "summary": "Claude Code, Codex & Cursor limits, paced in your menu bar",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T02:06:54Z",
-      "updated_at": "2026-11-13T14:18:22Z",
+      "recommend_reason_zh": "体验它主打的「Claude Code, Codex & Cursor limits, paced in your menu bar」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Claude Code, Codex & Cursor limits, paced in your menu bar\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T09:15:58Z",
+      "updated_at": "2026-11-13T14:49:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T14:19:43.657191Z"
+      "observed_at": "2026-11-13T14:55:06.724811Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1607,
+      "duration_ms": 1248,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 92,
+      "duration_ms": 113,
       "error": null
     }
   ]

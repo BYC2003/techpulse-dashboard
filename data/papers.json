@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:20:23.434106+00:00",
+  "generated_at": "2026-11-13T14:55:35.604126+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Tao Lin"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 88,
+        "upvotes": 89,
         "comments": 2,
-        "discussion_score": 884.83,
+        "discussion_score": 894.83,
         "summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
         "keywords": [
           "few-step sampling",
@@ -474,9 +474,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 61,
+        "upvotes": 64,
         "comments": 1,
-        "discussion_score": 612.88,
+        "discussion_score": 642.88,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -529,9 +529,9 @@
           "Kai Chen"
         ],
         "published_at": "2026-10-29T00:00:00+00:00",
-        "upvotes": 43,
+        "upvotes": 44,
         "comments": 3,
-        "discussion_score": 436.26,
+        "discussion_score": 446.26,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -638,9 +638,9 @@
           "Yuetai Li"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 37,
+        "upvotes": 38,
         "comments": 9,
-        "discussion_score": 388.78,
+        "discussion_score": 398.78,
         "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.11995",
