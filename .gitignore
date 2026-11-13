@@ -1,0 +1,45 @@
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cert
+*token*
+*cookie*
+cookies.json
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private source inputs
+feeds/follow.opml
+feeds/*.private.opml
+feeds/private*.opml
+
+# Optional private/generated digests
+data/email-digest.json
+
+# Local OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+.gstack/
+
+# TechPulse: generated caches and dev-only payloads
+data/title-zh-cache.json
+data/en-cache.json
+data/persona-cache.json
+data/latest-24h-all-raw.json
+data/archive.json
+data/feed-en.xml
+data/top3-personas.json
+data/merge-log.json
+data/service-status.json
+data/paid-source-state.json
