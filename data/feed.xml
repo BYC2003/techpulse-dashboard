@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 20:28:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:57:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -24,14 +24,6 @@
 <pubDate>Fri, 13 Nov 2026 18:23:48 +0000</pubDate>
 </item>
 <item>
-<title>Introducing ChatGPT Wallet</title>
-<link>https://openai.com/index/introducing-chatgpt-wallet</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Codex CLI 0.168.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
@@ -40,20 +32,28 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Introducing ChatGPT Wallet</title>
+<link>https://openai.com/index/introducing-chatgpt-wallet</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December</title>
+<link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 20:40:05 +0000</pubDate>
+</item>
+<item>
 <title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
 <link>https://huggingface.co/blog/allenai/xybench</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
 <title>Build once, run on any agent: A practical guide to agent skills</title>
@@ -80,6 +80,30 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
+<title>Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意</title>
+<link>https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n</link>
+<guid isPermaLink="true">https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n</guid>
+<description>Rohan Paul</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 23:39:27 +0000</pubDate>
+</item>
+<item>
+<title>Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧</title>
+<link>https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj</link>
+<guid isPermaLink="true">https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
+</item>
+<item>
 <title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
 <link>https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</link>
 <guid isPermaLink="true">https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</guid>
@@ -88,20 +112,20 @@
 <pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
 </item>
 <item>
+<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
+<item>
 <title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
 <link>https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</link>
 <guid isPermaLink="true">https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</guid>
 <description>The Decoder：AI News</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
-</item>
-<item>
-<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
@@ -118,14 +142,6 @@
 <description>Lydia Hallie</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 18:43:37 +0000</pubDate>
-</item>
-<item>
-<title>研究称中国最强 AI 模型由被禁运的 Nvidia Blackwell 芯片训练</title>
-<link>https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei</link>
-<guid isPermaLink="true">https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
 </item>
 <item>
 <title>Sierra 发布 Personal Agent Protocol（Poppy）v1.0</title>
@@ -150,22 +166,6 @@
 <description>Anthropic</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 16:00:50 +0000</pubDate>
-</item>
-<item>
-<title>llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本</title>
-<link>https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x</link>
-<guid isPermaLink="true">https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x</guid>
-<description>Clément Delangue</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 15:13:14 +0000</pubDate>
-</item>
-<item>
-<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/business/customer-stories/amplitude</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
