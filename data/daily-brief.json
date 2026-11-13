@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:24:56.150904Z",
+  "generated_at": "2026-11-13T10:45:28.946415Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -84,15 +84,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8659,
-      "importance": 0.8659,
-      "importance_score": 0.8659,
+      "score": 0.8651,
+      "importance": 0.8651,
+      "importance_score": 0.8651,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8604,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "official",
@@ -166,15 +166,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8019,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.847,
+        "recency": 0.8428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,15 +328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8121,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "official",
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.789,
+        "recency": 0.7851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -490,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7891,
+        "recency": 0.7852,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8238,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -601,6 +601,166 @@
         "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_71f11a88c260",
+      "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+      "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+      "primary_url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+      "source": "Latent Space",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48397f499b4d5ccbafc01d807730950339808b41",
+          "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "title_zh": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "title_en": null,
+          "title_original": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+          "source": "Latent Space",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T09:04:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space"
+      ],
+      "items": [
+        {
+          "id": "48397f499b4d5ccbafc01d807730950339808b41",
+          "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "title_zh": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "title_en": null,
+          "title_original": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+          "source": "Latent Space",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T09:04:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T09:04:13Z",
+      "latest_at": "2026-11-13T09:04:13Z",
+      "primary_item": {
+        "id": "48397f499b4d5ccbafc01d807730950339808b41",
+        "title": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+        "title_zh": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+        "title_en": null,
+        "title_original": "AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
+        "source": "Latent Space",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9e03cf5b6acb",
+      "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+      "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+      "primary_url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fda8d92df396e88f1f25df4858688daba40c484f",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "title_zh": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "title_en": null,
+          "title_original": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T08:32:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "fda8d92df396e88f1f25df4858688daba40c484f",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "title_zh": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "title_en": null,
+          "title_original": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T08:32:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:32:39Z",
+      "latest_at": "2026-11-13T08:32:39Z",
+      "primary_item": {
+        "id": "fda8d92df396e88f1f25df4858688daba40c484f",
+        "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+        "title_zh": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+        "title_en": null,
+        "title_original": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -652,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7235,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,6 +842,86 @@
         "url": "https://openai.com/business/customer-stories/gondola",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c6e5377658cf",
+      "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+      "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+      "primary_url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c05503dceb7d79db765edc848854f19461c9406",
+          "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "title_zh": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "title_en": null,
+          "title_original": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T06:56:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "6c05503dceb7d79db765edc848854f19461c9406",
+          "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "title_zh": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "title_en": null,
+          "title_original": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T06:56:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9465,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T06:56:56Z",
+      "latest_at": "2026-11-13T06:56:56Z",
+      "primary_item": {
+        "id": "6c05503dceb7d79db765edc848854f19461c9406",
+        "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+        "title_zh": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+        "title_en": null,
+        "title_original": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -733,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7516,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -785,7 +1025,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "published_at": "2026-11-13T10:45:28.946415Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -807,7 +1047,7 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "published_at": "2026-11-13T10:45:28.946415Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -830,8 +1070,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T10:24:56.150904Z",
-      "latest_at": "2026-11-13T10:24:56.150904Z",
+      "earliest_at": "2026-11-13T10:45:28.946415Z",
+      "latest_at": "2026-11-13T10:45:28.946415Z",
       "primary_item": {
         "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
         "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
@@ -843,6 +1083,86 @@
         "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fbdb943fe6e9",
+      "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+      "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+      "primary_url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf1f61b33afaae1c2320520f05824c8e6667ac33",
+          "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "title_zh": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "title_en": null,
+          "title_original": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "bf1f61b33afaae1c2320520f05824c8e6667ac33",
+          "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "title_zh": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "title_en": null,
+          "title_original": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8553,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T23:56:00Z",
+      "latest_at": "2026-11-12T23:56:00Z",
+      "primary_item": {
+        "id": "bf1f61b33afaae1c2320520f05824c8e6667ac33",
+        "title": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+        "title_zh": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+        "title_en": null,
+        "title_original": "黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -894,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6084,
+        "recency": 0.6054,
         "story_heat": 0.0
       },
       "category": "official",
@@ -927,306 +1247,63 @@
       }
     },
     {
-      "story_id": "story_8d6545f9d797",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1ceb61a18445",
+      "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
+      "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+      "primary_url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "title_zh": null,
-          "title_en": "Holiday Extras is rethinking what it can build with Codex",
-          "title_original": "Holiday Extras is rethinking what it can build with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "title_zh": null,
-          "title_en": "Holiday Extras is rethinking what it can build with Codex",
-          "title_original": "Holiday Extras is rethinking what it can build with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6978,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T09:30:00Z",
-      "latest_at": "2026-11-12T09:30:00Z",
-      "primary_item": {
-        "id": "56ac938b70352617ddc35b273b898745281efb48",
-        "title": "Holiday Extras is rethinking what it can build with Codex",
-        "title_zh": null,
-        "title_en": "Holiday Extras is rethinking what it can build with Codex",
-        "title_original": "Holiday Extras is rethinking what it can build with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7cdb17a331c3",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5579,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T18:00:00Z",
-      "latest_at": "2026-11-11T18:00:00Z",
-      "primary_item": {
-        "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "title_zh": null,
-        "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e2fb48833ce4",
-      "title": "Public monitoring alerts now have direct links",
-      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "primary_url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "Public monitoring alerts now have direct links",
-          "title_zh": null,
-          "title_en": "Public monitoring alerts now have direct links",
-          "title_original": "Public monitoring alerts now have direct links",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "Public monitoring alerts now have direct links",
-          "title_zh": null,
-          "title_en": "Public monitoring alerts now have direct links",
-          "title_original": "Public monitoring alerts now have direct links",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7514,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T14:37:38Z",
-      "latest_at": "2026-11-12T14:37:38Z",
-      "primary_item": {
-        "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-        "title": "Public monitoring alerts now have direct links",
-        "title_zh": null,
-        "title_en": "Public monitoring alerts now have direct links",
-        "title_original": "Public monitoring alerts now have direct links",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2a6b152b8296",
-      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-      "url": "https://www.aibase.com/news/32315",
-      "primary_url": "https://www.aibase.com/news/32315",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
+          "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
+          "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
           "title_en": null,
-          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32315",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T22:42:51Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "TechCrunch：AI"
       ],
       "items": [
         {
-          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
+          "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
+          "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
           "title_en": null,
-          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32315",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T22:42:51Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,160 +1311,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T10:24:56.150904Z",
-      "latest_at": "2026-11-13T10:24:56.150904Z",
+      "earliest_at": "2026-11-12T22:42:51Z",
+      "latest_at": "2026-11-12T22:42:51Z",
       "primary_item": {
-        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
+        "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
+        "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
         "title_en": null,
-        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32315",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1a16cc65282e",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dd9203a8fbbf",
+      "title": "Google 智能眼镜开放预购，12 月 10 日发货",
+      "url": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j",
+      "primary_url": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j",
+      "source": "Josh Woodward",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": null,
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "id": "3751e654b4bf3915a04246d818322a5ac4ba2abc",
+          "title": "Google 智能眼镜开放预购，12 月 10 日发货",
+          "title_zh": "Google 智能眼镜开放预购，12 月 10 日发货",
+          "title_en": null,
+          "title_original": "Google 智能眼镜开放预购，12 月 10 日发货",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z",
+          "url": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j",
+          "source": "Josh Woodward",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T21:23:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Josh Woodward"
       ],
       "items": [
         {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": null,
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "id": "3751e654b4bf3915a04246d818322a5ac4ba2abc",
+          "title": "Google 智能眼镜开放预购，12 月 10 日发货",
+          "title_zh": "Google 智能眼镜开放预购，12 月 10 日发货",
+          "title_en": null,
+          "title_original": "Google 智能眼镜开放预购，12 月 10 日发货",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z",
+          "url": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j",
+          "source": "Josh Woodward",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T21:23:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5343,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T15:00:15Z",
-      "latest_at": "2026-11-11T15:00:15Z",
-      "primary_item": {
-        "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_zh": null,
-        "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a650fbc5cf5d",
-      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-      "url": "https://www.aibase.com/news/32307",
-      "primary_url": "https://www.aibase.com/news/32307",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8244,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1395,241 +1391,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T10:24:56.150904Z",
-      "latest_at": "2026-11-13T10:24:56.150904Z",
+      "earliest_at": "2026-11-12T21:23:12Z",
+      "latest_at": "2026-11-12T21:23:12Z",
       "primary_item": {
-        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "id": "3751e654b4bf3915a04246d818322a5ac4ba2abc",
+        "title": "Google 智能眼镜开放预购，12 月 10 日发货",
+        "title_zh": "Google 智能眼镜开放预购，12 月 10 日发货",
         "title_en": null,
-        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_original": "Google 智能眼镜开放预购，12 月 10 日发货",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32307",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j",
+        "source": "Josh Woodward",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c58cc76086ab",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f8f47aa22169",
+      "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+      "url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+      "primary_url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+      "source": "Gemini",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": null,
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": null,
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.542,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T16:00:00Z",
-      "latest_at": "2026-11-11T16:00:00Z",
-      "primary_item": {
-        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_zh": null,
-        "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8f1b2af00c00",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6084,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_zh": null,
-        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0946096a5431",
-      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-      "url": "https://www.aibase.com/news/32317",
-      "primary_url": "https://www.aibase.com/news/32317",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "id": "66758447776b1237c526254f252f5f12c76e4422",
+          "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+          "title_zh": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
           "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_original": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+          "source": "Gemini",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T20:50:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Gemini"
       ],
       "items": [
         {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "id": "66758447776b1237c526254f252f5f12c76e4422",
+          "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+          "title_zh": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
           "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_original": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T10:24:56.150904Z",
+          "url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+          "source": "Gemini",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T20:50:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,19 +1471,177 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T10:24:56.150904Z",
-      "latest_at": "2026-11-13T10:24:56.150904Z",
+      "earliest_at": "2026-11-12T20:50:50Z",
+      "latest_at": "2026-11-12T20:50:50Z",
       "primary_item": {
-        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "id": "66758447776b1237c526254f252f5f12c76e4422",
+        "title": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+        "title_zh": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
         "title_en": null,
-        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_original": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32317",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+        "source": "Gemini",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d994246f3a5d",
+      "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+      "url": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+      "primary_url": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+      "source": "Matt Palmer",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "665235eae29e9466dee0aea2eb78567590c1204c",
+          "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "title_zh": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "title_en": null,
+          "title_original": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+          "source": "Matt Palmer",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T18:22:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Matt Palmer"
+      ],
+      "items": [
+        {
+          "id": "665235eae29e9466dee0aea2eb78567590c1204c",
+          "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "title_zh": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "title_en": null,
+          "title_original": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+          "source": "Matt Palmer",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T18:22:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-12T18:22:08Z",
+      "latest_at": "2026-11-12T18:22:08Z",
+      "primary_item": {
+        "id": "665235eae29e9466dee0aea2eb78567590c1204c",
+        "title": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+        "title_zh": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+        "title_en": null,
+        "title_original": "Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/mt013742fhedisepp2i31h1r4",
+        "source": "Matt Palmer",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4b14ba1d563c",
+      "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+      "url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+      "primary_url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+      "source": "Fei-Fei Li",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ed28f05b898f9676991faa0a5a1c941b2c311f6d",
+          "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "title_zh": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "title_en": null,
+          "title_original": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+          "source": "Fei-Fei Li",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T18:11:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Fei-Fei Li"
+      ],
+      "items": [
+        {
+          "id": "ed28f05b898f9676991faa0a5a1c941b2c311f6d",
+          "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "title_zh": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "title_en": null,
+          "title_original": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+          "source": "Fei-Fei Li",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-12T18:11:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-12T18:11:14Z",
+      "latest_at": "2026-11-12T18:11:14Z",
+      "primary_item": {
+        "id": "ed28f05b898f9676991faa0a5a1c941b2c311f6d",
+        "title": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+        "title_zh": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+        "title_en": null,
+        "title_original": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+        "source": "Fei-Fei Li",
+        "source_name": "AI HOT"
       }
     }
   ]

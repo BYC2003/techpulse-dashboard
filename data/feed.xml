@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 10:24:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 10:45:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -64,12 +64,36 @@
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
+<title>AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO</title>
+<link>https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo</link>
+<guid isPermaLink="true">https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo</guid>
+<description>Latent Space</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力</title>
+<link>https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</link>
+<guid isPermaLink="true">https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k</guid>
+<description>公众号：腾讯混元</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
+</item>
+<item>
 <title>Gondola doubles revenue as its team builds more with Codex</title>
 <link>https://openai.com/business/customer-stories/gondola</link>
 <guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归</title>
+<link>https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w</link>
+<guid isPermaLink="true">https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w</guid>
+<description>Rohan Paul</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 06:56:56 +0000</pubDate>
 </item>
 <item>
 <title>Secret scanning detects Cloudflare service tokens</title>
@@ -85,7 +109,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 10:24:56 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 10:45:28 +0000</pubDate>
+</item>
+<item>
+<title>黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末</title>
+<link>https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</link>
+<guid isPermaLink="true">https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
 <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
@@ -96,76 +128,44 @@
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Holiday Extras is rethinking what it can build with Codex</title>
-<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Public monitoring alerts now have direct links</title>
-<link>https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
-<description>AIbase</description>
+<title>民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排</title>
+<link>https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4</link>
+<guid isPermaLink="true">https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4</guid>
+<description>TechCrunch：AI</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 10:24:56 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
 </item>
 <item>
-<title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
-<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</link>
-<guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
-<link>https://www.aibase.com/news/32307</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
-<description>AIbase</description>
+<title>Google 智能眼镜开放预购，12 月 10 日发货</title>
+<link>https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j</link>
+<guid isPermaLink="true">https://aihot.news/items/hjhcsj440ym8b7ynttcx4433j</guid>
+<description>Josh Woodward</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 10:24:56 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 21:23:12 +0000</pubDate>
 </item>
 <item>
-<title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gilbert + Tobin rethinks the business of law with AI</title>
-<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-<guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
-<link>https://www.aibase.com/news/32317</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
-<description>AIbase</description>
+<title>Gemini 4 Hydrogen 今日起向全球所有用户推送</title>
+<link>https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4</link>
+<guid isPermaLink="true">https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4</guid>
+<description>Gemini</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 10:24:56 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 20:50:50 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%</title>
+<link>https://aihot.news/items/mt013742fhedisepp2i31h1r4</link>
+<guid isPermaLink="true">https://aihot.news/items/mt013742fhedisepp2i31h1r4</guid>
+<description>Matt Palmer</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 18:22:08 +0000</pubDate>
+</item>
+<item>
+<title>World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats</title>
+<link>https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm</link>
+<guid isPermaLink="true">https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm</guid>
+<description>Fei-Fei Li</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 18:11:14 +0000</pubDate>
 </item>
 </channel>
 </rss>

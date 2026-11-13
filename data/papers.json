@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:26:21.579376+00:00",
+  "generated_at": "2026-11-13T10:46:48.507356+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -501,7 +501,7 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "upvotes": 43,
         "comments": 3,
-        "discussion_score": 436.27,
+        "discussion_score": 436.26,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
