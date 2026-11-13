@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 05:34:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 08:04:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -40,7 +40,7 @@
 <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+<title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
 <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
 <description>Google AI Blog</description>
@@ -80,12 +80,12 @@
 <pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型</title>
-<link>https://www.aibase.com/news/32296</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32296</guid>
+<title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
+<link>https://www.aibase.com/news/32309</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 08:04:31 +0000</pubDate>
 </item>
 <item>
 <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
@@ -120,12 +120,12 @@
 <pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic推出Claude Meetings，可加入Google Meet参与会议</title>
-<link>https://www.aibase.com/news/32295</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32295</guid>
+<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
+<link>https://www.aibase.com/news/32315</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 08:04:31 +0000</pubDate>
 </item>
 <item>
 <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
@@ -136,20 +136,20 @@
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
+<link>https://www.aibase.com/news/32307</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 08:04:31 +0000</pubDate>
+</item>
+<item>
 <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
-<link>https://www.aibase.com/news/32297</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
 </item>
 <item>
 <title>Gilbert + Tobin rethinks the business of law with AI</title>
@@ -160,12 +160,12 @@
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Issue types and fields are available for personal accounts</title>
-<link>https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 17:16:46 +0000</pubDate>
+<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
+<link>https://www.aibase.com/news/32297</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 08:04:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
