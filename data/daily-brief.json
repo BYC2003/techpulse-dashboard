@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-11-13T12:56:43.093466Z",
+  "generated_at": "2026-11-13T14:18:49.744222Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8594,
+      "importance": 0.8594,
+      "importance_score": 0.8594,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_c0e4bca0c953",
       "title": "Codex CLI 0.168.0",
@@ -84,15 +165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8603,
-      "importance": 0.8603,
-      "importance_score": 0.8603,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8295,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "official",
@@ -166,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9918,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,87 +276,6 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b9fa2a337927",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": null,
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": null,
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7731,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T19:07:35Z",
-      "latest_at": "2026-11-12T19:07:35Z",
-      "primary_item": {
-        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_zh": null,
-        "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -328,15 +328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8166,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
     },
     {
       "story_id": "story_58db6e6cc441",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
       "primary_url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI News",
@@ -370,8 +370,8 @@
       "sources": [
         {
           "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": null,
           "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
@@ -392,8 +392,8 @@
       "items": [
         {
           "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": null,
           "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7829,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,95 +430,14 @@
       "latest_at": "2026-11-12T20:00:00Z",
       "primary_item": {
         "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "title_zh": null,
         "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://openai.com/business/customer-stories/amplitude",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7607,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -571,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7608,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -604,8 +523,250 @@
       }
     },
     {
+      "story_id": "story_6df6ce89b479",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7458,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:00Z",
+      "latest_at": "2026-11-12T18:00:00Z",
+      "primary_item": {
+        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_zh": null,
+        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b9fa2a337927",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_zh": null,
+          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_zh": null,
+          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.758,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T19:07:35Z",
+      "latest_at": "2026-11-12T19:07:35Z",
+      "primary_item": {
+        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "title_zh": null,
+        "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_062ff92b186e",
+      "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+      "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+      "primary_url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc57a6af0c9a6d1d2d256bb5453c8ec0c47ad494",
+          "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "title_zh": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "title_en": null,
+          "title_original": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T12:52:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "dc57a6af0c9a6d1d2d256bb5453c8ec0c47ad494",
+          "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "title_zh": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "title_en": null,
+          "title_original": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-13T12:52:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9794,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T12:52:19Z",
+      "latest_at": "2026-11-13T12:52:19Z",
+      "primary_item": {
+        "id": "dc57a6af0c9a6d1d2d256bb5453c8ec0c47ad494",
+        "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "title_zh": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "title_en": null,
+        "title_original": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_60a6f4a929d8",
-      "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
+      "title": "Actions for ARM32 Linux & Windows retirement",
       "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
       "primary_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
       "source": "GitHub Changelog",
@@ -613,8 +774,8 @@
       "sources": [
         {
           "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+          "title": "Actions for ARM32 Linux & Windows retirement",
+          "title_zh": null,
           "title_en": "Actions for ARM32 Linux & Windows retirement",
           "title_original": "Actions for ARM32 Linux & Windows retirement",
           "summary": null,
@@ -635,8 +796,8 @@
       "items": [
         {
           "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+          "title": "Actions for ARM32 Linux & Windows retirement",
+          "title_zh": null,
           "title_en": "Actions for ARM32 Linux & Windows retirement",
           "title_original": "Actions for ARM32 Linux & Windows retirement",
           "summary": null,
@@ -652,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7943,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,14 +834,95 @@
       "latest_at": "2026-11-12T20:59:36Z",
       "primary_item": {
         "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-        "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-        "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+        "title": "Actions for ARM32 Linux & Windows retirement",
+        "title_zh": null,
         "title_en": "Actions for ARM32 Linux & Windows retirement",
         "title_original": "Actions for ARM32 Linux & Windows retirement",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6759601e393f",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "primary_url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "title_zh": null,
+          "title_en": "Gondola doubles revenue as its team builds more with Codex",
+          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "title_zh": null,
+          "title_en": "Gondola doubles revenue as its team builds more with Codex",
+          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6839,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T12:00:00Z",
+      "latest_at": "2026-11-12T12:00:00Z",
+      "primary_item": {
+        "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "title_zh": null,
+        "title_en": "Gondola doubles revenue as its team builds more with Codex",
+        "title_original": "Gondola doubles revenue as its team builds more with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/gondola",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -733,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9456,
+        "recency": 0.9271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,87 +1004,6 @@
         "url": "https://aihot.news/items/se0y4v3gihr6s0jmrc5vuv1zo",
         "source": "Latent Space",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6759601e393f",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "primary_url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "title_zh": null,
-          "title_en": "Gondola doubles revenue as its team builds more with Codex",
-          "title_original": "Gondola doubles revenue as its team builds more with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "title_zh": null,
-          "title_en": "Gondola doubles revenue as its team builds more with Codex",
-          "title_original": "Gondola doubles revenue as its team builds more with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6975,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T12:00:00Z",
-      "latest_at": "2026-11-12T12:00:00Z",
-      "primary_item": {
-        "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-        "title": "Gondola doubles revenue as its team builds more with Codex",
-        "title_zh": null,
-        "title_en": "Gondola doubles revenue as its team builds more with Codex",
-        "title_original": "Gondola doubles revenue as its team builds more with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -894,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -923,6 +1084,86 @@
         "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
         "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1251a421a37f",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_en": null,
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T14:18:49.744222Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_en": null,
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T14:18:49.744222Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:18:49.744222Z",
+      "latest_at": "2026-11-13T14:18:49.744222Z",
+      "primary_item": {
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_en": null,
+        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32309",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -974,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9171,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1003,167 +1244,6 @@
         "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
         "source": "Rohan Paul",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1251a421a37f",
-      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-      "url": "https://www.aibase.com/news/32309",
-      "primary_url": "https://www.aibase.com/news/32309",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T12:56:43.093466Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T12:56:43.093466Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T12:56:43.093466Z",
-      "latest_at": "2026-11-13T12:56:43.093466Z",
-      "primary_item": {
-        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "title_en": null,
-        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32309",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2550ffde8017",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "primary_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": null,
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": null,
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5865,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_zh": null,
-        "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/3d-lora-finetuning",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1215,15 +1295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,86 +1323,6 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/t86m3q7vdlqmvm2zmx91vps5a",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1ceb61a18445",
-      "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-      "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-      "primary_url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
-          "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "title_en": null,
-          "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-12T22:42:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
-          "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "title_en": null,
-          "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-12T22:42:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8142,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T22:42:51Z",
-      "latest_at": "2026-11-12T22:42:51Z",
-      "primary_item": {
-        "id": "3c3cad514321abd44a0456230fad709a86d63dfe",
-        "title": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-        "title_zh": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-        "title_en": null,
-        "title_original": "民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/cfh0nazzl7eedgttz8n99fza4",
-        "source": "TechCrunch：AI",
         "source_name": "AI HOT"
       }
     },
@@ -1375,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1454,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7926,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1533,15 +1533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7647,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1612,15 +1612,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "industry",

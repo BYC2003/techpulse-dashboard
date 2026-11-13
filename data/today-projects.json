@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:57:58.123106Z",
+  "generated_at": "2026-11-13T14:20:04.209262Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T12:56:43.093466Z"
+      "observed_at": "2026-11-13T14:18:49.744222Z"
     },
     {
       "id": "project_69d97e83d7af",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Create product videos and courses from any AI chat」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Create product videos and courses from any AI chat\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-12T05:01:59Z",
-      "updated_at": "2026-11-13T12:55:00Z",
+      "updated_at": "2026-11-13T14:17:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T12:57:44.561442Z"
+      "observed_at": "2026-11-13T14:19:43.657191Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T12:56:43.093466Z"
+      "observed_at": "2026-11-13T14:18:49.744222Z"
     },
     {
-      "id": "project_de28bd093fa9",
-      "project_name": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
+      "id": "project_7ae8ceaacce8",
+      "project_name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Spike alerts for your keywords in Telegram, Claude, ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Spike alerts for your keywords in Telegram, Claude, ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T18:54:12Z",
-      "updated_at": "2026-11-13T12:46:00Z",
+      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T02:06:54Z",
+      "updated_at": "2026-11-13T14:18:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T12:57:44.561442Z"
+      "observed_at": "2026-11-13T14:19:43.657191Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1454,
+      "duration_ms": 1607,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 84,
+      "duration_ms": 92,
       "error": null
     }
   ]

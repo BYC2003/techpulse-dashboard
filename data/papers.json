@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:58:21.135095+00:00",
+  "generated_at": "2026-11-13T14:20:23.434106+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -464,6 +464,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.15777",
+        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+        "authors": [
+          "Lichen Li",
+          "Ziping Dong",
+          "Sicheng Feng",
+          "Qi Li",
+          "Xinchao Wang"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 61,
+        "comments": 1,
+        "discussion_score": 612.88,
+        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+        "keywords": [
+          "System One models",
+          "token generation",
+          "SO-Arena",
+          "capability spectrum",
+          "decision reliability",
+          "evidence-grounded evaluation",
+          "manual verification",
+          "reference labels"
+        ],
+        "url": "https://arxiv.org/abs/2611.15777",
+        "arxiv_url": "https://arxiv.org/abs/2611.15777",
+        "discussion_url": "https://huggingface.co/papers/2611.15777",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.12885",
         "title": "World In-Context Learning for Agentic Robot Manipulation",
         "authors": [
@@ -483,36 +513,6 @@
         "url": "https://arxiv.org/abs/2611.12885",
         "arxiv_url": "https://arxiv.org/abs/2611.12885",
         "discussion_url": "https://huggingface.co/papers/2611.12885",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.15777",
-        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
-        "authors": [
-          "Lichen Li",
-          "Ziping Dong",
-          "Sicheng Feng",
-          "Qi Li",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 56,
-        "comments": 1,
-        "discussion_score": 562.88,
-        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
-        "keywords": [
-          "System One models",
-          "token generation",
-          "SO-Arena",
-          "capability spectrum",
-          "decision reliability",
-          "evidence-grounded evaluation",
-          "manual verification",
-          "reference labels"
-        ],
-        "url": "https://arxiv.org/abs/2611.15777",
-        "arxiv_url": "https://arxiv.org/abs/2611.15777",
-        "discussion_url": "https://huggingface.co/papers/2611.15777",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -558,9 +558,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 1,
-        "discussion_score": 412.83,
+        "discussion_score": 422.83,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -583,7 +583,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 40,
         "comments": 7,
-        "discussion_score": 414.74,
+        "discussion_score": 414.73,
         "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
         "keywords": [
           "tabular generation",
@@ -614,9 +614,9 @@
           "Wenhao Yan"
         ],
         "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 38,
+        "upvotes": 39,
         "comments": 1,
-        "discussion_score": 382.74,
+        "discussion_score": 392.73,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
