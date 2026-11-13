@@ -123,6 +123,12 @@ jobs:
             python scripts/update_news.py --output-dir data --window-hours 48 --archive-days 21
           fi
 
+      - name: Update GitHub weekly and monthly rankings
+        run: python scripts/update_github_rankings.py --output data/github-rankings.json
+
+      - name: Update AI authority voices
+        run: python scripts/update_authority_voices.py --output data/authority-voices.json --window-days 90 --max-items 24
+
       - name: Generate RSS feed
         run: python scripts/generate_feed.py --data-dir data
 

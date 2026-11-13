@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=douyin-picks-1014a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=curated-sources-1015a" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body>
@@ -56,16 +56,6 @@
             </div>
           </div>
         </div>
-        <div class="hero-meta">
-          <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
-          <div class="hero-links" aria-label="项目入口">
-              <a class="hero-link" href="./setup.html">安装到手机</a>
-              <a class="hero-link" href="#sourceHealth">来源与方法</a>
-              <a class="hero-link" href="#douyinPicksWrap">抖音选题</a>
-              <a class="hero-link" href="#newsListWrap">今日情报</a>
-            </div>
-        </div>
-
         <section class="section-nav-wrap" aria-label="内容栏目">
           <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
           <div class="section-scroll-hint" aria-hidden="true">左右滑动，查看更多栏目 →</div>
@@ -124,7 +114,7 @@
           <div class="douyin-picks-heading">
             <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
             <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
-            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间。</p>
+            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间；事实与观点均以原文为准。</p>
           </div>
           <div class="douyin-picks-actions">
             <span id="douyinPicksMeta">正在挑选...</span>
@@ -133,6 +123,43 @@
         </div>
         <div class="douyin-picks-swipe-hint" aria-hidden="true">左右滑动查看 5 条选题 →</div>
         <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap curated-board github-rankings-wrap" id="githubRankingsWrap" aria-labelledby="githubRankingsTitle" hidden>
+        <div class="curated-board-head">
+          <div class="curated-board-heading">
+            <span class="curated-board-eyebrow">GITHUB TRENDING · OFFICIAL SOURCE</span>
+            <h2 id="githubRankingsTitle">GitHub 周热榜 / 月热榜 TOP10</h2>
+            <p>直接读取 GitHub 官方 Trending 页面，按周期新增 Star 排序；保留仓库原文与直达链接。</p>
+          </div>
+          <div class="ranking-switch" role="group" aria-label="切换 GitHub 热榜周期">
+            <button id="githubWeeklyBtn" class="ranking-btn active" type="button" aria-pressed="true">周热榜</button>
+            <button id="githubMonthlyBtn" class="ranking-btn" type="button" aria-pressed="false">月热榜</button>
+          </div>
+        </div>
+        <div class="curated-board-meta" id="githubRankingMeta">等待 GitHub 官方数据...</div>
+        <div id="githubRankingList" class="github-ranking-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap curated-board authority-voices-wrap" id="authorityVoicesWrap" aria-labelledby="authorityVoicesTitle" hidden>
+        <div class="curated-board-head">
+          <div class="curated-board-heading">
+            <span class="curated-board-eyebrow">AI VOICES · CURATED SOURCES</span>
+            <h2 id="authorityVoicesTitle">AI 权威观点、会议与访谈</h2>
+            <p>近 90 天精选官方实验室、研究机构、会议官方与明确标注的深度访谈；不把观点当作事实结论。</p>
+          </div>
+          <span class="curated-board-meta" id="authorityVoicesMeta">等待来源数据...</span>
+        </div>
+        <div class="authority-filter-row">
+          <div class="authority-filter" role="tablist" aria-label="筛选观点类型">
+            <button class="authority-filter-btn active" type="button" data-authority-filter="all" aria-pressed="true">全部</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="viewpoint" aria-pressed="false">观点 / 研究</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="interview" aria-pressed="false">访谈</button>
+            <button class="authority-filter-btn" type="button" data-authority-filter="conference" aria-pressed="false">会议</button>
+          </div>
+          <div class="authority-trust-note"><strong>核验原则</strong><span>原文可追溯 · 观点明确标注 · 不做二次事实断言</span></div>
+        </div>
+        <div id="authorityVoicesList" class="authority-voices-list" aria-live="polite"></div>
       </section>
 
       <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="近日要闻">
@@ -212,6 +239,6 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=douyin-picks-1014a" defer></script>
+    <script src="./assets/app.js?v=curated-sources-1015a" defer></script>
   </body>
 </html>

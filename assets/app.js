@@ -39,6 +39,11 @@ const state = {
   mainListVisibleCount: 0,
   xAuthorsExpanded: false,
   douyinPickRound: 0,
+  githubRankings: null,
+  githubRankingPeriod: "weekly",
+  authorityVoices: null,
+  authorityFilter: "all",
+  authorityVisibleCount: 8,
 };
 
 // DATA_BASE_URL 数据同源开关：优先级 ?data= 查询参数 > localStorage("dataBaseUrl") > "" (相对路径，原行为)
@@ -101,6 +106,14 @@ const douyinPicksWrapEl = document.getElementById("douyinPicksWrap");
 const douyinPicksListEl = document.getElementById("douyinPicksList");
 const douyinPicksMetaEl = document.getElementById("douyinPicksMeta");
 const douyinPicksRefreshBtnEl = document.getElementById("douyinPicksRefreshBtn");
+const githubRankingsWrapEl = document.getElementById("githubRankingsWrap");
+const githubRankingListEl = document.getElementById("githubRankingList");
+const githubRankingMetaEl = document.getElementById("githubRankingMeta");
+const githubWeeklyBtnEl = document.getElementById("githubWeeklyBtn");
+const githubMonthlyBtnEl = document.getElementById("githubMonthlyBtn");
+const authorityVoicesWrapEl = document.getElementById("authorityVoicesWrap");
+const authorityVoicesListEl = document.getElementById("authorityVoicesList");
+const authorityVoicesMetaEl = document.getElementById("authorityVoicesMeta");
 const top3BoardWrapEl = document.getElementById("top3BoardWrap");
 const top3BoardListEl = document.getElementById("top3BoardList");
 const top3BoardMetaEl = document.getElementById("top3BoardMeta");
@@ -660,6 +673,8 @@ function renderModeSwitch() {
   if (listTitleEl) listTitleEl.textContent = listTitleText();
   renderClearFiltersButton();
   renderDouyinPicks();
+  renderGithubRankings();
+  renderAuthorityVoices();
 }
 
 function listTitleText() {
@@ -1748,6 +1763,211 @@ function renderDouyinPicks() {
   });
 }
 
+function curatedBoardsVisible() {
+  return state.mode === "selected"
+    && state.activeSection === "all"
+    && !state.query.trim()
+    && !state.siteFilter
+    && !state.authorFilter
+    && !state.officialOnly;
+}
+
+function safeCuratedUrl(value) {
+  try {
+    const url = new URL(value);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
+function renderGithubRankings() {
+  if (!githubRankingsWrapEl || !githubRankingListEl) return;
+  const visible = curatedBoardsVisible();
+  if (!state.githubRankings) {
+    githubRankingsWrapEl.hidden = true;
+    return;
+  }
+  githubRankingsWrapEl.hidden = !visible;
+  if (githubWeeklyBtnEl) {
+    githubWeeklyBtnEl.classList.toggle("active", state.githubRankingPeriod === "weekly");
+    githubWeeklyBtnEl.setAttribute("aria-pressed", state.githubRankingPeriod === "weekly" ? "true" : "false");
+  }
+  if (githubMonthlyBtnEl) {
+    githubMonthlyBtnEl.classList.toggle("active", state.githubRankingPeriod === "monthly");
+    githubMonthlyBtnEl.setAttribute("aria-pressed", state.githubRankingPeriod === "monthly" ? "true" : "false");
+  }
+  if (!visible) return;
+
+  const payload = state.githubRankings;
+  const period = payload.periods?.[state.githubRankingPeriod] || payload.periods?.weekly;
+  const items = Array.isArray(period?.items) ? period.items : [];
+  const periodLabel = state.githubRankingPeriod === "monthly" ? "月热榜" : "周热榜";
+  if (githubRankingMetaEl) {
+    githubRankingMetaEl.textContent = items.length
+      ? `${periodLabel} · TOP ${items.length} · GitHub 官方数据 · 更新 ${fmtTime(payload.generated_at)}`
+      : "GitHub 热榜数据暂时不可用";
+  }
+  githubRankingListEl.replaceChildren();
+  if (!items.length) {
+    const empty = document.createElement("p");
+    empty.className = "curated-board-empty";
+    empty.textContent = "当前周期暂无 GitHub Trending 数据。";
+    githubRankingListEl.appendChild(empty);
+    return;
+  }
+
+  items.forEach((item, index) => {
+    const url = safeCuratedUrl(item.url);
+    if (!url) return;
+    const row = document.createElement("article");
+    row.className = "github-rank-row";
+
+    const rank = document.createElement("span");
+    rank.className = "github-rank-number";
+    rank.textContent = String(index + 1).padStart(2, "0");
+
+    const body = document.createElement("div");
+    body.className = "github-rank-body";
+
+    const top = document.createElement("div");
+    top.className = "github-rank-top";
+    const repoLink = document.createElement("a");
+    repoLink.className = "github-repo-link";
+    repoLink.href = url;
+    repoLink.target = "_blank";
+    repoLink.rel = "noopener noreferrer";
+    repoLink.textContent = item.full_name || item.repo || "GitHub repository";
+    const star = document.createElement("span");
+    star.className = "github-period-stars";
+    star.textContent = `+${fmtNumber(Number(item.period_stars) || 0)} ${state.githubRankingPeriod === "monthly" ? "本月" : "本周"} Star`;
+    top.append(repoLink, star);
+
+    const description = document.createElement("p");
+    description.className = "github-repo-description";
+    description.textContent = item.description || "暂无仓库简介";
+
+    const meta = document.createElement("div");
+    meta.className = "github-repo-meta";
+    if (item.language) {
+      const language = document.createElement("span");
+      language.textContent = item.language;
+      meta.appendChild(language);
+    }
+    const totalStars = document.createElement("span");
+    totalStars.textContent = `总 Star ${item.total_stars == null ? "--" : fmtNumber(Number(item.total_stars))}`;
+    meta.appendChild(totalStars);
+    const source = document.createElement("span");
+    source.textContent = "GitHub 官方 Trending";
+    meta.appendChild(source);
+
+    body.append(top, description, meta);
+    row.append(rank, body);
+    githubRankingListEl.appendChild(row);
+  });
+}
+
+const AUTHORITY_CATEGORY_LABELS = {
+  viewpoint: "观点 / 研究",
+  interview: "访谈",
+  conference: "会议",
+};
+
+function renderAuthorityVoices() {
+  if (!authorityVoicesWrapEl || !authorityVoicesListEl) return;
+  const visible = curatedBoardsVisible();
+  if (!state.authorityVoices) {
+    authorityVoicesWrapEl.hidden = true;
+    return;
+  }
+  authorityVoicesWrapEl.hidden = !visible;
+  if (!visible) return;
+
+  const payload = state.authorityVoices;
+  const allItems = (Array.isArray(payload.items) ? payload.items : []).filter((item) => item && safeCuratedUrl(item.url));
+  const filtered = state.authorityFilter === "all"
+    ? allItems
+    : allItems.filter((item) => item.category === state.authorityFilter);
+  if (authorityVoicesMetaEl) {
+    authorityVoicesMetaEl.textContent = `${Number(payload.window_days) || 90} 天 · ${allItems.length} 条 · ${Number(payload.ok_source_count) || 0}/${Number(payload.source_count) || 0} 来源可用 · ${fmtTime(payload.generated_at)}`;
+  }
+  document.querySelectorAll("[data-authority-filter]").forEach((button) => {
+    const active = button.dataset.authorityFilter === state.authorityFilter;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", active ? "true" : "false");
+  });
+  authorityVoicesListEl.replaceChildren();
+  if (!filtered.length) {
+    const empty = document.createElement("p");
+    empty.className = "curated-board-empty";
+    empty.textContent = "当前分类暂无符合来源与时间要求的内容。";
+    authorityVoicesListEl.appendChild(empty);
+    return;
+  }
+
+  const limit = Math.max(4, Number(state.authorityVisibleCount) || 8);
+  filtered.slice(0, limit).forEach((item) => {
+    const url = safeCuratedUrl(item.url);
+    const card = document.createElement("article");
+    card.className = "authority-voice-card";
+    card.dataset.category = item.category || "viewpoint";
+
+    const top = document.createElement("div");
+    top.className = "authority-voice-top";
+    const category = document.createElement("span");
+    category.className = `authority-category category-${item.category || "viewpoint"}`;
+    category.textContent = AUTHORITY_CATEGORY_LABELS[item.category] || "观点 / 研究";
+    const trust = document.createElement("span");
+    trust.className = "authority-trust";
+    trust.textContent = item.trust_label || "来源原文";
+    if (item.verification) trust.title = item.verification;
+    top.append(category, trust);
+    if (item.is_opinion) {
+      const opinion = document.createElement("span");
+      opinion.className = "authority-opinion";
+      opinion.textContent = "观点，非事实结论";
+      top.appendChild(opinion);
+    }
+
+    const title = document.createElement("a");
+    title.className = "authority-voice-title";
+    title.href = url;
+    title.target = "_blank";
+    title.rel = "noopener noreferrer";
+    title.textContent = item.title || "未命名内容";
+
+    const summary = document.createElement("p");
+    summary.className = "authority-voice-summary";
+    summary.textContent = item.summary || "";
+    summary.hidden = !item.summary;
+
+    const footer = document.createElement("div");
+    footer.className = "authority-voice-footer";
+    const source = document.createElement("span");
+    source.textContent = `${item.source_name || "来源"} · ${fmtTime(item.published_at)}`;
+    const link = document.createElement("a");
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = "查看原文 ↗";
+    footer.append(source, link);
+
+    card.append(top, title, summary, footer);
+    authorityVoicesListEl.appendChild(card);
+  });
+
+  if (filtered.length > limit) {
+    const more = document.createElement("button");
+    more.type = "button";
+    more.className = "authority-more-btn";
+    more.textContent = `展开更多 ${filtered.length - limit} 条`;
+    more.addEventListener("click", () => {
+      state.authorityVisibleCount = limit + 8;
+      renderAuthorityVoices();
+    });
+    authorityVoicesListEl.appendChild(more);
+  }
+}
 // ---- 主列表数据池：精选模式=mergedStories() 全量（纯时间倒序），全量模式=原始条目池 ----
 
 function mainListStoriesBase() {
@@ -2294,6 +2514,8 @@ function renderTop3Board() {
 function renderHotBoard() {
   renderTop3Board();
   renderDouyinPicks();
+  renderGithubRankings();
+  renderAuthorityVoices();
   if (!hotBoardListEl) return;
   const show = state.mode === "selected";
   if (hotBoardWrapEl) hotBoardWrapEl.hidden = !show;
@@ -2736,14 +2958,28 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadGithubRankingsData() {
+  const res = await fetch(`${dataUrl("data/github-rankings.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "github-rankings.json", status: res.status }));
+  return res.json();
+}
+
+async function loadAuthorityVoicesData() {
+  const res = await fetch(`${dataUrl("data/authority-voices.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "authority-voices.json", status: res.status }));
+  return res.json();
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult] = await Promise.allSettled([
     loadNewsData(),
     IS_EN ? Promise.resolve(null) : loadWaytoagiData(),
     loadSourceStatusData(),
     loadDailyBriefData(),
     loadStoriesData(),
     loadTop3PersonasData(),
+    loadGithubRankingsData(),
+    loadAuthorityVoicesData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
@@ -2769,6 +3005,9 @@ async function init() {
   } else {
     state.storiesMerged = null;
   }
+
+  state.githubRankings = githubResult.status === "fulfilled" ? githubResult.value : null;
+  state.authorityVoices = authorityResult.status === "fulfilled" ? authorityResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
@@ -2805,6 +3044,9 @@ async function init() {
     updatedAtEl.textContent = t("news.loadFailed");
     newsListEl.innerHTML = `<div class="empty">${newsResult.reason.message}</div>`;
   }
+
+  renderGithubRankings();
+  renderAuthorityVoices();
 
   if (statusResult.status === "fulfilled") {
     state.sourceStatus = statusResult.value;
@@ -2921,6 +3163,27 @@ if (dataSourceResetBtnEl) {
   });
 }
 
+if (githubWeeklyBtnEl) {
+  githubWeeklyBtnEl.addEventListener("click", () => {
+    state.githubRankingPeriod = "weekly";
+    renderGithubRankings();
+  });
+}
+
+if (githubMonthlyBtnEl) {
+  githubMonthlyBtnEl.addEventListener("click", () => {
+    state.githubRankingPeriod = "monthly";
+    renderGithubRankings();
+  });
+}
+
+document.querySelectorAll("[data-authority-filter]").forEach((button) => {
+  button.addEventListener("click", () => {
+    state.authorityFilter = button.dataset.authorityFilter || "all";
+    state.authorityVisibleCount = 8;
+    renderAuthorityVoices();
+  });
+});
 if (douyinPicksRefreshBtnEl) {
   douyinPicksRefreshBtnEl.addEventListener("click", () => {
     state.douyinPickRound = ((Number(state.douyinPickRound) || 0) + 1) % DOUYIN_PICK_ROUNDS;

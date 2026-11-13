@@ -7,6 +7,9 @@
 ## 看板逻辑
 
 - **今日要闻**：多来源热点按重要度和热度排序
+- **抖音科普选题**：从近 48 小时信息流挑选 5 条，并给出讲解角度
+- **GitHub 周/月热榜**：官方 Trending 周榜与月榜 TOP10
+- **AI 权威观点与会议**：近 90 天官方实验室、研究机构、会议官方与深度访谈
 - **分类栏目**：全部 / GitHub / 开源 / 科技 / AI / 论文
 - **精选与全部**：精选看聚合事件，全部看原始条目
 - **只看一手**：只保留官方来源与研究/预印本
@@ -56,6 +59,10 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 - 来源等级明确展示在卡片上。
 - 预印本标注为研究/预印本，需回原文核验。
 - 多来源事件会聚合，但不会把媒体标题当成官方事实。
+- GitHub 热榜直接读取 GitHub 官方 Trending 页面，不以二手榜单代替。
+- AI 权威观点与会议使用白名单来源；保留原文标题、摘要、发布时间和链接，明确区分访谈/观点与会议官方信息。
+- 对快讯、客户案例、纯产品发布和未确认传闻默认过滤，不将观点包装成事实。
+- 不承诺 100% 无误；涉及关键数字、结论和争议事件时，应以一手原文或论文为准。
 
 ## 本地运行
 
@@ -85,6 +92,8 @@ node scripts/build_i18n.mjs --check
 - `assets/app.js`：看板筛选、栏目、卡片和交互
 - `assets/styles.css`：响应式视觉样式
 - `scripts/update_news.py`：采集、分类、聚合、来源等级
+- `scripts/update_github_rankings.py`：GitHub 官方周/月 Trending 采集
+- `scripts/update_authority_voices.py`：AI 权威观点、会议与访谈白名单采集
 - `feeds/follow.example.opml`：公开的一手优先订阅源
 - `.github/workflows/update-news.yml`：每小时采集与 Pages 数据更新
 - `data/`：看板读取的 JSON 快照
