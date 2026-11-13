@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:06:36.376699+00:00",
+  "generated_at": "2026-11-13T10:26:21.579376+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -527,9 +527,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 43,
         "comments": 1,
-        "discussion_score": 412.88,
+        "discussion_score": 432.88,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -590,9 +590,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 38,
+        "upvotes": 39,
         "comments": 1,
-        "discussion_score": 382.84,
+        "discussion_score": 392.84,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -638,9 +638,9 @@
           "Wenhao Yan"
         ],
         "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 36,
+        "upvotes": 37,
         "comments": 1,
-        "discussion_score": 362.74,
+        "discussion_score": 372.74,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
