@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Android 一手科技 AI 订阅</title>
+    <dateCreated>Thu, 12 Nov 2026 14:42:44 GMT</dateCreated>
+    <ownerName>TechPulse</ownerName>
+  </head>
+  <body>
+    <outline text="01 GitHub 官方 · 一手" title="01 GitHub 官方 · 一手">
+      <outline text="GitHub Blog" title="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" description="GitHub 官方产品、工程与公司动态" />
+      <outline text="GitHub Changelog" title="GitHub Changelog" type="rss" xmlUrl="https://github.blog/changelog/feed/" htmlUrl="https://github.blog/changelog/" description="GitHub 官方变更日志，优先级最高" />
+    </outline>
+    <outline text="02 GitHub 发现 · 三方整理" title="02 GitHub 发现 · 三方整理">
+      <outline text="GitHub Daily Trending" title="GitHub Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://github.com/trending" description="第三方整理的 GitHub 日趋势，仅用于发现" />
+      <outline text="GitHub Weekly Trending" title="GitHub Weekly Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml" htmlUrl="https://github.com/trending?since=weekly" description="第三方整理的 GitHub 周趋势，仅用于发现" />
+    </outline>
+    <outline text="03 开源项目与社区发现" title="03 开源项目与社区发现">
+      <outline text="Hacker News 首页" title="Hacker News 首页" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/" description="社区发现，非一手" />
+      <outline text="Show HN" title="Show HN" type="rss" xmlUrl="https://hnrss.org/show" htmlUrl="https://news.ycombinator.com/show" description="社区新项目发现，非一手" />
+      <outline text="Product Hunt" title="Product Hunt" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com/" description="新产品发现，非一手" />
+      <outline text="HelloGitHub Releases" title="HelloGitHub Releases" type="rss" xmlUrl="https://github.com/521xueweihan/HelloGitHub/releases.atom" htmlUrl="https://github.com/521xueweihan/HelloGitHub" description="中文开源项目精选更新" />
+    </outline>
+    <outline text="04 科技公司官方 · 一手" title="04 科技公司官方 · 一手">
+      <outline text="Google Blog" title="Google Blog" type="rss" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/" description="Google 官方新闻与产品动态" />
+      <outline text="Apple Newsroom" title="Apple Newsroom" type="rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/" description="Apple 官方新闻稿" />
+      <outline text="NVIDIA Newsroom" title="NVIDIA Newsroom" type="rss" xmlUrl="https://nvidianews.nvidia.com/releases.xml" htmlUrl="https://nvidianews.nvidia.com/" description="NVIDIA 官方新闻稿" />
+    </outline>
+    <outline text="05 科技媒体 · 二手交叉验证" title="05 科技媒体 · 二手交叉验证">
+      <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" description="科技创投新闻" />
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/" description="科技产品与行业新闻" />
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" description="深度科技报道" />
+      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/" description="科技趋势与深度分析" />
+      <outline text="Wired" title="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" description="科技文化与产业报道" />
+      <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/" description="消费科技新闻" />
+      <outline text="Solidot" title="Solidot" type="rss" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/" description="中文科技新闻" />
+      <outline text="IT之家" title="IT之家" type="rss" xmlUrl="https://www.ithome.com/rss/" htmlUrl="https://www.ithome.com/" description="中文科技与消费电子新闻" />
+      <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/" description="中文科技产品报道" />
+      <outline text="InfoQ 中文" title="InfoQ 中文" type="rss" xmlUrl="https://www.infoq.cn/feed" htmlUrl="https://www.infoq.cn/" description="中文软件工程与架构资讯" />
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/" description="中文数字生活与效率内容" />
+      <outline text="量子位" title="量子位" type="rss" xmlUrl="https://www.qbitai.com/feed" htmlUrl="https://www.qbitai.com/" description="中文 AI 媒体，非一手" />
+    </outline>
+    <outline text="06 AI 官方与研究 · 一手" title="06 AI 官方与研究 · 一手">
+      <outline text="OpenAI News" title="OpenAI News" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/" description="OpenAI 官方新闻" />
+      <outline text="Google DeepMind Blog" title="Google DeepMind Blog" type="rss" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" description="DeepMind 官方研究动态" />
+      <outline text="Google AI Blog" title="Google AI Blog" type="rss" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/" description="Google AI 官方动态" />
+      <outline text="Hugging Face Blog" title="Hugging Face Blog" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" description="Hugging Face 官方博客" />
+      <outline text="Microsoft Research" title="Microsoft Research" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/" description="微软研究院官方博客" />
+      <outline text="Berkeley AI Research" title="Berkeley AI Research" type="rss" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/" description="伯克利 AI 研究博客" />
+      <outline text="MIT News AI" title="MIT News AI" type="rss" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl="https://news.mit.edu/topic/artificial-intelligence2" description="MIT 官方 AI 新闻" />
+      <outline text="arXiv AI / ML / NLP" title="arXiv AI / ML / NLP" type="rss" xmlUrl="https://export.arxiv.org/api/query?search_query=cat%3Acs.AI%20OR%20cat%3Acs.LG%20OR%20cat%3Acs.CL&amp;start=0&amp;max_results=50&amp;sortBy=submittedDate&amp;sortOrder=descending" htmlUrl="https://arxiv.org/list/cs.AI/recent" description="最新预印本，作者原稿，未经同行评审" />
+    </outline>
+    <outline text="07 AI 分析 · 个人观点" title="07 AI 分析 · 个人观点">
+      <outline text="Simon Willison" title="Simon Willison" type="rss" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/" description="个人 AI/开发分析，观点非官方" />
+    </outline>
+  </body>
+</opml>

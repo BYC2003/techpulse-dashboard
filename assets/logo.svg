@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TechPulse">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="54" x2="446" y2="465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172748"/>
+      <stop offset="1" stop-color="#080d18"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="106" y1="292" x2="407" y2="197" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5ee6b3"/>
+      <stop offset="0.55" stop-color="#55c8ff"/>
+      <stop offset="1" stop-color="#9b8cff"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#5ee6b3" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="256" cy="256" r="132" fill="none" stroke="#55c8ff" stroke-opacity=".10" stroke-width="2"/>
+  <path d="M102 283h78l27-62 48 138 43-111 31 62h81" fill="none" stroke="url(#pulse)" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle cx="102" cy="283" r="9" fill="#5ee6b3"/>
+  <circle cx="410" cy="310" r="9" fill="#9b8cff"/>
+</svg>
