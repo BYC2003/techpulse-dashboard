@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:27:22.046097Z",
+  "generated_at": "2026-11-13T20:28:56.010623Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9653,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -141,7 +141,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9707,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9242,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -327,15 +327,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7442,
+        "recency": 0.744,
         "story_heat": 0.25
       },
       "category": "official",
@@ -417,7 +417,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9519,
+        "recency": 0.9515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -490,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9715,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7327,
+        "recency": 0.7324,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,87 +600,6 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b821bfa39311",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6826,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
-      "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Hydrogen",
-        "title_original": "Introducing Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -741,7 +660,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6825,
+        "recency": 0.6822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -762,6 +681,87 @@
         "recommend_reason_zh": null,
         "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b821bfa39311",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:50Z",
+      "latest_at": "2026-11-12T18:00:50Z",
+      "primary_item": {
+        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 4 Hydrogen",
+        "title_original": "Introducing Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -814,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9989,
+        "recency": 0.9985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,7 +902,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9952,
+        "recency": 0.9949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9122,
+        "recency": 0.9118,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1063,7 +1063,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1223,7 +1223,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,7 +1303,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.951,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,7 +1463,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1535,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9272,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1623,7 +1623,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7025,
+        "recency": 0.7022,
         "story_heat": 0.0
       },
       "category": "official",

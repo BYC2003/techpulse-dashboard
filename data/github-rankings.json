@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:28:25.238632+00:00",
+  "generated_at": "2026-11-13T20:30:06.386354+00:00",
   "source": "GitHub Trending",
   "methodology": "抓取 GitHub 官方 Trending 页面，读取页面展示的周期新增 Star 与仓库信息。",
   "periods": {
@@ -15,7 +15,7 @@
           "url": "https://github.com/sherlock-project/sherlock",
           "description": "Hunt down social media accounts by username across social networks",
           "language": "Python",
-          "total_stars": 111048,
+          "total_stars": 111049,
           "period_stars": 14381,
           "period_label": "本周新增 Star",
           "period_text": "14,381 stars this week"
@@ -28,7 +28,7 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "total_stars": 194090,
+          "total_stars": 194091,
           "period_stars": 6055,
           "period_label": "本周新增 Star",
           "period_text": "6,055 stars this week"
@@ -41,7 +41,7 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "total_stars": 22132,
+          "total_stars": 22133,
           "period_stars": 9104,
           "period_label": "本周新增 Star",
           "period_text": "9,104 stars this week"
@@ -80,7 +80,7 @@
           "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
           "language": "Python",
-          "total_stars": 71500,
+          "total_stars": 71502,
           "period_stars": 3569,
           "period_label": "本周新增 Star",
           "period_text": "3,569 stars this week"
@@ -132,7 +132,7 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
           "language": "JavaScript",
-          "total_stars": 117098,
+          "total_stars": 117099,
           "period_stars": 3199,
           "period_label": "本周新增 Star",
           "period_text": "3,199 stars this week"
@@ -151,7 +151,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "total_stars": 54460,
+          "total_stars": 54462,
           "period_stars": 24106,
           "period_label": "本月新增 Star",
           "period_text": "24,106 stars this month"
@@ -164,7 +164,7 @@
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "language": "TypeScript",
-          "total_stars": 457366,
+          "total_stars": 457370,
           "period_stars": 325178,
           "period_label": "本月新增 Star",
           "period_text": "325,178 stars this month"
@@ -203,7 +203,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": "The best way to control Claude Code, Codex and more from any computer or phone",
           "language": "TypeScript",
-          "total_stars": 59453,
+          "total_stars": 59454,
           "period_stars": 30926,
           "period_label": "本月新增 Star",
           "period_text": "30,926 stars this month"
@@ -216,7 +216,7 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "total_stars": 109499,
+          "total_stars": 109500,
           "period_stars": 29165,
           "period_label": "本月新增 Star",
           "period_text": "29,165 stars this month"
@@ -229,7 +229,7 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 83867,
+          "total_stars": 83872,
           "period_stars": 22251,
           "period_label": "本月新增 Star",
           "period_text": "22,251 stars this month"
@@ -242,7 +242,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
           "language": "Python",
-          "total_stars": 58917,
+          "total_stars": 58918,
           "period_stars": 17692,
           "period_label": "本月新增 Star",
           "period_text": "17,692 stars this month"
@@ -255,7 +255,7 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "total_stars": 194090,
+          "total_stars": 194091,
           "period_stars": 13440,
           "period_label": "本月新增 Star",
           "period_text": "13,440 stars this month"
