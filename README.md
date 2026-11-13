@@ -49,7 +49,9 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 
 ## 更新时效
 
-- GitHub Actions 每小时检查一次来源（UTC `17 * * * *`）。
+- GitHub Actions 主任务每小时检查一次来源（UTC `17 * * * *`）。
+- Freshness Watchdog 每 15 分钟检查快照；超过 70 分钟未更新时自动派发主任务。
+- 主任务提交前会验证快照时间和条目数，避免出现“运行成功但数据未变化”。
 - 实际到达时间取决于 RSS 发布时间、上游缓存和 GitHub Actions 排队。
 - 这不是秒级实时系统；如果要求官方发布后几分钟内必达，需要换用常驻服务器或 Cloudflare Worker Cron。
 - 页面只显示已进入数据快照的内容；点击刷新会重新读取最新已发布数据。
@@ -100,14 +102,16 @@ node scripts/build_i18n.mjs --check
 - `scripts/update_github_rankings.py`：GitHub 官方周/月 Trending 采集
 - `scripts/update_authority_voices.py`：AI 权威观点、会议与访谈白名单采集
 - `scripts/update_papers.py`：40 篇权威论文与 10 篇最新热议论文
+- `scripts/check_snapshot_age.py`：检查快照是否过期和是否包含数据
 - `feeds/follow.example.opml`：公开的一手优先订阅源
 - `.github/workflows/update-news.yml`：每小时采集与 Pages 数据更新
+- `.github/workflows/freshness-watchdog.yml`：每 15 分钟检查快照并自动派发更新
 - `data/`：看板读取的 JSON 快照
 
 ## 限制
 
 - GitHub Trending 是发现榜单，不等于项目事实；GitHub Blog、Changelog、Release 和仓库 API 才是一手事实来源。
-- GitHub Actions 会有排队延迟。
+- GitHub Actions 会有排队延迟；原生 `schedule` 是尽力而为，看门狗用于降低漏跑影响。
 - 一些媒体有付费墙或会变更 RSS 地址，失败会显示在来源状态中。
 - 本项目不做推送，不做账号系统，不保存阅读历史。
 
