@@ -5,34 +5,90 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 15:40:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:34:56 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Holiday Extras 正重新思考借助 Codex 还能打造出什么 / Holiday Extras is rethinking what it can build with Codex</title>
-<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
+<title>Codex CLI 0.168.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
+<title>构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
+<link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
+</item>
+<item>
+<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Carbon 现已上线 / Gemini 4 Carbon is now available</title>
-<link>https://deepmind.google/blog/gemini-4-carbon-is-now-available</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 10 Nov 2026 16:49:50 +0000</pubDate>
-</item>
-<item>
-<title>Gemini Decisions API：快速、精准校准的多模态决策 / Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</guid>
+<title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 21:32:55 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+<title>Introducing Gemini 4 Hydrogen</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+</item>
+<item>
+<title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
+<link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
+</item>
+<item>
+<title>Gondola doubles revenue as its team builds more with Codex</title>
+<link>https://openai.com/business/customer-stories/gondola</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Secret scanning detects Cloudflare service tokens</title>
+<link>https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型</title>
+<link>https://www.aibase.com/news/32296</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32296</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
+</item>
+<item>
+<title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
 <link>https://huggingface.co/blog/3d-lora-finetuning</link>
 <guid isPermaLink="true">https://huggingface.co/blog/3d-lora-finetuning</guid>
 <description>Hugging Face Blog</description>
@@ -40,47 +96,39 @@
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>个人账户现已支持 Issue 类型和字段 / Issue types and fields are available for personal accounts</title>
-<link>https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 17:16:46 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.167.2</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Gilbert + Tobin借助AI重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI</title>
-<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-<guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
+<title>Holiday Extras is rethinking what it can build with Codex</title>
+<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
-<title>冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录</title>
-<link>https://www.aibase.com/news/32283</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32283</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 13:45:57 +0000</pubDate>
-</item>
-<item>
-<title>试试 Tabletop：可自定义的协作空间，让团队一起规划、玩乐，共同做更多事。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
+<title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AlphaGenome 2：解读细胞如何读取 DNA，从而更好地理解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
+<title>Public monitoring alerts now have direct links</title>
+<link>https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic推出Claude Meetings，可加入Google Meet参与会议</title>
+<link>https://www.aibase.com/news/32295</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32295</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
+</item>
+<item>
+<title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
 <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</link>
 <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</guid>
 <description>Google DeepMind</description>
@@ -88,84 +136,36 @@
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 </item>
 <item>
-<title>BotPsy：搭载亚十亿参数智能体语言模型的端侧个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-<link>https://huggingface.co/blog/qvac/botpsy</link>
-<guid isPermaLink="true">https://huggingface.co/blog/qvac/botpsy</guid>
-<description>Hugging Face Blog</description>
+<title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
+<description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>支持AI与儿童安全研究 / Supporting research on AI and children’s safety</title>
-<link>https://openai.com/index/children-first-declaration</link>
-<guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
+<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
+<link>https://www.aibase.com/news/32297</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 05:34:56 +0000</pubDate>
+</item>
+<item>
+<title>Gilbert + Tobin rethinks the business of law with AI</title>
+<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+<guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 现已支持 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</guid>
+<title>Issue types and fields are available for personal accounts</title>
+<link>https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 10 Nov 2026 19:26:51 +0000</pubDate>
-</item>
-<item>
-<title>单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成</title>
-<link>https://www.aibase.com/news/32285</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32285</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 13:45:57 +0000</pubDate>
-</item>
-<item>
-<title>面向多向量嵌入模型的 Token 池化感知训练 / Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-<link>https://huggingface.co/blog/token-pooling</link>
-<guid isPermaLink="true">https://huggingface.co/blog/token-pooling</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>感受 Dr. Esther Mahlangu 的艺术与传承 / Experience the art and legacy of Dr. Esther Mahlangu</title>
-<link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</link>
-<guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub App 支持 Enterprise Copilot 席位管理 / GitHub App support for Enterprise Copilot seat management</title>
-<link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 00:10:31 +0000</pubDate>
-</item>
-<item>
-<title>面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers</title>
-<link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-plus-for-veterans</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>微软松口允许关闭必应 AI 答案，但开门要收"过路费"</title>
-<link>https://www.aibase.com/news/32284</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32284</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 13:45:57 +0000</pubDate>
-</item>
-<item>
-<title>Gemini Intelligence：新功能登陆更多设备 / Gemini Intelligence: New features, on more devices</title>
-<link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 17:16:46 +0000</pubDate>
 </item>
 </channel>
 </rss>
