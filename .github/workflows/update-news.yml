@@ -129,6 +129,9 @@ jobs:
       - name: Update AI authority voices
         run: python scripts/update_authority_voices.py --output data/authority-voices.json --window-days 90 --max-items 24
 
+      - name: Update authoritative and hot AI papers
+        run: python scripts/update_papers.py --output data/papers.json --hot-window-days 21
+
       - name: Generate RSS feed
         run: python scripts/generate_feed.py --data-dir data
 

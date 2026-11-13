@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=home-subpages-1016a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=papers-1020a" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body data-dashboard-view="news">
@@ -61,6 +61,7 @@
           <a href="dashboard.html?view=news" data-view-link="news">今日情报</a>
           <a href="dashboard.html?view=douyin" data-view-link="douyin">抖音选题</a>
           <a href="dashboard.html?view=github" data-view-link="github">GitHub 热榜</a>
+          <a href="dashboard.html?view=papers" data-view-link="papers">权威论文</a>
           <a href="dashboard.html?view=voices" data-view-link="voices">权威观点</a>
         </nav>
 
@@ -147,6 +148,23 @@
         </div>
         <div class="curated-board-meta" id="githubRankingMeta">等待 GitHub 官方数据...</div>
         <div id="githubRankingList" class="github-ranking-list" aria-live="polite"></div>
+      </section>
+
+      <section class="list-wrap curated-board papers-wrap" id="papersWrap" aria-labelledby="papersTitle" hidden>
+        <div class="curated-board-head">
+          <div class="curated-board-heading">
+            <span class="curated-board-eyebrow">AI PAPERS · CURATED + LIVE</span>
+            <h2 id="papersTitle">AI 权威论文</h2>
+            <p>40 篇不限制年代的 AI 里程碑论文，加上近 21 天 Hugging Face Daily Papers 讨论度最高的 10 篇最新论文。</p>
+          </div>
+          <div class="paper-mode-switch" role="group" aria-label="切换论文类型">
+            <button id="papersAuthoritativeBtn" class="paper-mode-btn active" type="button" aria-pressed="true">权威 40 篇</button>
+            <button id="papersHotBtn" class="paper-mode-btn" type="button" aria-pressed="false">最新热议 10 篇</button>
+          </div>
+        </div>
+        <div class="curated-board-meta" id="papersMeta">等待论文数据...</div>
+        <div id="paperCategoryFilters" class="paper-category-filters" role="group" aria-label="论文分类"></div>
+        <div id="papersList" class="papers-list" aria-live="polite"></div>
       </section>
 
       <section class="list-wrap curated-board authority-voices-wrap" id="authorityVoicesWrap" aria-labelledby="authorityVoicesTitle" hidden>
@@ -247,6 +265,6 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=home-subpages-1016a" defer></script>
+    <script src="./assets/app.js?v=papers-1020a" defer></script>
   </body>
 </html>

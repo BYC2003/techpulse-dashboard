@@ -5,7 +5,7 @@ const { t, isEN: IS_EN, locale: LOCALE } = i18n;
 
 const DASHBOARD_VIEW = (() => {
   const view = new URLSearchParams(window.location.search).get("view") || "news";
-  return ["news", "douyin", "github", "voices"].includes(view) ? view : "news";
+  return ["news", "douyin", "github", "papers", "voices"].includes(view) ? view : "news";
 })();
 const INITIAL_QUERY = new URLSearchParams(window.location.search).get("q") || "";
 
@@ -50,6 +50,10 @@ const state = {
   authorityVoices: null,
   authorityFilter: "all",
   authorityVisibleCount: 8,
+  papers: null,
+  paperMode: "authoritative",
+  paperCategory: "all",
+  papersVisibleCount: 12,
 };
 
 // DATA_BASE_URL 数据同源开关：优先级 ?data= 查询参数 > localStorage("dataBaseUrl") > "" (相对路径，原行为)
@@ -120,6 +124,12 @@ const githubMonthlyBtnEl = document.getElementById("githubMonthlyBtn");
 const authorityVoicesWrapEl = document.getElementById("authorityVoicesWrap");
 const authorityVoicesListEl = document.getElementById("authorityVoicesList");
 const authorityVoicesMetaEl = document.getElementById("authorityVoicesMeta");
+const papersWrapEl = document.getElementById("papersWrap");
+const papersListEl = document.getElementById("papersList");
+const papersMetaEl = document.getElementById("papersMeta");
+const papersAuthoritativeBtnEl = document.getElementById("papersAuthoritativeBtn");
+const papersHotBtnEl = document.getElementById("papersHotBtn");
+const paperCategoryFiltersEl = document.getElementById("paperCategoryFilters");
 
 document.body.dataset.dashboardView = DASHBOARD_VIEW;
 document.querySelectorAll("[data-view-link]").forEach((link) => {
@@ -127,7 +137,7 @@ document.querySelectorAll("[data-view-link]").forEach((link) => {
   link.classList.toggle("active", active);
   if (active) link.setAttribute("aria-current", "page");
 });
-const DASHBOARD_TITLES = { news: "今日情报", douyin: "抖音科普选题", github: "GitHub 周/月热榜", voices: "AI 权威观点与会议" };
+const DASHBOARD_TITLES = { news: "今日情报", douyin: "抖音科普选题", github: "GitHub 周/月热榜", papers: "AI 权威论文", voices: "AI 权威观点与会议" };
 document.title = `TechPulse｜${DASHBOARD_TITLES[DASHBOARD_VIEW]}`;
 if (searchInputEl && INITIAL_QUERY) searchInputEl.value = INITIAL_QUERY;
 const top3BoardWrapEl = document.getElementById("top3BoardWrap");
@@ -691,6 +701,7 @@ function renderModeSwitch() {
   renderDouyinPicks();
   renderGithubRankings();
   renderAuthorityVoices();
+  renderPapers();
 }
 
 function listTitleText() {
@@ -1805,7 +1816,24 @@ function renderGithubRankings() {
     return;
   }
   githubRankingsWrapEl.hidden = !visible;
-  if (githubWeeklyBtnEl) {
+  if (papersAuthoritativeBtnEl) {
+  papersAuthoritativeBtnEl.addEventListener("click", () => {
+    state.paperMode = "authoritative";
+    state.paperCategory = "all";
+    state.papersVisibleCount = 12;
+    renderPapers();
+  });
+}
+
+if (papersHotBtnEl) {
+  papersHotBtnEl.addEventListener("click", () => {
+    state.paperMode = "hot";
+    state.papersVisibleCount = 10;
+    renderPapers();
+  });
+}
+
+if (githubWeeklyBtnEl) {
     githubWeeklyBtnEl.classList.toggle("active", state.githubRankingPeriod === "weekly");
     githubWeeklyBtnEl.setAttribute("aria-pressed", state.githubRankingPeriod === "weekly" ? "true" : "false");
   }
@@ -1983,6 +2011,207 @@ function renderAuthorityVoices() {
     });
     authorityVoicesListEl.appendChild(more);
   }
+}
+function renderPaperCategoryFilters(categories) {
+  if (!paperCategoryFiltersEl) return;
+  paperCategoryFiltersEl.replaceChildren();
+  const allButton = document.createElement("button");
+  allButton.type = "button";
+  allButton.className = `paper-category-btn ${state.paperCategory === "all" ? "active" : ""}`;
+  allButton.textContent = "全部";
+  allButton.setAttribute("aria-pressed", state.paperCategory === "all" ? "true" : "false");
+  allButton.addEventListener("click", () => {
+    state.paperCategory = "all";
+    state.papersVisibleCount = 12;
+    renderPapers();
+  });
+  paperCategoryFiltersEl.appendChild(allButton);
+  categories.forEach((category) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = `paper-category-btn ${state.paperCategory === category ? "active" : ""}`;
+    button.textContent = category;
+    button.setAttribute("aria-pressed", state.paperCategory === category ? "true" : "false");
+    button.addEventListener("click", () => {
+      state.paperCategory = category;
+      state.papersVisibleCount = 12;
+      renderPapers();
+    });
+    paperCategoryFiltersEl.appendChild(button);
+  });
+}
+
+function renderPapers() {
+  if (!papersWrapEl || !papersListEl) return;
+  const visible = curatedBoardsVisible();
+  if (!state.papers) {
+    papersWrapEl.hidden = true;
+    return;
+  }
+  papersWrapEl.hidden = !visible;
+  if (!visible) return;
+
+  const payload = state.papers;
+  const authoritativeMode = state.paperMode !== "hot";
+  if (papersAuthoritativeBtnEl) {
+    papersAuthoritativeBtnEl.classList.toggle("active", authoritativeMode);
+    papersAuthoritativeBtnEl.setAttribute("aria-pressed", authoritativeMode ? "true" : "false");
+  }
+  if (papersHotBtnEl) {
+    papersHotBtnEl.classList.toggle("active", !authoritativeMode);
+    papersHotBtnEl.setAttribute("aria-pressed", !authoritativeMode ? "true" : "false");
+  }
+
+  const authoritativeItems = Array.isArray(payload.authoritative?.items) ? payload.authoritative.items : [];
+  const categories = Array.from(new Set(authoritativeItems.map((item) => item.category).filter(Boolean)));
+  const filteredAuthoritative = state.paperCategory === "all"
+    ? authoritativeItems
+    : authoritativeItems.filter((item) => item.category === state.paperCategory);
+  const hotItems = Array.isArray(payload.hot?.items) ? payload.hot.items : [];
+  if (paperCategoryFiltersEl) paperCategoryFiltersEl.hidden = !authoritativeMode;
+  if (authoritativeMode) renderPaperCategoryFilters(categories);
+
+  if (papersMetaEl) {
+    papersMetaEl.textContent = authoritativeMode
+      ? `权威里程碑 ${authoritativeItems.length} 篇 · 不限年代 · 更新 ${fmtTime(payload.generated_at)}`
+      : `最新热议 ${hotItems.length} 篇 · 近 ${Number(payload.hot?.window_days) || 21} 天 · Hugging Face Daily Papers · 更新 ${fmtTime(payload.generated_at)}`;
+  }
+
+  papersListEl.replaceChildren();
+  if (authoritativeMode) {
+    if (!filteredAuthoritative.length) {
+      const empty = document.createElement("p");
+      empty.className = "curated-board-empty";
+      empty.textContent = "当前分类暂无论文。";
+      papersListEl.appendChild(empty);
+      return;
+    }
+    const limit = Math.max(6, Number(state.papersVisibleCount) || 12);
+    filteredAuthoritative.slice(0, limit).forEach((paper, index) => {
+      const url = safeCuratedUrl(paper.url);
+      if (!url) return;
+      const card = document.createElement("article");
+      card.className = "paper-card paper-authoritative";
+      const top = document.createElement("div");
+      top.className = "paper-card-top";
+      const category = document.createElement("span");
+      category.className = "paper-category-badge";
+      category.textContent = paper.category || "权威论文";
+      const year = document.createElement("span");
+      year.className = "paper-year";
+      year.textContent = String(paper.year || "");
+      const venue = document.createElement("span");
+      venue.className = "paper-venue";
+      venue.textContent = paper.venue || "原始论文";
+      top.append(category, year, venue);
+      const title = document.createElement("a");
+      title.className = "paper-title";
+      title.href = url;
+      title.target = "_blank";
+      title.rel = "noopener noreferrer";
+      title.textContent = paper.title || "未命名论文";
+      const why = document.createElement("p");
+      why.className = "paper-why";
+      why.textContent = paper.why || "";
+      const footer = document.createElement("div");
+      footer.className = "paper-footer";
+      const rank = document.createElement("span");
+      rank.textContent = `#${index + 1}`;
+      const link = document.createElement("a");
+      link.href = url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "查看原始论文 ↗";
+      footer.append(rank, link);
+      card.append(top, title, why, footer);
+      papersListEl.appendChild(card);
+    });
+    if (filteredAuthoritative.length > limit) {
+      const more = document.createElement("button");
+      more.type = "button";
+      more.className = "paper-more-btn";
+      more.textContent = `展开更多 ${filteredAuthoritative.length - limit} 篇`;
+      more.addEventListener("click", () => {
+        state.papersVisibleCount = limit + 12;
+        renderPapers();
+      });
+      papersListEl.appendChild(more);
+    }
+    return;
+  }
+
+  if (!hotItems.length) {
+    const empty = document.createElement("p");
+    empty.className = "curated-board-empty";
+    empty.textContent = "当前暂无最新热议论文数据。";
+    papersListEl.appendChild(empty);
+    return;
+  }
+  hotItems.forEach((paper, index) => {
+    const url = safeCuratedUrl(paper.url);
+    if (!url) return;
+    const discussionUrl = safeCuratedUrl(paper.discussion_url);
+    const card = document.createElement("article");
+    card.className = "paper-card paper-hot";
+    const top = document.createElement("div");
+    top.className = "paper-card-top";
+    const rank = document.createElement("span");
+    rank.className = "paper-hot-rank";
+    rank.textContent = `HOT ${String(index + 1).padStart(2, "0")}`;
+    const upvotes = document.createElement("span");
+    upvotes.className = "paper-hot-stat";
+    upvotes.textContent = `▲ ${Number(paper.upvotes) || 0}`;
+    const comments = document.createElement("span");
+    comments.className = "paper-hot-stat";
+    comments.textContent = `💬 ${Number(paper.comments) || 0}`;
+    const date = document.createElement("span");
+    date.className = "paper-venue";
+    date.textContent = fmtTime(paper.published_at);
+    top.append(rank, upvotes, comments, date);
+    const title = document.createElement("a");
+    title.className = "paper-title";
+    title.href = url;
+    title.target = "_blank";
+    title.rel = "noopener noreferrer";
+    title.textContent = paper.title || "未命名论文";
+    const authors = document.createElement("p");
+    authors.className = "paper-authors";
+    const authorList = Array.isArray(paper.authors) ? paper.authors : [];
+    authors.textContent = authorList.length
+      ? `作者：${authorList.slice(0, 5).join("、")}${authorList.length > 5 ? " 等" : ""}`
+      : "作者信息以 arXiv 原文为准";
+    const summary = document.createElement("p");
+    summary.className = "paper-summary";
+    summary.textContent = paper.summary || "";
+    summary.hidden = !paper.summary;
+    const keywords = document.createElement("div");
+    keywords.className = "paper-keywords";
+    (Array.isArray(paper.keywords) ? paper.keywords.slice(0, 6) : []).forEach((keyword) => {
+      const tag = document.createElement("span");
+      tag.textContent = keyword;
+      keywords.appendChild(tag);
+    });
+    const footer = document.createElement("div");
+    footer.className = "paper-footer";
+    const source = document.createElement("span");
+    source.textContent = `arXiv ${paper.id || ""}`;
+    const arxivLink = document.createElement("a");
+    arxivLink.href = url;
+    arxivLink.target = "_blank";
+    arxivLink.rel = "noopener noreferrer";
+    arxivLink.textContent = "arXiv 原文 ↗";
+    footer.append(source, arxivLink);
+    if (discussionUrl) {
+      const discussionLink = document.createElement("a");
+      discussionLink.href = discussionUrl;
+      discussionLink.target = "_blank";
+      discussionLink.rel = "noopener noreferrer";
+      discussionLink.textContent = "讨论页 ↗";
+      footer.appendChild(discussionLink);
+    }
+    card.append(top, title, authors, summary, keywords, footer);
+    papersListEl.appendChild(card);
+  });
 }
 // ---- 主列表数据池：精选模式=mergedStories() 全量（纯时间倒序），全量模式=原始条目池 ----
 
@@ -2532,6 +2761,7 @@ function renderHotBoard() {
   renderDouyinPicks();
   renderGithubRankings();
   renderAuthorityVoices();
+  renderPapers();
   if (!hotBoardListEl) return;
   const show = state.mode === "selected";
   if (hotBoardWrapEl) hotBoardWrapEl.hidden = !show;
@@ -2986,8 +3216,14 @@ async function loadAuthorityVoicesData() {
   return res.json();
 }
 
+async function loadPapersData() {
+  const res = await fetch(`${dataUrl("data/papers.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "papers.json", status: res.status }));
+  return res.json();
+}
+
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult, papersResult] = await Promise.allSettled([
     loadNewsData(),
     IS_EN ? Promise.resolve(null) : loadWaytoagiData(),
     loadSourceStatusData(),
@@ -2996,6 +3232,7 @@ async function init() {
     loadTop3PersonasData(),
     loadGithubRankingsData(),
     loadAuthorityVoicesData(),
+    loadPapersData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
@@ -3024,6 +3261,7 @@ async function init() {
 
   state.githubRankings = githubResult.status === "fulfilled" ? githubResult.value : null;
   state.authorityVoices = authorityResult.status === "fulfilled" ? authorityResult.value : null;
+  state.papers = papersResult.status === "fulfilled" ? papersResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
@@ -3176,6 +3414,23 @@ if (dataSourceResetBtnEl) {
   dataSourceResetBtnEl.addEventListener("click", () => {
     try { localStorage.removeItem("dataBaseUrl"); } catch {}
     window.location.href = window.location.pathname;
+  });
+}
+
+if (papersAuthoritativeBtnEl) {
+  papersAuthoritativeBtnEl.addEventListener("click", () => {
+    state.paperMode = "authoritative";
+    state.paperCategory = "all";
+    state.papersVisibleCount = 12;
+    renderPapers();
+  });
+}
+
+if (papersHotBtnEl) {
+  papersHotBtnEl.addEventListener("click", () => {
+    state.paperMode = "hot";
+    state.papersVisibleCount = 10;
+    renderPapers();
   });
 }
 

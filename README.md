@@ -10,6 +10,8 @@
 - **抖音科普选题**：从近 48 小时信息流挑选 5 条，并给出讲解角度
 - **GitHub 周/月热榜**：官方 Trending 周榜与月榜 TOP10
 - **AI 权威观点与会议**：近 90 天官方实验室、研究机构、会议官方与深度访谈
+- **AI 权威论文**：人工精选 40 篇不限年代里程碑论文 + Hugging Face Daily Papers 近 21 天热议 TOP10
+- **首页总览与词云**：词云优先展示具体模型、产品、组织和技术路线，每 5 分钟检查最新数据
 - **分类栏目**：全部 / GitHub / 开源 / 科技 / AI / 论文
 - **精选与全部**：精选看聚合事件，全部看原始条目
 - **只看一手**：只保留官方来源与研究/预印本
@@ -62,6 +64,8 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 - GitHub 热榜直接读取 GitHub 官方 Trending 页面，不以二手榜单代替。
 - AI 权威观点与会议使用白名单来源；保留原文标题、摘要、发布时间和链接，明确区分访谈/观点与会议官方信息。
 - 对快讯、客户案例、纯产品发布和未确认传闻默认过滤，不将观点包装成事实。
+- 权威论文 40 篇为编辑策展的里程碑清单，不按时间限制；最新热议 10 篇来自 Hugging Face Daily Papers，按点赞、评论与时效综合排序。
+- 词云依据公开信息流和论文主题计算，不宣称为搜索引擎真实搜索量。
 - 不承诺 100% 无误；涉及关键数字、结论和争议事件时，应以一手原文或论文为准。
 
 ## 本地运行
@@ -87,13 +91,15 @@ node scripts/build_i18n.mjs --check
 
 ## 目录
 
-- `index.html`：手机看板主页面
+- `index.html`：总览首页、AI 热点词云与子页面索引
+- `dashboard.html`：今日情报、抖音选题、GitHub 热榜、权威论文和权威观点子页面
 - `setup.html`：手机安装与来源说明
 - `assets/app.js`：看板筛选、栏目、卡片和交互
 - `assets/styles.css`：响应式视觉样式
 - `scripts/update_news.py`：采集、分类、聚合、来源等级
 - `scripts/update_github_rankings.py`：GitHub 官方周/月 Trending 采集
 - `scripts/update_authority_voices.py`：AI 权威观点、会议与访谈白名单采集
+- `scripts/update_papers.py`：40 篇权威论文与 10 篇最新热议论文
 - `feeds/follow.example.opml`：公开的一手优先订阅源
 - `.github/workflows/update-news.yml`：每小时采集与 Pages 数据更新
 - `data/`：看板读取的 JSON 快照

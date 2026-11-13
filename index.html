@@ -14,8 +14,8 @@
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/home.css?v=overview-1016a" />
-    <script src="./assets/home.js?v=overview-1016a" defer></script>
+    <link rel="stylesheet" href="./assets/home.css?v=overview-1021a" />
+    <script src="./assets/home.js?v=overview-1021a" defer></script>
   </head>
   <body>
     <main class="overview-shell">
@@ -65,7 +65,7 @@
           <span class="word-cloud-live"><i aria-hidden="true"></i> 每 5 分钟检查更新</span>
         </div>
         <div class="word-cloud" id="wordCloud" aria-live="polite"></div>
-        <p class="word-cloud-note">词云依据近 24 小时公开信息流的标题、信号词、来源等级和时效计算；它反映信息热度，不等同于搜索引擎的真实搜索量。</p>
+        <p class="word-cloud-note">词云依据近 24 小时公开信息流的标题、信号词、来源等级和时效计算；它反映信息热度，不等同于搜索引擎的真实搜索量。</p>        <div class="word-cloud-details" id="wordCloudDetails" aria-label="热词相关线索"></div>
       </section>
 
       <section class="overview-index-section" aria-labelledby="indexTitle">
@@ -101,6 +101,15 @@
             <div class="index-card-meta"><strong id="overviewGithubCount">--</strong><span>个仓库 · 周榜 / 月榜</span></div>
             <span class="index-card-link">进入 GitHub 热榜 <i aria-hidden="true">↗</i></span>
           </a>
+          <a class="overview-index-card card-papers" href="dashboard.html?view=papers">
+            <span class="index-number">05</span>
+            <span class="index-kicker">PAPER FRONTIER</span>
+            <h3>AI 权威论文</h3>
+            <p>40 篇不限年代的里程碑论文，加上 10 篇近 21 天讨论度最高的最新论文。</p>
+            <div class="index-card-meta"><strong id="overviewPaperCount">--</strong><span>篇权威经典 · <b id="overviewHotPaperCount">--</b> 篇最新热议</span></div>
+            <span class="index-card-link">进入论文库 <i aria-hidden="true">↗</i></span>
+          </a>
+
           <a class="overview-index-card card-voices" href="dashboard.html?view=voices">
             <span class="index-number">04</span>
             <span class="index-kicker">AI VOICES</span>
@@ -129,6 +138,7 @@
         <span>TechPulse · 官方源优先 · 原文可追溯</span>
         <div>
           <a href="dashboard.html?view=news">今日情报</a>
+          <a href="dashboard.html?view=papers">权威论文</a>
           <a href="setup.html">安装到手机</a>
           <a href="dashboard.html?view=news#sourceHealth">来源与方法</a>
         </div>

@@ -41,6 +41,11 @@
       "short_name": "权威观点",
       "name": "AI 权威观点",
       "url": "./dashboard.html?view=voices"
+    },
+    {
+      "name": "AI 权威论文",
+      "short_name": "论文",
+      "url": "./dashboard.html?view=papers"
     }
   ]
 }
