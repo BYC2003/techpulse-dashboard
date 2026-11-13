@@ -20,6 +20,7 @@
 - **来源健康状态**：失败来源单独显示，不阻断整页
 - **原文直达**：每张卡片保留原始链接
 - **手机安装**：Chrome 添加到主屏幕
+- **手机一键同步**：首页右上角“立即同步”，首次配置 Fine-grained Token 后直接触发最新采集
 
 ## 内容范围
 
@@ -51,6 +52,7 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 
 - GitHub Actions 主任务每小时检查一次来源（UTC `17 * * * *`）。
 - Freshness Watchdog 每 15 分钟检查快照；超过 70 分钟未更新时自动派发主任务。
+- 首页“立即同步”可在手机上手动触发采集；Token 仅保存在当前设备浏览器。
 - 主任务提交前会验证快照时间和条目数，避免出现“运行成功但数据未变化”。
 - 实际到达时间取决于 RSS 发布时间、上游缓存和 GitHub Actions 排队。
 - 这不是秒级实时系统；如果要求官方发布后几分钟内必达，需要换用常驻服务器或 Cloudflare Worker Cron。
@@ -103,6 +105,7 @@ node scripts/build_i18n.mjs --check
 - `scripts/update_authority_voices.py`：AI 权威观点、会议与访谈白名单采集
 - `scripts/update_papers.py`：40 篇权威论文与 10 篇最新热议论文
 - `scripts/check_snapshot_age.py`：检查快照是否过期和是否包含数据
+- `assets/home.js`：首页词云、快照和手机一键同步交互
 - `feeds/follow.example.opml`：公开的一手优先订阅源
 - `.github/workflows/update-news.yml`：每小时采集与 Pages 数据更新
 - `.github/workflows/freshness-watchdog.yml`：每 15 分钟检查快照并自动派发更新
