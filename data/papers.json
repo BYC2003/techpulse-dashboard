@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:57:17.133449+00:00",
+  "generated_at": "2026-11-13T15:39:16.075515+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -408,6 +408,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.15777",
+        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+        "authors": [
+          "Lichen Li",
+          "Ziping Dong",
+          "Sicheng Feng",
+          "Qi Li",
+          "Xinchao Wang"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 71,
+        "comments": 1,
+        "discussion_score": 712.87,
+        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+        "keywords": [
+          "System One models",
+          "token generation",
+          "SO-Arena",
+          "capability spectrum",
+          "decision reliability",
+          "evidence-grounded evaluation",
+          "manual verification",
+          "reference labels"
+        ],
+        "url": "https://arxiv.org/abs/2611.15777",
+        "arxiv_url": "https://arxiv.org/abs/2611.15777",
+        "discussion_url": "https://huggingface.co/papers/2611.15777",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.14320",
         "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
         "authors": [
@@ -464,36 +494,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.15777",
-        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
-        "authors": [
-          "Lichen Li",
-          "Ziping Dong",
-          "Sicheng Feng",
-          "Qi Li",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 64,
-        "comments": 1,
-        "discussion_score": 642.88,
-        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
-        "keywords": [
-          "System One models",
-          "token generation",
-          "SO-Arena",
-          "capability spectrum",
-          "decision reliability",
-          "evidence-grounded evaluation",
-          "manual verification",
-          "reference labels"
-        ],
-        "url": "https://arxiv.org/abs/2611.15777",
-        "arxiv_url": "https://arxiv.org/abs/2611.15777",
-        "discussion_url": "https://huggingface.co/papers/2611.15777",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.12885",
         "title": "World In-Context Learning for Agentic Robot Manipulation",
         "authors": [
@@ -531,7 +531,7 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "upvotes": 44,
         "comments": 3,
-        "discussion_score": 446.26,
+        "discussion_score": 446.25,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -558,9 +558,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 42,
+        "upvotes": 43,
         "comments": 1,
-        "discussion_score": 422.83,
+        "discussion_score": 432.83,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
