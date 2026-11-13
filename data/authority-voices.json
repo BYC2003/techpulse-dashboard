@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T14:55:31.022243+00:00",
+  "generated_at": "2026-11-13T14:57:13.162092+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
   "item_count": 24,
-  "ok_source_count": 10,
+  "ok_source_count": 8,
   "source_count": 10,
   "sources": [
     {
@@ -13,11 +13,10 @@
       "url": "https://blog.neurips.cc/feed/",
       "kind": "conference",
       "trust": "official",
-      "ok": true,
-      "items_scanned": 10,
-      "items_kept": 4,
-      "error": "",
-      "latest_at": "2026-11-08T12:14:15+00:00"
+      "ok": false,
+      "items_scanned": 0,
+      "items_kept": 0,
+      "error": "feed has no entries"
     },
     {
       "id": "iclr_blog",
@@ -25,11 +24,10 @@
       "url": "https://blog.iclr.cc/feed/",
       "kind": "conference",
       "trust": "official",
-      "ok": true,
-      "items_scanned": 10,
-      "items_kept": 2,
-      "error": "",
-      "latest_at": "2026-09-10T16:02:25+00:00"
+      "ok": false,
+      "items_scanned": 0,
+      "items_kept": 0,
+      "error": "feed has no entries"
     },
     {
       "id": "google_research",
@@ -355,21 +353,6 @@
       "is_opinion": false
     },
     {
-      "id": "3f784b09aef19462",
-      "title": "NeurIPS Newsletter – October 2026",
-      "url": "https://blog.neurips.cc/2026/11/08/neurips-newsletter-october-2026/",
-      "summary": "Welcome to the October edition of the NeurIPS monthly Newsletter! The NeurIPS Newsletter aims to provide an easy way to keep up to date with NeurIPS events and planning progress, respond to requests for feedback and participation, and find information about new initiatives. This newsletter will focus on NeurIPS 2026,…",
-      "published_at": "2026-11-08T12:14:15+00:00",
-      "source_id": "neurips_blog",
-      "source_name": "NeurIPS Blog",
-      "source_kind": "conference",
-      "category": "conference",
-      "trust": "official",
-      "trust_label": "会议官方",
-      "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "331208b87ed8db56",
       "title": "The benchmark where AIs have to lie to win",
       "url": "https://www.dwarkesh.com/p/clocktower",
@@ -415,21 +398,6 @@
       "is_opinion": false
     },
     {
-      "id": "8734693d6a7d51d9",
-      "title": "MLRC 2026: Announcing the Accepted Papers",
-      "url": "https://blog.neurips.cc/2026/11/04/mlrc-2026-announcing-the-accepted-papers/",
-      "summary": "We are delighted to announce the 16 papers accepted to the Machine Learning Reproducibility Challenge (MLRC) 2026, an official NeurIPS 2026 track. The papers will be presented in person at NeurIPS 2026 in Sydney, Australia (December 6–13, 2026), alongside papers from the Main Track and the Evaluations &#38; Datasets T…",
-      "published_at": "2026-11-04T08:16:31+00:00",
-      "source_id": "neurips_blog",
-      "source_name": "NeurIPS Blog",
-      "source_kind": "conference",
-      "category": "conference",
-      "trust": "official",
-      "trust_label": "会议官方",
-      "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "bad226b844df13ba",
       "title": "Learn the rules: The hacker mindset",
       "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
@@ -460,21 +428,6 @@
       "is_opinion": false
     },
     {
-      "id": "1afb4f7d248a1065",
-      "title": "NeurIPS 2026 Invited Speaker Topics",
-      "url": "https://blog.neurips.cc/2026/10/25/neurips-2026-invited-speaker-topics/",
-      "summary": "The NeurIPS 2026 organizing committee is excited to share details about the upcoming invited talks at this year’s conference. New this year,&#160; the conference is held in three locations, each with its own speakers. Our distinguished lineup includes six speakers for the main Sydney location, four speakers for Paris…",
-      "published_at": "2026-10-25T22:31:57+00:00",
-      "source_id": "neurips_blog",
-      "source_name": "NeurIPS Blog",
-      "source_kind": "conference",
-      "category": "conference",
-      "trust": "official",
-      "trust_label": "会议官方",
-      "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "7595746fe954ac43",
       "title": "Bringing foundational models to the front lines of TB screening",
       "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
@@ -488,6 +441,51 @@
       "trust_label": "研究机构",
       "verification": "研究机构原文，以论文或原文为准",
       "is_opinion": false
+    },
+    {
+      "id": "c022cd8e3f9b7139",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "published_at": "2026-10-15T16:08:03+00:00",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
+    {
+      "id": "a14d7708b28f29c5",
+      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "summary": "&#8220;We never want to be in a situation again where we underestimate the AI.&#8221;",
+      "published_at": "2026-09-17T15:38:13+00:00",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Podcast",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "f90dec19186ca7cb",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "&#8220;We're nowhere near the ceiling.&#8221;",
+      "published_at": "2026-09-11T16:28:11+00:00",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Podcast",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
     }
   ]
 }
