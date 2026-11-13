@@ -38,6 +38,7 @@ const state = {
   officialOnly: false,
   mainListVisibleCount: 0,
   xAuthorsExpanded: false,
+  douyinPickRound: 0,
 };
 
 // DATA_BASE_URL 数据同源开关：优先级 ?data= 查询参数 > localStorage("dataBaseUrl") > "" (相对路径，原行为)
@@ -96,6 +97,10 @@ const officialOnlyBtnEl = document.getElementById("officialOnlyBtn");
 const hotBoardWrapEl = document.getElementById("hotBoardWrap");
 const hotBoardListEl = document.getElementById("hotBoardList");
 const hotBoardMetaEl = document.getElementById("hotBoardMeta");
+const douyinPicksWrapEl = document.getElementById("douyinPicksWrap");
+const douyinPicksListEl = document.getElementById("douyinPicksList");
+const douyinPicksMetaEl = document.getElementById("douyinPicksMeta");
+const douyinPicksRefreshBtnEl = document.getElementById("douyinPicksRefreshBtn");
 const top3BoardWrapEl = document.getElementById("top3BoardWrap");
 const top3BoardListEl = document.getElementById("top3BoardList");
 const top3BoardMetaEl = document.getElementById("top3BoardMeta");
@@ -654,6 +659,7 @@ function renderModeSwitch() {
   }
   if (listTitleEl) listTitleEl.textContent = listTitleText();
   renderClearFiltersButton();
+  renderDouyinPicks();
 }
 
 function listTitleText() {
@@ -1444,6 +1450,304 @@ function hotBoardEntries() {
     .map((story, index) => storyToRow(story, index));
 }
 
+// ---- 抖音科普选题：规则化挑选，不调用付费模型 ----
+const DOUYIN_PICK_LIMIT = 5;
+const DOUYIN_PICK_ROUNDS = 3;
+const DOUYIN_BUCKET_DEFS = [
+  {
+    id: "research",
+    label: IS_EN ? "Research & safety" : "研究与安全",
+    signal: IS_EN ? "Explain the science" : "原理拆解",
+    angle: IS_EN
+      ? "Start with the real problem, explain the mechanism with a simple analogy, then show what changes for ordinary people."
+      : "先讲它解决的真实问题，再用生活化类比拆原理，最后说普通人何时能感受到。",
+    pattern: /研究|论文|benchmark|基准|dna|基因|细胞|疾病|医学|医疗|科学|机器人|robotics|隐私保护/i,
+  },
+  {
+    id: "opensource",
+    label: IS_EN ? "Open source" : "开源与开发",
+    signal: IS_EN ? "Try it yourself" : "可跟练",
+    angle: IS_EN
+      ? "Explain what was open-sourced, how it differs from closed models, and who can actually use it."
+      : "讲清开源了什么、和闭源差在哪、开发者或普通人能不能直接使用。",
+    pattern: /开源|open[- ]?source|github|apache|权重|sdk|cli|mcp|开发者|编程|coding|代码|repo|仓库/i,
+  },
+  {
+    id: "society",
+    label: IS_EN ? "Society & education" : "社会与教育",
+    signal: IS_EN ? "Real-world impact" : "社会影响",
+    angle: IS_EN
+      ? "Open with one person and one concrete scene, then explain the rule change, the controversy and the boundary."
+      : "从一个具体的人和场景切入，再解释规则变化、争议和边界。",
+    pattern: /作弊|教育|学生|大学|考试|老师|学校|职场|就业|工作方式|儿童|青少年|版权|确权|法律|法院|监管|政策|伦理|隐私|安全|风险|社会|争议|用户不买账/i,
+  },
+  {
+    id: "business",
+    label: IS_EN ? "Industry & business" : "行业与商业",
+    signal: IS_EN ? "Follow the money" : "利益与格局",
+    angle: IS_EN
+      ? "Start with what changed in money and competition, then translate it into user choice, pricing or jobs."
+      : "先讲钱和格局发生了什么，再落到用户选择、价格或工作机会。",
+    pattern: /营收|融资|ipo|收购|裁员|诉讼|投资|估值|上市|交易|市场|竞争|成本|价格|收费|免费|用户|访问量|亿美元|万元|折扣|促销|业务/i,
+  },
+  {
+    id: "model",
+    label: IS_EN ? "Models & capability" : "模型与能力",
+    signal: IS_EN ? "Side-by-side test" : "能力对比",
+    angle: IS_EN
+      ? "Use the same task to compare old and new models, then explain the gain, the limit and the practical use."
+      : "用同一道题做新旧或同类对比，讲清能力提升、局限和实际用途。",
+    pattern: /大模型|模型|gemini|gpt|claude|qwen|deepseek|llama|grok|文心|千问|ernie|copilot|多模态|推理|语音|图像|视频|agent|智能体/i,
+  },
+  {
+    id: "product",
+    label: IS_EN ? "Products & workflows" : "产品与应用",
+    signal: IS_EN ? "Live demo" : "上手演示",
+    angle: IS_EN
+      ? "Show it live: how people did this before, how they do it now, and who benefits most."
+      : "做一次直观演示，按“以前怎么做、现在怎么做、谁最受益”展开。",
+    pattern: /.*/i,
+  },
+];
+const DOUYIN_BUCKET_BY_ID = Object.fromEntries(DOUYIN_BUCKET_DEFS.map((bucket) => [bucket.id, bucket]));
+const DOUYIN_UI = IS_EN
+  ? {
+      loading: "Picking today's topics...",
+      meta: "{n} topics · set {round}/{rounds}",
+      empty: "No suitable creator topics in the current data snapshot.",
+      angleLabel: "How to tell it",
+      source: "Source",
+      open: "Open source ↗",
+      potential: "Story potential",
+      refreshed: "Next batch",
+    }
+  : {
+      loading: "正在挑选今日选题...",
+      meta: "{n} 条 · 第 {round}/{rounds} 组",
+      empty: "当前数据里暂时没有足够合适的科普选题。",
+      angleLabel: "怎么讲",
+      source: "来源",
+      open: "打开原文 ↗",
+      potential: "科普潜力",
+      refreshed: "换一批",
+    };
+
+function douyinStoryUrl(story) {
+  const value = story?.primary_url || story?.url || storyRepresentativeItem(story)?.url || "";
+  try {
+    const url = new URL(value);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
+function douyinSourceName(story) {
+  return story?.primary_item?.source
+    || story?.source
+    || (Array.isArray(story?.source_names) ? story.source_names[0] : "")
+    || t("common.source");
+}
+
+function douyinBucketForTitle(title) {
+  return DOUYIN_BUCKET_DEFS.find((bucket) => bucket.pattern.test(title))?.id || "product";
+}
+
+function douyinPickEligible(story) {
+  const title = storyPrimaryTitleText(story).trim();
+  const raw = `${title} ${douyinStoryUrl(story)}`;
+  if (title.length < 8 || title === t("common.untitled")) return false;
+  if (/changelog|release notes|patch notes|更新日志|版本说明/i.test(raw)) return false;
+  if (/customer stor(?:y|ies)|\/customer-stories\/|客户案例|企业案例|case study|借助AI重新思考|rethink(?:s)? the business/i.test(raw)) return false;
+  if (/webinar|podcast|newsletter|招聘|hiring|job opening|活动报名|赞助/i.test(title)) return false;
+  if (/^(?:[A-Za-z0-9 ._-]+\s+)?v?\d+(?:\.\d+){2,}$/.test(title)) return false;
+  return true;
+}
+
+function douyinTalkability(title) {
+  const value = String(title || "").toLowerCase();
+  let score = 0;
+  if (/发布|上线|推出|亮相|available|launch|release/.test(value)) score += 12;
+  if (/普通人|生活|工作|办公|教育|学生|老师|医疗|健康|家庭|手机|电脑|开车|车机/.test(value)) score += 18;
+  if (/安全|隐私|监管|风险|作弊|法律|版权|确权|争议/.test(value)) score += 13;
+  if (/开源|免费|价格|成本|降价|省钱|亿美元|营收/.test(value)) score += 11;
+  if (/首次|第一|最强|翻倍|创纪录|碾压|对比|取代|替代/.test(value)) score += 9;
+  if (/\d|%/.test(value)) score += 5;
+  if (title.length >= 10 && title.length <= 48) score += 8;
+  return Math.min(40, score);
+}
+
+function douyinPickScore(story, title) {
+  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
+  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 48;
+  const recency = Math.max(0, 100 - ageHours * 2);
+  const sourceBoost = Math.min(5, storySourceCount(story)) * 4;
+  const firstPartyBoost = storyIsFirstParty(story) ? 8 : 0;
+  const raw = storyScore(story) * 0.52 + recency * 0.16 + sourceBoost + firstPartyBoost + douyinTalkability(title);
+  return Math.max(1, Math.min(99, Math.round(raw)));
+}
+
+function douyinPickTags(story, bucketId, title) {
+  const tags = [];
+  const bucket = DOUYIN_BUCKET_BY_ID[bucketId];
+  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
+  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 48;
+  if (storySourceCount(story) >= 3) tags.push(IS_EN ? "Multi-source" : "多源关注");
+  if (storyIsFirstParty(story)) tags.push(IS_EN ? "First-party" : "一手信源");
+  if (ageHours <= 12) tags.push(IS_EN ? "Fresh today" : "今日热点");
+  if (/开源|权重|open[- ]?source|github/i.test(title)) tags.push(IS_EN ? "Try it" : "可跟练");
+  if (/价格|成本|营收|免费|降价/.test(title)) tags.push(IS_EN ? "Cost angle" : "成本视角");
+  if (/学生|教育|工作|生活|医疗|健康|开车|家庭/.test(title)) tags.push(IS_EN ? "Everyday impact" : "贴近生活");
+  tags.push(bucket?.signal || (IS_EN ? "Explainable" : "可解释"));
+  return Array.from(new Set(tags)).slice(0, 3);
+}
+
+function douyinPickCandidates() {
+  const groups = new Map(DOUYIN_BUCKET_DEFS.map((bucket) => [bucket.id, []]));
+  mergedStories().forEach((story) => {
+    if (!douyinPickEligible(story)) return;
+    const title = storyPrimaryTitleText(story).trim();
+    const url = douyinStoryUrl(story);
+    if (!url) return;
+    const bucketId = douyinBucketForTitle(title);
+    const candidate = {
+      story,
+      title,
+      url,
+      bucketId,
+      sourceName: douyinSourceName(story),
+      score: douyinPickScore(story, title),
+      tags: douyinPickTags(story, bucketId, title),
+      latestMs: storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at"),
+    };
+    groups.get(bucketId)?.push(candidate);
+  });
+  groups.forEach((rows) => rows.sort((a, b) => b.score - a.score || b.latestMs - a.latestMs));
+  return groups;
+}
+
+function douyinPicks() {
+  const groups = douyinPickCandidates();
+  const round = Math.max(0, Number(state.douyinPickRound) || 0) % DOUYIN_PICK_ROUNDS;
+  const picked = [];
+  const pickedIds = new Set();
+  const add = (candidate) => {
+    if (!candidate || pickedIds.has(candidate.story.story_id) || picked.length >= DOUYIN_PICK_LIMIT) return;
+    picked.push(candidate);
+    pickedIds.add(candidate.story.story_id);
+  };
+
+  // 每个方向先取一条；切换“换一批”时轮换到各方向下一候选，避免总是同五条。
+  const preferred = DOUYIN_BUCKET_DEFS.map((bucket) => {
+    const rows = groups.get(bucket.id) || [];
+    if (!rows.length) return null;
+    return rows[Math.min(round, rows.length - 1)];
+  }).filter(Boolean).sort((a, b) => b.score - a.score || b.latestMs - a.latestMs);
+  preferred.forEach(add);
+
+  if (picked.length < DOUYIN_PICK_LIMIT) {
+    const leftovers = Array.from(groups.values())
+      .flat()
+      .filter((candidate) => !pickedIds.has(candidate.story.story_id))
+      .sort((a, b) => b.score - a.score || b.latestMs - a.latestMs);
+    leftovers.forEach(add);
+  }
+
+  return picked.sort((a, b) => b.score - a.score || b.latestMs - a.latestMs).slice(0, DOUYIN_PICK_LIMIT);
+}
+
+function renderDouyinPicks() {
+  if (!douyinPicksWrapEl || !douyinPicksListEl) return;
+  const visible = state.mode === "selected"
+    && state.activeSection === "all"
+    && !state.query.trim()
+    && !state.siteFilter
+    && !state.authorFilter
+    && !state.officialOnly;
+  douyinPicksWrapEl.hidden = !visible;
+  if (!visible) return;
+
+  const picks = douyinPicks();
+  if (douyinPicksMetaEl) {
+    douyinPicksMetaEl.textContent = picks.length
+      ? DOUYIN_UI.meta
+          .replace("{n}", String(picks.length))
+          .replace("{round}", String((Number(state.douyinPickRound) || 0) % DOUYIN_PICK_ROUNDS + 1))
+          .replace("{rounds}", String(DOUYIN_PICK_ROUNDS))
+      : DOUYIN_UI.loading;
+  }
+  if (douyinPicksRefreshBtnEl) douyinPicksRefreshBtnEl.disabled = picks.length < 2;
+  douyinPicksListEl.replaceChildren();
+
+  if (!picks.length) {
+    const empty = document.createElement("p");
+    empty.className = "douyin-picks-empty";
+    empty.textContent = DOUYIN_UI.empty;
+    douyinPicksListEl.appendChild(empty);
+    return;
+  }
+
+  picks.forEach((pick, index) => {
+    const card = document.createElement("article");
+    card.className = "douyin-pick-card";
+    card.dataset.bucket = pick.bucketId;
+
+    const rank = document.createElement("span");
+    rank.className = "douyin-pick-rank";
+    rank.textContent = String(index + 1).padStart(2, "0");
+
+    const body = document.createElement("div");
+    body.className = "douyin-pick-body";
+
+    const top = document.createElement("div");
+    top.className = "douyin-pick-top";
+    const bucket = document.createElement("span");
+    bucket.className = "douyin-pick-bucket";
+    bucket.textContent = DOUYIN_BUCKET_BY_ID[pick.bucketId]?.label || pick.bucketId;
+    const potential = document.createElement("span");
+    potential.className = "douyin-pick-potential";
+    potential.textContent = `${DOUYIN_UI.potential} ${pick.score}`;
+    top.append(bucket, potential);
+
+    const title = document.createElement("a");
+    title.className = "douyin-pick-title";
+    title.href = pick.url;
+    title.target = "_blank";
+    title.rel = "noopener noreferrer";
+    title.textContent = pick.title;
+
+    const angle = document.createElement("p");
+    angle.className = "douyin-pick-angle";
+    const angleLabel = document.createElement("strong");
+    angleLabel.textContent = `${DOUYIN_UI.angleLabel}：`;
+    angle.append(angleLabel, document.createTextNode(DOUYIN_BUCKET_BY_ID[pick.bucketId]?.angle || ""));
+
+    const tags = document.createElement("div");
+    tags.className = "douyin-pick-tags";
+    pick.tags.forEach((tagText) => {
+      const tag = document.createElement("span");
+      tag.textContent = tagText;
+      tags.appendChild(tag);
+    });
+
+    const footer = document.createElement("div");
+    footer.className = "douyin-pick-footer";
+    const source = document.createElement("span");
+    source.className = "douyin-pick-source";
+    source.textContent = `${DOUYIN_UI.source} · ${pick.sourceName} · ${fmtUpdatedRelative(pick.latestMs)}`;
+    const open = document.createElement("a");
+    open.href = pick.url;
+    open.target = "_blank";
+    open.rel = "noopener noreferrer";
+    open.textContent = DOUYIN_UI.open;
+    footer.append(source, open);
+
+    body.append(top, title, angle, tags, footer);
+    card.append(rank, body);
+    douyinPicksListEl.appendChild(card);
+  });
+}
+
 // ---- 主列表数据池：精选模式=mergedStories() 全量（纯时间倒序），全量模式=原始条目池 ----
 
 function mainListStoriesBase() {
@@ -1774,6 +2078,9 @@ function buildHotRow(row, rank) {
   rankEl.className = "hot-row-rank";
   rankEl.textContent = `#${rank}`;
 
+  const bodyEl = document.createElement("div");
+  bodyEl.className = "hot-row-body";
+
   const titleEl = document.createElement("a");
   titleEl.className = "hot-row-title";
   titleEl.target = "_blank";
@@ -1824,7 +2131,8 @@ function buildHotRow(row, rank) {
     metaEl.textContent = `${t("hot.sources", { n: sourceCount })} · ${relTime}`;
   }
 
-  el.append(rankEl, titleEl, metaEl);
+  bodyEl.append(titleEl, metaEl);
+  el.append(rankEl, bodyEl);
   return el;
 }
 
@@ -1933,7 +2241,12 @@ function renderMainList() {
       dot.className = "timeline-dot";
       rail.append(timeLabel, dot);
       timelineItem.appendChild(rail);
-      timelineItem.appendChild(renderItemNode(row));
+      const card = renderItemNode(row);
+      const cardTimeLabel = document.createElement("span");
+      cardTimeLabel.className = "timeline-mobile-time";
+      cardTimeLabel.textContent = fmtHHMM(timeMs);
+      card.querySelector(".meta-row")?.prepend(cardTimeLabel);
+      timelineItem.appendChild(card);
       frag.appendChild(timelineItem);
     });
     newsListEl.appendChild(frag);
@@ -1980,6 +2293,7 @@ function renderTop3Board() {
 // 热点排行区：不设固定条数，展示条数取决于当前有多少条满足多信源热度阈值（HOT_BOARD_LIMIT 只是技术兜底）。
 function renderHotBoard() {
   renderTop3Board();
+  renderDouyinPicks();
   if (!hotBoardListEl) return;
   const show = state.mode === "selected";
   if (hotBoardWrapEl) hotBoardWrapEl.hidden = !show;
@@ -2604,6 +2918,13 @@ if (dataSourceResetBtnEl) {
   dataSourceResetBtnEl.addEventListener("click", () => {
     try { localStorage.removeItem("dataBaseUrl"); } catch {}
     window.location.href = window.location.pathname;
+  });
+}
+
+if (douyinPicksRefreshBtnEl) {
+  douyinPicksRefreshBtnEl.addEventListener("click", () => {
+    state.douyinPickRound = ((Number(state.douyinPickRound) || 0) + 1) % DOUYIN_PICK_ROUNDS;
+    renderDouyinPicks();
   });
 }
 

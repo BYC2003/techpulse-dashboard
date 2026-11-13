@@ -37,11 +37,11 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=today-projects-1009a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=douyin-picks-1014a" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body>
-    <a class="skip-link" href="#hotBoardWrap">跳到近日要闻</a>
+    <a class="skip-link" href="#douyinPicksWrap">跳到抖音科普选题</a>
     <main class="shell">
       <header class="hero">
         <div class="hero-main">
@@ -61,6 +61,7 @@
           <div class="hero-links" aria-label="项目入口">
               <a class="hero-link" href="./setup.html">安装到手机</a>
               <a class="hero-link" href="#sourceHealth">来源与方法</a>
+              <a class="hero-link" href="#douyinPicksWrap">抖音选题</a>
               <a class="hero-link" href="#newsListWrap">今日情报</a>
             </div>
         </div>
@@ -117,6 +118,22 @@
           </div>
       </details>
 
+
+      <section class="list-wrap douyin-picks-wrap" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
+        <div class="douyin-picks-head">
+          <div class="douyin-picks-heading">
+            <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
+            <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
+            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间。</p>
+          </div>
+          <div class="douyin-picks-actions">
+            <span id="douyinPicksMeta">正在挑选...</span>
+            <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
+          </div>
+        </div>
+        <div class="douyin-picks-swipe-hint" aria-hidden="true">左右滑动查看 5 条选题 →</div>
+        <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
+      </section>
 
       <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="近日要闻">
         <div class="list-head">
@@ -195,6 +212,6 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=i18n-1013a" defer></script>
+    <script src="./assets/app.js?v=douyin-picks-1014a" defer></script>
   </body>
 </html>
