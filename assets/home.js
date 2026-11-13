@@ -7,6 +7,7 @@ const SYNC_BRANCH = "main";
 const SYNC_POLL_INTERVAL_MS = 10 * 1000;
 const SYNC_POLL_TIMEOUT_MS = 4 * 60 * 1000;
 const SYNC_COOLDOWN_MS = 2 * 60 * 1000;
+let syncStatusClearTimer = 0;
 const overviewState = {
   news: null,
   github: null,
@@ -261,9 +262,13 @@ function removeSyncToken() {
 
 function setSyncStatus(message, tone = "") {
   if (!overviewEls.syncStatus) return;
+  window.clearTimeout(syncStatusClearTimer);
   overviewEls.syncStatus.textContent = message || "";
   overviewEls.syncStatus.hidden = !message;
   overviewEls.syncStatus.className = `overview-sync-status${tone ? ` is-${tone}` : ""}`;
+  if (message && tone === "success") {
+    syncStatusClearTimer = window.setTimeout(() => setSyncStatus("", ""), 15000);
+  }
 }
 
 function setSyncBusy(busy) {
@@ -400,7 +405,6 @@ function bindSyncControls() {
     if (overviewEls.syncTokenInput) overviewEls.syncTokenInput.value = "";
     setSyncStatus("已清除本机 Token", "warn");
   });
-  if (getSyncToken()) setSyncStatus("同步按钮已连接", "");
   if (window.location.hash === "#sync-setup") openSyncDialog();
 }
 

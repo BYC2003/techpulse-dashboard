@@ -2481,6 +2481,7 @@ function renderItemNode(row) {
   titleEl.textContent = "";
   if (originalTitle) {
     const primary = document.createElement("span");
+    primary.className = "title-primary";
     primary.textContent = displayTitle;
     const sub = document.createElement("span");
     sub.className = "title-sub";
@@ -2495,8 +2496,23 @@ function renderItemNode(row) {
   const summaryEl = node.querySelector(".news-summary");
   if (summaryEl) {
     const summaryText = row.story ? signalSummaryText(row) : feedSummaryText(item);
+    const normalizeForCompare = (value) => String(value || "")
+      .toLowerCase()
+      .replace(/[^\p{L}\p{N}]+/gu, "");
+    const normalizedSummary = normalizeForCompare(summaryText);
+    const normalizedOriginal = normalizeForCompare(originalTitle);
+    const duplicatesOriginal = Boolean(
+      normalizedOriginal
+      && normalizedSummary
+      && normalizedSummary.length >= 12
+      && (
+        normalizedSummary === normalizedOriginal
+        || normalizedSummary.includes(normalizedOriginal)
+        || normalizedOriginal.includes(normalizedSummary)
+      ),
+    );
     summaryEl.textContent = summaryText;
-    summaryEl.hidden = !summaryText;
+    summaryEl.hidden = !summaryText || duplicatesOriginal;
   }
 
   const whyBox = node.querySelector(".why-box");
@@ -2521,13 +2537,13 @@ function renderItemNode(row) {
     }
   }
 
-  const originalLink = document.createElement("a");
+  const originalLink = node.querySelector(".news-card-footer .original-link") || document.createElement("a");
   originalLink.className = "original-link original-action";
   originalLink.href = item.url || row.story?.primary_url || row.story?.url || "#";
   originalLink.target = "_blank";
   originalLink.rel = "noopener noreferrer";
   originalLink.textContent = t("item.original");
-  metaRow.appendChild(originalLink);
+  if (!originalLink.parentElement) metaRow.appendChild(originalLink);
 
   return node;
 }
@@ -2536,24 +2552,19 @@ function renderItemNode(row) {
 // 避免和下方精选列表的完整卡片重复展示摘要/标签/为什么重要。
 function buildHotRow(row, rank) {
   const item = row.item || {};
-  const el = document.createElement("div");
+  const el = document.createElement("article");
   el.className = "hot-row";
+
+  const topEl = document.createElement("div");
+  topEl.className = "hot-row-top";
 
   const rankEl = document.createElement("span");
   rankEl.className = "hot-row-rank";
   rankEl.textContent = `#${rank}`;
 
-  const bodyEl = document.createElement("div");
-  bodyEl.className = "hot-row-body";
-
-  const titleEl = document.createElement("a");
-  titleEl.className = "hot-row-title";
-  titleEl.target = "_blank";
-  titleEl.rel = "noopener noreferrer";
-  const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
-  titleEl.textContent = displayTitle;
-  titleEl.title = displayTitle;
-  titleEl.href = item.url || row.story?.primary_url || row.story?.url || "#";
+  const curatedEl = document.createElement("span");
+  curatedEl.className = "hot-row-curated";
+  curatedEl.textContent = "精选";
 
   const metaEl = document.createElement("span");
   metaEl.className = "hot-row-meta";
@@ -2563,7 +2574,7 @@ function buildHotRow(row, rank) {
     item.site_id === "producthunt" && item.recency_basis === "updated_at",
   );
 
-  // 同一事件展开：热点行的"N 个信源"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
+  // 同一事件展开：热点卡的“N 个信源”仍可展开原始来源。
   const expandable = row.story && storySourceCount(row.story) >= 2;
   if (expandable) {
     const sourceToggle = document.createElement("button");
@@ -2588,16 +2599,43 @@ function buildHotRow(row, rank) {
       el.insertAdjacentElement("afterend", sourceList);
     });
     const sep = document.createElement("span");
-    sep.textContent = " · ";
+    sep.textContent = "·";
     const timeEl = document.createElement("span");
     timeEl.textContent = relTime;
     metaEl.append(sourceToggle, sep, timeEl);
   } else {
     metaEl.textContent = `${t("hot.sources", { n: sourceCount })} · ${relTime}`;
   }
+  topEl.append(rankEl, curatedEl, metaEl);
 
-  bodyEl.append(titleEl, metaEl);
-  el.append(rankEl, bodyEl);
+  const titleEl = document.createElement("a");
+  titleEl.className = "hot-row-title";
+  titleEl.target = "_blank";
+  titleEl.rel = "noopener noreferrer";
+  const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
+  titleEl.textContent = displayTitle;
+  titleEl.title = displayTitle;
+  titleEl.href = safeCuratedUrl(item.url || row.story?.primary_url || row.story?.url || "") || "#";
+
+  const summaryEl = document.createElement("p");
+  summaryEl.className = "hot-row-summary";
+  const summaryText = row.story ? signalSummaryText(row) : feedSummaryText(item);
+  summaryEl.textContent = summaryText;
+  summaryEl.hidden = !summaryText;
+
+  const footerEl = document.createElement("div");
+  footerEl.className = "hot-row-footer";
+  const sourceEl = document.createElement("span");
+  sourceEl.className = "hot-row-source";
+  sourceEl.textContent = item.source || item.site_name || "来源";
+  const originalEl = document.createElement("a");
+  originalEl.href = titleEl.href;
+  originalEl.target = "_blank";
+  originalEl.rel = "noopener noreferrer";
+  originalEl.textContent = t("item.original");
+  footerEl.append(sourceEl, originalEl);
+
+  el.append(topEl, titleEl, summaryEl, footerEl);
   return el;
 }
 
@@ -2707,10 +2745,15 @@ function renderMainList() {
       rail.append(timeLabel, dot);
       timelineItem.appendChild(rail);
       const card = renderItemNode(row);
-      const cardTimeLabel = document.createElement("span");
-      cardTimeLabel.className = "timeline-mobile-time";
-      cardTimeLabel.textContent = fmtHHMM(timeMs);
-      card.querySelector(".meta-row")?.prepend(cardTimeLabel);
+      const footerTime = card.querySelector(".news-card-time");
+      if (footerTime) {
+        footerTime.textContent = fmtHHMM(timeMs);
+      } else {
+        const cardTimeLabel = document.createElement("span");
+        cardTimeLabel.className = "timeline-mobile-time";
+        cardTimeLabel.textContent = fmtHHMM(timeMs);
+        card.querySelector(".meta-row")?.prepend(cardTimeLabel);
+      }
       timelineItem.appendChild(card);
       frag.appendChild(timelineItem);
     });

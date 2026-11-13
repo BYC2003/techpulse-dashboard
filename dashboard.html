@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=papers-1020a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=mobile-1023a" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body data-dashboard-view="news">
@@ -130,7 +130,7 @@
             <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
           </div>
         </div>
-        <div class="douyin-picks-swipe-hint" aria-hidden="true">左右滑动查看 5 条选题 →</div>
+        <div class="douyin-picks-swipe-hint" aria-hidden="true">上下滑动查看 5 条选题 ↓</div>
         <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
       </section>
 
@@ -190,7 +190,10 @@
 
       <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="近日要闻">
         <div class="list-head">
-          <h2>近日要闻</h2>
+          <div class="list-head-title">
+            <span class="board-eyebrow">TRENDING SIGNALS</span>
+            <h2>近日要闻</h2>
+          </div>
           <span id="hotBoardMeta">按热度排序</span>
         </div>
         <div id="hotBoardList" class="hot-board-list"></div>
@@ -221,7 +224,10 @@
 
       <section class="list-wrap" id="newsListWrap">
         <div class="list-head">
-          <h2 id="listTitle">精选</h2>
+          <div class="list-head-title">
+            <span class="board-eyebrow">CURATED SIGNALS</span>
+            <h2 id="listTitle">精选</h2>
+          </div>
           <div class="list-head-tools">
             <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
               <input id="allDedupeToggle" type="checkbox" checked />
@@ -262,9 +268,13 @@
             <span class="why-text"></span>
           </div>
           <div class="persona-slot"></div>
+          <div class="news-card-footer">
+            <span class="news-card-time"></span>
+            <a class="original-link original-action" target="_blank" rel="noopener noreferrer"></a>
+          </div>
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=papers-1020a" defer></script>
+    <script src="./assets/app.js?v=mobile-1023a" defer></script>
   </body>
 </html>

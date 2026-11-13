@@ -14,8 +14,8 @@
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/home.css?v=sync-1022a" />
-    <script src="./assets/home.js?v=sync-1022a" defer></script>
+    <link rel="stylesheet" href="./assets/home.css?v=mobile-1023a" />
+    <script src="./assets/home.js?v=mobile-1023a" defer></script>
   </head>
   <body>
     <main class="overview-shell">
@@ -30,12 +30,13 @@
         <div class="overview-header-meta">
           <button class="overview-sync-action" id="overviewSyncButton" type="button">
             <span class="overview-sync-icon" aria-hidden="true">↻</span>
-            <span id="overviewSyncLabel">立即同步</span>
+            <span class="overview-sync-label-full" id="overviewSyncLabel">立即同步</span>
+            <span class="overview-sync-label-short" aria-hidden="true">同步</span>
           </button>
           <button class="overview-sync-config" id="overviewSyncConfig" type="button" aria-label="同步设置" title="同步设置">⚙</button>
           <span class="overview-sync-status" id="overviewSyncStatus" role="status" aria-live="polite" hidden></span>
           <span class="overview-status" id="overviewSourceStatus">来源状态加载中</span>
-          <span class="overview-updated">数据更新 <strong id="overviewUpdatedAt">--</strong></span>
+          <span class="overview-updated"><span class="overview-updated-label">数据更新</span> <strong id="overviewUpdatedAt">--</strong></span>
         </div>
       </header>
 
