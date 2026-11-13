@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:06:24.920747+00:00",
+  "generated_at": "2026-11-13T20:28:29.628493+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -113,7 +113,7 @@
       "items_scanned": 20,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-05T21:05:50+00:00"
+      "latest_at": "2026-11-13T18:37:51+00:00"
     },
     {
       "id": "latent_space",
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "8935e4337eda21bf",
+      "title": "The avalanche that hit math is coming for AI development",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "summary": "Why I now expect superintelligence by 2030",
+      "published_at": "2026-11-13T18:37:51+00:00",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Podcast",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
     {
       "id": "2f0d4dd8742b5f26",
       "title": "New AI “copilot” helps engineers design better structures",
@@ -472,21 +487,6 @@
       "trust": "official",
       "trust_label": "会议官方",
       "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "7595746fe954ac43",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "summary": "Generative AI",
-      "published_at": "2026-10-23T18:51:33+00:00",
-      "source_id": "google_research",
-      "source_name": "Google Research",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
       "is_opinion": false
     }
   ]
