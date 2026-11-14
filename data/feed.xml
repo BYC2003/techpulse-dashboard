@@ -5,15 +5,15 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 08:57:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:06:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-<link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:05:37 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Hydrogen in GitHub Copilot</title>
@@ -40,12 +40,12 @@
 <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
-<link>https://huggingface.co/blog/allenai/xybench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+<title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+<link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
 </item>
 <item>
 <title>即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December</title>
@@ -54,6 +54,22 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 20:40:05 +0000</pubDate>
+</item>
+<item>
+<title>Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空</title>
+<link>https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n</link>
+<guid isPermaLink="true">https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n</guid>
+<description>Nathan Lambert：Interconnects</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
+</item>
+<item>
+<title>黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕</title>
+<link>https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</link>
+<guid isPermaLink="true">https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</guid>
+<description>The Verge：AI</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Build once, run on any agent: A practical guide to agent skills</title>
@@ -85,7 +101,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 08:57:07 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 13:06:11 +0000</pubDate>
 </item>
 <item>
 <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
@@ -94,6 +110,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
+<link>https://huggingface.co/blog/allenai/xybench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
 </item>
 <item>
 <title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
@@ -120,14 +144,6 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-</item>
-<item>
 <title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
 <link>https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</link>
 <guid isPermaLink="true">https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</guid>
@@ -150,22 +166,6 @@
 <description>Newcomer 新闻长文</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试</title>
-<link>https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759</link>
-<guid isPermaLink="true">https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759</guid>
-<description>Lydia Hallie</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 18:43:37 +0000</pubDate>
-</item>
-<item>
-<title>Sierra 发布 Personal Agent Protocol（Poppy）v1.0</title>
-<link>https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr</link>
-<guid isPermaLink="true">https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr</guid>
-<description>Sierra：Blog</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
