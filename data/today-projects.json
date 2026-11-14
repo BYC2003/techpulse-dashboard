@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:33:06.120579Z",
+  "generated_at": "2026-11-14T08:57:52.734697Z",
   "date": "2026-11-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T07:31:50.826026Z"
+      "observed_at": "2026-11-14T08:57:07.587472Z"
     },
     {
-      "id": "project_7ae8ceaacce8",
-      "project_name": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
+      "id": "project_8d9ebdd0a803",
+      "project_name": "FreeFlow Dictation",
+      "url": "https://www.producthunt.com/products/freeflow-dictation",
+      "summary": "On-device Mac dictation with a Claude Code voice hook",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T02:06:54Z",
-      "updated_at": "2026-11-14T07:32:26Z",
+      "recommend_reason_zh": "体验它主打的「On-device Mac dictation with a Claude Code voice hook」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"On-device Mac dictation with a Claude Code voice hook\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T08:38:27Z",
+      "updated_at": "2026-11-14T08:56:58Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T07:32:46.691191Z"
+      "observed_at": "2026-11-14T08:57:43.318120Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T07:31:50.826026Z"
+      "observed_at": "2026-11-14T08:57:07.587472Z"
     },
     {
-      "id": "project_b6c09a86566b",
-      "project_name": "Burnstate",
-      "url": "https://www.producthunt.com/products/burnstate",
-      "summary": "Claude Code, Codex & Cursor limits, paced in your menu bar",
+      "id": "project_069cc36d727b",
+      "project_name": "HiringNow",
+      "url": "https://www.producthunt.com/products/hiringnow",
+      "summary": "AI job agent that finds & apply for jobs before anyone else.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Claude Code, Codex & Cursor limits, paced in your menu bar」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Claude Code, Codex & Cursor limits, paced in your menu bar\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-10T09:15:58Z",
-      "updated_at": "2026-11-14T07:17:02Z",
+      "recommend_reason_zh": "体验它主打的「AI job agent that finds & apply for jobs before anyone else」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI job agent that finds & apply for jobs before anyone else\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T10:23:37Z",
+      "updated_at": "2026-11-14T08:56:50Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T07:32:46.691191Z"
+      "observed_at": "2026-11-14T08:57:43.318120Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1180,
+      "duration_ms": 1279,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 132,
+      "duration_ms": 114,
       "error": null
     }
   ]
