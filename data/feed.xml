@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 01:26:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 02:18:53 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -112,20 +112,20 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
-<link>https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</link>
-<guid isPermaLink="true">https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</guid>
-<description>Ado Kukic</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
-</item>
-<item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
 <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
+<item>
+<title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
+<link>https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</link>
+<guid isPermaLink="true">https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</guid>
+<description>Ado Kukic</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
 </item>
 <item>
 <title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
