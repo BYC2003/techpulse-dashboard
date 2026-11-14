@@ -2209,7 +2209,7 @@ summary:focus-visible {
     font-size: 12px;
   }
 }
-/* ---- TechPulse 2026-11-13: 抖音科普选题 + 手机端信息层级 ---- */
+/* ---- TechPulse 2026-11-13: AI 视频选题 + 手机端信息层级 ---- */
 .douyin-picks-wrap {
   border-color: rgba(18, 106, 115, 0.22);
   background: var(--surface-soft);
@@ -4692,5 +4692,223 @@ body[data-dashboard-view="papers"] .service-status-panel {
 
   .official-coverage-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+/* ---- 2026-11-14 Douyin public hot-list signal layer ---- */
+.douyin-hot-board {
+  display: grid;
+  gap: 8px;
+  margin: -2px 0 10px;
+  border: 1px solid rgba(18, 106, 115, 0.18);
+  border-radius: 8px;
+  padding: 10px 11px;
+  background: linear-gradient(180deg, rgba(18, 106, 115, 0.055), rgba(255, 255, 255, 0.7));
+}
+
+.douyin-hot-unavailable {
+  margin: 0;
+  color: var(--warn);
+  font-size: 11px;
+}
+
+.douyin-hot-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.douyin-hot-head > div {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.douyin-hot-head strong {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.douyin-hot-head span {
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.douyin-hot-head a {
+  flex: 0 0 auto;
+  color: var(--accent);
+  font-size: 10px;
+  font-weight: 720;
+  text-decoration: none;
+}
+
+.douyin-hot-head a:hover {
+  text-decoration: underline;
+}
+
+.douyin-hot-stats,
+.douyin-hot-bridge {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+}
+
+.douyin-hot-stats span,
+.douyin-hot-bridge span:not(:first-child) {
+  border: 1px solid var(--line-soft);
+  border-radius: 999px;
+  padding: 3px 7px;
+  color: var(--ink-soft);
+  background: var(--surface);
+  font-size: 9.5px;
+  line-height: 1.2;
+}
+
+.douyin-hot-stats .hot-zero {
+  color: var(--warn);
+  border-color: rgba(154, 103, 0, 0.2);
+  background: rgba(154, 103, 0, 0.06);
+}
+
+.douyin-hot-bridge > span:first-child {
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.douyin-hot-bridge span:not(:first-child) {
+  color: var(--accent);
+  border-color: rgba(18, 106, 115, 0.14);
+}
+
+.douyin-hot-board > p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.douyin-hot-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 22px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 7px;
+  color: var(--muted);
+  background: var(--surface-soft);
+  font-size: 9.5px;
+  font-weight: 730;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.douyin-hot-badge.hot-hit {
+  color: var(--bad);
+  border-color: rgba(180, 35, 24, 0.22);
+  background: rgba(180, 35, 24, 0.06);
+}
+
+.douyin-hot-badge.hot-adjacent {
+  color: var(--warn);
+  border-color: rgba(154, 103, 0, 0.2);
+  background: rgba(154, 103, 0, 0.06);
+}
+
+.douyin-hot-badge.hot-miss {
+  color: var(--muted);
+}
+
+.douyin-platform-score {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 7px;
+}
+
+.douyin-platform-score > span {
+  border: 1px solid var(--line-soft);
+  border-radius: 5px;
+  padding: 4px 6px;
+  color: var(--ink-soft);
+  background: var(--surface);
+  font-size: 9.5px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.douyin-platform-score .traffic-hot {
+  color: var(--bad);
+  border-color: rgba(180, 35, 24, 0.18);
+  background: rgba(180, 35, 24, 0.05);
+}
+
+.douyin-platform-score .douyin-gate.gate-pass {
+  color: var(--good);
+  border-color: rgba(31, 122, 77, 0.2);
+  background: rgba(31, 122, 77, 0.06);
+}
+
+.douyin-platform-score .douyin-gate.gate-fail {
+  color: var(--warn);
+  border-color: rgba(154, 103, 0, 0.2);
+  background: rgba(154, 103, 0, 0.06);
+}
+
+.douyin-platform-score .douyin-hot-matched {
+  color: var(--accent);
+  border-color: rgba(18, 106, 115, 0.16);
+  background: rgba(18, 106, 115, 0.05);
+}
+
+.douyin-verification-chips .summary-gate-pass {
+  color: var(--good);
+  border-color: rgba(31, 122, 77, 0.2);
+}
+
+.douyin-verification-chips .summary-gate-fail,
+.douyin-verification-chips .summary-hot-miss {
+  color: var(--warn);
+  border-color: rgba(154, 103, 0, 0.2);
+}
+
+.douyin-verification-chips .summary-hot-hit {
+  color: var(--bad);
+  border-color: rgba(180, 35, 24, 0.2);
+}
+
+.douyin-verification-chips .summary-hot-adjacent {
+  color: var(--accent);
+  border-color: rgba(18, 106, 115, 0.18);
+}
+
+@media (max-width: 640px) {
+  .douyin-hot-board {
+    padding: 9px;
+  }
+
+  .douyin-hot-head {
+    display: grid;
+    gap: 5px;
+  }
+
+  .douyin-hot-head a {
+    width: max-content;
+  }
+
+  .douyin-hot-stats span,
+  .douyin-hot-bridge span:not(:first-child) {
+    font-size: 9px;
+  }
+
+  .douyin-hot-badge {
+    min-height: 20px;
+    padding: 2px 6px;
+    font-size: 9px;
+  }
+
+  .douyin-platform-score > span {
+    font-size: 9px;
   }
 }

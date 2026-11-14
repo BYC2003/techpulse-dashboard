@@ -45,6 +45,7 @@ const state = {
   mainListVisibleCount: 0,
   xAuthorsExpanded: false,
   douyinPickRound: 0,
+  douyinHot: null,
   githubRankings: null,
   githubRankingPeriod: "weekly",
   authorityVoices: null,
@@ -117,6 +118,7 @@ const douyinPicksListEl = document.getElementById("douyinPicksList");
 const douyinPicksMetaEl = document.getElementById("douyinPicksMeta");
 const douyinPicksRefreshBtnEl = document.getElementById("douyinPicksRefreshBtn");
 const douyinVerificationSummaryEl = document.getElementById("douyinVerificationSummary");
+const douyinHotBoardEl = document.getElementById("douyinHotBoard");
 const githubRankingsWrapEl = document.getElementById("githubRankingsWrap");
 const githubRankingListEl = document.getElementById("githubRankingList");
 const githubRankingMetaEl = document.getElementById("githubRankingMeta");
@@ -138,7 +140,7 @@ document.querySelectorAll("[data-view-link]").forEach((link) => {
   link.classList.toggle("active", active);
   if (active) link.setAttribute("aria-current", "page");
 });
-const DASHBOARD_TITLES = { news: "今日情报", douyin: "抖音科普选题", github: "GitHub 周/月热榜", papers: "AI 权威论文", voices: "AI 权威观点与会议" };
+const DASHBOARD_TITLES = { news: "今日情报", douyin: "AI 视频选题", github: "GitHub 周/月热榜", papers: "AI 权威论文", voices: "AI 权威观点与会议" };
 document.title = `TechPulse｜${DASHBOARD_TITLES[DASHBOARD_VIEW]}`;
 if (searchInputEl && INITIAL_QUERY) searchInputEl.value = INITIAL_QUERY;
 const top3BoardWrapEl = document.getElementById("top3BoardWrap");
@@ -1729,7 +1731,7 @@ function hotBoardEntries() {
     .map((story, index) => storyToRow(story, index));
 }
 
-// ---- 抖音科普选题：规则化挑选，不调用付费模型 ----
+// ---- AI 视频选题：事实门 + 抖音公开热榜 + 规则化传播参考，不调用付费模型 ----
 const DOUYIN_PICK_LIMIT = 5;
 const DOUYIN_PICK_ROUNDS = 3;
 const DOUYIN_BUCKET_DEFS = [
@@ -1797,28 +1799,52 @@ const DOUYIN_UI = IS_EN
       angleLabel: "How to tell it",
       source: "Source",
       open: "Open source ↗",
-      potential: "Editorial score",
+      potential: "Composite",
       refreshed: "Next batch",
-      scoreNote: "Rule-based editorial score, not a view-count prediction.",
+      scoreNote: "Composite score ranks verified topics by traffic opportunity; it is not a recommendation probability.",
       riskLabel: "Risk",
-      factors: { credibility: "Evidence", firstParty: "First-party", impact: "Impact", visual: "Visual", recency: "Freshness", controversy: "Debate" },
+      factors: { credibility: "Fact", traffic: "Traffic", impact: "Impact", visual: "Visual", recency: "Velocity", controversy: "Debate" },
       summary: "Evidence mix in this batch",
-      summaryNote: "Rumor items are excluded. Still verify every claim before scripting.",
+      summaryNote: "Rumor items are excluded. A topic must pass the fact gate before traffic opportunity leads the ranking.",
+      hotTitle: "Douyin public hot list",
+      hotMeta: "Public list, not the recommendation feed",
+      hotDirect: "Hot-list hit",
+      hotAdjacent: "AI-adjacent bridge",
+      hotMiss: "No hot-list hit",
+      hotUnavailable: "Hot-list data unavailable; showing editorial candidates only.",
+      bridgeWords: "Available bridge words",
+      hotSource: "Open Douyin hot list ↗",
+      hotDisclaimer: "A public hot-list hit is not a recommendation guarantee. No hit does not mean a topic is worthless.",
+      factGatePass: "Fact gate passed",
+      factGateFail: "Needs more evidence",
+      platformScore: "Fact / traffic",
     }
   : {
       loading: "正在挑选今日选题...",
       meta: "{n} 条 · 第 {round}/{rounds} 组",
-      empty: "当前数据里暂时没有足够合适的科普选题。",
+      empty: "当前数据里暂时没有足够合适的视频选题。",
       angleLabel: "怎么讲",
       source: "来源",
       open: "打开原文 ↗",
-      potential: "选题参考分",
+      potential: "综合参考",
       refreshed: "换一批",
-      scoreNote: "规则化编辑参考分，不是播放量预测。",
+      scoreNote: "综合分只在事实达标后优先按传播机会排序，不是平台推荐概率。",
       riskLabel: "风险",
-      factors: { credibility: "事实", firstParty: "一手", impact: "影响", visual: "画面", recency: "时效", controversy: "争议" },
+      factors: { credibility: "事实", traffic: "热度", impact: "影响", visual: "画面", recency: "速度", controversy: "争议" },
       summary: "本组核验结构",
-      summaryNote: "传闻不进入推荐；即使标注已确认，也必须在写稿前逐句回看原文。",
+      summaryNote: "传闻不进入推荐；先过事实门，再按抖音热榜和传播机会排序。",
+      hotTitle: "抖音公开热榜",
+      hotMeta: "公开榜单不等于推荐流",
+      hotDirect: "热榜命中",
+      hotAdjacent: "AI 可借势",
+      hotMiss: "未命中热榜",
+      hotUnavailable: "热榜数据暂不可用，当前仅展示编辑候选。",
+      bridgeWords: "可借势大众词",
+      hotSource: "打开抖音热榜 ↗",
+      hotDisclaimer: "命中公开热榜不代表一定获得推荐；未命中也只说明当前不在全民榜单。",
+      factGatePass: "已过事实门",
+      factGateFail: "需补证据",
+      platformScore: "事实 / 热度",
     };
 
 function douyinStoryUrl(story) {
@@ -1894,18 +1920,136 @@ function clampScore(value) {
   return Math.max(1, Math.min(99, Math.round(Number(value) || 0)));
 }
 
+const DOUYIN_HOT_BRIDGE_RULES = [
+  {
+    id: "consumer_device",
+    hot: /苹果|手机|华为|小米|电脑|平板|耳机|眼镜|相机|设备/i,
+    event: /苹果|手机|华为|小米|电脑|平板|耳机|眼镜|相机|设备|终端|ios|android|消费电子/i,
+  },
+  {
+    id: "education",
+    hot: /教育|学生|学校|老师|高考|大学|课堂|作业/i,
+    event: /教育|学生|学校|老师|高考|大学|课堂|作业|学习/i,
+  },
+  {
+    id: "health",
+    hot: /医疗|医生|医院|健康|疾病|癌症|药|护理/i,
+    event: /医疗|医生|医院|健康|疾病|癌症|药|诊断|护理/i,
+  },
+  {
+    id: "fraud",
+    hot: /诈骗|骗局|换脸|造假|谣言|隐私/i,
+    event: /诈骗|骗局|换脸|deepfake|造假|谣言|隐私|安全/i,
+  },
+  {
+    id: "copyright",
+    hot: /版权|侵权|抄袭|画作|音乐|电影|短剧/i,
+    event: /版权|侵权|抄袭|生成|画作|音乐|电影|短剧|内容创作/i,
+  },
+  {
+    id: "jobs",
+    hot: /就业|工作|裁员|职场|失业|工资/i,
+    event: /就业|工作|裁员|职场|失业|工资|职业|岗位/i,
+  },
+  {
+    id: "auto",
+    hot: /汽车|驾驶|车祸|新能源|车机/i,
+    event: /汽车|驾驶|车祸|新能源|车机|自动驾驶/i,
+  },
+  {
+    id: "robot",
+    hot: /机器人|具身|工厂|制造/i,
+    event: /机器人|robotics|具身|工厂|制造/i,
+  },
+  {
+    id: "games",
+    hot: /游戏|电竞|KPL|LPL|BLG|GEN|冠军/i,
+    event: /游戏|电竞|NPC|角色|游戏开发|电竞分析/i,
+  },
+  {
+    id: "entertainment",
+    hot: /演唱会|电影|短剧|明星|综艺/i,
+    event: /视频生成|音频生成|音乐生成|短剧|电影|数字人|虚拟人/i,
+  },
+  {
+    id: "sports",
+    hot: /国足|足球|奥运|世界杯|比赛/i,
+    event: /体育|足球|奥运|世界杯|运动训练|赛事分析/i,
+  },
+];
+
+function containsHotTerm(text, term) {
+  const value = String(term || "").trim();
+  if (!value) return false;
+  if (/^[A-Za-z0-9]{2,}$/.test(value)) {
+    return new RegExp(`(^|[^A-Za-z0-9])${value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}([^A-Za-z0-9]|$)`, "i").test(text);
+  }
+  return text.includes(value);
+}
+
+function douyinHotMatch(story, title) {
+  const hotItems = Array.isArray(state.douyinHot?.items) ? state.douyinHot.items : [];
+  if (!hotItems.length) {
+    return {
+      available: false,
+      directMatch: false,
+      adjacentMatch: false,
+      bestItem: null,
+      matchedWords: [],
+      score: 0,
+      searchGrowth: null,
+      supplyCount: null,
+      saturation: "unknown",
+    };
+  }
+  const storySummary = String(story?.primary_item?.summary || story?.summary || "");
+  const eventText = `${title} ${storySummary}`;
+  const direct = [];
+  const adjacent = [];
+  hotItems.forEach((item) => {
+    const word = String(item.word || "");
+    if (!word) return;
+    const bridge = String(item.bridge_term || "");
+    const entityHit = (bridge && containsHotTerm(eventText, bridge))
+      || (item.is_ai_related && /\bai\b|人工智能|大模型|chatgpt|openai|claude|gemini|deepseek|机器人|智能体/i.test(eventText));
+    if (entityHit) {
+      direct.push({ item, ruleId: bridge || "ai_entity" });
+      return;
+    }
+    const rule = DOUYIN_HOT_BRIDGE_RULES.find((candidate) => candidate.hot.test(word));
+    if (rule && rule.event.test(eventText)) adjacent.push({ item, ruleId: rule.id });
+  });
+  const bestDirect = direct.sort((a, b) => a.item.position - b.item.position)[0] || null;
+  const bestAdjacent = adjacent.sort((a, b) => a.item.position - b.item.position)[0] || null;
+  const best = bestDirect || bestAdjacent;
+  let score = 0;
+  if (bestDirect) {
+    const position = Number(bestDirect.item.position || 50);
+    score = Math.max(12, 38 - (position - 1) * 0.8);
+    if (bestDirect.item.trend === "rising" || bestDirect.item.trend === "new") score += 4;
+    if (bestDirect.item.trend === "falling") score -= 2;
+  } else if (bestAdjacent) {
+    const position = Number(bestAdjacent.item.position || 50);
+    score = Math.max(5, 20 - (position - 1) * 0.35);
+  }
+  return {
+    available: true,
+    directMatch: Boolean(bestDirect),
+    adjacentMatch: Boolean(bestAdjacent),
+    bestItem: best ? best.item : null,
+    bestRuleId: best ? best.ruleId : "",
+    matchedWords: Array.from(new Set([...direct, ...adjacent].map((entry) => entry.item.word))).slice(0, 3),
+    score: Math.max(0, Math.min(42, Math.round(score))),
+    searchGrowth: null,
+    supplyCount: best?.item?.video_count ?? null,
+    saturation: "unknown",
+  };
+}
+
 function douyinScoreBreakdown(story, title, fact) {
   const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
   const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 48;
-  const primaryTier = sourceItemTier(story?.primary_item || story);
-  const credibility = {
-    confirmed: 95,
-    reported: 68,
-    analysis: 52,
-    preprint: 48,
-    rumor: 16,
-  }[fact.status] || 50;
-  const firstParty = primaryTier === "official" ? 100 : (fact.primarySourceUrl ? 74 : (primaryTier === "research" ? 80 : 28));
+  const factScore = clampScore(fact.score);
   let impact = 24;
   if (/普通人|生活|工作|办公|教育|学生|老师|医疗|健康|家庭|手机|电脑|开车|车机|消费者|用户|就业/i.test(title)) impact += 46;
   if (/免费|价格|收费|降价|省钱|成本|亿美元|营收|市值|工资/i.test(title)) impact += 24;
@@ -1923,6 +2067,7 @@ function douyinScoreBreakdown(story, title, fact) {
   impact = Math.min(100, impact);
   visual = Math.min(100, visual);
   controversy = Math.min(100, controversy);
+  const hotMatch = douyinHotMatch(story, title);
 
   let risk = 0;
   const risks = [];
@@ -1938,33 +2083,71 @@ function douyinScoreBreakdown(story, title, fact) {
     risk += 12;
     risks.push(IS_EN ? "Too technical" : "过度技术化");
   }
+  if (/Google Wallet|Google Cloud credits|Gemini for personal finance/i.test(title)) {
+    risk += 9;
+    risks.push(IS_EN ? "China availability needs checking" : "国内可用性待核");
+  }
   if (!String(story?.primary_item?.summary || story?.summary || "").trim()) risk += 4;
   if (fact.status === "confirmed") risk = Math.max(0, risk - 4);
-  const overall = clampScore(
-    credibility * 0.28
-    + firstParty * 0.16
-    + impact * 0.22
-    + visual * 0.14
-    + recency * 0.10
+
+  const developerPenalty = /developer|developers|SDK|API|coding|编程|开发|CLI|仓库|benchmark|积分|credits/i.test(title) ? 8 : 0;
+  const trafficScore = Math.max(0, Math.min(99, Math.round(
+    hotMatch.score
+    + impact * 0.20
+    + visual * 0.15
     + controversy * 0.10
-    - risk
+    + recency * 0.10
+    - developerPenalty
+    - (hotMatch.available && !hotMatch.directMatch && !hotMatch.adjacentMatch ? 4 : 0)
+  )));
+  const factGate = factScore >= 70 && fact.status !== "rumor";
+  const finalScore = clampScore(
+    factGate
+      ? factScore * 0.55 + trafficScore * 0.45
+      : factScore * 0.75 + trafficScore * 0.25
   );
   return {
-    score: overall,
-    factors: { credibility: Math.round(credibility), firstParty: Math.round(firstParty), impact: Math.round(impact), visual: Math.round(visual), recency: Math.round(recency), controversy: Math.round(controversy) },
+    score: finalScore,
+    factScore,
+    trafficScore,
+    factGate,
+    hotMatch,
+    factors: {
+      credibility: factScore,
+      traffic: trafficScore,
+      impact: Math.round(impact),
+      visual: Math.round(visual),
+      recency: Math.round(recency),
+      controversy: Math.round(controversy),
+    },
+    platformSignals: {
+      douyin_hot_match: hotMatch.directMatch,
+      douyin_hot_adjacent: hotMatch.adjacentMatch,
+      douyin_hot_rank: hotMatch.bestItem?.position ?? null,
+      douyin_hot_velocity: hotMatch.bestItem?.trend ?? null,
+      douyin_hot_rank_change: hotMatch.bestItem?.rank_change ?? null,
+      douyin_hot_value: hotMatch.bestItem?.hot_value ?? null,
+      douyin_hot_age_minutes: hotMatch.bestItem?.age_minutes ?? null,
+      douyin_search_growth: hotMatch.searchGrowth,
+      douyin_supply_count: hotMatch.supplyCount,
+      douyin_saturation: hotMatch.saturation,
+      china_available: "unknown",
+      consumer_relevance: Math.round(impact),
+      visual_demo: Math.round(visual),
+      fact_confidence: factScore,
+      click_conflict: Math.round(controversy),
+    },
     risks,
     risk,
   };
-}
-
-function douyinPickScore(story, title) {
-  return douyinScoreBreakdown(story, title, storyFactBoundary(story)).score;
 }
 
 function douyinPickTags(story, bucketId, title, breakdown) {
   const tags = [];
   const bucket = DOUYIN_BUCKET_BY_ID[bucketId];
   const fact = storyFactBoundary(story);
+  if (breakdown?.hotMatch?.directMatch) tags.push(DOUYIN_UI.hotDirect);
+  else if (breakdown?.hotMatch?.adjacentMatch) tags.push(DOUYIN_UI.hotAdjacent);
   if (fact.primarySourceUrl) tags.push(IS_EN ? "Primary linked" : "一手可定位");
   if (fact.independent >= 3) tags.push(IS_EN ? "Multi-source" : "多源关注");
   if (fact.status === "confirmed") tags.push(IS_EN ? "Confirmed" : "已确认");
@@ -1973,6 +2156,13 @@ function douyinPickTags(story, bucketId, title, breakdown) {
   if (/开源|权重|open[- ]?source|github/i.test(title)) tags.push(IS_EN ? "Try it" : "可跟练");
   tags.push(bucket?.signal || (IS_EN ? "Explainable" : "可解释"));
   return Array.from(new Set(tags)).slice(0, 3);
+}
+
+function douyinRankCompare(a, b) {
+  return Number(b.factGate) - Number(a.factGate)
+    || b.trafficScore - a.trafficScore
+    || b.score - a.score
+    || b.latestMs - a.latestMs;
 }
 
 function douyinPickCandidates() {
@@ -1992,6 +2182,11 @@ function douyinPickCandidates() {
       bucketId,
       sourceName: douyinSourceName(story),
       score: breakdown.score,
+      factScore: breakdown.factScore,
+      trafficScore: breakdown.trafficScore,
+      factGate: breakdown.factGate,
+      hotMatch: breakdown.hotMatch,
+      platformSignals: breakdown.platformSignals,
       breakdown,
       fact,
       tags: douyinPickTags(story, bucketId, title, breakdown),
@@ -1999,7 +2194,7 @@ function douyinPickCandidates() {
     };
     groups.get(bucketId)?.push(candidate);
   });
-  groups.forEach((rows) => rows.sort((a, b) => b.score - a.score || b.latestMs - a.latestMs));
+  groups.forEach((rows) => rows.sort(douyinRankCompare));
   return groups;
 }
 
@@ -2019,18 +2214,84 @@ function douyinPicks() {
     const rows = groups.get(bucket.id) || [];
     if (!rows.length) return null;
     return rows[Math.min(round, rows.length - 1)];
-  }).filter(Boolean).sort((a, b) => b.score - a.score || b.latestMs - a.latestMs);
+  }).filter(Boolean).sort(douyinRankCompare);
   preferred.forEach(add);
 
   if (picked.length < DOUYIN_PICK_LIMIT) {
     const leftovers = Array.from(groups.values())
       .flat()
       .filter((candidate) => !pickedIds.has(candidate.story.story_id))
-      .sort((a, b) => b.score - a.score || b.latestMs - a.latestMs);
+      .sort(douyinRankCompare);
     leftovers.forEach(add);
   }
 
-  return picked.sort((a, b) => b.score - a.score || b.latestMs - a.latestMs).slice(0, DOUYIN_PICK_LIMIT);
+  return picked.sort(douyinRankCompare).slice(0, DOUYIN_PICK_LIMIT);
+}
+
+function renderDouyinHotBoard() {
+  if (!douyinHotBoardEl) return;
+  douyinHotBoardEl.replaceChildren();
+  const hot = state.douyinHot;
+  if (!hot) {
+    const missing = document.createElement("p");
+    missing.className = "douyin-hot-unavailable";
+    missing.textContent = DOUYIN_UI.hotUnavailable;
+    douyinHotBoardEl.appendChild(missing);
+    return;
+  }
+  const head = document.createElement("div");
+  head.className = "douyin-hot-head";
+  const heading = document.createElement("div");
+  const title = document.createElement("strong");
+  title.textContent = DOUYIN_UI.hotTitle;
+  const meta = document.createElement("span");
+  meta.textContent = `${hot.active_time || "--"} · ${DOUYIN_UI.hotMeta}`;
+  heading.append(title, meta);
+  const sourceLink = document.createElement("a");
+  sourceLink.href = hot.source_page || "https://www.douyin.com/hot";
+  sourceLink.target = "_blank";
+  sourceLink.rel = "noopener noreferrer";
+  sourceLink.textContent = DOUYIN_UI.hotSource;
+  head.append(heading, sourceLink);
+
+  const stats = document.createElement("div");
+  stats.className = "douyin-hot-stats";
+  const statValues = [
+    `${hot.count || 0} 条在榜`,
+    `AI 直接相关 ${hot.ai_related_count || 0}`,
+    `可借势大众词 ${hot.bridge_item_count || 0}`,
+  ];
+  statValues.forEach((value, index) => {
+    const chip = document.createElement("span");
+    chip.className = index === 1 && Number(hot.ai_related_count || 0) === 0 ? "hot-zero" : "";
+    chip.textContent = value;
+    stats.appendChild(chip);
+  });
+
+  const bridge = document.createElement("div");
+  bridge.className = "douyin-hot-bridge";
+  const bridgeLabel = document.createElement("span");
+  bridgeLabel.textContent = `${DOUYIN_UI.bridgeWords}：`;
+  bridge.appendChild(bridgeLabel);
+  const bridgeItems = Array.isArray(hot.bridge_items) ? hot.bridge_items.slice(0, 6) : [];
+  if (bridgeItems.length) {
+    bridgeItems.forEach((item) => {
+      const chip = document.createElement("span");
+      chip.textContent = `${item.word} #${item.position}`;
+      chip.title = item.bridge_term ? `AI 借势词：${item.bridge_term}` : String(item.word || "");
+      bridge.appendChild(chip);
+    });
+  } else {
+    const none = document.createElement("span");
+    none.textContent = "本次热榜没有可用的 AI 借势词";
+    bridge.appendChild(none);
+  }
+
+  const note = document.createElement("p");
+  note.textContent = hot.fetch_ok === false
+    ? `${hot.disclaimer || ""} 本次抓取失败：${hot.last_fetch_error || "未知错误"}`
+    : DOUYIN_UI.hotDisclaimer;
+  douyinHotBoardEl.append(head, stats, bridge, note);
 }
 
 function renderDouyinVerificationSummary(picks) {
@@ -2050,6 +2311,19 @@ function renderDouyinVerificationSummary(picks) {
     chip.textContent = `${CLAIM_STATUS_UI[status]?.label || status} ${count}`;
     chips.appendChild(chip);
   });
+  const gateCount = picks.filter((pick) => pick.factGate).length;
+  const hotCount = picks.filter((pick) => pick.hotMatch.directMatch).length;
+  const adjacentCount = picks.filter((pick) => pick.hotMatch.adjacentMatch && !pick.hotMatch.directMatch).length;
+  const gateChip = document.createElement("span");
+  gateChip.className = gateCount ? "summary-gate-pass" : "summary-gate-fail";
+  gateChip.textContent = `${DOUYIN_UI.factGatePass} ${gateCount}`;
+  const hotChip = document.createElement("span");
+  hotChip.className = hotCount ? "summary-hot-hit" : "summary-hot-miss";
+  hotChip.textContent = `${DOUYIN_UI.hotDirect} ${hotCount}`;
+  const adjacentChip = document.createElement("span");
+  adjacentChip.className = "summary-hot-adjacent";
+  adjacentChip.textContent = `${DOUYIN_UI.hotAdjacent} ${adjacentCount}`;
+  chips.append(gateChip, hotChip, adjacentChip);
   const note = document.createElement("small");
   note.textContent = DOUYIN_UI.summaryNote;
   douyinVerificationSummaryEl.append(heading, chips, note);
@@ -2066,9 +2340,11 @@ function renderDouyinPicks() {
   douyinPicksWrapEl.hidden = !visible;
   if (!visible) {
     if (douyinVerificationSummaryEl) douyinVerificationSummaryEl.replaceChildren();
+    if (douyinHotBoardEl) douyinHotBoardEl.replaceChildren();
     return;
   }
 
+  renderDouyinHotBoard();
   const picks = douyinPicks();
   renderDouyinVerificationSummary(picks);
   if (douyinPicksMetaEl) {
@@ -2110,11 +2386,21 @@ function renderDouyinPicks() {
     const factBadge = document.createElement("span");
     factBadge.className = `douyin-fact-badge claim-${pick.fact.status}`;
     factBadge.textContent = pick.fact.label;
+    const hotBadge = document.createElement("span");
+    hotBadge.className = `douyin-hot-badge ${pick.hotMatch.directMatch ? "hot-hit" : pick.hotMatch.adjacentMatch ? "hot-adjacent" : "hot-miss"}`;
+    hotBadge.textContent = pick.hotMatch.directMatch
+      ? `${DOUYIN_UI.hotDirect} #${pick.hotMatch.bestItem?.position || "-"}`
+      : pick.hotMatch.adjacentMatch
+        ? DOUYIN_UI.hotAdjacent
+        : DOUYIN_UI.hotMiss;
+    hotBadge.title = pick.hotMatch.matchedWords.length
+      ? `关联热榜词：${pick.hotMatch.matchedWords.join(" / ")}`
+      : DOUYIN_UI.hotDisclaimer;
     const potential = document.createElement("span");
     potential.className = "douyin-pick-potential";
     potential.textContent = `${DOUYIN_UI.potential} ${pick.score}`;
     potential.title = DOUYIN_UI.scoreNote;
-    top.append(bucket, factBadge, potential);
+    top.append(bucket, factBadge, hotBadge, potential);
 
     const title = document.createElement("a");
     title.className = "douyin-pick-title";
@@ -2136,6 +2422,24 @@ function renderDouyinPicks() {
       tag.textContent = tagText;
       tags.appendChild(tag);
     });
+
+    const platformScore = document.createElement("div");
+    platformScore.className = "douyin-platform-score";
+    const factScore = document.createElement("span");
+    factScore.textContent = `事实 ${pick.factScore}`;
+    const trafficScore = document.createElement("span");
+    trafficScore.className = pick.hotMatch.directMatch ? "traffic-hot" : "";
+    trafficScore.textContent = `热度 ${pick.trafficScore}`;
+    const gate = document.createElement("span");
+    gate.className = `douyin-gate ${pick.factGate ? "gate-pass" : "gate-fail"}`;
+    gate.textContent = pick.factGate ? DOUYIN_UI.factGatePass : DOUYIN_UI.factGateFail;
+    platformScore.append(factScore, trafficScore, gate);
+    if (pick.hotMatch.matchedWords.length) {
+      const matched = document.createElement("span");
+      matched.className = "douyin-hot-matched";
+      matched.textContent = `热榜词 ${pick.hotMatch.matchedWords.join(" / ")}`;
+      platformScore.appendChild(matched);
+    }
 
     const factors = document.createElement("div");
     factors.className = "douyin-score-breakdown";
@@ -2164,7 +2468,7 @@ function renderDouyinPicks() {
     open.textContent = pick.fact.primarySourceUrl ? VERIFICATION_UI.openPrimary : DOUYIN_UI.open;
     footer.append(source, open);
 
-    body.append(top, title, angle, tags, factors, riskNote, footer);
+    body.append(top, title, angle, tags, platformScore, factors, riskNote, footer);
     card.append(rank, body);
     douyinPicksListEl.appendChild(card);
   });
@@ -3685,6 +3989,12 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadDouyinHotData() {
+  const res = await fetch(`${dataUrl("data/douyin-hot.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "douyin-hot.json", status: res.status }));
+  return res.json();
+}
+
 async function loadGithubRankingsData() {
   const res = await fetch(`${dataUrl("data/github-rankings.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(t("error.load", { file: "github-rankings.json", status: res.status }));
@@ -3704,7 +4014,7 @@ async function loadPapersData() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult, papersResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult, papersResult, douyinHotResult] = await Promise.allSettled([
     loadNewsData(),
     IS_EN ? Promise.resolve(null) : loadWaytoagiData(),
     loadSourceStatusData(),
@@ -3714,6 +4024,7 @@ async function init() {
     loadGithubRankingsData(),
     loadAuthorityVoicesData(),
     loadPapersData(),
+    loadDouyinHotData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
@@ -3743,6 +4054,7 @@ async function init() {
   state.githubRankings = githubResult.status === "fulfilled" ? githubResult.value : null;
   state.authorityVoices = authorityResult.status === "fulfilled" ? authorityResult.value : null;
   state.papers = papersResult.status === "fulfilled" ? papersResult.value : null;
+  state.douyinHot = douyinHotResult.status === "fulfilled" ? douyinHotResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;

@@ -123,6 +123,9 @@ jobs:
             python scripts/update_news.py --output-dir data --window-hours 48 --archive-days 21
           fi
 
+      - name: Update Douyin public hot list
+        run: python scripts/update_douyin_hot.py --output data/douyin-hot.json
+
       - name: Update GitHub weekly and monthly rankings
         run: python scripts/update_github_rankings.py --output data/github-rankings.json
 

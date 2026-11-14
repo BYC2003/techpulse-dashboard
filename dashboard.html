@@ -3,16 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TechPulse｜一手科技与 AI 情报看板</title>
+    <title>TechPulse｜AI 视频选题与 AI 情报</title>
     <meta
       name="description"
-      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
+      content="自动整理 GitHub、开源、科技、AI 与论文；官方来源优先，标注事实边界与来源链；AI 视频选题另参考抖音公开热榜，但不冒充平台推荐概率。"
     />
     <link rel="alternate" type="application/rss+xml" title="TechPulse" href="/data/feed.xml" />
-    <meta property="og:title" content="TechPulse｜一手科技与 AI 情报看板" />
+    <meta property="og:title" content="TechPulse｜AI 视频选题与一手情报" />
     <meta
       property="og:description"
-      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
+      content="自动整理 GitHub、开源、科技、AI 与论文；官方来源优先，标注事实边界与来源链；AI 视频选题另参考抖音公开热榜，但不冒充平台推荐概率。"
     />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="TechPulse" />
@@ -26,10 +26,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="TechPulse｜一手科技与 AI 情报看板" />
+    <meta name="twitter:title" content="TechPulse｜AI 视频选题与一手情报" />
     <meta
       name="twitter:description"
-      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
+      content="自动整理 GitHub、开源、科技、AI 与论文；官方来源优先，标注事实边界与来源链；AI 视频选题另参考抖音公开热榜，但不冒充平台推荐概率。"
     />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=evidence-20261114" />
+    <link rel="stylesheet" href="./assets/styles.css?v=hotlist-20261114" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body data-dashboard-view="news">
@@ -59,7 +59,7 @@
         <nav class="dashboard-view-nav" aria-label="TechPulse 子页面">
           <a href="index.html">首页</a>
           <a href="dashboard.html?view=news" data-view-link="news">今日情报</a>
-          <a href="dashboard.html?view=douyin" data-view-link="douyin">抖音选题</a>
+          <a href="dashboard.html?view=douyin" data-view-link="douyin">AI 视频选题</a>
           <a href="dashboard.html?view=github" data-view-link="github">GitHub 热榜</a>
           <a href="dashboard.html?view=papers" data-view-link="papers">权威论文</a>
           <a href="dashboard.html?view=voices" data-view-link="voices">权威观点</a>
@@ -121,15 +121,16 @@
       <section class="list-wrap douyin-picks-wrap" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
         <div class="douyin-picks-head">
           <div class="douyin-picks-heading">
-            <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
-            <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
-            <p class="douyin-picks-intro">按“事实可信、一手程度、大众影响、画面性、时效、争议度”综合初筛，并扣除传闻、单一来源和过度技术化风险。分数是编辑参考，不是播放量预测。</p>
+            <span class="douyin-picks-eyebrow">PLATFORM SIGNAL + AI EDITORIAL DESK</span>
+            <h2 id="douyinPicksTitle">AI 视频选题 · 抖音公开热榜参考</h2>
+            <p class="douyin-picks-intro">先判断事实能否讲，再参考抖音公开热榜、大众影响、画面性、认知冲突和时效。公开热榜不等于推荐流，综合分也不是播放量预测。</p>
           </div>
           <div class="douyin-picks-actions">
             <span id="douyinPicksMeta">正在挑选...</span>
             <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
           </div>
         </div>
+        <div class="douyin-hot-board" id="douyinHotBoard" aria-live="polite"></div>
         <div class="douyin-verification-summary" id="douyinVerificationSummary" aria-live="polite"></div>
         <div class="douyin-picks-swipe-hint" aria-hidden="true">上下滑动查看 5 条选题 ↓</div>
         <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
@@ -293,6 +294,6 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=evidence-20261114" defer></script>
+    <script src="./assets/app.js?v=hotlist-20261114" defer></script>
   </body>
 </html>
