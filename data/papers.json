@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:48:49.063381+00:00",
+  "generated_at": "2026-11-14T07:33:50.966366+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -390,7 +390,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 88,
         "comments": 2,
-        "discussion_score": 884.8,
+        "discussion_score": 884.79,
         "summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
         "keywords": [
           "few-step sampling",
@@ -420,7 +420,7 @@
         "published_at": "2026-11-11T00:00:00+00:00",
         "upvotes": 82,
         "comments": 2,
-        "discussion_score": 824.85,
+        "discussion_score": 824.84,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -449,7 +449,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 70,
         "comments": 8,
-        "discussion_score": 716.8,
+        "discussion_score": 716.79,
         "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
         "keywords": [
           "LLM agents",
@@ -478,9 +478,9 @@
           "Xiang Bai"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 56,
+        "upvotes": 57,
         "comments": 4,
-        "discussion_score": 568.75,
+        "discussion_score": 578.75,
         "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. B…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.12885",
@@ -502,9 +502,9 @@
           "Yuetai Li"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 49,
+        "upvotes": 50,
         "comments": 10,
-        "discussion_score": 510.75,
+        "discussion_score": 520.75,
         "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.11995",
@@ -524,9 +524,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 46,
+        "upvotes": 48,
         "comments": 1,
-        "discussion_score": 462.8,
+        "discussion_score": 482.79,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -544,7 +544,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 45,
         "comments": 6,
-        "discussion_score": 462.8,
+        "discussion_score": 462.79,
         "summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
         "keywords": [
           "weight-space programming",
@@ -575,9 +575,9 @@
           "Kai Chen"
         ],
         "published_at": "2026-10-29T00:00:00+00:00",
-        "upvotes": 44,
+        "upvotes": 45,
         "comments": 3,
-        "discussion_score": 446.23,
+        "discussion_score": 456.22,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -606,9 +606,9 @@
           "Fangfang Wang"
         ],
         "published_at": "2026-11-12T00:00:00+00:00",
-        "upvotes": 42,
+        "upvotes": 44,
         "comments": 3,
-        "discussion_score": 426.9,
+        "discussion_score": 446.89,
         "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
         "keywords": [
           "video generation models",
@@ -639,9 +639,9 @@
           "Wenhao Yan"
         ],
         "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 2,
-        "discussion_score": 414.7,
+        "discussion_score": 424.7,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
