@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 16:46:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 19:25:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -56,6 +56,14 @@
 <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
 </item>
 <item>
+<title>黄仁勋离开 Nvidia 后，亚洲各国政府如何回应</title>
+<link>https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</link>
+<guid isPermaLink="true">https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+</item>
+<item>
 <title>即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December</title>
 <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
@@ -88,28 +96,12 @@
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
 </item>
 <item>
-<title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-</item>
-<item>
 <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
 <link>https://www.aibase.com/news/32323</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 14:46:00 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 15:25:42 +0000</pubDate>
 </item>
 <item>
 <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
@@ -136,14 +128,6 @@
 <pubDate>Fri, 13 Nov 2026 23:54:06 +0000</pubDate>
 </item>
 <item>
-<title>Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧</title>
-<link>https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj</link>
-<guid isPermaLink="true">https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
@@ -166,6 +150,22 @@
 <description>The Decoder：AI News</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
+<link>https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt</link>
+<guid isPermaLink="true">https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt</guid>
+<description>Newcomer 新闻长文</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试</title>
+<link>https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759</link>
+<guid isPermaLink="true">https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759</guid>
+<description>Lydia Hallie</description>
+<category>行业动态</category>
+<pubDate>Fri, 13 Nov 2026 18:43:37 +0000</pubDate>
 </item>
 </channel>
 </rss>

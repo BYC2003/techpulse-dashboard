@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:46:00.345666Z",
+  "generated_at": "2026-11-14T19:25:42.186124Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -97,15 +97,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6803,
+        "recency": 0.6546,
         "story_heat": 0.25
       },
       "category": "official",
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5551,
+        "recency": 0.5341,
         "story_heat": 0.25
       },
       "category": "official",
@@ -416,15 +416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7239,
+        "recency": 0.6966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6893,
+        "recency": 0.6633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,15 +674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6601,
+        "recency": 0.6352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7199,
+        "recency": 0.6928,
         "story_heat": 0.0
       },
       "category": "official",
@@ -878,6 +878,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_a8f494c8918e",
+      "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+      "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+      "primary_url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0110b3550e232d3fc1d401ea68455c1da27b4fce",
+          "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "title_zh": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "title_en": null,
+          "title_original": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T16:34:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "0110b3550e232d3fc1d401ea68455c1da27b4fce",
+          "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "title_zh": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "title_en": null,
+          "title_original": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T16:34:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9596,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-14T16:34:15Z",
+      "latest_at": "2026-11-14T16:34:15Z",
+      "primary_item": {
+        "id": "0110b3550e232d3fc1d401ea68455c1da27b4fce",
+        "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+        "title_zh": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+        "title_en": null,
+        "title_original": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_6462d932fa5b",
       "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -932,15 +1061,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7481,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1062,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,15 +1321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.8983,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,15 +1450,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5464,
+        "recency": 0.5258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1396,264 +1525,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.509,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI Blog",
-          "site_id": "official_ai",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "claim_type": "confirmed",
-          "basis_source": "Google AI Blog",
-          "basis_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_b821bfa39311",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
-      "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Hydrogen",
-        "title_original": "Introducing Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google DeepMind",
-          "site_id": "official_ai",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Introducing Gemini 4 Hydrogen",
-          "claim_type": "confirmed",
-          "basis_source": "Google DeepMind",
-          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_1d42fa256bab",
       "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
       "url": "https://www.aibase.com/news/32323",
@@ -1676,7 +1547,7 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-14T14:46:00.345666Z",
+          "published_at": "2026-11-14T15:25:42.186124Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1701,22 +1572,22 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-14T14:46:00.345666Z",
+          "published_at": "2026-11-14T15:25:42.186124Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1724,8 +1595,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-14T14:46:00.345666Z",
-      "latest_at": "2026-11-14T14:46:00.345666Z",
+      "earliest_at": "2026-11-14T15:25:42.186124Z",
+      "latest_at": "2026-11-14T15:25:42.186124Z",
       "primary_item": {
         "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
         "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
@@ -1838,15 +1709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.623,
+        "recency": 0.5995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1967,15 +1838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7099,
+        "recency": 0.6832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2096,15 +1967,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2170,135 +2041,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_b40ed3a10a55",
-      "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-      "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-      "primary_url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e033ecea49900b112bd41022cba6f533c98cb1e1",
-          "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "title_zh": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "title_en": null,
-          "title_original": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-13T22:43:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "e033ecea49900b112bd41022cba6f533c98cb1e1",
-          "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "title_zh": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "title_en": null,
-          "title_original": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-13T22:43:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T22:43:00Z",
-      "latest_at": "2026-11-13T22:43:00Z",
-      "primary_item": {
-        "id": "e033ecea49900b112bd41022cba6f533c98cb1e1",
-        "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-        "title_zh": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-        "title_en": null,
-        "title_original": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-          "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_ce1046eebd38",
       "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
@@ -2353,15 +2095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7245,
+        "recency": 0.6972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2483,15 +2225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.745,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2611,15 +2353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7423,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2672,6 +2414,263 @@
           "claim_type": "reported",
           "basis_source": "The Decoder：AI News",
           "basis_url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_672529e7c5a9",
+      "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+      "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+      "primary_url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+      "source": "Newcomer 新闻长文",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
+          "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "title_en": null,
+          "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+          "source": "Newcomer 新闻长文",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T19:27:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Newcomer 新闻长文"
+      ],
+      "items": [
+        {
+          "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
+          "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "title_en": null,
+          "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+          "source": "Newcomer 新闻长文",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T19:27:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7074,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T19:27:39Z",
+      "latest_at": "2026-11-13T19:27:39Z",
+      "primary_item": {
+        "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
+        "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+        "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+        "title_en": null,
+        "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+        "source": "Newcomer 新闻长文",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Newcomer 新闻长文",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+          "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
+          "claim_type": "reported",
+          "basis_source": "Newcomer 新闻长文",
+          "basis_url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_223a7ee6013e",
+      "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+      "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+      "primary_url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+      "source": "Lydia Hallie",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
+          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "title_en": null,
+          "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+          "source": "Lydia Hallie",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T18:43:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lydia Hallie"
+      ],
+      "items": [
+        {
+          "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
+          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "title_en": null,
+          "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+          "source": "Lydia Hallie",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T18:43:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T18:43:37Z",
+      "latest_at": "2026-11-13T18:43:37Z",
+      "primary_item": {
+        "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
+        "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+        "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+        "title_en": null,
+        "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+        "source": "Lydia Hallie",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Lydia Hallie",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+          "claim_type": "reported",
+          "basis_source": "Lydia Hallie",
+          "basis_url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
