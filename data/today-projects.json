@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:28:57.440739Z",
+  "generated_at": "2026-11-14T15:21:59.107897Z",
   "date": "2026-11-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T14:27:50.532019Z"
+      "observed_at": "2026-11-14T15:21:06.127847Z"
     },
     {
-      "id": "project_e13b6e436d4b",
-      "project_name": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+      "id": "project_0599215ac874",
+      "project_name": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "summary": "Open-source UI components for your AI agent",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Gemini Robotics 2.5: Google’s most capable robot model」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Gemini Robotics 2.5: Google’s most capable robot model\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T20:18:13Z",
-      "updated_at": "2026-11-14T14:27:29Z",
+      "recommend_reason_zh": "体验它主打的「Open-source UI components for your AI agent」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Open-source UI components for your AI agent\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-01T10:27:54Z",
+      "updated_at": "2026-11-14T15:09:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T14:28:44.711753Z"
+      "observed_at": "2026-11-14T15:21:47.431035Z"
     },
     {
       "id": "project_a67bb8d2a6b4",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T14:27:50.532019Z"
+      "observed_at": "2026-11-14T15:21:06.127847Z"
     },
     {
-      "id": "project_61f5e9e3327d",
-      "project_name": "Tabletop by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "summary": "Build interactive group experiences with AI.",
+      "id": "project_0a5fcde6706e",
+      "project_name": "CodeMesh",
+      "url": "https://www.producthunt.com/products/codemesh-2",
+      "summary": "Cut AI coding costs by 90%",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Build interactive group experiences with AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Build interactive group experiences with AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T11:39:17Z",
-      "updated_at": "2026-11-14T13:40:25Z",
+      "recommend_reason_zh": "体验它主打的「Cut AI coding costs by 90%」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Cut AI coding costs by 90%\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T09:07:28Z",
+      "updated_at": "2026-11-14T14:24:16Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T14:28:44.711753Z"
+      "observed_at": "2026-11-14T15:21:47.431035Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1393,
+      "duration_ms": 1383,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 165,
+      "duration_ms": 224,
       "error": null
     }
   ]
