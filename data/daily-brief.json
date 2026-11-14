@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:26:06.606043Z",
+  "generated_at": "2026-11-14T14:27:50.532019Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -23,6 +23,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T14:05:22Z",
           "updated_at": null,
           "recency_basis": null
@@ -39,6 +42,9 @@
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
           "published_at": "2026-11-14T02:05:37Z",
           "updated_at": null,
           "recency_basis": null
@@ -62,6 +68,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T14:05:22Z",
           "updated_at": null,
           "recency_basis": null
@@ -78,6 +87,9 @@
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
           "published_at": "2026-11-14T02:05:37Z",
           "updated_at": null,
           "recency_basis": null
@@ -93,7 +105,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7036,
+        "recency": 0.7033,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,8 +127,61 @@
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        },
+        {
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
     },
     {
       "story_id": "story_e0ce3fdbb288",
@@ -138,6 +203,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:23:48Z",
           "updated_at": null,
           "recency_basis": null
@@ -160,6 +228,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:23:48Z",
           "updated_at": null,
           "recency_basis": null
@@ -167,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7487,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,8 +267,50 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Gemini 4 Hydrogen in GitHub Copilot",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_c0e4bca0c953",
@@ -219,6 +332,9 @@
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -235,6 +351,9 @@
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -257,6 +376,9 @@
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -273,6 +395,9 @@
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -288,7 +413,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5741,
+        "recency": 0.5738,
         "story_heat": 0.25
       },
       "category": "official",
@@ -310,8 +435,60 @@
         "recommend_reason_zh": null,
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.168.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        },
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.169.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Codex CLI 0.168.0",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
     },
     {
       "story_id": "story_a9f8b4a664f6",
@@ -333,6 +510,9 @@
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -355,6 +535,9 @@
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -370,7 +553,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7129,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,8 +574,179 @@
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/introducing-chatgpt-wallet",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "title": "Introducing ChatGPT Wallet",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Introducing ChatGPT Wallet",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_0ac7e0d1affe",
+      "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news261113",
+      "primary_url": "https://api-docs.deepseek.com/news/news261113",
+      "source": "DeepSeek News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ddc13cb6d8e5b71de0b027a465a2c6f43628f0ff",
+          "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "title_zh": null,
+          "title_en": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "title_original": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news261113",
+          "source": "DeepSeek News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek News"
+      ],
+      "items": [
+        {
+          "id": "ddc13cb6d8e5b71de0b027a465a2c6f43628f0ff",
+          "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "title_zh": null,
+          "title_en": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "title_original": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/news/news261113",
+          "source": "DeepSeek News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6824,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T12:00:00Z",
+      "latest_at": "2026-11-13T12:00:00Z",
+      "primary_item": {
+        "id": "ddc13cb6d8e5b71de0b027a465a2c6f43628f0ff",
+        "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "title_zh": null,
+        "title_en": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "title_original": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/news/news261113",
+        "source": "DeepSeek News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://api-docs.deepseek.com/news/news261113",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "DeepSeek News",
+          "site_id": "official_ai",
+          "url": "https://api-docs.deepseek.com/news/news261113",
+          "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "claim_type": "confirmed",
+          "basis_source": "DeepSeek News",
+          "basis_url": "https://api-docs.deepseek.com/news/news261113",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_010ac45cd0c9",
@@ -414,6 +768,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:00:39Z",
           "updated_at": null,
           "recency_basis": null
@@ -436,6 +793,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:00:39Z",
           "updated_at": null,
           "recency_basis": null
@@ -451,7 +811,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7446,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -472,8 +832,50 @@
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_6462d932fa5b",
@@ -495,6 +897,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T20:40:05Z",
           "updated_at": null,
           "recency_basis": null
@@ -517,6 +922,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T20:40:05Z",
           "updated_at": null,
           "recency_basis": null
@@ -524,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7737,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,8 +961,51 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_276c1a4d26d1",
@@ -576,6 +1027,9 @@
           "source": "Nathan Lambert：Interconnects",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-14T12:23:15Z",
           "updated_at": null,
           "recency_basis": null
@@ -598,6 +1052,9 @@
           "source": "Nathan Lambert：Interconnects",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-14T12:23:15Z",
           "updated_at": null,
           "recency_basis": null
@@ -605,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,8 +1090,52 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
         "source": "Nathan Lambert：Interconnects",
-        "source_name": "AI HOT"
-      }
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "opinion",
+      "verification_score": 37,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Nathan Lambert：Interconnects",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+          "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+          "claim_type": "analysis",
+          "basis_source": "Nathan Lambert：Interconnects",
+          "basis_url": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_644c9e2889f6",
@@ -656,6 +1157,9 @@
           "source": "The Verge：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-14T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -678,6 +1182,9 @@
           "source": "The Verge：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-14T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -685,15 +1192,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,8 +1220,51 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
         "source": "The Verge：AI",
-        "source_name": "AI HOT"
-      }
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Verge：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
+          "title": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕",
+          "claim_type": "reported",
+          "basis_source": "The Verge：AI",
+          "basis_url": "https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_ad1ef7aac19f",
@@ -736,6 +1286,9 @@
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T22:54:52Z",
           "updated_at": null,
           "recency_basis": null
@@ -758,6 +1311,9 @@
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T22:54:52Z",
           "updated_at": null,
           "recency_basis": null
@@ -773,7 +1329,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5651,
+        "recency": 0.5649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -794,8 +1350,50 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub AI & ML",
+          "site_id": "official_ai",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "title": "Build once, run on any agent: A practical guide to agent skills",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Build once, run on any agent: A practical guide to agent skills",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub AI & ML",
+          "basis_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_1d42fa256bab",
@@ -817,7 +1415,10 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-14T14:26:06.606043Z",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T14:27:50.532019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -839,7 +1440,10 @@
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-14T14:26:06.606043Z",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T14:27:50.532019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -862,8 +1466,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-14T14:26:06.606043Z",
-      "latest_at": "2026-11-14T14:26:06.606043Z",
+      "earliest_at": "2026-11-14T14:27:50.532019Z",
+      "latest_at": "2026-11-14T14:27:50.532019Z",
       "primary_item": {
         "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
         "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
@@ -874,8 +1478,52 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/32323",
         "source": "AIbase",
-        "source_name": "AIbase"
-      }
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "opinion",
+      "verification_score": 37,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32323",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "claim_type": "analysis",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32323",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_6df6ce89b479",
@@ -897,6 +1545,9 @@
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T18:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -919,6 +1570,9 @@
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T18:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -926,15 +1580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5264,
+        "recency": 0.5262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,8 +1609,50 @@
         "recommend_reason_zh": null,
         "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "claim_type": "confirmed",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_b821bfa39311",
@@ -978,6 +1674,9 @@
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T18:00:50Z",
           "updated_at": null,
           "recency_basis": null
@@ -1000,6 +1699,9 @@
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-12T18:00:50Z",
           "updated_at": null,
           "recency_basis": null
@@ -1007,15 +1709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5265,
+        "recency": 0.5263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1036,8 +1738,50 @@
         "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Introducing Gemini 4 Hydrogen",
+          "claim_type": "confirmed",
+          "basis_source": "Google DeepMind",
+          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_9a507b7582fa",
@@ -1059,6 +1803,9 @@
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -1081,6 +1828,9 @@
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -1088,15 +1838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6444,
+        "recency": 0.6441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1117,8 +1867,50 @@
         "recommend_reason_zh": null,
         "url": "https://openai.com/business/customer-stories/shield",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/business/customer-stories/shield",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/shield",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_65948bc08832",
@@ -1140,6 +1932,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T17:02:35Z",
           "updated_at": null,
           "recency_basis": null
@@ -1162,6 +1957,9 @@
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T17:02:35Z",
           "updated_at": null,
           "recency_basis": null
@@ -1169,15 +1967,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7342,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1198,8 +1996,50 @@
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/allenai/xybench",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/allenai/xybench",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "title": "XYBench: Helping with the problem behind the question",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "XYBench: Helping with the problem behind the question",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/xybench",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_b17be39d8595",
@@ -1221,6 +2061,9 @@
           "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T23:54:06Z",
           "updated_at": null,
           "recency_basis": null
@@ -1243,6 +2086,9 @@
           "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T23:54:06Z",
           "updated_at": null,
           "recency_basis": null
@@ -1258,7 +2104,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8107,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,8 +2124,51 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
         "source": "Rohan Paul",
-        "source_name": "AI HOT"
-      }
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Rohan Paul",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+          "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+          "claim_type": "reported",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_b40ed3a10a55",
@@ -1301,6 +2190,9 @@
           "source": "TechCrunch：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T22:43:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -1323,6 +2215,9 @@
           "source": "TechCrunch：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T22:43:00Z",
           "updated_at": null,
           "recency_basis": null
@@ -1338,7 +2233,7 @@
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,8 +2252,52 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
         "source": "TechCrunch：AI",
-        "source_name": "AI HOT"
-      }
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+          "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_ce1046eebd38",
@@ -1380,6 +2319,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:27:13Z",
           "updated_at": null,
           "recency_basis": null
@@ -1402,6 +2344,9 @@
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
           "published_at": "2026-11-13T18:27:13Z",
           "updated_at": null,
           "recency_basis": null
@@ -1409,15 +2354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7494,
+        "recency": 0.749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1438,8 +2383,51 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_fce2c4cabe61",
@@ -1461,6 +2449,9 @@
           "source": "Ado Kukic",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T20:22:53Z",
           "updated_at": null,
           "recency_basis": null
@@ -1483,6 +2474,9 @@
           "source": "Ado Kukic",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T20:22:53Z",
           "updated_at": null,
           "recency_basis": null
@@ -1490,15 +2484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,8 +2511,51 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
         "source": "Ado Kukic",
-        "source_name": "AI HOT"
-      }
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ado Kukic",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
+          "title": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
+          "claim_type": "reported",
+          "basis_source": "Ado Kukic",
+          "basis_url": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     },
     {
       "story_id": "story_b4265389bb2a",
@@ -1540,6 +2577,9 @@
           "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T20:07:34Z",
           "updated_at": null,
           "recency_basis": null
@@ -1562,6 +2602,9 @@
           "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
           "published_at": "2026-11-13T20:07:34Z",
           "updated_at": null,
           "recency_basis": null
@@ -1569,15 +2612,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7677,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1596,87 +2639,51 @@
         "recommend_reason_zh": null,
         "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
         "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_672529e7c5a9",
-      "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-      "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
-      "primary_url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
-      "source": "Newcomer 新闻长文",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
-          "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "title_en": null,
-          "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
-          "source": "Newcomer 新闻长文",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-13T19:27:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Newcomer 新闻长文"
-      ],
-      "items": [
-        {
-          "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
-          "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "title_en": null,
-          "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
-          "source": "Newcomer 新闻长文",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-13T19:27:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7603,
-        "story_heat": 0.0
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
       },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Decoder：AI News",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
       ],
-      "earliest_at": "2026-11-13T19:27:39Z",
-      "latest_at": "2026-11-13T19:27:39Z",
-      "primary_item": {
-        "id": "aabe833256c781ec415ae31f58aeff2ee5473ee3",
-        "title": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-        "title_zh": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-        "title_en": null,
-        "title_original": "Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt",
-        "source": "Newcomer 新闻长文",
-        "source_name": "AI HOT"
-      }
+      "key_claims": [
+        {
+          "claim": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "claim_type": "reported",
+          "basis_source": "The Decoder：AI News",
+          "basis_url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
     }
   ]
 }
