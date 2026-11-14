@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:49:31.798598+00:00",
+  "generated_at": "2026-11-14T16:31:58.022030+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -385,9 +385,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 89,
+        "upvotes": 102,
         "comments": 2,
-        "discussion_score": 894.83,
+        "discussion_score": 1024.82,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
