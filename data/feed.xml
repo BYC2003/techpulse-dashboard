@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 19:25:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 20:42:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -48,6 +48,14 @@
 <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难</title>
+<link>https://aihot.news/items/vl3jnosrbdn6i5j2we400046i</link>
+<guid isPermaLink="true">https://aihot.news/items/vl3jnosrbdn6i5j2we400046i</guid>
+<description>The Decoder：AI News</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
+</item>
+<item>
 <title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
 <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
@@ -80,14 +88,6 @@
 <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
 </item>
 <item>
-<title>黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕</title>
-<link>https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</link>
-<guid isPermaLink="true">https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Build once, run on any agent: A practical guide to agent skills</title>
 <link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
@@ -96,12 +96,20 @@
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
 </item>
 <item>
+<title>黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕</title>
+<link>https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</link>
+<guid isPermaLink="true">https://aihot.news/items/gslfz6uqr2sqy68cgv38i4tf0</guid>
+<description>The Verge：AI</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
 <link>https://www.aibase.com/news/32323</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 15:25:42 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 15:42:12 +0000</pubDate>
 </item>
 <item>
 <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
@@ -142,14 +150,6 @@
 <description>Ado Kukic</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
-</item>
-<item>
-<title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
-<link>https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</link>
-<guid isPermaLink="true">https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</guid>
-<description>The Decoder：AI News</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>

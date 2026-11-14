@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:27:19.827726+00:00",
+  "generated_at": "2026-11-14T20:43:10.290559+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -581,7 +581,7 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "upvotes": 46,
         "comments": 3,
-        "discussion_score": 466.87,
+        "discussion_score": 466.86,
         "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
         "keywords": [
           "video generation models",
@@ -641,7 +641,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 45,
         "comments": 2,
-        "discussion_score": 454.68,
+        "discussion_score": 454.67,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
