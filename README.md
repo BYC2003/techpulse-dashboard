@@ -7,7 +7,7 @@
 ## 看板逻辑
 
 - **今日要闻**：多来源热点按重要度和热度排序
-- **抖音科普选题**：从近 48 小时信息流挑选 5 条，并给出讲解角度
+- **抖音科普选题**：从近 48 小时信息流挑选 5 条，按事实可信、一手程度、大众影响、画面性、时效与争议度给出编辑参考分；分数不是播放量预测
 - **GitHub 周/月热榜**：官方 Trending 周榜与月榜 TOP10
 - **AI 权威观点与会议**：近 90 天官方实验室、研究机构、会议官方与深度访谈
 - **AI 权威论文**：人工精选 40 篇不限年代里程碑论文 + Hugging Face Daily Papers 近 21 天热议 TOP10
@@ -19,6 +19,9 @@
 - **搜索与来源筛选**：搜索标题、摘要、来源，查看单一来源
 - **来源健康状态**：失败来源单独显示，不阻断整页
 - **原文直达**：每张卡片保留原始链接
+- **事实边界**：区分已确认 / 媒体报道 / 分析观点 / 传闻待核 / 预印本，并显示一手原文、独立来源、转载数量与核验限制
+- **来源链**：标出一手原文、独立报道、聚合入口与转载/同链关系
+- **官方源覆盖矩阵**：分别显示“当前有内容 / 已连接但近期无条目 / 未配置”，不把配置当成覆盖
 - **手机安装**：Chrome 添加到主屏幕
 - **手机一键同步**：首页右上角“立即同步”，首次配置 Fine-grained Token 后直接触发最新采集
 - **手机阅读版式**：压缩字号与状态条；近日要闻/精选采用论文式卡片；抖音选题上下排列
@@ -35,7 +38,7 @@ Show HN、Hacker News、Product Hunt、HelloGitHub 与 GitHub 新锐仓库。
 Google Blog、Apple Newsroom、NVIDIA Newsroom，以及 TechCrunch、The Verge、Ars Technica、MIT Technology Review、Wired、Engadget、Solidot、IT之家、爱范儿、InfoQ、少数派、量子位。
 
 ### AI
-OpenAI、Google DeepMind、Google AI、Hugging Face、Microsoft Research、MIT News AI、Anthropic / Claude 相关官方源与 AI 媒体。
+OpenAI、Anthropic、Google DeepMind、Google AI、Hugging Face、GitHub、NVIDIA、DeepSeek、Qwen、ByteDance Seed、MiniMax，以及 Microsoft Research、MIT News AI 等白名单来源与 AI 媒体。Meta AI、Microsoft AI、Moonshot/Kimi、智谱和公司 IR/SEC 目前明确列为待补覆盖，不以媒体代替官方源。
 
 ### 论文
 arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
@@ -64,8 +67,10 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 - 默认不启用 DeepSeek 标题改写、翻译和 persona 锐评。
 - 来源标题、摘要和链接保持原样。
 - 来源等级明确展示在卡片上。
+- 每条聚合事件输出 `claim_status`、`primary_source_url`、`source_chain`、`key_claims`、`limits`、`independent_source_count` 与 `repost_count`。
 - 预印本标注为研究/预印本，需回原文核验。
-- 多来源事件会聚合，但不会把媒体标题当成官方事实。
+- 多来源事件会聚合，但不会把媒体标题当成官方事实；同一链接的聚合与转载不会伪装成独立确认。
+- 抖音选题把事实可信、一手程度、大众影响、画面性、时效、争议度和风险拆开展示，并明确“不是播放量预测”。
 - GitHub 热榜直接读取 GitHub 官方 Trending 页面，不以二手榜单代替。
 - AI 权威观点与会议使用白名单来源；保留原文标题、摘要、发布时间和链接，明确区分访谈/观点与会议官方信息。
 - 对快讯、客户案例、纯产品发布和未确认传闻默认过滤，不将观点包装成事实。
@@ -101,7 +106,8 @@ node scripts/build_i18n.mjs --check
 - `setup.html`：手机安装与来源说明
 - `assets/app.js`：看板筛选、栏目、卡片和交互
 - `assets/styles.css`：响应式视觉样式
-- `scripts/update_news.py`：采集、分类、聚合、来源等级
+- `scripts/update_news.py`：采集、分类、聚合、来源等级；支持 RSS、官方网页与官方 sitemap
+- `scripts/verification.py`：事实边界、来源链、独立来源/转载、核验限制与官方覆盖矩阵
 - `scripts/update_github_rankings.py`：GitHub 官方周/月 Trending 采集
 - `scripts/update_authority_voices.py`：AI 权威观点、会议与访谈白名单采集
 - `scripts/update_papers.py`：40 篇权威论文与 10 篇最新热议论文
@@ -117,6 +123,8 @@ node scripts/build_i18n.mjs --check
 - GitHub Trending 是发现榜单，不等于项目事实；GitHub Blog、Changelog、Release 和仓库 API 才是一手事实来源。
 - GitHub Actions 会有排队延迟；原生 `schedule` 是尽力而为，看门狗用于降低漏跑影响。
 - 一些媒体有付费墙或会变更 RSS 地址，失败会显示在来源状态中。
+- Meta AI、Microsoft AI、Moonshot/Kimi、智谱与公司 IR/SEC 尚无稳定公开订阅入口，当前在覆盖矩阵中标为未配置。
+- `claim_status` 是基于来源层级和标题/摘要信号的辅助标注，不是自动事实核查；所有正式内容仍需人工逐句回原文。
 - 本项目不做推送，不做账号系统，不保存阅读历史。
 
 ## 来源与许可

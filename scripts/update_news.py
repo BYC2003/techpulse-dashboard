@@ -32,9 +32,11 @@ from urllib3.util.retry import Retry
 try:
     from scripts.ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, is_broadly_ai_related, score_ai_relevance
     from scripts.project_sources import build_today_projects, fetch_github_projects, fetch_producthunt_projects
+    from scripts.verification import build_official_coverage, build_story_verification
 except ModuleNotFoundError:  # pragma: no cover - direct `python scripts/update_news.py`
     from ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, is_broadly_ai_related, score_ai_relevance
     from project_sources import build_today_projects, fetch_github_projects, fetch_producthunt_projects
+    from verification import build_official_coverage, build_story_verification
 
 try:
     import feedparser
@@ -125,8 +127,40 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
         "html_url": "https://github.com/openai/skills",
         "include_keywords": "hatch,pet,migrate-to-codex",
     },
+    {
+        "title": "Qwen Blog",
+        "xml_url": "https://qwenlm.github.io/blog/index.xml",
+        "html_url": "https://qwenlm.github.io/blog/",
+    },
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
+OFFICIAL_SITEMAP_FEEDS: tuple[dict[str, Any], ...] = (
+    {
+        "title": "DeepSeek News",
+        "sitemap_url": "https://api-docs.deepseek.com/sitemap.xml",
+        "include_pattern": r"/news/news\d{6}/?$",
+        "slug_date_pattern": r"news(\d{2})(\d{2})(\d{2})",
+        "max_entries": 8,
+        "provider": "DeepSeek",
+        "html_url": "https://api-docs.deepseek.com/news/",
+    },
+    {
+        "title": "ByteDance Seed Blog",
+        "sitemap_url": "https://seed.bytedance.com/sitemap.xml",
+        "include_pattern": r"seed\.bytedance\.com/blog/[^/]+/?$",
+        "max_entries": 8,
+        "provider": "ByteDance Seed",
+        "html_url": "https://seed.bytedance.com/en/blog",
+    },
+    {
+        "title": "MiniMax Blog",
+        "sitemap_url": "https://www.minimax.io/sitemap.xml",
+        "include_pattern": r"minimax\.io/blog/[^/]+/?$",
+        "max_entries": 8,
+        "provider": "MiniMax",
+        "html_url": "https://www.minimax.io/blog",
+    },
+)
 CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
 # Per-fetch item cap for wide discussion-tier aggregators (buzzing/iris).
 # They dominate raw volume with very low AI keep rates (see
@@ -1813,12 +1847,117 @@ def fetch_curated_ai_media(session: requests.Session, now: datetime) -> list[Raw
     return out
 
 
+def parse_sitemap_article_date(
+    url: str,
+    lastmod: str,
+    slug_date_pattern: str,
+    now: datetime,
+) -> datetime | None:
+    if slug_date_pattern:
+        match = re.search(slug_date_pattern, url, re.I)
+        if match:
+            try:
+                year = 2000 + int(match.group(1))
+                month = int(match.group(2))
+                day = int(match.group(3))
+                parsed = datetime(year, month, day, 12, 0, tzinfo=UTC)
+                if parsed <= now + timedelta(days=2):
+                    return parsed
+            except (TypeError, ValueError):
+                pass
+    return parse_date_any(lastmod, now)
+
+
+def official_page_title(session: requests.Session, url: str) -> str:
+    try:
+        response = session.get(url, timeout=18)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        og_title = soup.select_one('meta[property="og:title"]')
+        if og_title and str(og_title.get("content") or "").strip():
+            return maybe_fix_mojibake(str(og_title.get("content")).strip())
+        heading = soup.select_one("h1")
+        if heading:
+            title = maybe_fix_mojibake(heading.get_text(" ", strip=True))
+            if title:
+                return title
+        if soup.title:
+            return maybe_fix_mojibake(soup.title.get_text(" ", strip=True))
+    except Exception:
+        pass
+    slug = unquote(urlparse(url).path.rstrip("/").split("/")[-1] or "")
+    return re.sub(r"[-_]+", " ", slug).strip()
+
+
+def fetch_official_sitemap_items(
+    session: requests.Session,
+    feed: dict[str, Any],
+    now: datetime,
+) -> list[RawItem]:
+    response = session.get(str(feed["sitemap_url"]), timeout=20)
+    response.raise_for_status()
+    pattern = re.compile(str(feed["include_pattern"]), re.I)
+    candidates: list[tuple[datetime, str]] = []
+    for block in re.findall(r"<url>(.*?)</url>", response.text, flags=re.I | re.S):
+        loc_match = re.search(r"<loc>(.*?)</loc>", block, flags=re.I | re.S)
+        if not loc_match:
+            continue
+        url = unquote(loc_match.group(1).strip())
+        if not pattern.search(url):
+            continue
+        lastmod_match = re.search(r"<lastmod>(.*?)</lastmod>", block, flags=re.I | re.S)
+        published = parse_sitemap_article_date(
+            url,
+            lastmod_match.group(1).strip() if lastmod_match else "",
+            str(feed.get("slug_date_pattern") or ""),
+            now,
+        )
+        if not published:
+            continue
+        if published < now - timedelta(days=OFFICIAL_AI_MAX_AGE_DAYS):
+            continue
+        if published > now + timedelta(days=2):
+            continue
+        candidates.append((published, url))
+    candidates.sort(key=lambda pair: pair[0], reverse=True)
+
+    out: list[RawItem] = []
+    seen: set[str] = set()
+    for published, url in candidates[: max(1, int(feed.get("max_entries") or 8))]:
+        if url in seen:
+            continue
+        seen.add(url)
+        title = official_page_title(session, url)
+        if not title:
+            continue
+        out.append(RawItem(
+            site_id="official_ai",
+            site_name="Official AI Updates",
+            source=str(feed["title"]),
+            title=title,
+            url=url,
+            published_at=published,
+            meta={
+                "provider": feed.get("provider"),
+                "sitemap_url": feed.get("sitemap_url"),
+                "feed_home": feed.get("html_url"),
+            },
+        ))
+    return out
+
+
 def fetch_official_ai_updates(session: requests.Session, now: datetime) -> list[RawItem]:
     out: list[RawItem] = []
 
     for feed in OFFICIAL_AI_FEEDS:
         try:
             out.extend(fetch_feed_as_official_items(session, feed, now))
+        except Exception:
+            continue
+
+    for feed in OFFICIAL_SITEMAP_FEEDS:
+        try:
+            out.extend(fetch_official_sitemap_items(session, feed, now))
         except Exception:
             continue
 
@@ -3133,6 +3272,19 @@ AIHOT_FIRST_PARTY_SOURCE_NAMES: frozenset[str] = frozenset({
     "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     # --- ByteDance / Kling ---
     "X：可灵 Kling AI (@Kling_ai)",
+    # --- DeepSeek / Qwen / MiniMax official channels ---
+    "DeepSeek：News（官网）",
+    "DeepSeek News",
+    "Qwen Blog",
+    "Qwen：Blog（RSS）",
+    "MiniMax Blog",
+    "MiniMax：News（官网）",
+    "ByteDance Seed Blog",
+    "字节 Seed：Blog（官网）",
+    "Meta AI：Blog（官网）",
+    "Microsoft AI：Blog（官网）",
+    "NVIDIA Newsroom",
+    "NVIDIA：Newsroom（RSS）",
 })
 
 
@@ -3149,8 +3301,10 @@ def source_tier_for_record(site_id: str, source: str) -> tuple[str, str, int] | 
             return ("research", "研究/预印本", 1)
         if any(token in lower for token in (
             "github blog", "github changelog", "google blog", "apple newsroom",
-            "nvidia newsroom", "openai", "deepmind", "google ai", "hugging face",
-            "microsoft research", "mit news ai"
+            "nvidia newsroom", "openai", "anthropic", "deepmind", "google ai",
+            "hugging face", "microsoft research", "microsoft ai", "mit news ai",
+            "deepseek", "qwen", "minimax", "seed.bytedance", "ai.meta.com",
+            "meta ai", "moonshot", "kimi", "zhipu", "智谱"
         )):
             return ("official", "一手官方", 0)
         if any(token in lower for token in (
@@ -6916,6 +7070,9 @@ def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
         "source": item.get("source"),
         "source_name": item.get("site_name"),
         "site_id": item.get("site_id"),
+        "source_tier": item.get("source_tier"),
+        "source_tier_label": item.get("source_tier_label"),
+        "source_tier_rank": item.get("source_tier_rank"),
         "published_at": item.get("published_at"),
         "updated_at": item.get("updated_at"),
         "recency_basis": item.get("recency_basis"),
@@ -6995,8 +7152,12 @@ def build_story_record(
             "url": url,
             "source": primary.get("source"),
             "source_name": primary.get("site_name"),
+            "site_id": primary.get("site_id"),
+            "source_tier": primary.get("source_tier"),
+            "source_tier_label": primary.get("source_tier_label"),
         },
     }
+    story.update(build_story_verification(primary, sorted_items))
     # English edition fields; absent (not null) when the en feature is disabled.
     if primary.get("en"):
         story["primary_item"]["en"] = primary["en"]
@@ -7181,10 +7342,16 @@ def build_stories_payload(
     generated_at: str,
     window_hours: int,
 ) -> dict[str, Any]:
+    claim_counts: dict[str, int] = {}
+    for story in stories:
+        status = str(story.get("claim_status") or "unclassified")
+        claim_counts[status] = claim_counts.get(status, 0) + 1
     return {
         "generated_at": generated_at,
         "window_hours": window_hours,
         "total_stories": len(stories),
+        "claim_status_summary": claim_counts,
+        "verification_version": "claim_boundary_v1",
         "stories": stories,
     }
 
@@ -7711,6 +7878,7 @@ def main() -> int:
         "x_api": x_api_status,
         "socialdata": socialdata_status,
         "tikhub": tikhub_status,
+        "official_coverage": build_official_coverage(latest_items_ai_dedup),
     }
 
     latest_payload, latest_all_payload = build_latest_payloads(latest_payload)

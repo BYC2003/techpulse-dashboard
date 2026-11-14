@@ -6,13 +6,13 @@
     <title>TechPulse｜一手科技与 AI 情报看板</title>
     <meta
       name="description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
     />
     <link rel="alternate" type="application/rss+xml" title="TechPulse" href="/data/feed.xml" />
     <meta property="og:title" content="TechPulse｜一手科技与 AI 情报看板" />
     <meta
       property="og:description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
     />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="TechPulse" />
@@ -29,7 +29,7 @@
     <meta name="twitter:title" content="TechPulse｜一手科技与 AI 情报看板" />
     <meta
       name="twitter:description"
-      content="自动整理 GitHub 新动态、实用开源项目、科技前沿、AI 动态与 AI 论文；官方来源优先，原文直达。"
+      content="自动整理 GitHub 新动态、开源项目、科技前沿、AI 动态与论文；官方来源优先，标注事实边界、来源链与一手原文，不把观点当事实。"
     />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=mobile-1023a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=evidence-20261114" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body data-dashboard-view="news">
@@ -123,13 +123,14 @@
           <div class="douyin-picks-heading">
             <span class="douyin-picks-eyebrow">DOUYIN CREATOR DESK</span>
             <h2 id="douyinPicksTitle">抖音科普 · 今日 5 个选题</h2>
-            <p class="douyin-picks-intro">从近 48 小时信息流中筛选，兼顾一手信源、时效、多源关注和普通人能听懂的表达空间；事实与观点均以原文为准。</p>
+            <p class="douyin-picks-intro">按“事实可信、一手程度、大众影响、画面性、时效、争议度”综合初筛，并扣除传闻、单一来源和过度技术化风险。分数是编辑参考，不是播放量预测。</p>
           </div>
           <div class="douyin-picks-actions">
             <span id="douyinPicksMeta">正在挑选...</span>
             <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
           </div>
         </div>
+        <div class="douyin-verification-summary" id="douyinVerificationSummary" aria-live="polite"></div>
         <div class="douyin-picks-swipe-hint" aria-hidden="true">上下滑动查看 5 条选题 ↓</div>
         <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
       </section>
@@ -263,6 +264,23 @@
           </div>
           <a class="title" target="_blank" rel="noopener noreferrer"></a>
           <p class="news-summary"></p>
+          <details class="fact-boundary" hidden>
+            <summary>
+              <span class="fact-boundary-title">事实边界</span>
+              <span class="claim-status-badge"></span>
+              <span class="verification-score"></span>
+            </summary>
+            <div class="fact-boundary-body">
+              <p class="claim-status-note"></p>
+              <div class="verification-metrics"></div>
+              <div class="claim-basis"></div>
+              <ul class="evidence-limits"></ul>
+              <details class="source-chain-details" hidden>
+                <summary>查看来源链</summary>
+                <div class="source-chain-list"></div>
+              </details>
+            </div>
+          </details>
           <div class="why-box" hidden>
             <span class="why-label">推荐理由：</span>
             <span class="why-text"></span>
@@ -275,6 +293,6 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=mobile-1023a" defer></script>
+    <script src="./assets/app.js?v=evidence-20261114" defer></script>
   </body>
 </html>

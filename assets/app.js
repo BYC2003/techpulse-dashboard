@@ -116,6 +116,7 @@ const douyinPicksWrapEl = document.getElementById("douyinPicksWrap");
 const douyinPicksListEl = document.getElementById("douyinPicksList");
 const douyinPicksMetaEl = document.getElementById("douyinPicksMeta");
 const douyinPicksRefreshBtnEl = document.getElementById("douyinPicksRefreshBtn");
+const douyinVerificationSummaryEl = document.getElementById("douyinVerificationSummary");
 const githubRankingsWrapEl = document.getElementById("githubRankingsWrap");
 const githubRankingListEl = document.getElementById("githubRankingList");
 const githubRankingMetaEl = document.getElementById("githubRankingMeta");
@@ -1297,6 +1298,242 @@ function storySourceCount(story) {
   return Math.max(1, sources.length);
 }
 
+const CLAIM_STATUS_UI = {
+  confirmed: {
+    label: IS_EN ? "Confirmed" : "已确认",
+    note: IS_EN ? "Primary official release; editorial review is still required." : "主条目来自官方一手发布，仍需人工阅读原文。",
+  },
+  reported: {
+    label: IS_EN ? "Reported" : "媒体报道",
+    note: IS_EN ? "Media or aggregator reporting; verify key details against the primary source." : "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+  },
+  analysis: {
+    label: IS_EN ? "Analysis" : "分析观点",
+    note: IS_EN ? "Contains opinion or speculation signals; do not present it as established fact." : "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+  },
+  rumor: {
+    label: IS_EN ? "Unverified" : "传闻待核",
+    note: IS_EN ? "Cites sources or speculation rather than a verified announcement." : "出现消息人士、据称、爆料等信号，除非一手确认，否则不应进入正式口播。",
+  },
+  preprint: {
+    label: IS_EN ? "Preprint" : "预印本",
+    note: IS_EN ? "Not a peer-reviewed conclusion; check method, version and reproducibility." : "预印本或社区热议论文不等于同行评审结论，需核对版本、方法和复现条件。",
+  },
+};
+const VERIFICATION_UI = IS_EN
+  ? {
+      title: "Evidence boundary",
+      score: "Evidence score",
+      independent: "independent",
+      repost: "reposts / same chain",
+      primaryFound: "Primary source linked",
+      primaryMissing: "Primary source missing",
+      titleClaim: "Title-level claim",
+      limits: "Limits to verify",
+      chain: "View source chain",
+      openPrimary: "Open primary source ↗",
+      needsPrimary: "Add a primary source before scripting",
+      rolePrimary: "Primary source",
+      roleReport: "Report",
+      roleAggregate: "Aggregator",
+      roleRepost: "Repost / same chain",
+    }
+  : {
+      title: "事实边界",
+      score: "核验参考分",
+      independent: "个独立来源",
+      repost: "条转载/同链",
+      primaryFound: "已定位一手原文",
+      primaryMissing: "待补一手原文",
+      titleClaim: "标题级声明",
+      limits: "必须核验的限制",
+      chain: "查看来源链",
+      openPrimary: "打开一手原文 ↗",
+      needsPrimary: "写稿前先补一手来源",
+      rolePrimary: "一手原文",
+      roleReport: "独立报道",
+      roleAggregate: "聚合入口",
+      roleRepost: "转载/同链",
+    };
+
+function urlHostKey(value) {
+  try {
+    const url = new URL(String(value || ""));
+    if (!["http:", "https:"].includes(url.protocol)) return "";
+    return url.hostname.toLowerCase().replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
+
+function sourceItemTier(item) {
+  return sourceTierInfo(item || {}).tier;
+}
+
+function storyOfficialSource(story) {
+  const refs = [story?.primary_item, ...(Array.isArray(story?.sources) ? story.sources : []), story].filter(Boolean);
+  return refs.find((item) => ["official", "research"].includes(sourceItemTier(item)) && item.url) || null;
+}
+
+function inferClaimStatus(story, title) {
+  const value = String(title || "");
+  if (/传闻|据称|据悉|消息人士|知情人士|爆料|未证实|尚未证实|网传|\brumou?r\b|reportedly|sources?\s+say|unconfirmed|speculat/i.test(value)) return "rumor";
+  if (["research"].includes(sourceItemTier(story?.primary_item || story)) || /arxiv\.org|openreview\.net/i.test(String(story?.primary_url || story?.url || ""))) return "preprint";
+  if (/分析|认为|观点|评论|解读|预测|评估|可能会|或许|似乎|意味着|说明了什么|为什么会|为什么说|\banalysis\b|\bopinion\b|\bcommentary\b|\bwhat\s+.+\s+means\b|\bwhy\s+.+\b(?:could|might|is|are|matters)\b/i.test(value)) return "analysis";
+  if (sourceItemTier(story?.primary_item || story) === "official") return "confirmed";
+  return "reported";
+}
+
+function storyFactBoundary(story) {
+  const title = storyPrimaryTitleText(story).trim();
+  const sources = Array.isArray(story?.sources) ? story.sources : [];
+  const primary = story?.primary_item || story || {};
+  const official = storyOfficialSource(story);
+  const status = CLAIM_STATUS_UI[story?.claim_status] ? story.claim_status : inferClaimStatus(story, title);
+  const primarySourceUrl = story?.primary_source_url || official?.url || "";
+  const domainSet = new Set();
+  sources.forEach((source) => {
+    const host = urlHostKey(source?.url);
+    if (host) domainSet.add(host);
+  });
+  const primaryHost = urlHostKey(primary?.url);
+  if (primaryHost) domainSet.add(primaryHost);
+  const sourceCount = Math.max(1, sources.length, Number(story?.source_count || 0), Number(story?.duplicate_count || 0));
+  const independent = Number.isFinite(Number(story?.independent_source_count))
+    ? Number(story.independent_source_count)
+    : Math.max(1, domainSet.size);
+  const repost = Number.isFinite(Number(story?.repost_count))
+    ? Number(story.repost_count)
+    : Math.max(0, sourceCount - independent);
+  const statusBase = { confirmed: 86, reported: 54, analysis: 40, preprint: 50, rumor: 16 }[status] || 40;
+  const score = Number.isFinite(Number(story?.verification_score))
+    ? Number(story.verification_score)
+    : Math.max(1, Math.min(98, statusBase + (primarySourceUrl ? 8 : 0) + Math.max(0, independent - 1) * 3));
+  let limits = Array.isArray(story?.limits) ? story.limits.filter(Boolean) : [];
+  if (!limits.length) {
+    if (!primarySourceUrl) limits.push(IS_EN ? "No primary source is linked in this event; add one before scripting." : "当前事件未定位一手原文，写稿前必须补官方公告、论文或仓库页面。");
+    if (!String(primary?.summary || "").trim()) limits.push(IS_EN ? "Only a title and link are available; verify numbers, scope and causality in the original." : "当前只有标题和链接，标题中的数字、范围和因果关系都要打开原文复核。");
+    if (/融资|估值|ipo|上市|funding|valuation|series\s+[a-z]/i.test(title)) limits.push(IS_EN ? "Funding and IPO details require company, SEC or exchange filings." : "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件。");
+    if (/发布|上线|推出|可用|launch|release|available/i.test(title)) limits.push(IS_EN ? "Check regions, account tiers, rollout timing and model/version limits." : "需核对可用地区、账号资格、灰度时间和模型/版本限制。");
+  }
+  if (!limits.length) limits.push(IS_EN ? "Read the original and record publication/update dates before recording." : "正式口播前仍需阅读原文，并记录发布日期和后续更新。");
+  const chain = Array.isArray(story?.source_chain) && story.source_chain.length
+    ? story.source_chain
+    : sources.map((source, index) => {
+        const samePrimary = primarySourceUrl && source?.url === primarySourceUrl;
+        const aggregator = ["aihot", "techurls", "buzzing", "iris", "zeli", "newsnow", "followbuilders"].includes(source?.site_id);
+        return {
+          source: source?.source || source?.site_name || "",
+          url: source?.url || "",
+          title: itemTitleText(source || {}),
+          role: aggregator ? "aggregator" : (samePrimary ? "primary_source" : (index === 0 ? "primary_report" : "report")),
+        };
+      });
+  return {
+    status,
+    label: story?.claim_status_label || CLAIM_STATUS_UI[status].label,
+    note: story?.claim_status_note || CLAIM_STATUS_UI[status].note,
+    primarySourceUrl,
+    independent,
+    repost,
+    score,
+    claimCount: Math.max(1, Array.isArray(story?.key_claims) ? story.key_claims.length : 1),
+    limits: limits.slice(0, 5),
+    chain,
+  };
+}
+
+function factRoleLabel(role) {
+  if (role === "primary_source") return VERIFICATION_UI.rolePrimary;
+  if (role === "primary_report") return VERIFICATION_UI.roleReport;
+  if (role === "aggregator") return VERIFICATION_UI.roleAggregate;
+  if (role === "repost") return VERIFICATION_UI.roleRepost;
+  return VERIFICATION_UI.roleReport;
+}
+
+function renderFactBoundary(node, story) {
+  const panel = node.querySelector(".fact-boundary");
+  if (!panel || !story) return;
+  const fact = storyFactBoundary(story);
+  panel.hidden = false;
+  const badge = panel.querySelector(".claim-status-badge");
+  badge.textContent = fact.label;
+  badge.className = `claim-status-badge claim-${fact.status}`;
+  panel.querySelector(".verification-score").textContent = `${VERIFICATION_UI.score} ${fact.score}`;
+  panel.querySelector(".claim-status-note").textContent = fact.note;
+
+  const metrics = panel.querySelector(".verification-metrics");
+  metrics.replaceChildren();
+  const metricValues = [
+    IS_EN ? `${fact.claimCount} verifiable claims` : `${fact.claimCount} 条可核验声明`,
+    `${fact.independent} ${VERIFICATION_UI.independent}`,
+    `${fact.repost} ${VERIFICATION_UI.repost}`,
+    fact.primarySourceUrl ? VERIFICATION_UI.primaryFound : VERIFICATION_UI.primaryMissing,
+  ];
+  metricValues.forEach((value, index) => {
+    const chip = document.createElement("span");
+    chip.className = index === 3 ? (fact.primarySourceUrl ? "metric-good" : "metric-warn") : "";
+    chip.textContent = value;
+    metrics.appendChild(chip);
+  });
+
+  const basis = panel.querySelector(".claim-basis");
+  basis.replaceChildren();
+  const basisLabel = document.createElement("span");
+  basisLabel.textContent = `${VERIFICATION_UI.titleClaim}：`;
+  basis.appendChild(basisLabel);
+  if (fact.primarySourceUrl) {
+    const link = document.createElement("a");
+    link.href = fact.primarySourceUrl;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = VERIFICATION_UI.openPrimary;
+    basis.appendChild(link);
+  } else {
+    const missing = document.createElement("strong");
+    missing.textContent = VERIFICATION_UI.needsPrimary;
+    basis.appendChild(missing);
+  }
+
+  const limits = panel.querySelector(".evidence-limits");
+  limits.replaceChildren();
+  fact.limits.forEach((text) => {
+    const li = document.createElement("li");
+    li.textContent = text;
+    limits.appendChild(li);
+  });
+
+  const chainDetails = panel.querySelector(".source-chain-details");
+  const chainList = panel.querySelector(".source-chain-list");
+  chainList.replaceChildren();
+  if (fact.chain.length > 1) {
+    chainDetails.hidden = false;
+    chainDetails.querySelector("summary").textContent = VERIFICATION_UI.chain;
+    fact.chain.forEach((entry) => {
+      const row = document.createElement("div");
+      row.className = "source-chain-row";
+      const role = document.createElement("span");
+      role.className = "source-chain-role";
+      role.textContent = factRoleLabel(entry.role);
+      const link = document.createElement(entry.url ? "a" : "span");
+      if (entry.url) {
+        link.href = entry.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+      }
+      link.className = "source-chain-link";
+      link.textContent = entry.source || entry.title || t("common.source");
+      const title = document.createElement("span");
+      title.className = "source-chain-title";
+      title.textContent = entry.title || "";
+      row.append(role, link, title);
+      chainList.appendChild(row);
+    });
+  } else {
+    chainDetails.hidden = true;
+  }
+}
+
 // 同一事件展开：source_count>=2 的故事可以展开看每家独立报道（标题+来源+相对时间）。
 // 去重：跳过 url 与主条目重复的信源（已经在卡片主体展示过），除非去重后一条不剩——
 // 那种情况说明所有信源 url 都和主条目一致，只能保留原始 sources 列表兜底展示。
@@ -1560,8 +1797,13 @@ const DOUYIN_UI = IS_EN
       angleLabel: "How to tell it",
       source: "Source",
       open: "Open source ↗",
-      potential: "Story potential",
+      potential: "Editorial score",
       refreshed: "Next batch",
+      scoreNote: "Rule-based editorial score, not a view-count prediction.",
+      riskLabel: "Risk",
+      factors: { credibility: "Evidence", firstParty: "First-party", impact: "Impact", visual: "Visual", recency: "Freshness", controversy: "Debate" },
+      summary: "Evidence mix in this batch",
+      summaryNote: "Rumor items are excluded. Still verify every claim before scripting.",
     }
   : {
       loading: "正在挑选今日选题...",
@@ -1570,8 +1812,13 @@ const DOUYIN_UI = IS_EN
       angleLabel: "怎么讲",
       source: "来源",
       open: "打开原文 ↗",
-      potential: "科普潜力",
+      potential: "选题参考分",
       refreshed: "换一批",
+      scoreNote: "规则化编辑参考分，不是播放量预测。",
+      riskLabel: "风险",
+      factors: { credibility: "事实", firstParty: "一手", impact: "影响", visual: "画面", recency: "时效", controversy: "争议" },
+      summary: "本组核验结构",
+      summaryNote: "传闻不进入推荐；即使标注已确认，也必须在写稿前逐句回看原文。",
     };
 
 function douyinStoryUrl(story) {
@@ -1591,8 +1838,30 @@ function douyinSourceName(story) {
     || t("common.source");
 }
 
-function douyinBucketForTitle(title) {
-  return DOUYIN_BUCKET_DEFS.find((bucket) => bucket.pattern.test(title))?.id || "product";
+function douyinBucketForTitle(title, story) {
+  const raw = `${title} ${douyinStoryUrl(story)}`.toLowerCase();
+  const siteId = String(story?.primary_item?.site_id || story?.site_id || "");
+  if (siteId === "producthunt" || raw.includes("producthunt.com")) return "product";
+  if (siteId === "github_trending" || /github\.com|huggingface\.co\/(?:spaces|models|datasets)/i.test(raw)) return "opensource";
+
+  const opinionLike = /分析|认为|观点|评论|解读|预测|评估|意味着|为什么会|为什么说|\banalysis\b|\bopinion\b|\bcommentary\b|\bwhat\s+.+\s+means\b/i.test(title);
+  if (opinionLike) {
+    if (/营收|融资|ipo|收购|裁员|诉讼|投资|估值|上市|交易|市场|竞争|成本|价格|收费|免费|business|funding|valuation|market|revenue/i.test(title)) return "business";
+    return "society";
+  }
+
+  let best = { id: "product", score: 0 };
+  DOUYIN_BUCKET_DEFS.forEach((bucket) => {
+    if (bucket.id === "product") return;
+    const matches = title.match(bucket.pattern);
+    let score = matches ? matches.length : 0;
+    if (bucket.id === "model" && /发布|上线|推出|版本|能力|模型|model|release|launch/i.test(title)) score += 2;
+    if (bucket.id === "society" && /普通人|工作|教育|学生|医疗|健康|家庭|版权|隐私|安全|监管|就业/i.test(title)) score += 2;
+    if (bucket.id === "business" && /融资|估值|价格|免费|营收|收购|裁员|ipo/i.test(title)) score += 2;
+    if (bucket.id === "opensource" && /开源|open[- ]?source|github|权重|仓库|repo|sdk|cli/i.test(title)) score += 2;
+    if (score > best.score) best = { id: bucket.id, score };
+  });
+  return best.score ? best.id : "product";
 }
 
 function douyinPickEligible(story) {
@@ -1603,6 +1872,8 @@ function douyinPickEligible(story) {
   if (/customer stor(?:y|ies)|\/customer-stories\/|客户案例|企业案例|case study|借助AI重新思考|rethink(?:s)? the business/i.test(raw)) return false;
   if (/webinar|podcast|newsletter|招聘|hiring|job opening|活动报名|赞助/i.test(title)) return false;
   if (/^(?:[A-Za-z0-9 ._-]+\s+)?v?\d+(?:\.\d+){2,}$/.test(title)) return false;
+  const fact = storyFactBoundary(story);
+  if (fact.status === "rumor") return false;
   return true;
 }
 
@@ -1619,27 +1890,87 @@ function douyinTalkability(title) {
   return Math.min(40, score);
 }
 
-function douyinPickScore(story, title) {
-  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
-  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 48;
-  const recency = Math.max(0, 100 - ageHours * 2);
-  const sourceBoost = Math.min(5, storySourceCount(story)) * 4;
-  const firstPartyBoost = storyIsFirstParty(story) ? 8 : 0;
-  const raw = storyScore(story) * 0.52 + recency * 0.16 + sourceBoost + firstPartyBoost + douyinTalkability(title);
-  return Math.max(1, Math.min(99, Math.round(raw)));
+function clampScore(value) {
+  return Math.max(1, Math.min(99, Math.round(Number(value) || 0)));
 }
 
-function douyinPickTags(story, bucketId, title) {
-  const tags = [];
-  const bucket = DOUYIN_BUCKET_BY_ID[bucketId];
+function douyinScoreBreakdown(story, title, fact) {
   const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
   const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 48;
-  if (storySourceCount(story) >= 3) tags.push(IS_EN ? "Multi-source" : "多源关注");
-  if (storyIsFirstParty(story)) tags.push(IS_EN ? "First-party" : "一手信源");
-  if (ageHours <= 12) tags.push(IS_EN ? "Fresh today" : "今日热点");
+  const primaryTier = sourceItemTier(story?.primary_item || story);
+  const credibility = {
+    confirmed: 95,
+    reported: 68,
+    analysis: 52,
+    preprint: 48,
+    rumor: 16,
+  }[fact.status] || 50;
+  const firstParty = primaryTier === "official" ? 100 : (fact.primarySourceUrl ? 74 : (primaryTier === "research" ? 80 : 28));
+  let impact = 24;
+  if (/普通人|生活|工作|办公|教育|学生|老师|医疗|健康|家庭|手机|电脑|开车|车机|消费者|用户|就业/i.test(title)) impact += 46;
+  if (/免费|价格|收费|降价|省钱|成本|亿美元|营收|市值|工资/i.test(title)) impact += 24;
+  if (/发布|上线|推出|可用|launch|release|available/i.test(title)) impact += 10;
+  if (/OpenAI|Google|DeepMind|Apple|Microsoft|Meta|NVIDIA|英伟达|阿里|腾讯|字节|百度|华为|小米/i.test(title)) impact += 16;
+  let visual = 30;
+  if (/机器人|robotics|视频|图像|图片|语音|音乐|手机|电脑|汽车|车机|眼镜|耳机|设备|app|应用|界面|代码|github|demo|演示/i.test(title)) visual += 42;
+  if (/价格|对比|前后|翻倍|第一|最强|排名|榜单/i.test(title)) visual += 12;
+  if (/模型|agent|智能体|多模态|推理/i.test(title)) visual += 10;
+  const recency = Math.max(0, 100 - ageHours * 2);
+  let controversy = 20;
+  if (/争议|取代|替代|失业|裁员|作弊|版权|隐私|安全|监管|法律|开庭|诉讼|用户不买账|翻车/i.test(title)) controversy += 48;
+  if (/开源|闭源|免费|付费|涨价|降价|价格战/i.test(title)) controversy += 20;
+  if (/官方|辟谣|传闻|回应|纠偏/i.test(title)) controversy += 12;
+  impact = Math.min(100, impact);
+  visual = Math.min(100, visual);
+  controversy = Math.min(100, controversy);
+
+  let risk = 0;
+  const risks = [];
+  if (fact.status === "analysis") { risk += 8; risks.push(IS_EN ? "Opinion, not fact" : "观点非事实"); }
+  if (fact.status === "preprint") { risk += 10; risks.push(IS_EN ? "Preprint" : "预印本"); }
+  if (!fact.primarySourceUrl) { risk += 8; risks.push(IS_EN ? "No primary source" : "缺一手源"); }
+  if (fact.independent < 2) { risk += 6; risks.push(IS_EN ? "Single source" : "单一来源"); }
+  if (["producthunt", "github_trending"].includes(String(story?.primary_item?.site_id || story?.site_id || ""))) {
+    risk += 16;
+    risks.push(IS_EN ? "Community listing" : "社区榜单");
+  }
+  if (/api|sdk|cli|benchmark|token|参数|部署|开发者|database|数据库/i.test(title)) {
+    risk += 12;
+    risks.push(IS_EN ? "Too technical" : "过度技术化");
+  }
+  if (!String(story?.primary_item?.summary || story?.summary || "").trim()) risk += 4;
+  if (fact.status === "confirmed") risk = Math.max(0, risk - 4);
+  const overall = clampScore(
+    credibility * 0.28
+    + firstParty * 0.16
+    + impact * 0.22
+    + visual * 0.14
+    + recency * 0.10
+    + controversy * 0.10
+    - risk
+  );
+  return {
+    score: overall,
+    factors: { credibility: Math.round(credibility), firstParty: Math.round(firstParty), impact: Math.round(impact), visual: Math.round(visual), recency: Math.round(recency), controversy: Math.round(controversy) },
+    risks,
+    risk,
+  };
+}
+
+function douyinPickScore(story, title) {
+  return douyinScoreBreakdown(story, title, storyFactBoundary(story)).score;
+}
+
+function douyinPickTags(story, bucketId, title, breakdown) {
+  const tags = [];
+  const bucket = DOUYIN_BUCKET_BY_ID[bucketId];
+  const fact = storyFactBoundary(story);
+  if (fact.primarySourceUrl) tags.push(IS_EN ? "Primary linked" : "一手可定位");
+  if (fact.independent >= 3) tags.push(IS_EN ? "Multi-source" : "多源关注");
+  if (fact.status === "confirmed") tags.push(IS_EN ? "Confirmed" : "已确认");
+  if (breakdown?.factors?.impact >= 65) tags.push(IS_EN ? "Broad impact" : "大众影响");
+  if (breakdown?.factors?.visual >= 65) tags.push(IS_EN ? "Visualizable" : "画面可做");
   if (/开源|权重|open[- ]?source|github/i.test(title)) tags.push(IS_EN ? "Try it" : "可跟练");
-  if (/价格|成本|营收|免费|降价/.test(title)) tags.push(IS_EN ? "Cost angle" : "成本视角");
-  if (/学生|教育|工作|生活|医疗|健康|开车|家庭/.test(title)) tags.push(IS_EN ? "Everyday impact" : "贴近生活");
   tags.push(bucket?.signal || (IS_EN ? "Explainable" : "可解释"));
   return Array.from(new Set(tags)).slice(0, 3);
 }
@@ -1651,15 +1982,19 @@ function douyinPickCandidates() {
     const title = storyPrimaryTitleText(story).trim();
     const url = douyinStoryUrl(story);
     if (!url) return;
-    const bucketId = douyinBucketForTitle(title);
+    const bucketId = douyinBucketForTitle(title, story);
+    const fact = storyFactBoundary(story);
+    const breakdown = douyinScoreBreakdown(story, title, fact);
     const candidate = {
       story,
       title,
       url,
       bucketId,
       sourceName: douyinSourceName(story),
-      score: douyinPickScore(story, title),
-      tags: douyinPickTags(story, bucketId, title),
+      score: breakdown.score,
+      breakdown,
+      fact,
+      tags: douyinPickTags(story, bucketId, title, breakdown),
       latestMs: storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at"),
     };
     groups.get(bucketId)?.push(candidate);
@@ -1698,6 +2033,28 @@ function douyinPicks() {
   return picked.sort((a, b) => b.score - a.score || b.latestMs - a.latestMs).slice(0, DOUYIN_PICK_LIMIT);
 }
 
+function renderDouyinVerificationSummary(picks) {
+  if (!douyinVerificationSummaryEl) return;
+  douyinVerificationSummaryEl.replaceChildren();
+  if (!picks.length) return;
+  const counts = { confirmed: 0, reported: 0, analysis: 0, preprint: 0, rumor: 0 };
+  picks.forEach((pick) => { counts[pick.fact.status] = (counts[pick.fact.status] || 0) + 1; });
+  const heading = document.createElement("strong");
+  heading.textContent = DOUYIN_UI.summary;
+  const chips = document.createElement("div");
+  chips.className = "douyin-verification-chips";
+  Object.entries(counts).forEach(([status, count]) => {
+    if (!count) return;
+    const chip = document.createElement("span");
+    chip.className = `claim-${status}`;
+    chip.textContent = `${CLAIM_STATUS_UI[status]?.label || status} ${count}`;
+    chips.appendChild(chip);
+  });
+  const note = document.createElement("small");
+  note.textContent = DOUYIN_UI.summaryNote;
+  douyinVerificationSummaryEl.append(heading, chips, note);
+}
+
 function renderDouyinPicks() {
   if (!douyinPicksWrapEl || !douyinPicksListEl) return;
   const visible = state.mode === "selected"
@@ -1707,9 +2064,13 @@ function renderDouyinPicks() {
     && !state.authorFilter
     && !state.officialOnly;
   douyinPicksWrapEl.hidden = !visible;
-  if (!visible) return;
+  if (!visible) {
+    if (douyinVerificationSummaryEl) douyinVerificationSummaryEl.replaceChildren();
+    return;
+  }
 
   const picks = douyinPicks();
+  renderDouyinVerificationSummary(picks);
   if (douyinPicksMetaEl) {
     douyinPicksMetaEl.textContent = picks.length
       ? DOUYIN_UI.meta
@@ -1746,10 +2107,14 @@ function renderDouyinPicks() {
     const bucket = document.createElement("span");
     bucket.className = "douyin-pick-bucket";
     bucket.textContent = DOUYIN_BUCKET_BY_ID[pick.bucketId]?.label || pick.bucketId;
+    const factBadge = document.createElement("span");
+    factBadge.className = `douyin-fact-badge claim-${pick.fact.status}`;
+    factBadge.textContent = pick.fact.label;
     const potential = document.createElement("span");
     potential.className = "douyin-pick-potential";
     potential.textContent = `${DOUYIN_UI.potential} ${pick.score}`;
-    top.append(bucket, potential);
+    potential.title = DOUYIN_UI.scoreNote;
+    top.append(bucket, factBadge, potential);
 
     const title = document.createElement("a");
     title.className = "douyin-pick-title";
@@ -1772,19 +2137,34 @@ function renderDouyinPicks() {
       tags.appendChild(tag);
     });
 
+    const factors = document.createElement("div");
+    factors.className = "douyin-score-breakdown";
+    Object.entries(DOUYIN_UI.factors).forEach(([key, label]) => {
+      const value = pick.breakdown.factors[key];
+      const factor = document.createElement("span");
+      factor.title = DOUYIN_UI.scoreNote;
+      factor.textContent = `${label} ${value}`;
+      factors.appendChild(factor);
+    });
+    const riskNote = document.createElement("p");
+    riskNote.className = "douyin-risk-note";
+    riskNote.textContent = pick.breakdown.risks.length
+      ? `${DOUYIN_UI.riskLabel}：${pick.breakdown.risks.join(" · ")}`
+      : DOUYIN_UI.scoreNote;
+
     const footer = document.createElement("div");
     footer.className = "douyin-pick-footer";
     const source = document.createElement("span");
     source.className = "douyin-pick-source";
     source.textContent = `${DOUYIN_UI.source} · ${pick.sourceName} · ${fmtUpdatedRelative(pick.latestMs)}`;
     const open = document.createElement("a");
-    open.href = pick.url;
+    open.href = pick.fact.primarySourceUrl || pick.url;
     open.target = "_blank";
     open.rel = "noopener noreferrer";
-    open.textContent = DOUYIN_UI.open;
+    open.textContent = pick.fact.primarySourceUrl ? VERIFICATION_UI.openPrimary : DOUYIN_UI.open;
     footer.append(source, open);
 
-    body.append(top, title, angle, tags, footer);
+    body.append(top, title, angle, tags, factors, riskNote, footer);
     card.append(rank, body);
     douyinPicksListEl.appendChild(card);
   });
@@ -2515,6 +2895,8 @@ function renderItemNode(row) {
     summaryEl.hidden = !summaryText || duplicatesOriginal;
   }
 
+  renderFactBoundary(node, row.story);
+
   const whyBox = node.querySelector(".why-box");
   const whyText = row.story ? whyImportantText(row) : "";
   if (whyText) {
@@ -3116,6 +3498,59 @@ function renderSourceStatusTable(status) {
 
 // 可选接入未启用/未配置的提示行 + 替换/跳过 RSS 计数（非零才显示）。
 // X 数据源已入池的数量在 source-table 的 SocialData X 行可见，这里不重复。
+function renderOfficialCoverage(status) {
+  const coverage = status?.official_coverage;
+  const providers = Array.isArray(coverage?.providers) ? coverage.providers : [];
+  if (!providers.length) return null;
+  const details = document.createElement("details");
+  details.className = "official-coverage-panel";
+  const summary = document.createElement("summary");
+  const active = Number(coverage.active_count || 0);
+  const configured = Number(coverage.configured_count || 0);
+  const gaps = Number(coverage.gap_count || 0);
+  summary.textContent = IS_EN
+    ? `Official source coverage · ${active}/${configured} active · ${gaps} gaps`
+    : `官方源覆盖矩阵 · ${active}/${configured} 当前有内容 · ${gaps} 个缺口`;
+  details.appendChild(summary);
+
+  const intro = document.createElement("p");
+  intro.textContent = IS_EN
+    ? "Active means an official item is present in the latest snapshot. Connected sources with no recent items are deliberately not presented as active coverage."
+    : "“当前有内容”只表示最新快照中出现了该官方条目；“已连接但近期无内容”和“未配置”会分开显示，不把配置当成已有事实。";
+  details.appendChild(intro);
+
+  const grid = document.createElement("div");
+  grid.className = "official-coverage-grid";
+  providers.forEach((provider) => {
+    const row = document.createElement("div");
+    row.className = `official-coverage-item coverage-${provider.status}`;
+    const head = document.createElement("div");
+    const name = document.createElement("strong");
+    name.textContent = provider.provider || provider.id;
+    const badge = document.createElement("span");
+    badge.textContent = provider.status === "active"
+      ? (IS_EN ? `Active ${provider.current_official_items}` : `有内容 ${provider.current_official_items}`)
+      : provider.status === "connected_no_recent"
+        ? (IS_EN ? "No recent item" : "近期无条目")
+        : (IS_EN ? "Not configured" : "未配置");
+    head.append(name, badge);
+    const meta = document.createElement("small");
+    meta.textContent = provider.discovery || "";
+    row.append(head, meta);
+    if (provider.official_url) {
+      const link = document.createElement("a");
+      link.href = provider.official_url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = IS_EN ? "Official page ↗" : "官网入口 ↗";
+      row.appendChild(link);
+    }
+    grid.appendChild(row);
+  });
+  details.appendChild(grid);
+  return details;
+}
+
 function sourceHealthHintNode(status) {
   const rss = status.rss_opml || {};
   const agentmail = status.agentmail || {};
@@ -3158,6 +3593,9 @@ function renderSourceHealth(errorMessage = "") {
 
   const hint = sourceHealthHintNode(status);
   if (hint) detailTarget.appendChild(hint);
+
+  const coveragePanel = renderOfficialCoverage(status);
+  if (coveragePanel) detailTarget.appendChild(coveragePanel);
 
   // X 博主展开列表：功能保留，从已删除的 mini-card 挪到提示行下方的小链接。
   const xAuthors = socialdataAuthors();
