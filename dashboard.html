@@ -37,7 +37,7 @@
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/i18n/zh.js?v=i18n-1013a"></script>
     <script src="./assets/i18n.js?v=i18n-1013a"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=hotlist-20261114" />
+    <link rel="stylesheet" href="./assets/styles.css?v=v2-20261115" />
     <link rel="stylesheet" href="./assets/service-status.css?v=20260909" />
   </head>
   <body data-dashboard-view="news">
@@ -118,23 +118,102 @@
       </details>
 
 
-      <section class="list-wrap douyin-picks-wrap" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
+      <section class="list-wrap douyin-picks-wrap douyin-workbench" id="douyinPicksWrap" aria-labelledby="douyinPicksTitle">
         <div class="douyin-picks-head">
           <div class="douyin-picks-heading">
-            <span class="douyin-picks-eyebrow">PLATFORM SIGNAL + AI EDITORIAL DESK</span>
-            <h2 id="douyinPicksTitle">AI 视频选题 · 抖音公开热榜参考</h2>
-            <p class="douyin-picks-intro">先判断事实能否讲，再参考抖音公开热榜、大众影响、画面性、认知冲突和时效。公开热榜不等于推荐流，综合分也不是播放量预测。</p>
+            <span class="douyin-picks-eyebrow">DAILY AI VIDEO DECISION DESK</span>
+            <h2 id="douyinPicksTitle">AI 视频选题工作台</h2>
+            <p class="douyin-picks-intro">每天先给 3 条决策，再看完整选题池；同时展示事实、推流、吸粉三项依据。公开热榜不是推荐流，分数不是播放量保证。</p>
           </div>
           <div class="douyin-picks-actions">
-            <span id="douyinPicksMeta">正在挑选...</span>
-            <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一批</button>
+            <span id="douyinPicksMeta">正在分析...</span>
+            <button type="button" id="douyinPicksRefreshBtn" class="douyin-picks-refresh">换一组候选</button>
           </div>
         </div>
-        <div class="douyin-hot-board" id="douyinHotBoard" aria-live="polite"></div>
-        <div class="douyin-verification-summary" id="douyinVerificationSummary" aria-live="polite"></div>
-        <div class="douyin-picks-swipe-hint" aria-hidden="true">上下滑动查看 5 条选题 ↓</div>
-        <div id="douyinPicksList" class="douyin-picks-list" aria-live="polite"></div>
+
+        <nav class="douyin-workbench-tabs" id="douyinWorkbenchTabs" aria-label="AI 视频选题工作台">
+          <button type="button" class="active" data-douyin-tab="decision" aria-pressed="true">今日决策</button>
+          <button type="button" data-douyin-tab="pool" aria-pressed="false">选题池</button>
+          <button type="button" data-douyin-tab="samples" aria-pressed="false">高流量样本</button>
+          <button type="button" data-douyin-tab="weekly" aria-pressed="false">周报工坊</button>
+          <button type="button" data-douyin-tab="review" aria-pressed="false">发布复盘</button>
+        </nav>
+
+        <div class="douyin-workbench-panel" id="douyinDecisionPanel">
+          <div class="douyin-data-strip" id="douyinDataStrip"></div>
+          <div class="douyin-top3-list" id="douyinTop3List" aria-live="polite"></div>
+          <div class="douyin-conclusion" id="douyinConclusion"></div>
+          <details class="douyin-signal-details">
+            <summary>查看抖音热榜与核验依据</summary>
+            <div class="douyin-hot-board" id="douyinHotBoard" aria-live="polite"></div>
+            <div class="douyin-verification-summary" id="douyinVerificationSummary" aria-live="polite"></div>
+          </details>
+          <div id="douyinPicksList" class="douyin-picks-list" hidden></div>
+        </div>
+
+        <div class="douyin-workbench-panel" id="douyinPoolPanel" hidden>
+          <form class="douyin-filter-bar" id="douyinFilterForm">
+            <label><span>搜索</span><input id="douyinFilterQuery" type="search" placeholder="标题、实体、来源" /></label>
+            <label><span>事实门</span><select id="douyinFilterGate"><option value="all">全部</option><option value="pass">已通过</option><option value="fail">未通过</option></select></label>
+            <label><span>推荐形式</span><select id="douyinFilterFormat"><option value="all">全部</option><option value="flash">快讯</option><option value="weekly">周报</option><option value="deep">深度</option><option value="demo">工具实测</option><option value="correction">纠偏</option></select></label>
+            <label><span>选题类型</span><select id="douyinFilterType"><option value="all">全部</option></select></label>
+            <label><span>来源类型</span><select id="douyinFilterSource"><option value="all">全部</option><option value="official">官方一手</option><option value="research">研究/预印本</option><option value="media">媒体核验</option><option value="community">社区/开源</option></select></label>
+            <label><span>实体</span><select id="douyinFilterEntity"><option value="all">全部</option><option value="OpenAI">OpenAI</option><option value="Google">Google / DeepMind</option><option value="NVIDIA">NVIDIA</option><option value="DeepSeek">DeepSeek</option><option value="Qwen">Qwen</option><option value="Meta">Meta</option><option value="Microsoft">Microsoft</option><option value="字节">字节 / Doubao</option><option value="机器人">机器人</option></select></label>
+            <label><span>事实分下限</span><input id="douyinFilterFact" type="number" min="0" max="99" value="0" /></label>
+            <label><span>推流分下限</span><input id="douyinFilterPush" type="number" min="0" max="99" value="0" /></label>
+            <label><span>吸粉分下限</span><input id="douyinFilterFollow" type="number" min="0" max="99" value="0" /></label>
+            <label class="douyin-check"><input id="douyinFilterVisual" type="checkbox" /><span>强视觉</span></label>
+            <label class="douyin-check"><input id="douyinFilterChina" type="checkbox" /><span>避开国内可用性待核</span></label>
+            <label class="douyin-check"><input id="douyinFilterSeries" type="checkbox" /><span>适合系列</span></label>
+            <label class="douyin-check"><input id="douyinFilterSensitive" type="checkbox" /><span>钱/工作/教育/医疗/隐私/手机/机器人</span></label>
+            <label><span>推荐时长</span><select id="douyinFilterDuration"><option value="all">全部</option><option value="short">≤60 秒</option><option value="medium">61–120 秒</option><option value="long">3 分钟以上</option></select></label>
+            <label><span>排序</span><select id="douyinFilterSort"><option value="priority">推荐优先级</option><option value="push">推流分</option><option value="follow">吸粉分</option><option value="fact">事实分</option><option value="fresh">时效</option><option value="samples">样本相似度</option></select></label>
+            <button type="button" id="douyinFilterReset" class="douyin-secondary-btn">重置</button>
+          </form>
+          <div class="douyin-pool-meta" id="douyinPoolMeta"></div>
+          <div class="douyin-pool-list" id="douyinPoolList" aria-live="polite"></div>
+        </div>
+
+        <div class="douyin-workbench-panel" id="douyinSamplesPanel" hidden>
+          <div class="douyin-section-head">
+            <div><h3>高流量视频样本</h3><p>只展示真实导入或你已发布的视频数据；未接入抖音搜索前不生成虚构样本。</p></div>
+            <div class="douyin-section-actions">
+              <button type="button" id="douyinSampleImportBtn" class="douyin-primary-btn">导入样本 JSON</button>
+              <button type="button" id="douyinSampleTemplateBtn" class="douyin-secondary-btn">下载空模板</button>
+              <input id="douyinSampleFile" type="file" accept="application/json,.json" hidden />
+            </div>
+          </div>
+          <div id="douyinSamplesList" class="douyin-samples-list" aria-live="polite"></div>
+        </div>
+
+        <div class="douyin-workbench-panel" id="douyinWeeklyPanel" hidden>
+          <div class="douyin-section-head">
+            <div><h3>周报工坊</h3><p>从近 7 天 AI 事件中选 5–9 条，自动生成周报结构和分段口播提示。</p></div>
+            <div class="douyin-section-actions">
+              <button type="button" id="douyinWeeklyAutoBtn" class="douyin-primary-btn">自动推荐</button>
+              <button type="button" id="douyinWeeklyExportBtn" class="douyin-secondary-btn">复制周报包</button>
+            </div>
+          </div>
+          <div id="douyinWeeklySummary" class="douyin-weekly-summary"></div>
+          <div id="douyinWeeklyList" class="douyin-weekly-list" aria-live="polite"></div>
+        </div>
+
+        <div class="douyin-workbench-panel" id="douyinReviewPanel" hidden>
+          <div class="douyin-section-head">
+            <div><h3>发布复盘</h3><p>回填实际数据，比较预测推流/吸粉分。数据只保存在当前设备浏览器。</p></div>
+            <div class="douyin-section-actions">
+              <button type="button" id="douyinReviewExportJson" class="douyin-secondary-btn">导出 JSON</button>
+              <button type="button" id="douyinReviewExportMd" class="douyin-secondary-btn">导出 Markdown</button>
+            </div>
+          </div>
+          <div id="douyinReviewFormWrap" class="douyin-review-form-wrap"></div>
+          <div id="douyinReviewList" class="douyin-review-list" aria-live="polite"></div>
+        </div>
       </section>
+
+      <div class="douyin-drawer-backdrop" id="douyinDrawerBackdrop" hidden></div>
+      <aside class="douyin-detail-drawer" id="douyinDetailDrawer" aria-hidden="true" aria-label="选题详情"></aside>
+      <div class="douyin-toast" id="douyinToast" role="status" aria-live="polite" hidden></div>
 
       <section class="list-wrap curated-board github-rankings-wrap" id="githubRankingsWrap" aria-labelledby="githubRankingsTitle" hidden>
         <div class="curated-board-head">
@@ -294,6 +373,7 @@
         </div>
       </article>
     </template>
-    <script src="./assets/app.js?v=hotlist-20261114" defer></script>
+    <script src="./assets/app.js?v=v2-20261115" defer></script>
+    <script src="./assets/douyin-v2.js?v=v2-20261115" defer></script>
   </body>
 </html>

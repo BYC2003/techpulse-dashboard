@@ -7356,6 +7356,49 @@ def build_stories_payload(
     }
 
 
+def build_weekly_candidates_payload(
+    stories: list[dict[str, Any]],
+    generated_at: str,
+    window_hours: int = 168,
+    max_items: int = 120,
+) -> dict[str, Any]:
+    def story_ts(story: dict[str, Any]) -> datetime:
+        return parse_iso(story.get("latest_at")) or parse_iso(story.get("earliest_at")) or datetime.min.replace(tzinfo=UTC)
+
+    ordered = sorted(
+        stories,
+        key=lambda story: (
+            float(story.get("importance_score") or story.get("score") or 0),
+            story_ts(story),
+        ),
+        reverse=True,
+    )[:max_items]
+    keep_fields = (
+        "story_id", "title", "url", "primary_url", "source", "source_name",
+        "source_count", "source_names", "score", "importance_score",
+        "importance_label", "importance_breakdown", "category", "reasons",
+        "earliest_at", "latest_at", "primary_item", "claim_status",
+        "claim_status_label", "claim_status_note", "primary_source_url",
+        "source_chain", "key_claims", "limits", "independent_source_count",
+        "repost_count", "verification_level", "verification_score",
+        "review_required", "publish_ready",
+    )
+    slim: list[dict[str, Any]] = []
+    for story in ordered:
+        row = {key: story.get(key) for key in keep_fields if key in story}
+        sources = story.get("sources") if isinstance(story.get("sources"), list) else []
+        row["sources"] = sources[:6]
+        slim.append(row)
+    return {
+        "generated_at": generated_at,
+        "window_hours": window_hours,
+        "total_stories": len(slim),
+        "selection": "last_7_days_sorted_by_fact_and_importance",
+        "data_note": "Based on the local archive window; source details are capped to six references per story.",
+        "stories": slim,
+    }
+
+
 def build_merge_log_payload(events: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
     return {
         "generated_at": generated_at,
@@ -7460,6 +7503,7 @@ def main() -> int:
     daily_brief_path = output_dir / "daily-brief.json"
     today_projects_path = output_dir / "today-projects.json"
     stories_merged_path = output_dir / "stories-merged.json"
+    weekly_candidates_path = output_dir / "weekly-candidates.json"
     merge_log_path = output_dir / "merge-log.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
     title_cache_path = output_dir / "title-zh-cache.json"
@@ -7750,6 +7794,38 @@ def main() -> int:
     stories_merged_payload = build_stories_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
     merge_log_payload = build_merge_log_payload(merge_events, generated_at=generated_at)
 
+    weekly_start = now - timedelta(days=7)
+    weekly_items: list[dict[str, Any]] = []
+    for record in archive.values():
+        ts = event_time(record)
+        if not ts or ts < weekly_start or ts > now + timedelta(minutes=10):
+            continue
+        normalized = dict(record)
+        normalized["title"] = maybe_fix_mojibake(str(normalized.get("title") or ""))
+        normalized["source"] = maybe_fix_mojibake(normalize_source_for_display(
+            str(normalized.get("site_id") or ""),
+            str(normalized.get("source") or ""),
+            str(normalized.get("url") or ""),
+        ))
+        normalized = add_ai_relevance_fields(normalized)
+        normalized = add_source_tier_fields(normalized)
+        if normalized.get("ai_is_related", is_ai_related_record(normalized)):
+            weekly_items.append(normalized)
+    weekly_items = suppress_near_duplicate_items(dedupe_items_by_title_url(weekly_items, random_pick=False))
+    weekly_stories, _weekly_merge_events = merge_story_items(
+        weekly_items,
+        now=now,
+        window_hours=168,
+        title_window_hours=24,
+        title_threshold=0.9,
+    )
+    weekly_candidates_payload = build_weekly_candidates_payload(
+        weekly_stories,
+        generated_at=generated_at,
+        window_hours=168,
+        max_items=120,
+    )
+
     # site stats
     site_stat: dict[str, dict[str, Any]] = {}
     raw_count_by_site: dict[str, int] = {}
@@ -7910,6 +7986,10 @@ def main() -> int:
         json.dumps(sanitize_public_payload(stories_merged_payload), ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
+    weekly_candidates_path.write_text(
+        json.dumps(sanitize_public_payload(weekly_candidates_payload), ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
     merge_log_path.write_text(
         json.dumps(sanitize_public_payload(merge_log_payload), ensure_ascii=False, indent=2),
         encoding="utf-8",
@@ -7943,6 +8023,7 @@ def main() -> int:
     print(f"Wrote: {latest_all_raw_path} ({len(latest_items_all_raw_dedup)} raw items, dev-only)")
     print(f"Wrote: {daily_brief_path} ({daily_brief_payload.get('total_items', 0)} brief items)")
     print(f"Wrote: {stories_merged_path} ({stories_merged_payload.get('total_stories', 0)} stories)")
+    print(f"Wrote: {weekly_candidates_path} ({weekly_candidates_payload.get('total_stories', 0)} weekly stories)")
     print(f"Wrote: {merge_log_path} ({len(merge_events)} merge events)")
     print(f"Wrote: {archive_path} ({len(archive)} items)")
     print(f"Wrote: {status_path}")

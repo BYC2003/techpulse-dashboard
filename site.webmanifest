@@ -28,8 +28,8 @@
       "url": "./dashboard.html?view=news"
     },
     {
-      "short_name": "AI 视频选题",
-      "name": "AI 视频选题与抖音公开热榜参考",
+      "short_name": "选题工作台",
+      "name": "AI 视频选题工作台",
       "url": "./dashboard.html?view=douyin"
     },
     {

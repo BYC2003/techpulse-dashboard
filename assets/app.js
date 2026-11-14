@@ -9,6 +9,43 @@ const DASHBOARD_VIEW = (() => {
 })();
 const INITIAL_QUERY = new URLSearchParams(window.location.search).get("q") || "";
 
+const DOUYIN_V2_STORE_KEY = "techpulseDouyinV2Store";
+const EMPTY_DOUYIN_V2_STORE = {
+  version: 2,
+  statuses: {},
+  weekly: [],
+  dismissed: [],
+  reviews: [],
+  verified: {},
+  importedSamples: [],
+};
+
+function loadDouyinV2Store() {
+  try {
+    const raw = localStorage.getItem(DOUYIN_V2_STORE_KEY);
+    if (!raw) return { ...EMPTY_DOUYIN_V2_STORE, statuses: {}, weekly: [], dismissed: [], reviews: [], verified: {}, importedSamples: [] };
+    const parsed = JSON.parse(raw);
+    return {
+      ...EMPTY_DOUYIN_V2_STORE,
+      ...parsed,
+      statuses: parsed.statuses && typeof parsed.statuses === "object" ? parsed.statuses : {},
+      weekly: Array.isArray(parsed.weekly) ? parsed.weekly : [],
+      dismissed: Array.isArray(parsed.dismissed) ? parsed.dismissed : [],
+      reviews: Array.isArray(parsed.reviews) ? parsed.reviews : [],
+      verified: parsed.verified && typeof parsed.verified === "object" ? parsed.verified : {},
+      importedSamples: Array.isArray(parsed.importedSamples) ? parsed.importedSamples : [],
+    };
+  } catch {
+    return { ...EMPTY_DOUYIN_V2_STORE, statuses: {}, weekly: [], dismissed: [], reviews: [], verified: {}, importedSamples: [] };
+  }
+}
+
+function saveDouyinV2Store() {
+  try {
+    localStorage.setItem(DOUYIN_V2_STORE_KEY, JSON.stringify(state.douyinV2));
+  } catch {}
+}
+
 const state = {
   itemsAi: [],
   itemsAll: [],
@@ -46,6 +83,13 @@ const state = {
   xAuthorsExpanded: false,
   douyinPickRound: 0,
   douyinHot: null,
+  douyinSamples: null,
+  douyinV2Tab: "decision",
+  douyinV2: loadDouyinV2Store(),
+  douyinDrawerStoryId: "",
+  douyinReviewStoryId: "",
+  douyinFilters: { query: "", gate: "all", format: "all", type: "all", source: "all", entity: "all", factMin: 0, pushMin: 0, followMin: 0, visual: false, avoidChinaUnknown: false, series: false, sensitive: false, duration: "all", sort: "priority" },
+  weeklyCandidates: null,
   githubRankings: null,
   githubRankingPeriod: "weekly",
   authorityVoices: null,
@@ -119,6 +163,25 @@ const douyinPicksMetaEl = document.getElementById("douyinPicksMeta");
 const douyinPicksRefreshBtnEl = document.getElementById("douyinPicksRefreshBtn");
 const douyinVerificationSummaryEl = document.getElementById("douyinVerificationSummary");
 const douyinHotBoardEl = document.getElementById("douyinHotBoard");
+const douyinDataStripEl = document.getElementById("douyinDataStrip");
+const douyinTop3ListEl = document.getElementById("douyinTop3List");
+const douyinConclusionEl = document.getElementById("douyinConclusion");
+const douyinWorkbenchTabsEl = document.getElementById("douyinWorkbenchTabs");
+const douyinDecisionPanelEl = document.getElementById("douyinDecisionPanel");
+const douyinPoolPanelEl = document.getElementById("douyinPoolPanel");
+const douyinSamplesPanelEl = document.getElementById("douyinSamplesPanel");
+const douyinWeeklyPanelEl = document.getElementById("douyinWeeklyPanel");
+const douyinReviewPanelEl = document.getElementById("douyinReviewPanel");
+const douyinPoolMetaEl = document.getElementById("douyinPoolMeta");
+const douyinPoolListEl = document.getElementById("douyinPoolList");
+const douyinSamplesListEl = document.getElementById("douyinSamplesList");
+const douyinWeeklySummaryEl = document.getElementById("douyinWeeklySummary");
+const douyinWeeklyListEl = document.getElementById("douyinWeeklyList");
+const douyinReviewFormWrapEl = document.getElementById("douyinReviewFormWrap");
+const douyinReviewListEl = document.getElementById("douyinReviewList");
+const douyinDetailDrawerEl = document.getElementById("douyinDetailDrawer");
+const douyinDrawerBackdropEl = document.getElementById("douyinDrawerBackdrop");
+const douyinToastEl = document.getElementById("douyinToast");
 const githubRankingsWrapEl = document.getElementById("githubRankingsWrap");
 const githubRankingListEl = document.getElementById("githubRankingList");
 const githubRankingMetaEl = document.getElementById("githubRankingMeta");
@@ -1847,6 +1910,304 @@ const DOUYIN_UI = IS_EN
       platformScore: "事实 / 热度",
     };
 
+const DOUYIN_STATUS_FLOW = [
+  { id: "new", label: "新候选" },
+  { id: "selected", label: "已入选" },
+  { id: "verifying", label: "核验中" },
+  { id: "pending_review", label: "待文字审核" },
+  { id: "copy_locked", label: "文案锁定" },
+  { id: "recorded", label: "已录音" },
+  { id: "producing", label: "视频制作" },
+  { id: "published", label: "已发布" },
+  { id: "reviewed", label: "已复盘" },
+];
+const DOUYIN_STATUS_BY_ID = Object.fromEntries(DOUYIN_STATUS_FLOW.map((item) => [item.id, item]));
+const DOUYIN_FORMAT_LABELS = {
+  flash: "单条快讯",
+  weekly: "一周/月度大事",
+  deep: "单题深度",
+  demo: "工具/项目实测",
+  correction: "纠偏/辟谣",
+};
+const DOUYIN_TAB_LABELS = { decision: "今日决策", pool: "选题池", samples: "高流量样本", weekly: "周报工坊", review: "发布复盘" };
+const DOUYIN_ENTITY_PATTERNS = [
+  ["OpenAI", /openai|chatgpt|codex/i],
+  ["Google / DeepMind", /google|deepmind|gemini|alphabet/i],
+  ["NVIDIA", /nvidia|英伟达|黄仁勋/i],
+  ["DeepSeek", /deepseek/i],
+  ["Qwen", /qwen|千问|通义/i],
+  ["Meta", /meta|llama/i],
+  ["Microsoft", /microsoft|微软|copilot/i],
+  ["字节 / Doubao", /字节|bytedance|doubao|豆包|seed/i],
+  ["机器人", /机器人|robotics|具身/i],
+];
+
+function douyinStatus(storyId) {
+  return DOUYIN_STATUS_BY_ID[state.douyinV2.statuses?.[storyId]] ? state.douyinV2.statuses[storyId] : "new";
+}
+
+function setDouyinStatus(storyId, status) {
+  if (!storyId || !DOUYIN_STATUS_BY_ID[status]) return;
+  state.douyinV2.statuses[storyId] = status;
+  if (status === "reviewed" && !state.douyinV2.statuses[`${storyId}:reviewed_at`]) {
+    state.douyinV2.statuses[`${storyId}:reviewed_at`] = new Date().toISOString();
+  }
+  saveDouyinV2Store();
+  renderDouyinV2();
+}
+
+function douyinIsDismissed(storyId) {
+  return state.douyinV2.dismissed.includes(storyId);
+}
+
+function stripStoryTitle(title) {
+  return String(title || "")
+    .replace(/\s*\/\s*[^/]{10,}$/, "")
+    .replace(/^[“”"'《》\s]+|[“”"'《》\s]+$/g, "")
+    .trim();
+}
+
+function shortStoryTitle(title, max = 30) {
+  const value = stripStoryTitle(title);
+  return value.length > max ? `${value.slice(0, max - 1)}…` : value;
+}
+
+function douyinEntity(pick) {
+  const hay = `${pick.title} ${pick.sourceName || ""}`;
+  return DOUYIN_ENTITY_PATTERNS.find(([, pattern]) => pattern.test(hay))?.[0] || "其他 AI";
+}
+
+function douyinFormatFor(pick) {
+  const title = pick.title;
+  const status = pick.fact.status;
+  if (status === "rumor" || /辟谣|纠偏|误读|网传|不实|争议|被罢免|传闻/i.test(title)) return "correction";
+  if (/github|开源|open[- ]?source|api|sdk|cli|app|工具|实测|教程|workflow|agent|插件/i.test(title)) return "demo";
+  if (status === "analysis" || status === "preprint" || /论文|研究|benchmark|原理|机制|安全|对齐|算法/i.test(title)) return "deep";
+  if (/一周|月度|盘点|综述|年度|季度|趋势/i.test(title)) return "weekly";
+  return "flash";
+}
+
+function douyinDurationFor(format) {
+  return { flash: "45–60 秒", weekly: "3–5 分钟", deep: "90–120 秒", demo: "60–90 秒", correction: "60–90 秒" }[format] || "60 秒";
+}
+
+function douyinFollowScore(pick, entities) {
+  const title = pick.title;
+  let score = 26;
+  if (/教育|学生|工作|就业|医疗|健康|家庭|普通人|省钱|价格|手机|隐私|版权|诈骗/i.test(title)) score += 34;
+  if (/教程|方法|实测|对比|怎么|如何|guide|how to|tutorial/i.test(title)) score += 18;
+  if (/OpenAI|Google|NVIDIA|DeepSeek|Qwen|Meta|Microsoft|字节|机器人/i.test(title)) score += 12;
+  if (entities !== "其他 AI") score += 8;
+  if (/系列|长期|趋势|行业|生态|工作流|agent|智能体/i.test(title)) score += 12;
+  if (douyinFormatFor(pick) === "demo") score += 8;
+  if (/api|sdk|cli|benchmark|参数|部署|developer|developers/i.test(title)) score -= 14;
+  return Math.max(1, Math.min(99, Math.round(score)));
+}
+
+function douyinRecommendedTitles(pick, format) {
+  const topic = shortStoryTitle(pick.title, 28);
+  const confirmed = pick.fact.status === "confirmed";
+  const templates = {
+    flash: [
+      confirmed ? `官方确认：${topic}，普通人最该关心什么？` : `${topic}，先别急着下结论`,
+      `${topic}，真正变化的不是表面这一句`,
+      `别被标题带偏：${topic}的 3 个关键事实`,
+    ],
+    weekly: [
+      `这周 AI 圈最值得看的变化：${topic}`,
+      `一条视频看懂：${topic}为什么值得关注`,
+      `${topic}背后，正在形成的新趋势`,
+    ],
+    deep: [
+      `${topic}，到底改变了什么？`,
+      `拆开看：${topic}的原理、能力和边界`,
+      `别只看结论：${topic}还有哪些没解决的问题`,
+    ],
+    demo: [
+      `实测 ${topic}：它到底能不能用？`,
+      `我把 ${topic} 跑了一遍，结果和宣传一样吗？`,
+      `${topic}，普通人能用它做什么？`,
+    ],
+    correction: [
+      `${topic}，网上最容易讲错的 3 点`,
+      `官方说法和热搜标题，差在哪？`,
+      `先别转发：${topic}目前能确认的只有这些`,
+    ],
+  };
+  return templates[format] || templates.flash;
+}
+
+function douyinHookFor(pick, format) {
+  const confirmed = pick.fact.status === "confirmed";
+  const topic = shortStoryTitle(pick.title, 24);
+  if (format === "correction") return `现在能确认的只有一部分，但网上已经把“${topic}”讲成了另一个故事。`;
+  if (!confirmed) return `先说边界：这条消息目前还是媒体报道，真正被证实的部分没有标题看起来那么多。`;
+  if (format === "demo") return `我直接把“${topic}”跑了一遍，先看结果，再决定值不值得用。`;
+  if (format === "deep") return `这条新闻最重要的不是“又发了一个模型”，而是它改变了哪一步。`;
+  return `先说结论：${topic}真正值得普通人关注的，不是参数，而是接下来这一个变化。`;
+}
+
+function douyinVisualFor(pick, format) {
+  if (format === "demo") return "官方页面/仓库截图 → 实际操作录屏 → 前后结果对比 → 适用人群和限制卡";
+  if (format === "correction") return "热搜/媒体标题截图 → 官方原文高亮 → 事实与推测分栏 → 一句纠偏结论";
+  if (format === "deep") return "论文/发布页截图 → 3 步原理动画 → 能力边界卡 → 普通人影响";
+  if (format === "weekly") return "时间轴 → 5–9 个事件卡片 → 主线关系图 → 本周结论";
+  return "官方截图 → 一句核心变化 → 普通人影响示意 → 风险/限制提示";
+}
+
+function douyinPushReason(pick) {
+  const reasons = [];
+  if (pick.hotMatch.directMatch) reasons.push(`命中抖音公开热榜第 ${pick.hotMatch.bestItem?.position || "-"} 名`);
+  else if (pick.hotMatch.adjacentMatch) reasons.push("可从大众热榜词借势，但需明确 AI 关联");
+  if (pick.breakdown.factors.impact >= 65) reasons.push("大众影响直接");
+  if (pick.breakdown.factors.visual >= 65) reasons.push("画面可展示");
+  if (pick.breakdown.factors.controversy >= 60) reasons.push("存在认知冲突");
+  if (pick.breakdown.factors.recency >= 60) reasons.push("时效仍在");
+  return reasons.length ? reasons.join("；") : "当前没有热榜直接命中，主要依赖事实价值和解释空间";
+}
+
+function douyinFollowReason(pick, entities) {
+  const reasons = [];
+  if (/教育|学生|工作|就业|医疗|健康|家庭|省钱|价格|手机|隐私|版权|诈骗/i.test(pick.title)) reasons.push("与普通人的工作/生活直接相关");
+  if (/教程|方法|实测|对比|怎么|如何|guide|how to|tutorial/i.test(pick.title)) reasons.push("有实用收藏价值");
+  if (entities !== "其他 AI" || /机器人|agent|智能体|模型|OpenAI|Google|NVIDIA/i.test(pick.title)) reasons.push("可形成持续追踪的公司/模型系列");
+  if (pick.breakdown.factors.visual >= 65) reasons.push("适合建立固定视觉栏目");
+  return reasons.length ? reasons.join("；") : "更适合一次性快讯，系列沉淀价值一般";
+}
+
+function douyinRiskFor(pick) {
+  const risks = [...(pick.breakdown.risks || [])];
+  if (!pick.factGate) risks.unshift("事实分未过 70，写稿前必须补证");
+  if (!pick.fact.primarySourceUrl) risks.push("缺一手原文");
+  if (/Google Wallet|Google Cloud|Gemini|ChatGPT|OpenAI|Claude/i.test(pick.title)) risks.push("国内可用性需单独核验");
+  return Array.from(new Set(risks));
+}
+
+function sampleMetric(sample, key) {
+  const value = Number(sample?.[key] ?? sample?.metrics?.[key] ?? 0);
+  return Number.isFinite(value) ? value : 0;
+}
+
+function douyinSampleItems() {
+  const imported = Array.isArray(state.douyinV2.importedSamples) ? state.douyinV2.importedSamples : [];
+  const baseline = Array.isArray(state.douyinSamples?.items) ? state.douyinSamples.items : [];
+  const ownPublished = (state.douyinV2.reviews || [])
+    .filter((review) => review.actualMetrics && (sampleMetric(review, "plays") > 0 || sampleMetric(review.actualMetrics, "plays") > 0))
+    .map((review) => ({
+      id: review.id,
+      title: review.actualTitle || review.recommendedTitle || "我的发布视频",
+      author: "我的账号",
+      published_at: review.publishedAt || review.createdAt,
+      duration_seconds: review.durationSeconds || 0,
+      likes: sampleMetric(review.actualMetrics, "likes"),
+      comments: sampleMetric(review.actualMetrics, "comments"),
+      saves: sampleMetric(review.actualMetrics, "saves"),
+      shares: sampleMetric(review.actualMetrics, "shares"),
+      plays: sampleMetric(review.actualMetrics, "plays"),
+      format: review.format,
+      keywords: review.keywords || [],
+      is_own: true,
+    }));
+  return [...imported, ...baseline, ...ownPublished].filter((item) => item && item.title);
+}
+
+function sampleHaystack(sample) {
+  return `${sample.title || ""} ${sample.author || ""} ${sample.format || ""} ${(sample.keywords || []).join(" ")}`.toLowerCase();
+}
+
+function tokenSet(value) {
+  const tokens = new Set();
+  const parts = String(value || "").toLowerCase().match(/[a-z0-9]+|[\u4e00-\u9fff]+/g) || [];
+  parts.forEach((part) => {
+    if (/^[a-z0-9]+$/.test(part)) {
+      if (part.length >= 2) tokens.add(part);
+      return;
+    }
+    if (part.length <= 4) tokens.add(part);
+    for (let size = 2; size <= Math.min(4, part.length); size += 1) {
+      for (let index = 0; index <= part.length - size; index += 1) tokens.add(part.slice(index, index + size));
+    }
+  });
+  return tokens;
+}
+
+function douyinSampleSimilarity(pick, sample) {
+  const a = tokenSet(`${pick.title} ${douyinEntity(pick)} ${DOUYIN_FORMAT_LABELS[douyinFormatFor(pick)]}`);
+  const b = tokenSet(sampleHaystack(sample));
+  if (!a.size || !b.size) return 0;
+  let overlap = 0;
+  a.forEach((token) => { if (b.has(token)) overlap += 1; });
+  return Math.round((overlap / Math.max(a.size, b.size)) * 100);
+}
+
+function douyinSampleMatches(pick) {
+  return douyinSampleItems()
+    .map((sample) => ({ sample, similarity: douyinSampleSimilarity(pick, sample) }))
+    .sort((a, b) => b.similarity - a.similarity || sampleMetric(b.sample, "likes") - sampleMetric(a.sample, "likes"))
+    .slice(0, 3);
+}
+
+function decorateDouyinCandidate(pick) {
+  const format = douyinFormatFor(pick);
+  const entities = douyinEntity(pick);
+  const followScore = douyinFollowScore(pick, entities);
+  const samples = douyinSampleMatches(pick);
+  return {
+    ...pick,
+    format,
+    formatLabel: DOUYIN_FORMAT_LABELS[format],
+    entity: entities,
+    followScore,
+    duration: douyinDurationFor(format),
+    recommendedTitles: douyinRecommendedTitles(pick, format),
+    hook: douyinHookFor(pick, format),
+    visual: douyinVisualFor(pick, format),
+    pushReason: douyinPushReason(pick),
+    followReason: douyinFollowReason(pick, entities),
+    riskSummary: douyinRiskFor(pick),
+    sampleMatches: samples,
+    sampleSimilarity: samples[0]?.similarity || 0,
+    status: douyinStatus(pick.story.story_id),
+    decisionScore: Math.round(pick.factScore * 0.45 + pick.trafficScore * 0.35 + followScore * 0.20),
+  };
+}
+
+function douyinAllCandidates() {
+  const groups = douyinPickCandidates();
+  const seen = new Set();
+  const rows = [];
+  groups.forEach((items) => items.forEach((pick) => {
+    const id = pick.story.story_id;
+    if (seen.has(id) || douyinIsDismissed(id)) return;
+    seen.add(id);
+    rows.push(decorateDouyinCandidate(pick));
+  }));
+  return rows.sort((a, b) => Number(b.factGate) - Number(a.factGate) || b.decisionScore - a.decisionScore || b.trafficScore - a.trafficScore);
+}
+
+function douyinTopThree(candidates) {
+  const round = Math.max(0, Number(state.douyinPickRound) || 0) % DOUYIN_PICK_ROUNDS;
+  const picked = [];
+  const ids = new Set();
+  const add = (pick) => {
+    if (!pick || ids.has(pick.story.story_id) || picked.length >= 3) return;
+    picked.push(pick);
+    ids.add(pick.story.story_id);
+  };
+  const byBucket = new Map();
+  candidates.forEach((pick) => {
+    if (!byBucket.has(pick.bucketId)) byBucket.set(pick.bucketId, []);
+    byBucket.get(pick.bucketId).push(pick);
+  });
+  DOUYIN_BUCKET_DEFS.forEach((bucket) => {
+    const rows = byBucket.get(bucket.id) || [];
+    if (!rows.length) return;
+    add(rows[Math.min(round, rows.length - 1)]);
+  });
+  candidates.forEach(add);
+  return picked.sort((a, b) => Number(b.factGate) - Number(a.factGate) || b.decisionScore - a.decisionScore);
+}
+
 function douyinStoryUrl(story) {
   const value = story?.primary_url || story?.url || storyRepresentativeItem(story)?.url || "";
   try {
@@ -2165,34 +2526,38 @@ function douyinRankCompare(a, b) {
     || b.latestMs - a.latestMs;
 }
 
+function buildDouyinCandidate(story) {
+  if (!story || !douyinPickEligible(story)) return null;
+  const title = storyPrimaryTitleText(story).trim();
+  const url = douyinStoryUrl(story);
+  if (!url) return null;
+  const bucketId = douyinBucketForTitle(title, story);
+  const fact = storyFactBoundary(story);
+  const breakdown = douyinScoreBreakdown(story, title, fact);
+  return {
+    story,
+    title,
+    url,
+    bucketId,
+    sourceName: douyinSourceName(story),
+    score: breakdown.score,
+    factScore: breakdown.factScore,
+    trafficScore: breakdown.trafficScore,
+    factGate: breakdown.factGate,
+    hotMatch: breakdown.hotMatch,
+    platformSignals: breakdown.platformSignals,
+    breakdown,
+    fact,
+    tags: douyinPickTags(story, bucketId, title, breakdown),
+    latestMs: storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at"),
+  };
+}
+
 function douyinPickCandidates() {
   const groups = new Map(DOUYIN_BUCKET_DEFS.map((bucket) => [bucket.id, []]));
   mergedStories().forEach((story) => {
-    if (!douyinPickEligible(story)) return;
-    const title = storyPrimaryTitleText(story).trim();
-    const url = douyinStoryUrl(story);
-    if (!url) return;
-    const bucketId = douyinBucketForTitle(title, story);
-    const fact = storyFactBoundary(story);
-    const breakdown = douyinScoreBreakdown(story, title, fact);
-    const candidate = {
-      story,
-      title,
-      url,
-      bucketId,
-      sourceName: douyinSourceName(story),
-      score: breakdown.score,
-      factScore: breakdown.factScore,
-      trafficScore: breakdown.trafficScore,
-      factGate: breakdown.factGate,
-      hotMatch: breakdown.hotMatch,
-      platformSignals: breakdown.platformSignals,
-      breakdown,
-      fact,
-      tags: douyinPickTags(story, bucketId, title, breakdown),
-      latestMs: storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at"),
-    };
-    groups.get(bucketId)?.push(candidate);
+    const candidate = buildDouyinCandidate(story);
+    if (candidate) groups.get(candidate.bucketId)?.push(candidate);
   });
   groups.forEach((rows) => rows.sort(douyinRankCompare));
   return groups;
@@ -3989,6 +4354,18 @@ async function loadStoriesData() {
   return res.json();
 }
 
+async function loadDouyinSamplesData() {
+  const res = await fetch(`${dataUrl("data/douyin-samples.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "douyin-samples.json", status: res.status }));
+  return res.json();
+}
+
+async function loadWeeklyCandidatesData() {
+  const res = await fetch(`${dataUrl("data/weekly-candidates.json")}?t=${Date.now()}`);
+  if (!res.ok) throw new Error(t("error.load", { file: "weekly-candidates.json", status: res.status }));
+  return res.json();
+}
+
 async function loadDouyinHotData() {
   const res = await fetch(`${dataUrl("data/douyin-hot.json")}?t=${Date.now()}`);
   if (!res.ok) throw new Error(t("error.load", { file: "douyin-hot.json", status: res.status }));
@@ -4014,7 +4391,7 @@ async function loadPapersData() {
 }
 
 async function init() {
-  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult, papersResult, douyinHotResult] = await Promise.allSettled([
+  const [newsResult, waytoagiResult, statusResult, briefResult, storiesResult, personasResult, githubResult, authorityResult, papersResult, douyinHotResult, douyinSamplesResult, weeklyCandidatesResult] = await Promise.allSettled([
     loadNewsData(),
     IS_EN ? Promise.resolve(null) : loadWaytoagiData(),
     loadSourceStatusData(),
@@ -4025,6 +4402,8 @@ async function init() {
     loadAuthorityVoicesData(),
     loadPapersData(),
     loadDouyinHotData(),
+    loadDouyinSamplesData(),
+    loadWeeklyCandidatesData(),
   ]);
 
   if (briefResult.status === "fulfilled") {
@@ -4055,6 +4434,8 @@ async function init() {
   state.authorityVoices = authorityResult.status === "fulfilled" ? authorityResult.value : null;
   state.papers = papersResult.status === "fulfilled" ? papersResult.value : null;
   state.douyinHot = douyinHotResult.status === "fulfilled" ? douyinHotResult.value : null;
+  state.douyinSamples = douyinSamplesResult.status === "fulfilled" ? douyinSamplesResult.value : null;
+  state.weeklyCandidates = weeklyCandidatesResult.status === "fulfilled" ? weeklyCandidatesResult.value : null;
 
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
