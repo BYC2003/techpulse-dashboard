@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:20:07.556607+00:00",
+  "generated_at": "2026-11-14T04:48:49.063381+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -418,9 +418,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 75,
+        "upvotes": 82,
         "comments": 2,
-        "discussion_score": 754.85,
+        "discussion_score": 824.85,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -448,8 +448,8 @@
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 70,
-        "comments": 7,
-        "discussion_score": 714.8,
+        "comments": 8,
+        "discussion_score": 716.8,
         "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
         "keywords": [
           "LLM agents",
@@ -479,8 +479,8 @@
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
         "upvotes": 56,
-        "comments": 3,
-        "discussion_score": 566.76,
+        "comments": 4,
+        "discussion_score": 568.75,
         "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. B…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.12885",
@@ -502,9 +502,9 @@
           "Yuetai Li"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 47,
+        "upvotes": 49,
         "comments": 10,
-        "discussion_score": 490.76,
+        "discussion_score": 510.75,
         "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.11995",
@@ -641,7 +641,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 41,
         "comments": 2,
-        "discussion_score": 414.71,
+        "discussion_score": 414.7,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
