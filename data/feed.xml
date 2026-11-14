@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:06:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 14:26:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -80,6 +80,14 @@
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
 </item>
 <item>
+<title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
+<link>https://www.aibase.com/news/32323</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sat, 14 Nov 2026 14:26:06 +0000</pubDate>
+</item>
+<item>
 <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
 <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
@@ -96,14 +104,6 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
-<title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
-<link>https://www.aibase.com/news/32323</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 13:06:11 +0000</pubDate>
-</item>
-<item>
 <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
 <link>https://openai.com/business/customer-stories/shield</link>
 <guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
@@ -112,7 +112,7 @@
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
+<title>XYBench: Helping with the problem behind the question</title>
 <link>https://huggingface.co/blog/allenai/xybench</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
 <description>Hugging Face Blog</description>
