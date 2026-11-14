@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:58:33.769927+00:00",
+  "generated_at": "2026-11-14T01:27:31.020026+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1386,
+      "items_scanned": 1387,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-12T00:00:00+00:00"

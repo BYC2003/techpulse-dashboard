@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:58:17.963998Z",
+  "generated_at": "2026-11-14T01:27:20.145159Z",
   "date": "2026-11-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T23:57:33.096054Z"
+      "observed_at": "2026-11-14T01:26:35.037598Z"
     },
     {
-      "id": "project_1759ed031fc4",
-      "project_name": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
-      "summary": "Powerful content editor for people who aren’t editors",
+      "id": "project_26974fd606da",
+      "project_name": "Aven App Agent",
+      "url": "https://www.producthunt.com/products/aven-app-agent",
+      "summary": "AI that guides users through your app",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T11:56:03Z",
-      "updated_at": "2026-11-13T23:44:16Z",
+      "recommend_reason_zh": "体验它主打的「AI that guides users through your app」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI that guides users through your app\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-11T22:12:11Z",
+      "updated_at": "2026-11-14T00:24:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T23:58:07.246918Z"
+      "observed_at": "2026-11-14T01:27:08.982486Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T23:57:33.096054Z"
+      "observed_at": "2026-11-14T01:26:35.037598Z"
     },
     {
-      "id": "project_de28bd093fa9",
-      "project_name": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
+      "id": "project_1759ed031fc4",
+      "project_name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "summary": "Powerful content editor for people who aren’t editors",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Spike alerts for your keywords in Telegram, Claude, ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Spike alerts for your keywords in Telegram, Claude, ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T18:54:12Z",
-      "updated_at": "2026-11-13T23:36:05Z",
+      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T11:56:03Z",
+      "updated_at": "2026-11-14T01:03:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T23:58:07.246918Z"
+      "observed_at": "2026-11-14T01:27:08.982486Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 288,
+      "duration_ms": 1010,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 212,
+      "duration_ms": 93,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:58:39.445242+00:00",
+  "generated_at": "2026-11-14T01:27:35.848120+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -418,9 +418,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 73,
+        "upvotes": 74,
         "comments": 2,
-        "discussion_score": 734.86,
+        "discussion_score": 744.85,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -511,6 +511,30 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.11995",
+        "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+        "authors": [
+          "Zhengyu Hu",
+          "Zheyuan Xiao",
+          "Yike Wang",
+          "Hamish Ivison",
+          "Haoyu Wang",
+          "Yige Yuan",
+          "Rulin Shao",
+          "Yuetai Li"
+        ],
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "upvotes": 45,
+        "comments": 10,
+        "discussion_score": 470.76,
+        "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.11995",
+        "arxiv_url": "https://arxiv.org/abs/2611.11995",
+        "discussion_url": "https://huggingface.co/papers/2611.11995",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.14210",
         "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
         "authors": [
@@ -535,30 +559,6 @@
         "url": "https://arxiv.org/abs/2611.14210",
         "arxiv_url": "https://arxiv.org/abs/2611.14210",
         "discussion_url": "https://huggingface.co/papers/2611.14210",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.11995",
-        "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
-        "authors": [
-          "Zhengyu Hu",
-          "Zheyuan Xiao",
-          "Yike Wang",
-          "Hamish Ivison",
-          "Haoyu Wang",
-          "Yige Yuan",
-          "Rulin Shao",
-          "Yuetai Li"
-        ],
-        "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 44,
-        "comments": 10,
-        "discussion_score": 460.76,
-        "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.11995",
-        "arxiv_url": "https://arxiv.org/abs/2611.11995",
-        "discussion_url": "https://huggingface.co/papers/2611.11995",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -640,8 +640,8 @@
         ],
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 40,
-        "comments": 1,
-        "discussion_score": 402.71,
+        "comments": 2,
+        "discussion_score": 404.71,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
