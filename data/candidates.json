@@ -1,0 +1,810 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-15T22:54:12+08:00",
+  "source": "techpulse-dashboard/materials.json",
+  "total_candidates": 20,
+  "items": [
+    {
+      "candidate_id": "candidate_story_c0e4bca0c953",
+      "material_ids": [
+        "story_c0e4bca0c953"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 76,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Codex CLI 0.168.0",
+      "recommended_titles": [
+        "官方更新：Codex CLI 0.168.0",
+        "Codex CLI 0.168.0",
+        "Codex CLI 0.168.0｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_010ac45cd0c9",
+      "material_ids": [
+        "story_010ac45cd0c9"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "recommended_titles": [
+        "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "Build a Robot Pick-and-Place Simulation with SimReady Assets｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_e0ce3fdbb288",
+      "material_ids": [
+        "story_e0ce3fdbb288"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
+      "recommended_titles": [
+        "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
+        "Gemini 4 Hydrogen in GitHub Copilot",
+        "Gemini 4 Hydrogen in GitHub Copilot｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_65948bc08832",
+      "material_ids": [
+        "story_65948bc08832"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 77,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：XYBench: Helping with the problem behind the question",
+      "recommended_titles": [
+        "官方更新：XYBench: Helping with the problem behind the question",
+        "XYBench: Helping with the problem behind the question",
+        "XYBench: Helping with the problem behind the question｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_a9f8b4a664f6",
+      "material_ids": [
+        "story_a9f8b4a664f6"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 77,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Introducing ChatGPT Wallet",
+      "recommended_titles": [
+        "官方更新：Introducing ChatGPT Wallet",
+        "Introducing ChatGPT Wallet",
+        "Introducing ChatGPT Wallet｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_6462d932fa5b",
+      "material_ids": [
+        "story_6462d932fa5b"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
+      "recommended_titles": [
+        "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
+        "Upcoming deprecation of selected GitHub Copilot models in December",
+        "Upcoming deprecation of selected GitHub Copilot models in December｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_9113026e72af",
+      "material_ids": [
+        "story_9113026e72af"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 77,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "recommended_titles": [
+        "官方更新：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_ce1046eebd38",
+      "material_ids": [
+        "story_ce1046eebd38"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：GitHub Enterprise Server support in the GitHub Copilot app",
+      "recommended_titles": [
+        "官方更新：GitHub Enterprise Server support in the GitHub Copilot app",
+        "GitHub Enterprise Server support in the GitHub Copilot app",
+        "GitHub Enterprise Server support in the GitHub Copilot app｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_0ac7e0d1affe",
+      "material_ids": [
+        "story_0ac7e0d1affe"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 76,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：The full DeepSeek App experience, now via API | DeepSeek API Docs",
+      "recommended_titles": [
+        "官方更新：The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "The full DeepSeek App experience, now via API | DeepSeek API Docs｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_b9fa2a337927",
+      "material_ids": [
+        "story_b9fa2a337927"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 75,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "recommended_titles": [
+        "官方更新：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_9a507b7582fa",
+      "material_ids": [
+        "story_9a507b7582fa"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 76,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Shield helps technicians hand off legacy portal work with OpenAI",
+      "recommended_titles": [
+        "官方更新：Shield helps technicians hand off legacy portal work with OpenAI",
+        "Shield helps technicians hand off legacy portal work with OpenAI",
+        "Shield helps technicians hand off legacy portal work with OpenAI｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_83023b0bea9d",
+      "material_ids": [
+        "story_83023b0bea9d"
+      ],
+      "recommended_format": "deep",
+      "fact_score": 87,
+      "reach_score": 76,
+      "follow_score": 66,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Manage AI Scan for repositories using the REST API",
+      "recommended_titles": [
+        "官方更新：Manage AI Scan for repositories using the REST API",
+        "Manage AI Scan for repositories using the REST API",
+        "Manage AI Scan for repositories using the REST API｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 180,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_ad1ef7aac19f",
+      "material_ids": [
+        "story_ad1ef7aac19f"
+      ],
+      "recommended_format": "demo",
+      "fact_score": 87,
+      "reach_score": 74,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Build once, run on any agent: A practical guide to agent skills",
+      "recommended_titles": [
+        "官方更新：Build once, run on any agent: A practical guide to agent skills",
+        "Build once, run on any agent: A practical guide to agent skills",
+        "Build once, run on any agent: A practical guide to agent skills｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 90,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_6759601e393f",
+      "material_ids": [
+        "story_6759601e393f"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 73,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Gondola doubles revenue as its team builds more with Codex",
+      "recommended_titles": [
+        "官方更新：Gondola doubles revenue as its team builds more with Codex",
+        "Gondola doubles revenue as its team builds more with Codex",
+        "Gondola doubles revenue as its team builds more with Codex｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_58db6e6cc441",
+      "material_ids": [
+        "story_58db6e6cc441"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 74,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "recommended_titles": [
+        "官方更新：How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "How Amplitude ships product improvements in 1–2 days with OpenAI｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_8d6545f9d797",
+      "material_ids": [
+        "story_8d6545f9d797"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 73,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Holiday Extras is rethinking what it can build with Codex",
+      "recommended_titles": [
+        "官方更新：Holiday Extras is rethinking what it can build with Codex",
+        "Holiday Extras is rethinking what it can build with Codex",
+        "Holiday Extras is rethinking what it can build with Codex｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_b821bfa39311",
+      "material_ids": [
+        "story_b821bfa39311"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 74,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Introducing Gemini 4 Hydrogen",
+      "recommended_titles": [
+        "官方更新：Introducing Gemini 4 Hydrogen",
+        "Introducing Gemini 4 Hydrogen",
+        "Introducing Gemini 4 Hydrogen｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_6df6ce89b479",
+      "material_ids": [
+        "story_6df6ce89b479"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 74,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "recommended_titles": [
+        "官方更新：Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "Google Search gets a major upgrade with Gemini 4 Hydrogen｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_60a6f4a929d8",
+      "material_ids": [
+        "story_60a6f4a929d8"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 74,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Actions for ARM32 Linux & Windows retirement",
+      "recommended_titles": [
+        "官方更新：Actions for ARM32 Linux & Windows retirement",
+        "Actions for ARM32 Linux & Windows retirement",
+        "Actions for ARM32 Linux & Windows retirement｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    },
+    {
+      "candidate_id": "candidate_story_378895404be5",
+      "material_ids": [
+        "story_378895404be5"
+      ],
+      "recommended_format": "quick_news",
+      "fact_score": 87,
+      "reach_score": 73,
+      "follow_score": 56,
+      "confidence": 0.62,
+      "recommended_title": "官方更新：Secret scanning detects Cloudflare service tokens",
+      "recommended_titles": [
+        "官方更新：Secret scanning detects Cloudflare service tokens",
+        "Secret scanning detects Cloudflare service tokens",
+        "Secret scanning detects Cloudflare service tokens｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_duration_sec": 60,
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "why_reach": [
+        "官方一手来源，信息可回溯",
+        "可转成“发生了什么、影响谁、现在能不能用”的结构"
+      ],
+      "why_follow": [
+        "连续追踪官方更新能形成稳定信息差",
+        "用事实边界建立可信人格"
+      ],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "fact_gate": true,
+      "status": "shortlisted",
+      "score_disclaimer": "分数是内部选题启发式，不是播放量、涨粉或收益预测。"
+    }
+  ],
+  "score_disclaimer": "所有分数都是内部选题启发式，不是平台推荐概率或结果承诺。"
+}

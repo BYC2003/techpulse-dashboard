@@ -5856,3 +5856,155 @@ body[data-dashboard-view="papers"] .service-status-panel {
   background: var(--surface);
   font-size: 10px;
 }
+
+/* Douyin V2.1: Codex-first work order */
+.douyin-work-order { margin: 0 0 16px; }
+.douyin-work-order-card { border: 1px solid #cfe4de; border-radius: 20px; padding: 18px 20px; background: linear-gradient(135deg, #f5fbf8 0%, #ffffff 58%, #f4f8fb 100%); box-shadow: 0 8px 24px rgba(22, 55, 70, 0.06); }
+.douyin-work-order-card.needs-evidence { border-color: #f0d3b4; background: linear-gradient(135deg, #fffaf4 0%, #ffffff 100%); }
+.douyin-work-order-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.douyin-work-order-eyebrow { display: block; color: #0b826c; font-size: 11px; font-weight: 800; letter-spacing: .08em; margin-bottom: 6px; }
+.douyin-work-order-head h3 { margin: 0; color: #102536; font-size: clamp(20px, 2.2vw, 28px); line-height: 1.3; }
+.douyin-work-order-summary { margin: 8px 0 0; color: #52677a; font-size: 14px; line-height: 1.6; }
+.douyin-work-order-status { flex: 0 0 auto; border-radius: 999px; padding: 6px 10px; font-size: 12px; font-weight: 800; }
+.douyin-work-order-status.ready { color: #086653; background: #dff5ec; }
+.douyin-work-order-status.blocked { color: #98500c; background: #fff0dc; }
+.douyin-work-order-metrics { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0; }
+.douyin-work-order-why, .douyin-work-order-next { display: flex; gap: 8px; align-items: baseline; color: #40576a; font-size: 13px; line-height: 1.6; margin-top: 8px; }
+.douyin-work-order-why strong, .douyin-work-order-next strong { color: #102536; white-space: nowrap; }
+.douyin-work-order-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.douyin-work-order-note { margin: 12px 0 0; color: #718397; font-size: 12px; line-height: 1.5; }
+.douyin-work-order-empty { border: 1px dashed #cbd8e2; border-radius: 14px; padding: 18px; color: #667b8d; background: #fbfdff; }
+@media (max-width: 720px) { .douyin-work-order-head { flex-direction: column; } .douyin-work-order-status { align-self: flex-start; } .douyin-work-order-card { padding: 15px; } .douyin-work-order-actions .douyin-primary-btn, .douyin-work-order-actions .douyin-secondary-btn { width: 100%; } }
+
+/* ---- 2026-11-15 Douyin AI search heat board ---- */
+.douyin-ai-hot-hero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(18, 106, 115, 0.18);
+  border-radius: 10px;
+  padding: 12px;
+  background: linear-gradient(135deg, rgba(18, 106, 115, 0.08), rgba(255, 255, 255, 0.82));
+}
+.douyin-ai-hot-hero > div {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+.douyin-ai-hot-hero h3 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 17px;
+}
+.douyin-ai-hot-hero p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10.5px;
+  line-height: 1.55;
+}
+.douyin-ai-hot-hero > a {
+  flex: 0 0 auto;
+  text-decoration: none;
+}
+.douyin-ai-hot-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 8px;
+}
+.douyin-ai-hot-window {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 5px 9px;
+  color: var(--ink-soft);
+  background: var(--surface);
+  font: inherit;
+  font-size: 10px;
+  font-weight: 720;
+  cursor: pointer;
+}
+.douyin-ai-hot-window.active {
+  color: #fff;
+  border-color: var(--accent);
+  background: var(--accent);
+}
+.douyin-ai-hot-list {
+  display: grid;
+  gap: 7px;
+}
+.douyin-ai-hot-row {
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  gap: 9px;
+  border: 1px solid var(--line-soft);
+  border-radius: 9px;
+  padding: 9px;
+  color: var(--ink);
+  background: var(--surface);
+  text-decoration: none;
+}
+.douyin-ai-hot-row:hover {
+  border-color: rgba(18, 106, 115, 0.35);
+  background: rgba(18, 106, 115, 0.035);
+}
+.douyin-ai-hot-rank {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 2px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+}
+.douyin-ai-hot-body {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+}
+.douyin-ai-hot-body h4 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 12px;
+  line-height: 1.45;
+}
+.douyin-ai-hot-body p {
+  margin: 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 9.5px;
+  line-height: 1.45;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.douyin-ai-hot-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.douyin-ai-hot-metrics span {
+  border: 1px solid var(--line-soft);
+  border-radius: 5px;
+  padding: 3px 6px;
+  color: var(--ink-soft);
+  background: var(--surface-soft);
+  font-size: 9px;
+}
+.douyin-ai-hot-disclaimer {
+  margin: 9px 0 0;
+  color: var(--muted);
+  font-size: 9.5px;
+  line-height: 1.55;
+}
+@media (max-width: 720px) {
+  .douyin-ai-hot-hero {
+    display: grid;
+  }
+  .douyin-ai-hot-hero > a {
+    justify-self: start;
+  }
+  .douyin-ai-hot-row {
+    grid-template-columns: 32px minmax(0, 1fr);
+  }
+}

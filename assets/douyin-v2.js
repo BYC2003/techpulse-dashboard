@@ -1,17 +1,78 @@
-// AI 视频选题工作台 V2：决策、选题池、样本、周报与复盘。
+// AI 视频选题工作台 V2.2：决策、选题池、AI 搜索热榜、样本、周报与复盘。
 // 依赖 app.js 中的 state、storyFactBoundary、douyinAllCandidates 等全局定义。
+
+if (typeof DOUYIN_TAB_LABELS !== "undefined") DOUYIN_TAB_LABELS.hot = "AI 热榜";
+
+const douyinV2AiHot = { data: null, windowKey: "last_7d", status: "idle", error: "" };
+
+let v2SampleItemsCache = { key: "", items: [] };
+let v2SampleMatchCache = new Map();
+let v2SampleMatchCacheKey = "";
+
+function v2SampleLibrarySignature() {
+  return [
+    state.douyinSamples?.items?.length || 0,
+    state.douyinV2?.importedSamples?.length || 0,
+    state.douyinV2?.reviews?.length || 0,
+  ].join(":");
+}
+
+if (typeof douyinSampleItems === "function") {
+  const originalSampleItems = douyinSampleItems;
+  douyinSampleItems = function optimizedDouyinSampleItems() {
+    const key = v2SampleLibrarySignature();
+    if (v2SampleItemsCache.key === key) return v2SampleItemsCache.items;
+    const items = originalSampleItems();
+    v2SampleItemsCache = { key, items };
+    if (v2SampleMatchCacheKey !== key) {
+      v2SampleMatchCache = new Map();
+      v2SampleMatchCacheKey = key;
+    }
+    return items;
+  };
+}
+
+if (typeof douyinSampleMatches === "function") {
+  const sampleTokenCache = new WeakMap();
+  douyinSampleMatches = function optimizedDouyinSampleMatches(pick) {
+    const key = `${v2SampleLibrarySignature()}:${pick.story?.story_id || pick.title}`;
+    if (v2SampleMatchCache.has(key)) return v2SampleMatchCache.get(key);
+    const candidateTokens = tokenSet(`${pick.title} ${douyinEntity(pick)} ${DOUYIN_FORMAT_LABELS[douyinFormatFor(pick)]}`);
+    const matches = douyinSampleItems().map((sample) => {
+      let sampleTokens = sampleTokenCache.get(sample);
+      if (!sampleTokens) {
+        sampleTokens = tokenSet(sampleHaystack(sample));
+        sampleTokenCache.set(sample, sampleTokens);
+      }
+      let overlap = 0;
+      candidateTokens.forEach((token) => { if (sampleTokens.has(token)) overlap += 1; });
+      const similarity = candidateTokens.size && sampleTokens.size
+        ? Math.round((overlap / Math.max(candidateTokens.size, sampleTokens.size)) * 100)
+        : 0;
+      return { sample, similarity };
+    }).sort((a, b) => b.similarity - a.similarity || sampleMetric(b.sample, "likes") - sampleMetric(a.sample, "likes")).slice(0, 3);
+    v2SampleMatchCache.set(key, matches);
+    return matches;
+  };
+}
 
 const douyinV2Dom = {
   wrap: document.getElementById("douyinPicksWrap"),
   tabs: document.getElementById("douyinWorkbenchTabs"),
   decision: document.getElementById("douyinDecisionPanel"),
   pool: document.getElementById("douyinPoolPanel"),
+  aiHot: document.getElementById("douyinAiHotPanel"),
+  aiHotMeta: document.getElementById("douyinAiHotMeta"),
+  aiHotTabs: document.getElementById("douyinAiHotTabs"),
+  aiHotList: document.getElementById("douyinAiHotList"),
+  aiHotDisclaimer: document.getElementById("douyinAiHotDisclaimer"),
   samples: document.getElementById("douyinSamplesPanel"),
   weekly: document.getElementById("douyinWeeklyPanel"),
   review: document.getElementById("douyinReviewPanel"),
   meta: document.getElementById("douyinPicksMeta"),
   refresh: document.getElementById("douyinPicksRefreshBtn"),
   dataStrip: document.getElementById("douyinDataStrip"),
+  workOrder: document.getElementById("douyinWorkOrder"),
   top3: document.getElementById("douyinTop3List"),
   conclusion: document.getElementById("douyinConclusion"),
   hotBoard: document.getElementById("douyinHotBoard"),
@@ -91,6 +152,144 @@ function v2StatusChip(statusId) {
   return v2El("span", `douyin-status-chip status-${status.id}`, status.label);
 }
 
+function v2CodexTaskJson(pick) {
+  const samples = (pick.sampleMatches || []).map(({ sample, similarity }) => ({
+    title: sample.title || "",
+    url: sample.url || "",
+    author: sample.author || "",
+    duration: sample.duration || sample.duration_seconds || null,
+    likes: sample.likes ?? null,
+    similarity,
+  }));
+  return {
+    task_id: `douyin-${pick.story.story_id}-${new Date().toISOString().slice(0, 10)}`,
+    generated_at: new Date().toISOString(),
+    owner: "codex",
+    status: pick.factGate ? "ready" : "needs_evidence",
+    candidate_id: pick.story.story_id,
+    material_ids: [pick.story.story_id],
+    title: pick.title,
+    source_urls: pick.fact.primarySourceUrl ? [pick.fact.primarySourceUrl] : (pick.story.primary_url ? [pick.story.primary_url] : []),
+    claim_status: pick.fact.status,
+    fact_score: pick.factScore,
+    reach_score: pick.trafficScore,
+    follow_score: pick.followScore,
+    recommended_format: pick.format,
+    recommended_format_label: pick.formatLabel,
+    recommended_duration: pick.duration,
+    recommended_titles: pick.recommendedTitles || [],
+    recommended_hook: pick.hook || "",
+    recommended_visuals: [pick.visual || ""].filter(Boolean),
+    closest_video_samples: samples,
+    fact_notes: pick.fact.note || "",
+    limits: Array.isArray(pick.fact.limits) ? pick.fact.limits : [],
+    risks: pick.riskSummary || [],
+    next_action: pick.factGate ? "generate_review_package" : "find_primary_source",
+    user_next_steps: pick.factGate ? ["审核文字", "手机录音"] : ["补一手来源"],
+    review_gate: "文案锁定前不得配音、分镜、动画或成片",
+  };
+}
+
+function v2CodexTaskMarkdown(pick) {
+  const task = v2CodexTaskJson(pick);
+  return `# Codex 工作单
+
+## 任务
+为 AI 第一手信息科普账号生成一条视频文字审核包。
+
+## 候选
+- 标题：${task.title}
+- 推荐形式：${task.recommended_format_label}
+- 推荐时长：${task.recommended_duration}
+- 事实分：${task.fact_score}
+- 推流分：${task.reach_score}
+- 吸粉分：${task.follow_score}
+- 事实状态：${task.claim_status}
+- 当前状态：${task.status}
+
+## 一手来源
+${task.source_urls.length ? task.source_urls.map((url) => `- ${url}`).join("\n") : "- 当前未定位一手原文，先补证"}
+
+## 推荐标题
+${task.recommended_titles.map((title, index) => `${index + 1}. ${title}`).join("\n")}
+
+## 前 3 秒钩子
+${task.recommended_hook}
+
+## 推荐画面
+${task.recommended_visuals.join("\n") || "- 暂无"}
+
+## 风险
+${task.risks.length ? task.risks.map((risk) => `- ${risk}`).join("\n") : "- 仍需人工核验原文"}
+
+## 用户下一步
+${task.user_next_steps.map((step) => `- ${step}`).join("\n")}
+
+> ${task.review_gate}
+`;
+}
+
+function v2RenderWorkOrder(candidates) {
+  if (!douyinV2Dom.workOrder) return;
+  douyinV2Dom.workOrder.replaceChildren();
+  const pick = candidates.find((candidate) => candidate.factGate) || candidates[0];
+  if (!pick) {
+    douyinV2Dom.workOrder.appendChild(v2El("p", "douyin-work-order-empty", "今天没有可用候选。先补来源或等待下一轮数据。"));
+    return;
+  }
+  const canStart = Boolean(pick.factGate);
+  const wrap = v2El("section", `douyin-work-order-card ${canStart ? "is-ready" : "needs-evidence"}`);
+  const head = v2El("div", "douyin-work-order-head");
+  const copy = v2El("div", "");
+  copy.append(
+    v2El("span", "douyin-work-order-eyebrow", canStart ? "START HERE · 今天先做这 1 条" : "NEEDS EVIDENCE · 今天先补证"),
+    v2El("h3", "", pick.title),
+    v2El("p", "douyin-work-order-summary", canStart
+      ? `${pick.formatLabel} · ${pick.duration} · 事实门已通过。先做出审核包，再决定是否录音和制作。`
+      : `这条值得关注，但事实分只有 ${pick.factScore}，缺一手证据。先补证，不要直接开拍。`)
+  );
+  const status = v2El("span", `douyin-work-order-status ${canStart ? "ready" : "blocked"}`, canStart ? "可开工" : "待补证");
+  head.append(copy, status);
+  const metrics = v2El("div", "douyin-work-order-metrics");
+  metrics.append(
+    v2ScorePill("事实分", pick.factScore, canStart ? "score-good" : "score-warn"),
+    v2ScorePill("推流分", pick.trafficScore),
+    v2ScorePill("吸粉分", pick.followScore),
+    v2ScorePill("推荐时长", pick.duration)
+  );
+  const why = v2El("div", "douyin-work-order-why");
+  why.append(v2El("strong", "", "为什么先做它："), v2El("span", "", `${pick.pushReason}；${pick.followReason}`));
+  const next = v2El("div", "douyin-work-order-next");
+  next.append(
+    v2El("strong", "", "下一步："),
+    v2El("span", "", canStart ? "生成文字审核包 → 你审核文字 → 手机录音 → 交给 Codex 做视频" : "打开原文或补一手来源 → 重新进入核验 → 再生成文字审核包")
+  );
+  const actions = v2El("div", "douyin-work-order-actions");
+  if (canStart) {
+    actions.append(
+      v2Button("开始这条：生成文字审核包", "douyin-primary-btn", () => v2GenerateAudit(pick)),
+      v2Button("复制给 Codex", "douyin-secondary-btn", async () => {
+        await v2Copy(v2CodexTaskMarkdown(pick));
+        v2Toast("Codex 工作单已复制");
+      }),
+      v2Button("下载 Codex 任务包", "douyin-secondary-btn", () => v2Download(`codex-task-${pick.story.story_id}.json`, JSON.stringify(v2CodexTaskJson(pick), null, 2), "application/json;charset=utf-8"))
+    );
+  } else {
+    actions.append(
+      v2Button("查看待补证条目", "douyin-secondary-btn", () => v2OpenDrawer(pick)),
+      v2Button("复制给 Codex", "douyin-secondary-btn", async () => {
+        await v2Copy(v2CodexTaskMarkdown(pick));
+        v2Toast("Codex 工作单已复制");
+      })
+    );
+  }
+  const note = v2El("p", "douyin-work-order-note", canStart
+    ? "你不需要先理解所有筛选和评分；按这个按钮走完即可。高流量样本未接入时，今天先按事实型快讯启动。"
+    : "页面不会把未确认的消息包装成可直接制作的选题；补证后再开始。"
+  );
+  wrap.append(head, metrics, why, next, actions, note);
+  douyinV2Dom.workOrder.appendChild(wrap);
+}
 function v2RenderDataStrip(candidates) {
   if (!douyinV2Dom.dataStrip) return;
   douyinV2Dom.dataStrip.replaceChildren();
@@ -294,12 +493,101 @@ function v2RenderPool(candidates) {
   });
 }
 
+const DOUYIN_AI_HOT_WINDOWS = [
+  ["last_24h", "24 小时"],
+  ["last_7d", "7 天"],
+  ["last_30d", "30 天"],
+  ["all_captured", "全部样本"],
+];
+
+function v2AiHotDate(value) {
+  if (!value) return "时间未知";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value).slice(0, 16);
+  return date.toLocaleString("zh-CN", {month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit"});
+}
+
+function v2RenderAiHot() {
+  if (!douyinV2Dom.aiHot && !douyinV2Dom.aiHotList) return;
+  const data = douyinV2AiHot.data;
+  if (douyinV2Dom.aiHotTabs) {
+    douyinV2Dom.aiHotTabs.replaceChildren();
+    DOUYIN_AI_HOT_WINDOWS.forEach(([key, label]) => {
+      const button = v2Button(label, `douyin-ai-hot-window ${douyinV2AiHot.windowKey === key ? "active" : ""}`, () => {
+        douyinV2AiHot.windowKey = key;
+        v2RenderAiHot();
+      });
+      button.dataset.douyinHotWindow = key;
+      button.setAttribute("aria-pressed", douyinV2AiHot.windowKey === key ? "true" : "false");
+      douyinV2Dom.aiHotTabs.appendChild(button);
+    });
+  }
+  if (douyinV2Dom.aiHotMeta) {
+    douyinV2Dom.aiHotMeta.textContent = data
+      ? `${fmtTime(data.generated_at)} · ${fmtNumber(data.sample_count)} 条真实搜索样本 · ${fmtNumber(data.keyword_count)} 个 AI 关键词 · 本地只读采集`
+      : (douyinV2AiHot.status === "error" ? `加载失败：${douyinV2AiHot.error}` : "正在加载本地搜索快照...");
+  }
+  if (!douyinV2Dom.aiHotList) return;
+  douyinV2Dom.aiHotList.replaceChildren();
+  if (!data) {
+    douyinV2Dom.aiHotList.appendChild(v2El("p", "douyin-empty-note", douyinV2AiHot.status === "error" ? "AI 热榜数据不可用，请检查 data/douyin-ai-hot.json。" : "正在读取 AI 搜索样本热榜..."));
+    return;
+  }
+  const rows = Array.isArray(data.rankings?.[douyinV2AiHot.windowKey]) ? data.rankings[douyinV2AiHot.windowKey] : [];
+  if (!rows.length) {
+    douyinV2Dom.aiHotList.appendChild(v2El("p", "douyin-empty-note", "这个时间窗口没有样本。页面不会用旧视频冒充当前热点。"));
+  } else {
+    rows.slice(0, 20).forEach((item) => {
+      const row = v2El(item.url ? "a" : "article", "douyin-ai-hot-row");
+      if (item.url) { row.href = item.url; row.target = "_blank"; row.rel = "noopener noreferrer"; }
+      const rank = v2El("span", "douyin-ai-hot-rank", `#${item.rank || "-"}`);
+      const body = v2El("div", "douyin-ai-hot-body");
+      body.appendChild(v2El("h4", "", item.title || "未命名视频"));
+      body.appendChild(v2El("p", "", `${item.author || "未知作者"} · ${v2AiHotDate(item.published_at)} · 搜索词 ${item.search_keyword || "未知"}`));
+      const metrics = v2El("div", "douyin-ai-hot-metrics");
+      [
+        ["热度", item.hot_index],
+        ["点赞", item.likes],
+        ["评论", item.comments],
+        ["收藏", item.saves],
+        ["分享", item.shares],
+      ].forEach(([label, value]) => metrics.appendChild(v2El("span", "", `${label} ${fmtNumber(value)}`)));
+      body.appendChild(metrics);
+      row.append(rank, body);
+      douyinV2Dom.aiHotList.appendChild(row);
+    });
+  }
+  if (douyinV2Dom.aiHotDisclaimer) {
+    douyinV2Dom.aiHotDisclaimer.textContent = `${data.coverage_warning ? `${data.coverage_warning} ` : ""}${data.disclaimer || "这是搜索样本热度指数，不是抖音官方热榜或推荐流。"}`;
+  }
+}
+
+async function v2LoadAiHotData(force = false) {
+  if (douyinV2AiHot.status === "loading" && !force) return;
+  douyinV2AiHot.status = "loading";
+  douyinV2AiHot.error = "";
+  v2RenderAiHot();
+  try {
+    const path = typeof dataUrl === "function" ? dataUrl("data/douyin-ai-hot.json") : "data/douyin-ai-hot.json";
+    const response = await fetch(`${path}?t=${Date.now()}`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    douyinV2AiHot.data = payload;
+    douyinV2AiHot.status = "ready";
+  } catch (error) {
+    douyinV2AiHot.data = null;
+    douyinV2AiHot.status = "error";
+    douyinV2AiHot.error = String(error?.message || error);
+  }
+  v2RenderAiHot();
+}
+
 function v2RenderSamples() {
   if (!douyinV2Dom.samplesList) return;
-  const samples = douyinSampleItems();
+  const samples = douyinSampleItems().slice().sort((a, b) => Number(b.hot_index || 0) - Number(a.hot_index || 0) || sampleMetric(b, "likes") - sampleMetric(a, "likes"));
   douyinV2Dom.samplesList.replaceChildren();
-  douyinV2Dom.samplesList.appendChild(v2El("p", "douyin-data-warning", state.douyinSamples?.disclaimer || "高流量样本尚未接入；只接受真实导入或本人发布数据。"));
   if (!samples.length) {
+    douyinV2Dom.samplesList.appendChild(v2El("p", "douyin-data-warning", state.douyinSamples?.disclaimer || "高流量样本尚未接入；只接受真实导入或本人发布数据。"));
     const empty = v2El("div", "douyin-empty-state");
     empty.append(
       v2El("h3", "", "当前没有真实高流量样本"),
@@ -309,19 +597,21 @@ function v2RenderSamples() {
     douyinV2Dom.samplesList.appendChild(empty);
     return;
   }
+  const visible = samples.slice(0, 60);
+  douyinV2Dom.samplesList.appendChild(v2El("p", "douyin-data-warning", `共 ${fmtNumber(samples.length)} 条真实样本；本页优先展示热度前 ${visible.length} 条。${state.douyinSamples?.disclaimer || ""}`));
   const grid = v2El("div", "douyin-sample-grid");
-  samples.forEach((sample) => {
+  visible.forEach((sample) => {
     const card = v2El(sample.url ? "a" : "article", "douyin-sample-card");
     if (sample.url) { card.href = sample.url; card.target = "_blank"; card.rel = "noopener noreferrer"; }
-    card.append(v2El("span", "douyin-format-tag", DOUYIN_FORMAT_LABELS[sample.format] || sample.format || "样本"));
+    card.append(v2El("span", "douyin-format-tag", DOUYIN_FORMAT_LABELS[sample.format] || sample.format_type || sample.format || "样本"));
     card.appendChild(v2El("h3", "", sample.title));
-    card.appendChild(v2El("p", "", `${sample.author || "未知作者"} · ${sample.published_at || "时间未知"}`));
+    card.appendChild(v2El("p", "", `${sample.author || "未知作者"} · ${v2AiHotDate(sample.published_at)}`));
     const metrics = v2El("div", "douyin-sample-metrics");
-    [["播放", "plays"], ["点赞", "likes"], ["评论", "comments"], ["收藏", "saves"], ["分享", "shares"]].forEach(([label, key]) => {
+    [["热度", "hot_index"], ["点赞", "likes"], ["评论", "comments"], ["收藏", "saves"], ["分享", "shares"]].forEach(([label, key]) => {
       metrics.appendChild(v2El("span", "", `${label} ${fmtNumber(sampleMetric(sample, key))}`));
     });
     card.appendChild(metrics);
-    if (sample.keywords?.length) card.appendChild(v2El("p", "douyin-sample-keywords", sample.keywords.join(" · ")));
+    if (sample.keywords?.length) card.appendChild(v2El("p", "douyin-sample-keywords", sample.keywords.slice(0, 6).join(" · ")));
     grid.appendChild(card);
   });
   douyinV2Dom.samplesList.appendChild(grid);
@@ -594,6 +884,8 @@ function v2GenerateAudit(pick) {
   actions.append(
     v2Button("复制审核包", "douyin-primary-btn", async () => { await v2Copy(text); v2Toast("审核包已复制"); }),
     v2Button("下载 Markdown", "douyin-secondary-btn", () => v2Download(`audit-${pick.story.story_id}.md`, text, "text/markdown;charset=utf-8")),
+    v2Button("复制给 Codex", "douyin-secondary-btn", async () => { await v2Copy(v2CodexTaskMarkdown(pick)); v2Toast("Codex 工作单已复制"); }),
+    v2Button("下载任务包", "douyin-secondary-btn", () => v2Download(`codex-task-${pick.story.story_id}.json`, JSON.stringify(v2CodexTaskJson(pick), null, 2), "application/json;charset=utf-8")),
   );
   wrap.appendChild(actions);
   v2OpenContent(wrap, "audit");
@@ -704,21 +996,26 @@ function v2Render() {
     button.classList.toggle("active", active);
     button.setAttribute("aria-pressed", active ? "true" : "false");
   });
-  [douyinV2Dom.decision, douyinV2Dom.pool, douyinV2Dom.samples, douyinV2Dom.weekly, douyinV2Dom.review].forEach((panel) => { if (panel) panel.hidden = true; });
-  const activePanel = { decision: douyinV2Dom.decision, pool: douyinV2Dom.pool, samples: douyinV2Dom.samples, weekly: douyinV2Dom.weekly, review: douyinV2Dom.review }[tab];
+  [douyinV2Dom.decision, douyinV2Dom.pool, douyinV2Dom.aiHot, douyinV2Dom.samples, douyinV2Dom.weekly, douyinV2Dom.review].forEach((panel) => { if (panel) panel.hidden = true; });
+  const activePanel = { decision: douyinV2Dom.decision, pool: douyinV2Dom.pool, hot: douyinV2Dom.aiHot, samples: douyinV2Dom.samples, weekly: douyinV2Dom.weekly, review: douyinV2Dom.review }[tab];
   if (activePanel) activePanel.hidden = false;
   const candidates = douyinAllCandidates();
   const top3 = douyinTopThree(candidates);
-  if (douyinV2Dom.meta) douyinV2Dom.meta.textContent = `${candidates.length} 条可选 · ${top3.filter((pick) => pick.factGate).length}/3 通过事实门 · ${DOUYIN_TAB_LABELS[tab]}`;
+  const gateCandidates = candidates.filter((pick) => pick.factGate).length;
+  if (douyinV2Dom.meta) douyinV2Dom.meta.textContent = `${candidates.length} 条候选 · ${gateCandidates} 条可立即开工 · ${DOUYIN_TAB_LABELS[tab]}`;
   if (douyinV2Dom.refresh) douyinV2Dom.refresh.disabled = candidates.length < 2;
   renderDouyinHotBoard();
   renderDouyinVerificationSummary(top3);
   if (tab === "decision") {
     v2RenderDataStrip(candidates);
+    v2RenderWorkOrder(candidates);
     const rows = v2RenderTop3(candidates);
     v2RenderConclusion(rows, candidates);
   } else if (tab === "pool") {
     v2RenderPool(candidates);
+  } else if (tab === "hot") {
+    v2RenderAiHot();
+    if (!douyinV2AiHot.data && douyinV2AiHot.status !== "loading") v2LoadAiHotData();
   } else if (tab === "samples") {
     v2RenderSamples();
   } else if (tab === "weekly") {
@@ -803,6 +1100,12 @@ function bindV2Events() {
     form?.reset();
     syncV2Filters();
   });
+  douyinV2Dom.aiHotTabs?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-douyin-hot-window]");
+    if (!button) return;
+    douyinV2AiHot.windowKey = button.dataset.douyinHotWindow;
+    v2RenderAiHot();
+  });
   document.getElementById("douyinSampleImportBtn")?.addEventListener("click", () => document.getElementById("douyinSampleFile")?.click());
   document.getElementById("douyinSampleFile")?.addEventListener("change", (event) => {
     v2ImportSamples(event.target.files?.[0]);
@@ -844,3 +1147,4 @@ renderDouyinPicks = v2Render;
 window.renderDouyinV2 = v2Render;
 bindV2Events();
 v2Render();
+v2LoadAiHotData();

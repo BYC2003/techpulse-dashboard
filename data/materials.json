@@ -1,0 +1,1160 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-15T22:54:12+08:00",
+  "source": "techpulse-dashboard/weekly-candidates.json",
+  "total_materials": 20,
+  "selection": "官方或研究一手来源，按核验分、重要性和时效排序，最多 20 条",
+  "items": [
+    {
+      "material_id": "story_c0e4bca0c953",
+      "title": "Codex CLI 0.168.0",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI Codex Changelog",
+      "source_url": "https://developers.openai.com/codex/changelog",
+      "canonical_url": "https://developers.openai.com/codex/changelog",
+      "published_at": "2026-11-13T08:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Codex CLI 0.168.0",
+          "status": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.168.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        },
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.169.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 78,
+      "novelty": 41,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ]
+    },
+    {
+      "material_id": "story_010ac45cd0c9",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "canonical_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published_at": "2026-11-14T02:00:39+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "status": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 78,
+      "novelty": 53,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "material_id": "story_e0ce3fdbb288",
+      "title": "Gemini 4 Hydrogen in GitHub Copilot",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "canonical_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "published_at": "2026-11-14T02:23:48+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Gemini 4 Hydrogen in GitHub Copilot",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 78,
+      "novelty": 53,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    },
+    {
+      "material_id": "story_65948bc08832",
+      "title": "XYBench: Helping with the problem behind the question",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/xybench",
+      "canonical_url": "https://huggingface.co/blog/allenai/xybench",
+      "published_at": "2026-11-14T01:02:35+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "XYBench: Helping with the problem behind the question",
+          "status": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/xybench",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://huggingface.co/blog/allenai/xybench",
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "title": "XYBench: Helping with the problem behind the question",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 77,
+      "novelty": 52,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "material_id": "story_a9f8b4a664f6",
+      "title": "Introducing ChatGPT Wallet",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published_at": "2026-11-13T23:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Introducing ChatGPT Wallet",
+          "status": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "title": "Introducing ChatGPT Wallet",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 77,
+      "novelty": 50,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "material_id": "story_6462d932fa5b",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "canonical_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "published_at": "2026-11-14T04:40:05+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 77,
+      "novelty": 55,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    },
+    {
+      "material_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published_at": "2026-11-13T22:05:22+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "status": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 77,
+      "novelty": 50,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "material_id": "story_ce1046eebd38",
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "canonical_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "published_at": "2026-11-14T02:27:13+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 77,
+      "novelty": 53,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    },
+    {
+      "material_id": "story_0ac7e0d1affe",
+      "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "DeepSeek News",
+      "source_url": "https://api-docs.deepseek.com/news/news261113",
+      "canonical_url": "https://api-docs.deepseek.com/news/news261113",
+      "published_at": "2026-11-13T20:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "status": "confirmed",
+          "basis_source": "DeepSeek News",
+          "basis_url": "https://api-docs.deepseek.com/news/news261113",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://api-docs.deepseek.com/news/news261113",
+      "source_chain": [
+        {
+          "source": "DeepSeek News",
+          "site_id": "official_ai",
+          "url": "https://api-docs.deepseek.com/news/news261113",
+          "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 76,
+      "novelty": 48,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek News"
+      ]
+    },
+    {
+      "material_id": "story_b9fa2a337927",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "canonical_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published_at": "2026-11-13T03:07:35+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "status": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 76,
+      "novelty": 38,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ]
+    },
+    {
+      "material_id": "story_9a507b7582fa",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/shield",
+      "canonical_url": "https://openai.com/business/customer-stories/shield",
+      "published_at": "2026-11-13T16:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "status": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/shield",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://openai.com/business/customer-stories/shield",
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 75,
+      "novelty": 46,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "material_id": "story_83023b0bea9d",
+      "title": "Manage AI Scan for repositories using the REST API",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "canonical_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "published_at": "2026-11-13T20:22:41+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Manage AI Scan for repositories using the REST API",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "title": "Manage AI Scan for repositories using the REST API",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 75,
+      "novelty": 49,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    },
+    {
+      "material_id": "story_ad1ef7aac19f",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub AI & ML",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "canonical_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "published_at": "2026-11-13T06:54:52+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Build once, run on any agent: A practical guide to agent skills",
+          "status": "confirmed",
+          "basis_source": "GitHub AI & ML",
+          "basis_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "source_chain": [
+        {
+          "source": "GitHub AI & ML",
+          "site_id": "official_ai",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "title": "Build once, run on any agent: A practical guide to agent skills",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 40,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ]
+    },
+    {
+      "material_id": "story_6759601e393f",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/gondola",
+      "canonical_url": "https://openai.com/business/customer-stories/gondola",
+      "published_at": "2026-11-12T20:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Gondola doubles revenue as its team builds more with Codex",
+          "status": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/gondola",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://openai.com/business/customer-stories/gondola",
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 34,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "material_id": "story_58db6e6cc441",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/amplitude",
+      "canonical_url": "https://openai.com/business/customer-stories/amplitude",
+      "published_at": "2026-11-13T04:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "status": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/amplitude",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://openai.com/business/customer-stories/amplitude",
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 38,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "material_id": "story_8d6545f9d797",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "canonical_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published_at": "2026-11-12T17:30:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Holiday Extras is rethinking what it can build with Codex",
+          "status": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 33,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ]
+    },
+    {
+      "material_id": "story_b821bfa39311",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "published_at": "2026-11-13T02:00:50+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Introducing Gemini 4 Hydrogen",
+          "status": "confirmed",
+          "basis_source": "Google DeepMind",
+          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source_chain": [
+        {
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 37,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ]
+    },
+    {
+      "material_id": "story_6df6ce89b479",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "canonical_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "published_at": "2026-11-13T02:00:00+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "status": "confirmed",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source_chain": [
+        {
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 74,
+      "novelty": 37,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ]
+    },
+    {
+      "material_id": "story_60a6f4a929d8",
+      "title": "Actions for ARM32 Linux & Windows retirement",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "canonical_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "published_at": "2026-11-13T04:59:36+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Actions for ARM32 Linux & Windows retirement",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "title": "Actions for ARM32 Linux & Windows retirement",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 73,
+      "novelty": 39,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    },
+    {
+      "material_id": "story_378895404be5",
+      "title": "Secret scanning detects Cloudflare service tokens",
+      "title_zh": "",
+      "title_en": "",
+      "source_type": "official",
+      "source_org": "GitHub Changelog",
+      "source_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "canonical_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "published_at": "2026-11-12T22:38:25+08:00",
+      "fetched_at": "2026-11-15T22:54:12+08:00",
+      "language": "en",
+      "entities": [],
+      "key_claims": [
+        {
+          "claim": "Secret scanning detects Cloudflare service tokens",
+          "status": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "claim_status": "confirmed",
+      "primary_source_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+          "title": "Secret scanning detects Cloudflare service tokens",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_zh": "",
+      "visual_assets": [],
+      "china_available": "unknown",
+      "consumer_relevance": 73,
+      "novelty": 36,
+      "conflict_type": [],
+      "status": "new",
+      "review_required": true,
+      "publish_ready": false,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ]
+    }
+  ]
+}

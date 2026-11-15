@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-15T22:54:12+08:00",
+  "source": "techpulse-dashboard",
+  "work_orders": [
+    {
+      "task_id": "douyin-review-candidate_story_010ac45cd0c9",
+      "candidate_id": "candidate_story_010ac45cd0c9",
+      "material_ids": [
+        "story_010ac45cd0c9"
+      ],
+      "title": "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "source_urls": [
+        "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      ],
+      "claim_status": "confirmed",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "recommended_format": "deep",
+      "recommended_duration_sec": 180,
+      "recommended_titles": [
+        "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "Build a Robot Pick-and-Place Simulation with SimReady Assets｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "next_action": "generate_review_package",
+      "owner": "codex",
+      "status": "ready_for_review_package",
+      "requires_user_lock_before_production": true
+    },
+    {
+      "task_id": "douyin-review-candidate_story_e0ce3fdbb288",
+      "candidate_id": "candidate_story_e0ce3fdbb288",
+      "material_ids": [
+        "story_e0ce3fdbb288"
+      ],
+      "title": "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
+      "source_urls": [
+        "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot"
+      ],
+      "claim_status": "confirmed",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "recommended_format": "deep",
+      "recommended_duration_sec": 180,
+      "recommended_titles": [
+        "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
+        "Gemini 4 Hydrogen in GitHub Copilot",
+        "Gemini 4 Hydrogen in GitHub Copilot｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "risks": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "next_action": "generate_review_package",
+      "owner": "codex",
+      "status": "ready_for_review_package",
+      "requires_user_lock_before_production": true
+    },
+    {
+      "task_id": "douyin-review-candidate_story_6462d932fa5b",
+      "candidate_id": "candidate_story_6462d932fa5b",
+      "material_ids": [
+        "story_6462d932fa5b"
+      ],
+      "title": "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
+      "source_urls": [
+        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
+      ],
+      "claim_status": "confirmed",
+      "fact_score": 87,
+      "reach_score": 78,
+      "follow_score": 66,
+      "recommended_format": "deep",
+      "recommended_duration_sec": 180,
+      "recommended_titles": [
+        "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
+        "Upcoming deprecation of selected GitHub Copilot models in December",
+        "Upcoming deprecation of selected GitHub Copilot models in December｜一手源核验"
+      ],
+      "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
+      "recommended_visuals": [
+        "官方原文截图",
+        "关键版本号/数字标注",
+        "来源链与事实边界卡片"
+      ],
+      "closest_video_samples": [],
+      "risks": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
+        "尚未人工核对原文；不得把媒体转述当作官方事实。"
+      ],
+      "next_action": "generate_review_package",
+      "owner": "codex",
+      "status": "ready_for_review_package",
+      "requires_user_lock_before_production": true
+    }
+  ],
+  "disclaimer": "工作单只授权 Codex 生成文字审核包，不授权配音、分镜、动画、成片或付费媒体调用。"
+}

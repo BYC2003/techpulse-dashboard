@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-15T22:54:12+08:00",
+  "site": "https://byc2003.github.io/techpulse-dashboard/",
+  "files": {
+    "materials": "./data/materials.json",
+    "stories-merged": "./data/stories-merged.json",
+    "candidates": "./data/candidates.json",
+    "douyin-hot": "./data/douyin-hot.json",
+    "douyin-ai-hot": "./data/douyin-ai-hot.json",
+    "douyin-video-samples": "./data/douyin-video-samples.json",
+    "douyin-today": "./data/douyin-today.json",
+    "douyin-work-orders": "./data/douyin-work-orders.json"
+  },
+  "counts": {
+    "materials": 20,
+    "stories": 120,
+    "candidates": 20,
+    "douyin_hot_items": 49,
+    "douyin_ai_hot_samples": 481,
+    "douyin_video_samples": 481,
+    "douyin_today_ready": 3,
+    "douyin_work_orders": 3
+  },
+  "freshness": {
+    "weekly_candidates_source": "2026-11-15T22:19:32+08:00",
+    "douyin_ai_samples": "2026-11-15T22:46:26+08:00",
+    "douyin_hot": "2026-11-15T22:20:42+08:00"
+  },
+  "warnings": [
+    "抖音 AI 热榜是本地登录态搜索样本热度指数，不是官方热榜、推荐流或全量统计。",
+    "一手资料标题可回溯，但正式写稿前仍需人工核对原文、数字、地区、权限和适用范围。",
+    "所有推流/吸粉分均为内部启发式，不承诺播放量或涨粉。"
+  ],
+  "public_safe": true,
+  "credentials_persisted": false
+}
