@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:19:13.151060Z",
+  "generated_at": "2026-11-15T01:01:02.073111Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -97,15 +97,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6189,
+        "recency": 0.6039,
         "story_heat": 0.25
       },
       "category": "official",
@@ -184,184 +184,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_c0e4bca0c953",
-      "title": "Codex CLI 0.168.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.5049,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T00:00:00Z",
-      "latest_at": "2026-11-13T00:00:00Z",
-      "primary_item": {
-        "id": "aff218038415ee87812e41136d03188eae6f9248",
-        "title": "Codex CLI 0.168.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.168.0",
-        "title_original": "Codex CLI 0.168.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.168.0",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        },
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.169.0",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Codex CLI 0.168.0",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 1,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_e0ce3fdbb288",
       "title": "Gemini 4 Hydrogen in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
@@ -416,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6586,
+        "recency": 0.6426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -545,15 +367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6271,
+        "recency": 0.6119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -620,135 +442,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_1a79352d13d2",
-      "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-      "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-      "primary_url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
-          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "title_en": null,
-          "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-14T21:41:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
-          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "title_en": null,
-          "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-14T21:41:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9767,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-14T21:41:22Z",
-      "latest_at": "2026-11-14T21:41:22Z",
-      "primary_item": {
-        "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
-        "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-        "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-        "title_en": null,
-        "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_0ac7e0d1affe",
       "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
       "url": "https://api-docs.deepseek.com/news/news261113",
@@ -803,15 +496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6005,
+        "recency": 0.5859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -878,6 +571,264 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_1a79352d13d2",
+      "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+      "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+      "primary_url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
+          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "title_en": null,
+          "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T21:41:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
+          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "title_en": null,
+          "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T21:41:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-14T21:41:22Z",
+      "latest_at": "2026-11-14T21:41:22Z",
+      "primary_item": {
+        "id": "f8e6f98cde3633f49606303078197816ccd8f9bc",
+        "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+        "title_zh": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+        "title_en": null,
+        "title_original": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T18:00:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T18:00:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.6391,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
+      "primary_item": {
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_63f242dc03ad",
       "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
       "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
@@ -932,15 +883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1008,135 +959,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_010ac45cd0c9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:00:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:00:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6549,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
-      "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_6462d932fa5b",
       "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -1191,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6805,
+        "recency": 0.6641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1321,15 +1143,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1451,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8492,
+        "recency": 0.8286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,7 +1370,7 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-14T15:19:13.151060Z",
+          "published_at": "2026-11-14T15:01:02.073111Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1573,30 +1395,30 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-14T15:19:13.151060Z",
+          "published_at": "2026-11-14T15:01:02.073111Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-14T15:19:13.151060Z",
-      "latest_at": "2026-11-14T15:19:13.151060Z",
+      "earliest_at": "2026-11-14T15:01:02.073111Z",
+      "latest_at": "2026-11-14T15:01:02.073111Z",
       "primary_item": {
         "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
         "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
@@ -1709,15 +1531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5668,
+        "recency": 0.553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1838,15 +1660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1967,15 +1789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6458,
+        "recency": 0.6302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2096,15 +1918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7131,
+        "recency": 0.6958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2224,15 +2046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6591,
+        "recency": 0.6432,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2354,15 +2176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6777,
+        "recency": 0.6613,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2482,15 +2304,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6688,
+        "recency": 0.6526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2611,15 +2433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6617,
+        "recency": 0.6457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2677,6 +2499,135 @@
         }
       ],
       "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_282738863f2f",
+      "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+      "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+      "primary_url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "44d933229a84352570fcbce719758f4c960aaad2",
+          "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "title_zh": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "title_en": null,
+          "title_original": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T23:39:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "44d933229a84352570fcbce719758f4c960aaad2",
+          "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "title_zh": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "title_en": null,
+          "title_original": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T23:39:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6934,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T23:39:27Z",
+      "latest_at": "2026-11-13T23:39:27Z",
+      "primary_item": {
+        "id": "44d933229a84352570fcbce719758f4c960aaad2",
+        "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+        "title_zh": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+        "title_en": null,
+        "title_original": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Rohan Paul",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+          "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
+          "claim_type": "reported",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
