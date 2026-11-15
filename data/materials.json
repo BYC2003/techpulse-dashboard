@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T23:41:49+08:00",
+  "generated_at": "2026-11-15T23:46:41+08:00",
   "source": "techpulse-dashboard/weekly-candidates.json",
   "total_materials": 20,
   "selection": "官方或研究一手来源，按核验分、重要性和时效排序，最多 20 条",
@@ -15,7 +15,7 @@
       "source_url": "https://developers.openai.com/codex/changelog",
       "canonical_url": "https://developers.openai.com/codex/changelog",
       "published_at": "2026-11-13T08:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -82,7 +82,7 @@
       "source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "canonical_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "published_at": "2026-11-14T02:00:39+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -139,7 +139,7 @@
       "source_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
       "canonical_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
       "published_at": "2026-11-14T02:23:48+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -196,7 +196,7 @@
       "source_url": "https://huggingface.co/blog/allenai/xybench",
       "canonical_url": "https://huggingface.co/blog/allenai/xybench",
       "published_at": "2026-11-14T01:02:35+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -253,7 +253,7 @@
       "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
       "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet",
       "published_at": "2026-11-13T23:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -310,7 +310,7 @@
       "source_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
       "canonical_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
       "published_at": "2026-11-14T04:40:05+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -368,7 +368,7 @@
       "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "published_at": "2026-11-13T22:05:22+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -425,7 +425,7 @@
       "source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
       "canonical_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
       "published_at": "2026-11-14T02:27:13+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -482,7 +482,7 @@
       "source_url": "https://api-docs.deepseek.com/news/news261113",
       "canonical_url": "https://api-docs.deepseek.com/news/news261113",
       "published_at": "2026-11-13T20:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -539,7 +539,7 @@
       "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "canonical_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "published_at": "2026-11-13T03:07:35+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -596,7 +596,7 @@
       "source_url": "https://openai.com/business/customer-stories/shield",
       "canonical_url": "https://openai.com/business/customer-stories/shield",
       "published_at": "2026-11-13T16:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -653,7 +653,7 @@
       "source_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
       "canonical_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
       "published_at": "2026-11-13T20:22:41+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -710,7 +710,7 @@
       "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
       "canonical_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
       "published_at": "2026-11-13T06:54:52+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -767,7 +767,7 @@
       "source_url": "https://openai.com/business/customer-stories/gondola",
       "canonical_url": "https://openai.com/business/customer-stories/gondola",
       "published_at": "2026-11-12T20:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -824,7 +824,7 @@
       "source_url": "https://openai.com/business/customer-stories/amplitude",
       "canonical_url": "https://openai.com/business/customer-stories/amplitude",
       "published_at": "2026-11-13T04:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -881,7 +881,7 @@
       "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "canonical_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "published_at": "2026-11-12T17:30:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -938,7 +938,7 @@
       "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
       "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
       "published_at": "2026-11-13T02:00:50+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -995,7 +995,7 @@
       "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
       "canonical_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
       "published_at": "2026-11-13T02:00:00+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -1052,7 +1052,7 @@
       "source_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
       "canonical_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
       "published_at": "2026-11-13T04:59:36+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
@@ -1109,7 +1109,7 @@
       "source_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
       "canonical_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
       "published_at": "2026-11-12T22:38:25+08:00",
-      "fetched_at": "2026-11-15T23:41:49+08:00",
+      "fetched_at": "2026-11-15T23:46:41+08:00",
       "language": "en",
       "entities": [],
       "key_claims": [
