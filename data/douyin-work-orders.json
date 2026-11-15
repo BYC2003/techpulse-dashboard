@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T22:54:12+08:00",
+  "generated_at": "2026-11-15T23:14:21+08:00",
   "source": "techpulse-dashboard",
   "work_orders": [
     {
-      "task_id": "douyin-review-candidate_story_010ac45cd0c9",
-      "candidate_id": "candidate_story_010ac45cd0c9",
+      "task_id": "douyin-review-candidate_story_b821bfa39311",
+      "candidate_id": "candidate_story_b821bfa39311",
       "material_ids": [
-        "story_010ac45cd0c9"
+        "story_b821bfa39311"
       ],
-      "title": "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "title": "官方更新：Introducing Gemini 4 Hydrogen",
       "source_urls": [
-        "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+        "https://deepmind.google/blog/introducing-gemini-4-hydrogen"
       ],
       "claim_status": "confirmed",
       "fact_score": 87,
-      "reach_score": 78,
-      "follow_score": 66,
-      "recommended_format": "deep",
-      "recommended_duration_sec": 180,
+      "reach_score": 74,
+      "follow_score": 56,
+      "recommended_format": "quick_news",
+      "recommended_duration_sec": 60,
       "recommended_titles": [
-        "官方更新：Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "Build a Robot Pick-and-Place Simulation with SimReady Assets｜一手源核验"
+        "官方更新：Introducing Gemini 4 Hydrogen",
+        "Introducing Gemini 4 Hydrogen",
+        "Introducing Gemini 4 Hydrogen｜一手源核验"
       ],
       "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
       "recommended_visuals": [
@@ -41,25 +41,25 @@
       "requires_user_lock_before_production": true
     },
     {
-      "task_id": "douyin-review-candidate_story_e0ce3fdbb288",
-      "candidate_id": "candidate_story_e0ce3fdbb288",
+      "task_id": "douyin-review-candidate_story_a9f8b4a664f6",
+      "candidate_id": "candidate_story_a9f8b4a664f6",
       "material_ids": [
-        "story_e0ce3fdbb288"
+        "story_a9f8b4a664f6"
       ],
-      "title": "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
+      "title": "官方更新：Introducing ChatGPT Wallet",
       "source_urls": [
-        "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot"
+        "https://openai.com/index/introducing-chatgpt-wallet"
       ],
       "claim_status": "confirmed",
       "fact_score": 87,
-      "reach_score": 78,
+      "reach_score": 77,
       "follow_score": 66,
       "recommended_format": "deep",
       "recommended_duration_sec": 180,
       "recommended_titles": [
-        "官方更新：Gemini 4 Hydrogen in GitHub Copilot",
-        "Gemini 4 Hydrogen in GitHub Copilot",
-        "Gemini 4 Hydrogen in GitHub Copilot｜一手源核验"
+        "官方更新：Introducing ChatGPT Wallet",
+        "Introducing ChatGPT Wallet",
+        "Introducing ChatGPT Wallet｜一手源核验"
       ],
       "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
       "recommended_visuals": [
@@ -78,25 +78,25 @@
       "requires_user_lock_before_production": true
     },
     {
-      "task_id": "douyin-review-candidate_story_6462d932fa5b",
-      "candidate_id": "candidate_story_6462d932fa5b",
+      "task_id": "douyin-review-candidate_story_0ac7e0d1affe",
+      "candidate_id": "candidate_story_0ac7e0d1affe",
       "material_ids": [
-        "story_6462d932fa5b"
+        "story_0ac7e0d1affe"
       ],
-      "title": "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
+      "title": "官方更新：The full DeepSeek App experience, now via API | DeepSeek API Docs",
       "source_urls": [
-        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
+        "https://api-docs.deepseek.com/news/news261113"
       ],
       "claim_status": "confirmed",
       "fact_score": 87,
-      "reach_score": 78,
+      "reach_score": 76,
       "follow_score": 66,
       "recommended_format": "deep",
       "recommended_duration_sec": 180,
       "recommended_titles": [
-        "官方更新：Upcoming deprecation of selected GitHub Copilot models in December",
-        "Upcoming deprecation of selected GitHub Copilot models in December",
-        "Upcoming deprecation of selected GitHub Copilot models in December｜一手源核验"
+        "官方更新：The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+        "The full DeepSeek App experience, now via API | DeepSeek API Docs｜一手源核验"
       ],
       "recommended_hook": "这条官方更新，真正影响普通人的点是什么？",
       "recommended_visuals": [
@@ -106,7 +106,6 @@
       ],
       "closest_video_samples": [],
       "risks": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。",
         "尚未人工核对原文；不得把媒体转述当作官方事实。"
       ],
