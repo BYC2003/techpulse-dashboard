@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T23:46:41+08:00",
+  "generated_at": "2026-11-16T00:05:47+08:00",
   "site": "https://byc2003.github.io/techpulse-dashboard/",
   "files": {
     "materials": "./data/materials.json",
@@ -17,14 +17,14 @@
     "stories": 120,
     "candidates": 20,
     "douyin_hot_items": 49,
-    "douyin_ai_hot_samples": 482,
-    "douyin_video_samples": 482,
+    "douyin_ai_hot_samples": 469,
+    "douyin_video_samples": 469,
     "douyin_today_ready": 3,
     "douyin_work_orders": 3
   },
   "freshness": {
     "weekly_candidates_source": "2026-11-15T22:19:32+08:00",
-    "douyin_ai_samples": "2026-11-15T23:45:29+08:00",
+    "douyin_ai_samples": "2026-11-16T00:04:41+08:00",
     "douyin_hot": "2026-11-15T22:20:42+08:00"
   },
   "warnings": [
