@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 14:19:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:38:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -24,20 +24,12 @@
 <pubDate>Fri, 13 Nov 2026 18:23:48 +0000</pubDate>
 </item>
 <item>
-<title>Introducing ChatGPT Wallet</title>
-<link>https://openai.com/index/introducing-chatgpt-wallet</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
-<link>https://www.aibase.com/news/32307</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
+<title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
+<link>https://www.aibase.com/news/32309</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 <item>
 <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
@@ -64,14 +56,6 @@
 <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
 </item>
 <item>
-<title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
-<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</link>
-<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</guid>
-<description>Daily Digest</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
-</item>
-<item>
 <title>即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December</title>
 <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
@@ -80,12 +64,20 @@
 <pubDate>Fri, 13 Nov 2026 20:40:05 +0000</pubDate>
 </item>
 <item>
-<title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
-<link>https://www.aibase.com/news/32303</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
+<title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</guid>
+<description>Daily Digest</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
+<link>https://www.aibase.com/news/32307</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 <item>
 <title>Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空</title>
@@ -104,12 +96,12 @@
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
-<link>https://www.aibase.com/news/32305</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
+<title>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码</title>
+<link>https://www.aibase.com/news/32310</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32310</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
@@ -120,20 +112,28 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单</title>
-<link>https://www.aibase.com/news/32306</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32306</guid>
+<title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
+<link>https://www.aibase.com/news/32303</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 <item>
-<title>月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速</title>
-<link>https://www.aibase.com/news/32304</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32304</guid>
+<title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
+<link>https://www.aibase.com/news/32311</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+</item>
+<item>
+<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
+<link>https://www.aibase.com/news/32305</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 <item>
 <title>了解现代法学硕士中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs</title>
@@ -149,7 +149,7 @@
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 14:19:32 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:39:40 +0000</pubDate>
 </item>
 <item>
 <title>ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
@@ -157,15 +157,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
 <description>Find the fix in big codebases. Ship it from Slack.（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 14:16:48 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:24:21 +0000</pubDate>
 </item>
 <item>
-<title>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</title>
-<link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
-<guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+<title>徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它</title>
+<link>https://www.aibase.com/news/32312</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32312</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
 </item>
 </channel>
 </rss>

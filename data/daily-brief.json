@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:19:32.278675Z",
+  "generated_at": "2026-11-15T15:38:55.699823Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5273,
+        "recency": 0.5173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5303,
+        "recency": 0.5202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,151 +262,22 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_a9f8b4a664f6",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "Introducing ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "Introducing ChatGPT Wallet",
-          "title_original": "Introducing ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "Introducing ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "Introducing ChatGPT Wallet",
-          "title_original": "Introducing ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5049,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T15:00:00Z",
-      "latest_at": "2026-11-13T15:00:00Z",
-      "primary_item": {
-        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-        "title": "Introducing ChatGPT Wallet",
-        "title_zh": null,
-        "title_en": "Introducing ChatGPT Wallet",
-        "title_original": "Introducing ChatGPT Wallet",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "title": "Introducing ChatGPT Wallet",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Introducing ChatGPT Wallet",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_a650fbc5cf5d",
-      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-      "url": "https://www.aibase.com/news/32307",
-      "primary_url": "https://www.aibase.com/news/32307",
+      "story_id": "story_1251a421a37f",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -424,14 +295,14 @@
       ],
       "items": [
         {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -461,17 +332,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T14:19:32.278675Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
       "primary_item": {
-        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "title_en": null,
-        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32307",
+        "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -493,8 +364,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32307",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "url": "https://www.aibase.com/news/32309",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -503,16 +374,15 @@
       ],
       "key_claims": [
         {
-          "claim": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "claim": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32307",
+          "basis_url": "https://www.aibase.com/news/32309",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -575,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7864,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -703,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.52,
+        "recency": 0.5102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7574,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,134 +777,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_ac1cd00bb907",
-      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-15T03:35:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-15T03:35:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8563,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-15T03:35:00Z",
-      "latest_at": "2026-11-15T03:35:00Z",
-      "primary_item": {
-        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday",
-        "site_id": "aihubtoday",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Daily Digest",
-          "site_id": "aihubtoday",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "claim_type": "reported",
-          "basis_source": "Daily Digest",
-          "basis_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_6462d932fa5b",
       "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -1089,15 +831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.548,
+        "recency": 0.5376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1165,22 +907,150 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_089defa8f927",
-      "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-      "url": "https://www.aibase.com/news/32303",
-      "primary_url": "https://www.aibase.com/news/32303",
+      "story_id": "story_ac1cd00bb907",
+      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-15T03:35:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-15T03:35:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8401,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-15T03:35:00Z",
+      "latest_at": "2026-11-15T03:35:00Z",
+      "primary_item": {
+        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday",
+        "site_id": "aihubtoday",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Daily Digest",
+          "site_id": "aihubtoday",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "claim_type": "reported",
+          "basis_source": "Daily Digest",
+          "basis_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_a650fbc5cf5d",
+      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+      "url": "https://www.aibase.com/news/32307",
+      "primary_url": "https://www.aibase.com/news/32307",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1198,14 +1068,14 @@
       ],
       "items": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1235,17 +1105,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T14:19:32.278675Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
       "primary_item": {
-        "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-        "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-        "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "title_en": null,
-        "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32303",
+        "url": "https://www.aibase.com/news/32307",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -1267,8 +1137,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32303",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "url": "https://www.aibase.com/news/32307",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -1277,16 +1147,16 @@
       ],
       "key_claims": [
         {
-          "claim": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "claim": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32303",
+          "basis_url": "https://www.aibase.com/news/32307",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -1349,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6876,
+        "recency": 0.6746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6838,
+        "recency": 0.6708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1544,6 +1414,526 @@
         }
       ],
       "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_209b97ca8096",
+      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+      "url": "https://www.aibase.com/news/32310",
+      "primary_url": "https://www.aibase.com/news/32310",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_en": null,
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32310",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_en": null,
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32310",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
+      "primary_item": {
+        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "title_en": null,
+        "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32310",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32310",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32310",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_ce1046eebd38",
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T18:27:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T18:27:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5207,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:27:13Z",
+      "latest_at": "2026-11-13T18:27:13Z",
+      "primary_item": {
+        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+        "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_zh": null,
+        "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_089defa8f927",
+      "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+      "url": "https://www.aibase.com/news/32303",
+      "primary_url": "https://www.aibase.com/news/32303",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_en": null,
+          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32303",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_en": null,
+          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32303",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
+      "primary_item": {
+        "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+        "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_en": null,
+        "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32303",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32303",
+          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32303",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_c3e1d78a7323",
+      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+      "url": "https://www.aibase.com/news/32311",
+      "primary_url": "https://www.aibase.com/news/32311",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_en": null,
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32311",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_en": null,
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32311",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
+      "primary_item": {
+        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "title_en": null,
+        "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32311",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32311",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32311",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -1622,8 +2012,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T14:19:32.278675Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
       "primary_item": {
         "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
         "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
@@ -1674,394 +2064,6 @@
       ],
       "limits": [
         "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_ce1046eebd38",
-      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:27:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:27:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5307,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:27:13Z",
-      "latest_at": "2026-11-13T18:27:13Z",
-      "primary_item": {
-        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-        "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-        "title_zh": null,
-        "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
-        "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "GitHub Enterprise Server support in the GitHub Copilot app",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_086f707d30d1",
-      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-      "url": "https://www.aibase.com/news/32306",
-      "primary_url": "https://www.aibase.com/news/32306",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_en": null,
-          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32306",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_en": null,
-          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32306",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T14:19:32.278675Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
-      "primary_item": {
-        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-        "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-        "title_en": null,
-        "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32306",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32306",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32306",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_46f167fdbf82",
-      "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-      "url": "https://www.aibase.com/news/32304",
-      "primary_url": "https://www.aibase.com/news/32304",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T14:19:32.278675Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
-      "primary_item": {
-        "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-        "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "title_en": null,
-        "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32304",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32304",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32304",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -2163,15 +2165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6138,
-      "importance": 0.6138,
-      "importance_score": 0.6138,
+      "score": 0.6105,
+      "importance": 0.6105,
+      "importance_score": 0.6105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.9703,
+        "recency": 0.9519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2289,7 +2291,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-15T14:01:29.654000Z",
+          "published_at": "2026-11-15T15:39:40.945000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2334,7 +2336,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-15T14:01:29.654000Z",
+          "published_at": "2026-11-15T15:39:40.945000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2356,8 +2358,8 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T14:01:29.654000Z",
-      "latest_at": "2026-11-15T14:19:32.278675Z",
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:39:40.945000Z",
       "primary_item": {
         "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
         "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
@@ -2456,7 +2458,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-15T14:16:48Z",
+          "updated_at": "2026-11-15T15:24:21Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2500,7 +2502,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-15T14:16:48Z",
+          "updated_at": "2026-11-15T15:24:21Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2525,15 +2527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9993,
+        "recency": 0.9965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2541,7 +2543,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T06:54:44Z",
-      "latest_at": "2026-11-15T14:16:48Z",
+      "latest_at": "2026-11-15T15:24:21Z",
       "primary_item": {
         "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
         "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
@@ -2625,129 +2627,92 @@
       "summary_missing": false
     },
     {
-      "story_id": "story_da2163dae89b",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_0d99e81b3770",
+      "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+      "url": "https://www.aibase.com/news/32312",
+      "primary_url": "https://www.aibase.com/news/32312",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+          "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_en": null,
+          "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "source_tier": "ai_media",
-          "source_tier_label": "精选AI媒体",
-          "source_tier_rank": 2,
-          "published_at": "2026-11-14T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-14T15:00:00Z",
+          "url": "https://www.aibase.com/news/32312",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+          "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_en": null,
+          "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "source_tier": "ai_media",
-          "source_tier_label": "精选AI媒体",
-          "source_tier_rank": 2,
-          "published_at": "2026-11-14T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-14T15:00:00Z",
+          "url": "https://www.aibase.com/news/32312",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5765,
-      "importance": 0.5765,
-      "importance_score": 0.5765,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.714,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-14T15:00:00Z",
-      "latest_at": "2026-11-14T15:00:00Z",
+      "earliest_at": "2026-11-15T15:38:55.699823Z",
+      "latest_at": "2026-11-15T15:38:55.699823Z",
       "primary_item": {
-        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_zh": null,
-        "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+        "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+        "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+        "title_en": null,
+        "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "source": "The Verge",
-        "source_name": "Curated Media",
-        "site_id": "curated_media",
-        "source_tier": "ai_media",
-        "source_tier_label": "精选AI媒体"
+        "url": "https://www.aibase.com/news/32312",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
       },
       "claim_status": "reported",
       "claim_status_label": "媒体报道",
@@ -2762,32 +2727,22 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "The Verge",
-          "site_id": "curated_media",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "source_tier": "ai_media",
-          "source_tier_label": "AI 媒体",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32312",
+          "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
           "role": "primary_report",
           "is_aggregator": false
-        },
-        {
-          "source": "The Verge",
-          "site_id": "techurls",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
         }
       ],
       "key_claims": [
         {
-          "claim": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "claim": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "claim_type": "reported",
-          "basis_source": "The Verge",
-          "basis_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32312",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2797,7 +2752,7 @@
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
-      "repost_count": 1,
+      "repost_count": 0,
       "summary_missing": true
     }
   ]
