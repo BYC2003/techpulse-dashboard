@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:02:29.264362Z",
+  "generated_at": "2026-11-15T02:49:08.764488Z",
   "date": "2026-11-15",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T01:01:02.073111Z"
+      "observed_at": "2026-11-15T02:48:24.481318Z"
     },
     {
       "id": "project_61f5e9e3327d",
@@ -29,7 +29,7 @@
       "published_at": "2026-11-13T11:39:17Z",
       "updated_at": "2026-11-15T00:13:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T01:02:07.142016Z"
+      "observed_at": "2026-11-15T02:48:57.481530Z"
     },
     {
       "id": "project_a67bb8d2a6b4",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T01:01:02.073111Z"
+      "observed_at": "2026-11-15T02:48:24.481318Z"
     },
     {
       "id": "project_f6f0b21aa3e6",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「Help customers discover your business through ChatGPT」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Help customers discover your business through ChatGPT\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-13T08:53:51Z",
-      "updated_at": "2026-11-15T00:52:37Z",
+      "updated_at": "2026-11-15T02:32:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T01:02:07.142016Z"
+      "observed_at": "2026-11-15T02:48:57.481530Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 323,
+      "duration_ms": 166,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 118,
+      "item_count": 50,
+      "duration_ms": 56,
       "error": null
     }
   ]

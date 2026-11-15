@@ -1,131 +1,91 @@
 {
-  "generated_at": "2026-11-15T01:01:02.073111Z",
+  "generated_at": "2026-11-15T02:48:24.481318Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": null,
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-13T14:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
-          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
-          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
-          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-14T02:05:37Z",
+          "published_at": "2026-11-13T18:00:39Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": null,
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-13T14:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
-          "title_zh": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序",
-          "title_en": "Llama.cpp hits v1.0 with a native app for macOS",
-          "title_original": "Llama.cpp hits v1.0 with a native app for macOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-14T02:05:37Z",
+          "published_at": "2026-11-13T18:00:39Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6039,
-        "story_heat": 0.25
+        "ai_relevance": 0.98,
+        "recency": 0.6228,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-14T02:05:37Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": null,
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -137,7 +97,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -147,40 +107,29 @@
         {
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
           "is_aggregator": false
-        },
-        {
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "title": "Llama.cpp 推出 v1.0 版，推出适用于 macOS 的本机应用程序 / Llama.cpp hits v1.0 with a native app for macOS",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
         }
       ],
       "key_claims": [
         {
-          "claim": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "claim": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
-      "repost_count": 1,
+      "repost_count": 0,
       "summary_missing": true
     },
     {
@@ -238,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6426,
+        "recency": 0.6262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,15 +316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6119,
+        "recency": 0.5963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -496,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5859,
+        "recency": 0.571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -700,135 +649,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_010ac45cd0c9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:00:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T18:00:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6391,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
-      "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
-        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_63f242dc03ad",
       "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
       "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
@@ -883,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -959,6 +779,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_65948bc08832",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench: Helping with the problem behind the question",
+          "title_zh": null,
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T17:02:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench: Helping with the problem behind the question",
+          "title_zh": null,
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T17:02:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6141,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
+      "primary_item": {
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench: Helping with the problem behind the question",
+        "title_zh": null,
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/allenai/xybench",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "title": "XYBench: Helping with the problem behind the question",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "XYBench: Helping with the problem behind the question",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/xybench",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_6462d932fa5b",
       "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
@@ -1013,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6641,
+        "recency": 0.6471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1143,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,15 +1222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,135 +1297,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_1d42fa256bab",
-      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-      "url": "https://www.aibase.com/news/32323",
-      "primary_url": "https://www.aibase.com/news/32323",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_en": null,
-          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-14T15:01:02.073111Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_en": null,
-          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-14T15:01:02.073111Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8655,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-14T15:01:02.073111Z",
-      "latest_at": "2026-11-14T15:01:02.073111Z",
-      "primary_item": {
-        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "title_en": null,
-        "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32323",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "analysis",
-      "claim_status_label": "分析观点",
-      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
-      "claim_status_reason": "matched_analysis_signal",
-      "is_opinion": true,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "opinion",
-      "verification_score": 37,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32323",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "claim_type": "analysis",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32323",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_9a507b7582fa",
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "url": "https://openai.com/business/customer-stories/shield",
@@ -1531,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.553,
+        "recency": 0.5389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1606,6 +1426,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_1d42fa256bab",
+      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+      "url": "https://www.aibase.com/news/32323",
+      "primary_url": "https://www.aibase.com/news/32323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T14:48:24.481318Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-14T14:48:24.481318Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8409,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-14T14:48:24.481318Z",
+      "latest_at": "2026-11-14T14:48:24.481318Z",
+      "primary_item": {
+        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_en": null,
+        "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32323",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "opinion",
+      "verification_score": 37,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32323",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "claim_type": "analysis",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32323",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_a8f494c8918e",
       "title": "黄仁勋离开 Nvidia 后，亚洲各国政府如何回应",
       "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
@@ -1660,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8852,
+        "recency": 0.8626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1735,135 +1684,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_65948bc08832",
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "primary_url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench: Helping with the problem behind the question",
-          "title_zh": null,
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T17:02:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench: Helping with the problem behind the question",
-          "title_zh": null,
-          "title_en": "XYBench: Helping with the problem behind the question",
-          "title_original": "XYBench: Helping with the problem behind the question",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-13T17:02:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6302,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T17:02:35Z",
-      "latest_at": "2026-11-13T17:02:35Z",
-      "primary_item": {
-        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-        "title": "XYBench: Helping with the problem behind the question",
-        "title_zh": null,
-        "title_en": "XYBench: Helping with the problem behind the question",
-        "title_original": "XYBench: Helping with the problem behind the question",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/xybench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/allenai/xybench",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "title": "XYBench: Helping with the problem behind the question",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "XYBench: Helping with the problem behind the question",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/allenai/xybench",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_b17be39d8595",
       "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
       "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
@@ -1918,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6958,
+        "recency": 0.6781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1992,6 +1812,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": null,
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": null,
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5885,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": null,
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_ce1046eebd38",
       "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
@@ -2046,15 +1995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6432,
+        "recency": 0.6268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2176,15 +2125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6613,
+        "recency": 0.6444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2304,15 +2253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6526,
+        "recency": 0.6359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2379,134 +2328,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_223a7ee6013e",
-      "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-      "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-      "primary_url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-      "source": "Lydia Hallie",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
-          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "title_en": null,
-          "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-          "source": "Lydia Hallie",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-13T18:43:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lydia Hallie"
-      ],
-      "items": [
-        {
-          "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
-          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "title_en": null,
-          "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-          "source": "Lydia Hallie",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-13T18:43:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T18:43:37Z",
-      "latest_at": "2026-11-13T18:43:37Z",
-      "primary_item": {
-        "id": "1e1160be7fdc55ae8af64bad8814f3d34d14b600",
-        "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-        "title_zh": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-        "title_en": null,
-        "title_original": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-        "source": "Lydia Hallie",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Lydia Hallie",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-          "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
-          "claim_type": "reported",
-          "basis_source": "Lydia Hallie",
-          "basis_url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_282738863f2f",
       "title": "Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意",
       "url": "https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n",
@@ -2561,15 +2382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6934,
+        "recency": 0.6757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2628,6 +2449,134 @@
       ],
       "limits": [
         "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_b4265389bb2a",
+      "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+      "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+      "primary_url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+      "source": "The Decoder：AI News",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "265d02bef9c52d40b0eacac505fba9c8b0058527",
+          "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "title_zh": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "title_en": null,
+          "title_original": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T20:07:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News"
+      ],
+      "items": [
+        {
+          "id": "265d02bef9c52d40b0eacac505fba9c8b0058527",
+          "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "title_zh": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "title_en": null,
+          "title_original": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-13T20:07:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6421,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T20:07:34Z",
+      "latest_at": "2026-11-13T20:07:34Z",
+      "primary_item": {
+        "id": "265d02bef9c52d40b0eacac505fba9c8b0058527",
+        "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+        "title_zh": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+        "title_en": null,
+        "title_original": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+        "source": "The Decoder：AI News",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Decoder：AI News",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "title": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活",
+          "claim_type": "reported",
+          "basis_source": "The Decoder：AI News",
+          "basis_url": "https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],

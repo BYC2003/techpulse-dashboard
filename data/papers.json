@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:02:50.290303+00:00",
+  "generated_at": "2026-11-15T02:49:30.410785+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -386,8 +386,8 @@
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
         "upvotes": 135,
-        "comments": 2,
-        "discussion_score": 1354.81,
+        "comments": 3,
+        "discussion_score": 1356.8,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -525,8 +525,8 @@
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 50,
-        "comments": 1,
-        "discussion_score": 502.76,
+        "comments": 2,
+        "discussion_score": 504.76,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -550,7 +550,7 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "upvotes": 47,
         "comments": 3,
-        "discussion_score": 476.19,
+        "discussion_score": 476.18,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -580,8 +580,8 @@
         ],
         "published_at": "2026-11-12T00:00:00+00:00",
         "upvotes": 46,
-        "comments": 3,
-        "discussion_score": 466.86,
+        "comments": 4,
+        "discussion_score": 468.85,
         "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
         "keywords": [
           "video generation models",
