@@ -470,13 +470,31 @@ async function waitForFreshSnapshot(previousGeneratedAt) {
 }
 
 async function dispatchGitHubSync() {
+  if (overviewState.syncInProgress) return;
   const token = getSyncToken();
   if (!token) {
-    setSyncStatus("首次使用请先连接 GitHub", "warn");
+    overviewState.syncInProgress = true;
+    setSyncBusy(true);
+    setSyncStatus("未连接 GitHub；正在同步抖音 AI 热榜…", "pending");
+    try {
+      const aiHotResult = await syncLocalAiHot((message) => setSyncStatus(message, "pending"));
+      announceSyncComplete({
+        newsOk: false,
+        aiHotOk: Boolean(aiHotResult.ok),
+        aiHotDeployed: Boolean(aiHotResult.deployed),
+        aiHotMessage: aiHotResult.message || "",
+      });
+      setSyncStatus(`${aiHotResult.ok ? aiHotResult.message : (aiHotResult.message || "抖音 AI 热榜未更新")}；连接 GitHub 后可同时同步官方情报`, aiHotResult.ok ? "success" : "warn");
+    } catch (error) {
+      console.error("Local AI hot sync failed", error);
+      setSyncStatus("抖音 AI 热榜同步失败；连接 GitHub 后可同时同步官方情报", "error");
+    } finally {
+      overviewState.syncInProgress = false;
+      setSyncBusy(false);
+    }
     openSyncDialog();
     return;
   }
-  if (overviewState.syncInProgress) return;
 
   let lastRunAt = 0;
   try {
