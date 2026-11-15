@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:40:13.483319+00:00",
+  "generated_at": "2026-11-15T15:58:47.775878+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -641,7 +641,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 45,
         "comments": 3,
-        "discussion_score": 456.64,
+        "discussion_score": 456.63,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",

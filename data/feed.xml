@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 15:38:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:57:38 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -29,7 +29,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
 <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
@@ -72,12 +72,12 @@
 <pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
-<link>https://www.aibase.com/news/32307</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
+<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
+<link>https://www.aibase.com/news/32315</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
 <title>Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空</title>
@@ -96,12 +96,12 @@
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码</title>
-<link>https://www.aibase.com/news/32310</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32310</guid>
+<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
+<link>https://www.aibase.com/news/32307</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
@@ -112,12 +112,20 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
+<title>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码</title>
+<link>https://www.aibase.com/news/32310</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32310</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
+</item>
+<item>
 <title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
 <link>https://www.aibase.com/news/32303</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
@@ -125,23 +133,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
-<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
-<link>https://www.aibase.com/news/32305</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
-</item>
-<item>
-<title>了解现代法学硕士中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs</title>
-<link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
+<title>人类阅读 Anthropic IPO 文件 / A Human Reads the Anthropic IPO Filing</title>
+<link>https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</guid>
 <description>Hacker News 首页</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
 </item>
 <item>
 <title>ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
@@ -149,7 +149,7 @@
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 15:39:40 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 <item>
 <title>ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
@@ -160,12 +160,12 @@
 <pubDate>Sun, 15 Nov 2026 15:24:21 +0000</pubDate>
 </item>
 <item>
-<title>徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它</title>
-<link>https://www.aibase.com/news/32312</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32312</guid>
+<title>OpenAI机器人业务转向"模型内整合"，具身智能纳入通用基础模型框架</title>
+<link>https://www.aibase.com/news/32313</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32313</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 15:38:55 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:57:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
