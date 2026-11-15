@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T15:58:22.438918Z",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-15T16:07:57.805399Z",
+  "date": "2026-11-16",
   "total_items": 4,
   "items": [
     {
@@ -15,35 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T15:57:38.984053Z"
-    },
-    {
-      "id": "project_10c8dceaf1b5",
-      "project_name": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2",
-      "summary": "AI that grows your business alongside your team",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI that grows your business alongside your team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI that grows your business alongside your team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-10T05:18:49Z",
-      "updated_at": "2026-11-15T15:56:51Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T15:58:11.008812Z"
-    },
-    {
-      "id": "project_52adf762d407",
-      "project_name": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibili…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibili...\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-15T15:57:38.984053Z"
+      "observed_at": "2026-11-15T16:07:00.047960Z"
     },
     {
       "id": "project_4f2f7a29e388",
@@ -57,7 +29,35 @@
       "published_at": "2026-11-12T10:07:59Z",
       "updated_at": "2026-11-15T15:46:08Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T15:58:11.008812Z"
+      "observed_at": "2026-11-15T16:07:45.674644Z"
+    },
+    {
+      "id": "project_52adf762d407",
+      "project_name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibili…」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibili...\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-11-15T16:07:00.047960Z"
+    },
+    {
+      "id": "project_1e4697a88d79",
+      "project_name": "Rakazo",
+      "url": "https://www.producthunt.com/products/rakazo",
+      "summary": "The open source Grok Bot alternative you actually own",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「The open source Grok Bot alternative you actually own」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The open source Grok Bot alternative you actually own\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T18:46:58Z",
+      "updated_at": "2026-11-15T16:04:54Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-15T16:07:45.674644Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 93,
+      "duration_ms": 317,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 135,
+      "duration_ms": 255,
       "error": null
     }
   ]
