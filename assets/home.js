@@ -6,7 +6,10 @@ const SYNC_WORKFLOW = "update-news.yml";
 const SYNC_BRANCH = "main";
 const SYNC_POLL_INTERVAL_MS = 10 * 1000;
 const SYNC_POLL_TIMEOUT_MS = 4 * 60 * 1000;
-const SYNC_COOLDOWN_MS = 2 * 60 * 1000;
+const SYNC_COOLDOWN_MS = 60 * 1000;
+const LOCAL_AI_SYNC_URL = "http://127.0.0.1:8767";
+const SYNC_COMPLETE_KEY = "techpulse.lastSyncCompleteAt";
+const SYNC_CHANNEL_NAME = "techpulse-sync";
 let syncStatusClearTimer = 0;
 const overviewState = {
   news: null,
@@ -291,6 +294,161 @@ function closeSyncDialog() {
   if (overviewEls.syncDialog?.open) overviewEls.syncDialog.close();
 }
 
+async function localAgentRequest(path, options = {}, timeoutMs = 3000) {
+  const controller = new AbortController();
+  const timer = window.setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(`${LOCAL_AI_SYNC_URL}${path}`, {
+      cache: "no-store",
+      ...options,
+      signal: controller.signal,
+    });
+    let payload = {};
+    try {
+      payload = await response.json();
+    } catch {
+      payload = {};
+    }
+    if (!response.ok) {
+      const error = new Error(payload.message || payload.error || `local_agent_http_${response.status}`);
+      error.status = response.status;
+      error.payload = payload;
+      throw error;
+    }
+    return payload;
+  } finally {
+    window.clearTimeout(timer);
+  }
+}
+
+async function waitForFreshAiHot(previousGeneratedAt, targetGeneratedAt) {
+  const deadline = Date.now() + 3 * 60 * 1000;
+  while (Date.now() < deadline) {
+    await syncSleep(5000);
+    try {
+      const data = await overviewFetch("data/douyin-ai-hot.json");
+      if (!data.generated_at) continue;
+      const changed = data.generated_at !== previousGeneratedAt;
+      const targetReached = !targetGeneratedAt || new Date(data.generated_at).getTime() >= new Date(targetGeneratedAt).getTime();
+      if (changed && targetReached) return { deployed: true, data };
+    } catch {
+      // GitHub Pages may still be publishing the new commit.
+    }
+  }
+  return { deployed: false, data: null };
+}
+
+async function syncLocalAiHot(onProgress) {
+  let previousGeneratedAt = "";
+  try {
+    const previous = await overviewFetch("data/douyin-ai-hot.json");
+    previousGeneratedAt = previous.generated_at || "";
+  } catch {
+    previousGeneratedAt = "";
+  }
+
+  let health;
+  try {
+    health = await localAgentRequest("/health", {}, 1500);
+  } catch {
+    return {
+      available: false,
+      ok: false,
+      message: "本机同步中心未运行，只同步了官方情报",
+    };
+  }
+
+  if (!health.chrome_ready) {
+    return {
+      available: true,
+      ok: false,
+      reason: "chrome_not_ready",
+      message: "专用采集 Chrome 未启动，抖音 AI 热榜未更新",
+    };
+  }
+
+  onProgress?.("正在从抖音重新抓取 AI 热榜…");
+  let started;
+  try {
+    started = await localAgentRequest("/sync/douyin-ai", {
+      method: "POST",
+      headers: { "Content-Type": "text/plain;charset=UTF-8" },
+      body: "{}",
+    }, 5000);
+  } catch (error) {
+    if (error.payload?.error === "sync_in_progress" && error.payload?.job_id) {
+      started = { ok: true, job_id: error.payload.job_id };
+    } else if (error.payload?.error === "chrome_not_ready") {
+      return { available: true, ok: false, reason: "chrome_not_ready", message: error.payload.message };
+    } else {
+      return { available: true, ok: false, message: error.message || "无法启动抖音 AI 热榜同步" };
+    }
+  }
+
+  const deadline = Date.now() + 7 * 60 * 1000;
+  let lastState = "";
+  while (Date.now() < deadline) {
+    await syncSleep(3000);
+    let status;
+    try {
+      status = await localAgentRequest(`/sync/status?id=${encodeURIComponent(started.job_id)}`, {}, 4000);
+    } catch {
+      onProgress?.("抖音 AI 热榜任务运行中，等待本机代理响应…");
+      continue;
+    }
+    lastState = status.state || "";
+    if (lastState === "completed") {
+      if (status.published) {
+        onProgress?.("抖音 AI 热榜已推送，等待 GitHub Pages 发布…");
+        const fresh = await waitForFreshAiHot(previousGeneratedAt, status.generated_at);
+        return {
+          available: true,
+          ok: true,
+          deployed: fresh.deployed,
+          published: true,
+          generated_at: status.generated_at,
+          samples: status.samples,
+          message: fresh.deployed ? "抖音 AI 热榜已更新" : "抖音 AI 热榜已推送，页面稍后自动更新",
+        };
+      }
+      return {
+        available: true,
+        ok: true,
+        deployed: true,
+        published: false,
+        generated_at: status.generated_at,
+        samples: status.samples,
+        message: "抖音 AI 热榜没有新变化",
+      };
+    }
+    if (lastState === "failed") {
+      return {
+        available: true,
+        ok: false,
+        message: `抖音 AI 热榜同步失败：${status.error || "未知错误"}`,
+      };
+    }
+    onProgress?.(`正在从抖音重新抓取 AI 热榜${lastState ? `（${lastState}）` : ""}…`);
+  }
+  return { available: true, ok: false, message: "抖音 AI 热榜同步超时，请查看本地日志" };
+}
+
+function announceSyncComplete(payload) {
+  const message = { type: "sync-complete", at: Date.now(), ...payload };
+  try {
+    localStorage.setItem(SYNC_COMPLETE_KEY, JSON.stringify(message));
+  } catch {
+    // Ignore storage failures.
+  }
+  try {
+    const channel = new BroadcastChannel(SYNC_CHANNEL_NAME);
+    channel.postMessage(message);
+    channel.close();
+  } catch {
+    // Older browsers still receive the storage event in other tabs.
+  }
+}
+
 async function waitForFreshSnapshot(previousGeneratedAt) {
   const deadline = Date.now() + SYNC_POLL_TIMEOUT_MS;
   while (Date.now() < deadline) {
@@ -300,16 +458,14 @@ async function waitForFreshSnapshot(previousGeneratedAt) {
       if (data.generated_at && data.generated_at !== previousGeneratedAt) {
         overviewState.news = data;
         await refreshOverview();
-        setSyncStatus(`已更新到 ${formatOverviewTime(data.generated_at)}`, "success");
         return true;
       }
       const elapsed = Math.max(1, Math.floor((Date.now() - (deadline - SYNC_POLL_TIMEOUT_MS)) / 1000));
-      setSyncStatus(`GitHub 正在采集，已等待 ${elapsed} 秒…`, "pending");
+      setSyncStatus(`GitHub 正在采集官方情报，已等待 ${elapsed} 秒…`, "pending");
     } catch {
-      setSyncStatus("更新已提交，正在等待新快照发布…", "pending");
+      setSyncStatus("官方情报更新已提交，正在等待新快照发布…", "pending");
     }
   }
-  setSyncStatus("更新已提交，但 4 分钟内未检测到新快照；页面稍后会自动刷新。", "warn");
   return false;
 }
 
@@ -336,7 +492,7 @@ async function dispatchGitHubSync() {
 
   overviewState.syncInProgress = true;
   setSyncBusy(true);
-  setSyncStatus("正在向 GitHub 提交更新…", "pending");
+  setSyncStatus("正在同步官方情报和抖音 AI 热榜…", "pending");
   const previousGeneratedAt = overviewState.news?.generated_at || "";
 
   try {
@@ -369,11 +525,29 @@ async function dispatchGitHubSync() {
     } catch {
       // Ignore storage failures.
     }
-    setSyncStatus("更新任务已启动，正在等待最新消息…", "pending");
-    await waitForFreshSnapshot(previousGeneratedAt);
+
+    const aiHotProgress = (message) => setSyncStatus(`官方情报同步中；${message}`, "pending");
+    const aiHotPromise = syncLocalAiHot(aiHotProgress);
+    const newsOk = await waitForFreshSnapshot(previousGeneratedAt);
+    const aiHotResult = await aiHotPromise;
+
+    announceSyncComplete({
+      newsOk,
+      aiHotOk: Boolean(aiHotResult.ok),
+      aiHotDeployed: Boolean(aiHotResult.deployed),
+      aiHotMessage: aiHotResult.message || "",
+    });
+
+    const newsMessage = newsOk ? "官方情报已更新" : "官方情报仍在后台更新";
+    const aiHotMessage = aiHotResult.ok
+      ? aiHotResult.message
+      : (aiHotResult.available === false
+        ? "抖音 AI 热榜未更新：本机同步中心未运行"
+        : (aiHotResult.message || "抖音 AI 热榜未更新"));
+    setSyncStatus(`${newsMessage}；${aiHotMessage}`, aiHotResult.ok ? "success" : "warn");
   } catch (error) {
     console.error("TechPulse sync failed", error);
-    setSyncStatus("无法连接 GitHub，请检查网络后重试", "error");
+    setSyncStatus("无法完成一键同步，请检查网络或本机同步中心", "error");
   } finally {
     overviewState.syncInProgress = false;
     setSyncBusy(false);

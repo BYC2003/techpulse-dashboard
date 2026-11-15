@@ -562,6 +562,94 @@ function v2RenderAiHot() {
   }
 }
 
+async function v2RefreshDouyinDataFromSite(reason = "sync-complete") {
+  const stamp = Date.now();
+  const pathFor = (path) => typeof dataUrl === "function" ? dataUrl(path) : path;
+  const [samplesResult, aiHotResult, hotResult, manifestResult] = await Promise.allSettled([
+    fetch(`${pathFor("data/douyin-samples.json")}?t=${stamp}`, {cache: "no-store"}).then((response) => {
+      if (!response.ok) throw new Error(`samples HTTP ${response.status}`);
+      return response.json();
+    }),
+    fetch(`${pathFor("data/douyin-ai-hot.json")}?t=${stamp}`, {cache: "no-store"}).then((response) => {
+      if (!response.ok) throw new Error(`AI hot HTTP ${response.status}`);
+      return response.json();
+    }),
+    fetch(`${pathFor("data/douyin-hot.json")}?t=${stamp}`, {cache: "no-store"}).then((response) => {
+      if (!response.ok) throw new Error(`hot list HTTP ${response.status}`);
+      return response.json();
+    }),
+    fetch(`${pathFor("data/manifest.json")}?t=${stamp}`, {cache: "no-store"}).then((response) => {
+      if (!response.ok) throw new Error(`manifest HTTP ${response.status}`);
+      return response.json();
+    }),
+  ]);
+
+  let changed = false;
+  if (samplesResult.status === "fulfilled") {
+    state.douyinSamples = samplesResult.value;
+    v2SampleItemsCache = {key: "", items: []};
+    v2SampleMatchCache = new Map();
+    v2SampleMatchCacheKey = "";
+    changed = true;
+  }
+  if (aiHotResult.status === "fulfilled") {
+    douyinV2AiHot.data = aiHotResult.value;
+    douyinV2AiHot.status = "ready";
+    douyinV2AiHot.error = "";
+    changed = true;
+  }
+  if (hotResult.status === "fulfilled") {
+    state.douyinHot = hotResult.value;
+    changed = true;
+  }
+
+  if (changed) {
+    v2Render();
+    const manifest = manifestResult.status === "fulfilled" ? manifestResult.value : null;
+    const generatedAt = manifest?.freshness?.douyin_ai_samples || douyinV2AiHot.data?.generated_at;
+    v2Toast(generatedAt ? `抖音 AI 热榜已更新 · ${fmtTime(generatedAt)}` : "抖音 AI 热榜已更新");
+  } else {
+    v2Toast("抖音 AI 热榜刷新失败，将继续显示当前数据");
+  }
+  return {changed, reason};
+}
+
+function v2BindSyncRefresh() {
+  const handleMessage = (payload) => {
+    if (!payload || payload.type !== "sync-complete") return;
+    if (!payload.aiHotOk || payload.aiHotDeployed === false) return;
+    v2RefreshDouyinDataFromSite("broadcast");
+  };
+
+  try {
+    const channel = new BroadcastChannel("techpulse-sync");
+    channel.addEventListener("message", (event) => handleMessage(event.data));
+  } catch {
+    // localStorage fallback below.
+  }
+
+  window.addEventListener("storage", (event) => {
+    if (event.key !== "techpulse.lastSyncCompleteAt" || !event.newValue) return;
+    try {
+      handleMessage(JSON.parse(event.newValue));
+    } catch {
+      // Ignore malformed storage payloads.
+    }
+  });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) return;
+    try {
+      const payload = JSON.parse(localStorage.getItem("techpulse.lastSyncCompleteAt") || "null");
+      if (payload?.at && payload.aiHotOk && payload.aiHotDeployed !== false && Date.now() - payload.at < 15 * 60 * 1000) {
+        v2RefreshDouyinDataFromSite("visibility");
+      }
+    } catch {
+      // Ignore storage failures.
+    }
+  });
+}
+
 async function v2LoadAiHotData(force = false) {
   if (douyinV2AiHot.status === "loading" && !force) return;
   douyinV2AiHot.status = "loading";
@@ -1140,6 +1228,7 @@ function bindV2Events() {
   douyinV2Dom.backdrop?.addEventListener("click", v2CloseDrawer);
   document.addEventListener("keydown", (event) => { if (event.key === "Escape") v2CloseDrawer(); });
   document.addEventListener("aiRadar:ready", v2Render);
+  v2BindSyncRefresh();
 }
 
 // 覆盖主脚本的旧渲染入口，让所有现有刷新流程走 V2 工作台。
