@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 07:49:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 09:57:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+<title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
 <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
 <description>Hugging Face Blog</description>
@@ -96,28 +96,12 @@
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Shield helps technicians hand off legacy portal work with OpenAI</title>
-<link>https://openai.com/business/customer-stories/shield</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
 <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
 <link>https://www.aibase.com/news/32323</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 14:49:59 +0000</pubDate>
-</item>
-<item>
-<title>黄仁勋离开 Nvidia 后，亚洲多地如何回应</title>
-<link>https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</link>
-<guid isPermaLink="true">https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 14:57:43 +0000</pubDate>
 </item>
 <item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -147,25 +131,41 @@
 <title>显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
 <link>https://github.com/Tthanh2k6/turbo-browser-mcp</link>
 <guid isPermaLink="true">https://github.com/Tthanh2k6/turbo-browser-mcp</guid>
-<description>Show HN</description>
+<description>Hacker News 首页</description>
 <category>值得关注</category>
 <pubDate>Sun, 15 Nov 2026 04:09:11 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
-<link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
-<guid isPermaLink="true">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</guid>
-<description>Hacker News 首页</description>
-<category>多源热议</category>
-<pubDate>Sat, 14 Nov 2026 21:13:58 +0000</pubDate>
+<title>ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
+<link>https://www.producthunt.com/products/byteask-cloud-agents</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
+<description>Find the fix in big codebases. Ship it from Slack.（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 15 Nov 2026 09:57:53 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
-<link>https://www.producthunt.com/products/openai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
-<description>Help customers discover your business through ChatGPT（Product Hunt）</description>
+<title>ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
+<link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+<guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+<description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 07:49:00 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 09:57:43 +0000</pubDate>
+</item>
+<item>
+<title>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</title>
+<link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+<guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</title>
+<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
