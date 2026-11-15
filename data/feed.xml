@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 02:48:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 07:49:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+<title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
 <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
 <description>Hugging Face Blog</description>
@@ -46,6 +46,14 @@
 <description>TechCrunch：AI</description>
 <category>行业动态</category>
 <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+</item>
+<item>
+<title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</guid>
+<description>Daily Digest</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难</title>
@@ -101,23 +109,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 14:48:24 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 14:49:59 +0000</pubDate>
 </item>
 <item>
-<title>黄仁勋离开 Nvidia 后，亚洲各国政府如何回应</title>
+<title>黄仁勋离开 Nvidia 后，亚洲多地如何回应</title>
 <link>https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</link>
 <guid isPermaLink="true">https://aihot.news/items/ni18shok3lh70l1e49nazmgdc</guid>
 <description>TechCrunch：AI</description>
 <category>行业动态</category>
 <pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
-</item>
-<item>
-<title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
-<link>https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4</link>
-<guid isPermaLink="true">https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4</guid>
-<description>Rohan Paul</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 23:54:06 +0000</pubDate>
 </item>
 <item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -136,36 +136,36 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
-<link>https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</link>
-<guid isPermaLink="true">https://aihot.news/items/ajfypca37l5knyrnij49v5ofz</guid>
-<description>Ado Kukic</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
+<title>Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
-<title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
-<link>https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt</link>
-<guid isPermaLink="true">https://aihot.news/items/p1mfh9oe0xbq4evyru5pp1ikt</guid>
-<description>Newcomer 新闻长文</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
+<title>显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
+<link>https://github.com/Tthanh2k6/turbo-browser-mcp</link>
+<guid isPermaLink="true">https://github.com/Tthanh2k6/turbo-browser-mcp</guid>
+<description>Show HN</description>
+<category>值得关注</category>
+<pubDate>Sun, 15 Nov 2026 04:09:11 +0000</pubDate>
 </item>
 <item>
-<title>Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意</title>
-<link>https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n</link>
-<guid isPermaLink="true">https://aihot.news/items/dl9ehywczofu8vp5sj62s6j4n</guid>
-<description>Rohan Paul</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 23:39:27 +0000</pubDate>
+<title>Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+<link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+<guid isPermaLink="true">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</guid>
+<description>Hacker News 首页</description>
+<category>多源热议</category>
+<pubDate>Sat, 14 Nov 2026 21:13:58 +0000</pubDate>
 </item>
 <item>
-<title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
-<link>https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</link>
-<guid isPermaLink="true">https://aihot.news/items/s59xfwl0atld8vs7xq0pdx6hw</guid>
-<description>The Decoder：AI News</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
+<title>ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
+<link>https://www.producthunt.com/products/openai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
+<description>Help customers discover your business through ChatGPT（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 15 Nov 2026 07:49:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
