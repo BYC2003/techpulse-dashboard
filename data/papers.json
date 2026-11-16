@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:51:45.916624+00:00",
+  "generated_at": "2026-11-16T08:01:30.854696+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -405,39 +405,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.14033",
-        "title": "Few-Step Streaming Video Generation via Condition Shifting",
-        "authors": [
-          "Deyuan Liu",
-          "Jungang Li",
-          "Kaiwen Zheng",
-          "Kai Jiang",
-          "Jintao Chen",
-          "Yaole Wang",
-          "Ming Lin",
-          "Tao Lin"
-        ],
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 89,
-        "comments": 3,
-        "discussion_score": 896.71,
-        "summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
-        "keywords": [
-          "few-step sampling",
-          "streaming video generation",
-          "Distribution Matching Distillation",
-          "DMD",
-          "fake-score network",
-          "condition shifting",
-          "velocity field",
-          "generated distribution"
-        ],
-        "url": "https://arxiv.org/abs/2611.14033",
-        "arxiv_url": "https://arxiv.org/abs/2611.14033",
-        "discussion_url": "https://huggingface.co/papers/2611.14033",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.14320",
         "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
         "authors": [
@@ -449,7 +416,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 73,
         "comments": 8,
-        "discussion_score": 746.71,
+        "discussion_score": 746.7,
         "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
         "keywords": [
           "LLM agents",
@@ -467,25 +434,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.12885",
-        "title": "World In-Context Learning for Agentic Robot Manipulation",
+        "id": "2611.18397",
+        "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
         "authors": [
-          "Heng Fang",
-          "Zehui Guo",
-          "Yuehan Zhang",
-          "Mingyang Du",
-          "Dingkang Liang",
-          "Xiang Bai"
+          "Run Luo",
+          "Kuan Zhang",
+          "Qi Deng",
+          "Yukun Chen",
+          "Zhihao Yang",
+          "Yufei Zhang",
+          "Renrong Hu",
+          "Yi Zhang"
         ],
-        "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 57,
-        "comments": 4,
-        "discussion_score": 578.66,
-        "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. B…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.12885",
-        "arxiv_url": "https://arxiv.org/abs/2611.12885",
-        "discussion_url": "https://huggingface.co/papers/2611.12885",
+        "published_at": "2026-11-13T00:00:00+00:00",
+        "upvotes": 55,
+        "comments": 2,
+        "discussion_score": 554.84,
+        "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
+        "keywords": [
+          "generalist agent framework",
+          "long-horizon tasks",
+          "end-to-end architecture",
+          "perception",
+          "memory management",
+          "multi-step reasoning",
+          "continue pre-training",
+          "embodied environments"
+        ],
+        "url": "https://arxiv.org/abs/2611.18397",
+        "arxiv_url": "https://arxiv.org/abs/2611.18397",
+        "discussion_url": "https://huggingface.co/papers/2611.18397",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -500,9 +478,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 51,
+        "upvotes": 54,
         "comments": 3,
-        "discussion_score": 516.71,
+        "discussion_score": 546.7,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -526,7 +504,7 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "upvotes": 49,
         "comments": 3,
-        "discussion_score": 496.14,
+        "discussion_score": 496.13,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -551,7 +529,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 46,
         "comments": 6,
-        "discussion_score": 472.71,
+        "discussion_score": 472.7,
         "summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
         "keywords": [
           "weight-space programming",
@@ -584,7 +562,7 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "upvotes": 46,
         "comments": 4,
-        "discussion_score": 468.8,
+        "discussion_score": 468.79,
         "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
         "keywords": [
           "video generation models",
@@ -599,6 +577,39 @@
         "url": "https://arxiv.org/abs/2611.16748",
         "arxiv_url": "https://arxiv.org/abs/2611.16748",
         "discussion_url": "https://huggingface.co/papers/2611.16748",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.18359",
+        "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+        "authors": [
+          "Grid Robotics",
+          "Qingfeng Lan",
+          "Duo Li",
+          "Siyao Li",
+          "Yiheng Lyu",
+          "Shijian Lu",
+          "Zhenghao Qi",
+          "Shizun Wang"
+        ],
+        "published_at": "2026-11-13T00:00:00+00:00",
+        "upvotes": 46,
+        "comments": 2,
+        "discussion_score": 464.84,
+        "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
+        "keywords": [
+          "agentic robotics",
+          "foundation model",
+          "agentic harnesses",
+          "task-specific policies",
+          "embodied benchmarks",
+          "closed-loop system",
+          "Embodied System 2",
+          "embodied harness"
+        ],
+        "url": "https://arxiv.org/abs/2611.18359",
+        "arxiv_url": "https://arxiv.org/abs/2611.18359",
+        "discussion_url": "https://huggingface.co/papers/2611.18359",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -617,7 +628,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 45,
         "comments": 3,
-        "discussion_score": 456.61,
+        "discussion_score": 456.6,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",

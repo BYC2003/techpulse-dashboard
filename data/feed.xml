@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 16 Nov 2026 03:50:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 07:58:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research</title>
+<link>https://www.minimax.io/blog/minimax-h3-image</link>
+<guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
+<description>MiniMax Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 16 Nov 2026 06:26:49 +0000</pubDate>
+</item>
 <item>
 <title>ByteDance Seed</title>
 <link>https://seed.bytedance.com/blog/seed-stem-计划-分子逆合成挑战赛启动</link>
@@ -32,6 +40,22 @@
 <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
+<title>腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型</title>
+<link>https://aihot.news/items/u36vxmxeopbsx4if4lap30899</link>
+<guid isPermaLink="true">https://aihot.news/items/u36vxmxeopbsx4if4lap30899</guid>
+<description>腾讯混元：Research</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 04:29:37 +0000</pubDate>
+</item>
+<item>
+<title>通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低</title>
+<link>https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe</link>
+<guid isPermaLink="true">https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe</guid>
+<description>通义千问 / Qwen</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 03:46:34 +0000</pubDate>
+</item>
+<item>
 <title>Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14</title>
 <link>https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6</link>
 <guid isPermaLink="true">https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6</guid>
@@ -48,6 +72,14 @@
 <pubDate>Mon, 16 Nov 2026 02:00:00 +0000</pubDate>
 </item>
 <item>
+<title>8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步</title>
+<link>https://www.aibase.com/news/32330</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32330</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
+</item>
+<item>
 <title>AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板</title>
 <link>https://aihot.news/items/izdx1kuppob6c65ghvmyeal38</link>
 <guid isPermaLink="true">https://aihot.news/items/izdx1kuppob6c65ghvmyeal38</guid>
@@ -56,12 +88,12 @@
 <pubDate>Sun, 15 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
-<title>8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步</title>
-<link>https://www.aibase.com/news/32330</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32330</guid>
+<title>DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整</title>
+<link>https://www.aibase.com/news/32337</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32337</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车</title>
@@ -69,15 +101,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32331</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
-<title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
-<link>https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju</link>
-<guid isPermaLink="true">https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju</guid>
-<description>TechCrunch：AI</description>
+<title>出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单</title>
+<link>https://www.aibase.com/news/32339</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32339</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场</title>
@@ -85,7 +117,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32334</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2</title>
@@ -93,23 +125,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32326</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
-</item>
-<item>
-<title>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职</title>
-<link>https://www.aibase.com/news/32333</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32333</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
-</item>
-<item>
-<title>苹果首款AI眼镜计划2027年WWDC亮相，年底前上市</title>
-<link>https://www.aibase.com/news/32328</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32328</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
@@ -117,7 +133,7 @@
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
@@ -125,15 +141,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
 <description>Find the fix in big codebases. Ship it from Slack.（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Mon, 16 Nov 2026 02:47:45 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:52:50 +0000</pubDate>
 </item>
 <item>
-<title>谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放</title>
-<link>https://www.aibase.com/news/32327</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32327</guid>
+<title>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职</title>
+<link>https://www.aibase.com/news/32333</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32333</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
@@ -141,31 +157,15 @@
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 <item>
-<title>谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务</title>
-<link>https://www.aibase.com/news/32329</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32329</guid>
+<title>火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式</title>
+<link>https://www.aibase.com/news/32340</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32340</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
-</item>
-<item>
-<title>理解现代大型语言模型中的位置嵌入</title>
-<link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
-<description>magazine.sebastianraschka.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 15 Nov 2026 16:51:36 +0000</pubDate>
-</item>
-<item>
-<title>tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</title>
-<link>https://github.com/tradermonty/claude-trading-skills</link>
-<guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
-<description>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Mon, 16 Nov 2026 03:50:16 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 07:58:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
