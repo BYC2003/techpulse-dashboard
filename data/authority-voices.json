@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-16T07:59:52.938674+00:00",
+  "generated_at": "2026-11-16T11:10:31.906946+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
   "item_count": 24,
-  "ok_source_count": 9,
+  "ok_source_count": 10,
   "source_count": 10,
   "sources": [
     {
@@ -73,10 +73,11 @@
       "url": "https://bair.berkeley.edu/blog/feed.xml",
       "kind": "research",
       "trust": "research",
-      "ok": false,
-      "items_scanned": 0,
-      "items_kept": 0,
-      "error": "feed request failed: HTTPSConnectionPool(host='bair.berkeley.edu', port=443): Read timed out. (read timeout=30)"
+      "ok": true,
+      "items_scanned": 10,
+      "items_kept": 1,
+      "error": "",
+      "latest_at": "2026-11-09T09:00:00+00:00"
     },
     {
       "id": "deepmind",
@@ -97,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1389,
+      "items_scanned": 1390,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-15T22:00:00+00:00"
@@ -354,6 +355,21 @@
       "is_opinion": false
     },
     {
+      "id": "b6fad93fdfee6d03",
+      "title": "BAIR at CoRL 2026",
+      "url": "https://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co…",
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "source_id": "bair",
+      "source_name": "Berkeley AI Research",
+      "source_kind": "research",
+      "category": "conference",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
+    },
+    {
       "id": "3f784b09aef19462",
       "title": "NeurIPS Newsletter – October 2026",
       "url": "https://blog.neurips.cc/2026/11/08/neurips-newsletter-october-2026/",
@@ -471,21 +487,6 @@
       "trust": "official",
       "trust_label": "会议官方",
       "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "7595746fe954ac43",
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "summary": "Generative AI",
-      "published_at": "2026-10-23T18:51:33+00:00",
-      "source_id": "google_research",
-      "source_name": "Google Research",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
       "is_opinion": false
     }
   ]
