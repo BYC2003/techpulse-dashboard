@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:03:22.536917Z",
+  "generated_at": "2026-11-16T01:03:55.925744Z",
   "date": "2026-11-16",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T21:02:04.962634Z"
+      "observed_at": "2026-11-16T01:00:23.637636Z"
     },
     {
-      "id": "project_f63804c89783",
-      "project_name": "Pixel Office",
-      "url": "https://www.producthunt.com/products/pixel-office-3",
-      "summary": "Run a team of AI agents from a pixel-art office",
+      "id": "project_1e4697a88d79",
+      "project_name": "Rakazo",
+      "url": "https://www.producthunt.com/products/rakazo",
+      "summary": "The open source Grok Bot alternative you actually own",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Run a team of AI agents from a pixel-art office」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Run a team of AI agents from a pixel-art office\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T16:47:12Z",
-      "updated_at": "2026-11-15T20:45:28Z",
+      "recommend_reason_zh": "体验它主打的「The open source Grok Bot alternative you actually own」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The open source Grok Bot alternative you actually own\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T18:46:58Z",
+      "updated_at": "2026-11-16T00:47:38Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T21:03:01.111483Z"
+      "observed_at": "2026-11-16T01:02:10.843099Z"
     },
     {
       "id": "project_52adf762d407",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T21:02:04.962634Z"
+      "observed_at": "2026-11-16T01:00:23.637636Z"
     },
     {
       "id": "project_59d02fcf4067",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「AI note taker for meetings & lectures. No bot on your calls」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"AI note taker for meetings & lectures. No bot on your calls\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-07T11:57:13Z",
-      "updated_at": "2026-11-15T19:52:27Z",
+      "updated_at": "2026-11-16T00:02:21Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T21:03:01.111483Z"
+      "observed_at": "2026-11-16T01:02:10.843099Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1324,
+      "duration_ms": 309,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 288,
+      "duration_ms": 141,
       "error": null
     }
   ]

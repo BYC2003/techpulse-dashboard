@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:03:53.814576+00:00",
+  "generated_at": "2026-11-16T01:04:09.650569+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -98,10 +98,10 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1387,
+      "items_scanned": 1389,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-12T00:00:00+00:00"
+      "latest_at": "2026-11-15T22:00:00+00:00"
     },
     {
       "id": "dwarkesh",
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "a5f12bbaa87c48c3",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "published_at": "2026-11-15T22:00:00+00:00",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
     {
       "id": "8935e4337eda21bf",
       "title": "The avalanche that hit math is coming for AI development",
@@ -317,21 +332,6 @@
       "published_at": "2026-11-10T12:02:28+00:00",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
-      "source_kind": "lab",
-      "category": "viewpoint",
-      "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
-      "id": "187bd234032cbea5",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "source_id": "openai",
-      "source_name": "OpenAI News",
       "source_kind": "lab",
       "category": "viewpoint",
       "trust": "official",

@@ -5,23 +5,39 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 15 Nov 2026 21:02:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 01:00:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
-<link>https://www.aibase.com/news/32309</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
+<title>在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice</title>
+<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
+<title>我们的新科学博客 / Our new blog for science</title>
+<link>https://openai.com/index/our-new-blog-for-science</link>
+<guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板</title>
+<link>https://aihot.news/items/izdx1kuppob6c65ghvmyeal38</link>
+<guid isPermaLink="true">https://aihot.news/items/izdx1kuppob6c65ghvmyeal38</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Sun, 15 Nov 2026 23:56:00 +0000</pubDate>
+</item>
+<item>
+<title>马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务</title>
+<link>https://www.aibase.com/news/32324</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32324</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 01:00:23 +0000</pubDate>
 </item>
 <item>
 <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
@@ -40,44 +56,12 @@
 <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
 </item>
 <item>
-<title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
-<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</link>
-<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</guid>
-<description>Daily Digest</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
-<link>https://www.aibase.com/news/32307</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
-</item>
-<item>
-<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
-<link>https://www.aibase.com/news/32317</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
-</item>
-<item>
-<title>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码</title>
-<link>https://www.aibase.com/news/32310</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32310</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
-</item>
-<item>
-<title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
-<link>https://www.aibase.com/news/32303</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
+<title>所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source</title>
+<link>https://jakub.jankiewicz.org/blog/ai-code-open-source</link>
+<guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source</guid>
+<description>Hacker News 首页</description>
+<category>多源热议</category>
+<pubDate>Sun, 15 Nov 2026 16:03:47 +0000</pubDate>
 </item>
 <item>
 <title>ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
@@ -85,7 +69,7 @@
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 21:02:59 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 01:00:23 +0000</pubDate>
 </item>
 <item>
 <title>ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
@@ -93,15 +77,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
 <description>Find the fix in big codebases. Ship it from Slack.（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 19:52:27 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
-<link>https://www.aibase.com/news/32311</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 00:08:13 +0000</pubDate>
 </item>
 <item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
@@ -109,7 +85,7 @@
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 21:02:59 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 01:00:23 +0000</pubDate>
 </item>
 <item>
 <title>理解现代大型语言模型中的位置嵌入</title>
@@ -120,44 +96,12 @@
 <pubDate>Sun, 15 Nov 2026 16:51:36 +0000</pubDate>
 </item>
 <item>
-<title>所有由人工智能生成的代码都应开源</title>
-<link>https://jakub.jankiewicz.org/blog/ai-code-open-source</link>
-<guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source</guid>
-<description>jakub.jankiewicz.org</description>
-<category>多源热议</category>
-<pubDate>Sun, 15 Nov 2026 16:03:47 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI机器人业务转向"模型内整合"，具身智能纳入通用基础模型框架</title>
-<link>https://www.aibase.com/news/32313</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32313</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
-</item>
-<item>
-<title>家长为 Alpha 的人工智能学校支付 7.5 万美元。一半学生未达到数学目标 / Parents pay $75k for Alpha's AI school. Half of its students missed math target</title>
-<link>https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals</link>
-<guid isPermaLink="true">https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 19:39:46 +0000</pubDate>
-</item>
-<item>
 <title>tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.</title>
 <link>https://github.com/tradermonty/claude-trading-skills</link>
 <guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
 <description>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 15 Nov 2026 21:02:59 +0000</pubDate>
-</item>
-<item>
-<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
-<link>https://www.aibase.com/news/32305</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 15 Nov 2026 21:02:04 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 01:00:23 +0000</pubDate>
 </item>
 <item>
 <title>法院驳回了关于DRAM价格垄断案的驳回起诉动议</title>
