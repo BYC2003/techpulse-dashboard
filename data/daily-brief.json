@@ -1,91 +1,131 @@
 {
-  "generated_at": "2026-11-16T11:08:35.184834Z",
+  "generated_at": "2026-11-16T18:31:03.918237Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "story_id": "story_d5f5193d70dc",
+      "title": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "primary_url": "https://openai.com/index/strengthening-online-child-safety",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_zh": "通过新工具和支持加强打击网上儿童性虐待",
+          "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "11c772af3288475fea857efb2fc3e3d21adb8768",
+          "title": "OpenAI：加强打击网络儿童性虐待 / OpenAI: Strengthening the fight against online child sexual abuse",
+          "title_zh": "OpenAI：加强打击网络儿童性虐待",
+          "title_en": "OpenAI: Strengthening the fight against online child sexual abuse",
+          "title_original": "OpenAI: Strengthening the fight against online child sexual abuse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-16T18:12:48Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_zh": "通过新工具和支持加强打击网上儿童性虐待",
+          "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "11c772af3288475fea857efb2fc3e3d21adb8768",
+          "title": "OpenAI：加强打击网络儿童性虐待 / OpenAI: Strengthening the fight against online child sexual abuse",
+          "title_zh": "OpenAI：加强打击网络儿童性虐待",
+          "title_en": "OpenAI: Strengthening the fight against online child sexual abuse",
+          "title_original": "OpenAI: Strengthening the fight against online child sexual abuse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-16T18:12:48Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8731,
+      "importance": 0.8731,
+      "importance_score": 0.8731,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9695,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.9783,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T18:12:48Z",
       "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+        "title": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+        "title_zh": "通过新工具和支持加强打击网上儿童性虐待",
+        "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -97,7 +137,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "primary_source_url": "https://openai.com/index/strengthening-online-child-safety",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -107,8 +147,148 @@
         {
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "title": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        },
+        {
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "title": "OpenAI：加强打击网络儿童性虐待 / OpenAI: Strengthening the fight against online child sexual abuse",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/index/strengthening-online-child-safety",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_43ec7f0d19a5",
+      "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9621,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
+      "primary_item": {
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+        "title_zh": "批量启动 AI 扫描代码仓库",
+        "title_en": "Bulk start AI Scan for repositories",
+        "title_original": "Bulk start AI Scan for repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,10 +297,10 @@
       ],
       "key_claims": [
         {
-          "claim": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "claim": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
           "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/lvmh-media-division-partnership",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -133,8 +313,396 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_bb9233c09d3b",
+      "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "primary_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
+          "title_en": "New Ask Maps features to help with holiday travel and prep",
+          "title_original": "New Ask Maps features to help with holiday travel and prep",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
+          "title_en": "New Ask Maps features to help with holiday travel and prep",
+          "title_original": "New Ask Maps features to help with holiday travel and prep",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9368,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:00:00Z",
+      "latest_at": "2026-11-16T14:00:00Z",
+      "primary_item": {
+        "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
+        "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+        "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
+        "title_en": "New Ask Maps features to help with holiday travel and prep",
+        "title_original": "New Ask Maps features to help with holiday travel and prep",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
+          "claim_type": "confirmed",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_720d3cffff4a",
+      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9783,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+        "title_zh": "扩大科学家使用人工智能的机会",
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_995c9b1004b9",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "primary_url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_zh": null,
+          "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/openrouter",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_zh": null,
+          "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/openrouter",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7654,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T00:00:00Z",
+      "latest_at": "2026-11-16T00:00:00Z",
+      "primary_item": {
+        "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "title_zh": null,
+        "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/openrouter",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/openrouter",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/openrouter",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/openrouter",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_732391b15ce9",
-      "title": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+      "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
       "url": "https://www.minimax.io/blog/minimax-h3-image",
       "primary_url": "https://www.minimax.io/blog/minimax-h3-image",
       "source": "MiniMax Blog",
@@ -142,8 +710,8 @@
       "sources": [
         {
           "id": "7bed4141a1c179abc895a4347449ddfbaf01962a",
-          "title": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
-          "title_zh": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research",
+          "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+          "title_zh": null,
           "title_en": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "title_original": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "summary": null,
@@ -167,8 +735,8 @@
       "items": [
         {
           "id": "7bed4141a1c179abc895a4347449ddfbaf01962a",
-          "title": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
-          "title_zh": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research",
+          "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+          "title_zh": null,
           "title_en": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "title_original": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "summary": null,
@@ -187,15 +755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9344,
+        "recency": 0.84,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,8 +776,8 @@
       "latest_at": "2026-11-16T06:26:49.691000Z",
       "primary_item": {
         "id": "7bed4141a1c179abc895a4347449ddfbaf01962a",
-        "title": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
-        "title_zh": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research",
+        "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+        "title_zh": null,
         "title_en": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
         "title_original": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
         "summary": null,
@@ -237,7 +805,7 @@
           "source": "MiniMax Blog",
           "site_id": "official_ai",
           "url": "https://www.minimax.io/blog/minimax-h3-image",
-          "title": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+          "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -246,7 +814,7 @@
       ],
       "key_claims": [
         {
-          "claim": "MiniMax H3-Image：将 4K 图像生成带入 10 秒时代 - MiniMax Research / MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
+          "claim": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research",
           "claim_type": "confirmed",
           "basis_source": "MiniMax Blog",
           "basis_url": "https://www.minimax.io/blog/minimax-h3-image",
@@ -316,15 +884,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8919,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,29 +959,158 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_8072575c42c3",
-      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "story_id": "story_97bf5a0b15de",
+      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9437,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+        "title_en": "Take GitHub Mobile with you on iPhone Duo",
+        "title_original": "Take GitHub Mobile with you on iPhone Duo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_83c01ad63559",
+      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -424,36 +1121,36 @@
       ],
       "items": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8271,
+        "ai_relevance": 0.95,
+        "recency": 0.9102,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,17 +1159,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:01Z",
-      "latest_at": "2026-11-15T22:00:01Z",
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
       "primary_item": {
-        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-        "title_zh": "在晶格上定义标准模型的一步",
-        "title_en": "A step toward defining the Standard Model on a lattice",
-        "title_original": "A step toward defining the Standard Model on a lattice",
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+        "title_en": "Science at the Frontier: How scientists use ChatGPT",
+        "title_original": "Science at the Frontier: How scientists use ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "url": "https://openai.com/index/science-at-the-frontier",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -484,7 +1181,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_source_url": "https://openai.com/index/science-at-the-frontier",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -494,8 +1191,8 @@
         {
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -504,16 +1201,1055 @@
       ],
       "key_claims": [
         {
-          "claim": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "claim": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
           "claim_type": "confirmed",
           "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "basis_url": "https://openai.com/index/science-at-the-frontier",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_08890f6948d0",
+      "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+      "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+      "primary_url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+          "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "title_zh": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "title_en": null,
+          "title_original": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:36:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+          "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "title_zh": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "title_en": null,
+          "title_original": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:36:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.987,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:36:43Z",
+      "latest_at": "2026-11-16T17:36:43Z",
+      "primary_item": {
+        "id": "7f2ad5b1681f7ad76f2aeb320eedfbfafb0fd863",
+        "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+        "title_zh": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+        "title_en": null,
+        "title_original": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "title": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/zficxtnfx6piiwlefryulanmh",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_38821b4e3703",
+      "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+      "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+      "primary_url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+      "source": "Microsoft Research 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+          "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "title_zh": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "title_en": null,
+          "title_original": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "source": "Microsoft Research 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:01:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft Research 博客"
+      ],
+      "items": [
+        {
+          "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+          "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "title_zh": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "title_en": null,
+          "title_original": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "source": "Microsoft Research 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:01:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9787,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:01:35Z",
+      "latest_at": "2026-11-16T17:01:35Z",
+      "primary_item": {
+        "id": "ae3202e48149fbd16eecb85b2fded9d805afa7f1",
+        "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+        "title_zh": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+        "title_en": null,
+        "title_original": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+        "source": "Microsoft Research 博客",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Microsoft Research 博客",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "title": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token",
+          "claim_type": "reported",
+          "basis_source": "Microsoft Research 博客",
+          "basis_url": "https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_15c1f77b18ac",
+      "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+      "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+      "primary_url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+      "source": "Databricks：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "title_zh": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "title_en": null,
+          "title_original": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "source": "Databricks：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Databricks：Blog"
+      ],
+      "items": [
+        {
+          "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "title_zh": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "title_en": null,
+          "title_original": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "source": "Databricks：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "2e9e045d2afb9e192f2065af8343d1f1d12c6454",
+        "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+        "title_zh": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+        "title_en": null,
+        "title_original": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+        "source": "Databricks：Blog",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Databricks：Blog",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "title": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本",
+          "claim_type": "reported",
+          "basis_source": "Databricks：Blog",
+          "basis_url": "https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4d7a1ccca97d",
+      "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+      "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+      "primary_url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+      "source": "OpenAI：官网动态",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+          "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "title_zh": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "title_en": null,
+          "title_original": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "source": "OpenAI：官网动态",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态"
+      ],
+      "items": [
+        {
+          "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+          "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "title_zh": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "title_en": null,
+          "title_original": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "source": "OpenAI：官网动态",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "634bb4e1bb5d08f018434cf61af086bf3f0ba2e5",
+        "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+        "title_zh": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+        "title_en": null,
+        "title_original": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+        "source": "OpenAI：官网动态",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI：官网动态",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "title": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预",
+          "claim_type": "reported",
+          "basis_source": "OpenAI：官网动态",
+          "basis_url": "https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_f1c74394f725",
+      "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+      "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+      "primary_url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+      "source": "Philipp Schmid",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+          "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "title_zh": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "title_en": null,
+          "title_original": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T16:02:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Philipp Schmid"
+      ],
+      "items": [
+        {
+          "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+          "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "title_zh": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "title_en": null,
+          "title_original": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "source": "Philipp Schmid",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T16:02:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9649,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T16:02:31Z",
+      "latest_at": "2026-11-16T16:02:31Z",
+      "primary_item": {
+        "id": "5fa7ded08fb5e8d6db443647f677459686dd4ff8",
+        "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+        "title_zh": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+        "title_en": null,
+        "title_original": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+        "source": "Philipp Schmid",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Philipp Schmid",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "title": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型",
+          "claim_type": "reported",
+          "basis_source": "Philipp Schmid",
+          "basis_url": "https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4f561d665f89",
+      "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+      "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+      "primary_url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+      "source": "Lovable Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+          "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "title_zh": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "title_en": null,
+          "title_original": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "source": "Lovable Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T13:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lovable Blog"
+      ],
+      "items": [
+        {
+          "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+          "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "title_zh": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "title_en": null,
+          "title_original": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "source": "Lovable Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T13:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9301,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T13:30:00Z",
+      "latest_at": "2026-11-16T13:30:00Z",
+      "primary_item": {
+        "id": "00bc00a6b37adeddf452d5902a1cf2e3d6a32afb",
+        "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+        "title_zh": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+        "title_en": null,
+        "title_original": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+        "source": "Lovable Blog",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Lovable Blog",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "title": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本",
+          "claim_type": "reported",
+          "basis_source": "Lovable Blog",
+          "basis_url": "https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_9cd05a0f9088",
+      "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+      "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "primary_url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+          "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "title_zh": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "title_en": null,
+          "title_original": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+          "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "title_zh": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "title_en": null,
+          "title_original": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-16T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9234,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T13:00:00Z",
+      "latest_at": "2026-11-16T13:00:00Z",
+      "primary_item": {
+        "id": "7cfb94b9a51881cb9f438e6f81c391c6e5e92cac",
+        "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+        "title_zh": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+        "title_en": null,
+        "title_original": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Verge：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "title": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%",
+          "claim_type": "reported",
+          "basis_source": "The Verge：AI",
+          "basis_url": "https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_1d42fa256bab",
+      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+      "url": "https://www.aibase.com/news/32323",
+      "primary_url": "https://www.aibase.com/news/32323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T18:31:03.918237Z",
+      "latest_at": "2026-11-16T18:31:03.918237Z",
+      "primary_item": {
+        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_en": null,
+        "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32323",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "opinion",
+      "verification_score": 37,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32323",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "claim_type": "analysis",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32323",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -575,15 +2311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,15 +2440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,15 +2571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,1745 +2633,6 @@
           "claim_type": "reported",
           "basis_source": "腾讯混元：Research",
           "basis_url": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0e831c449068",
-      "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-      "url": "https://www.aibase.com/news/32337",
-      "primary_url": "https://www.aibase.com/news/32337",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "title_en": null,
-          "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "title_en": null,
-          "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32337",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
-        "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-        "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-        "title_en": null,
-        "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32337",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32337",
-          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32337",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_5b29b1a9bb50",
-      "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-      "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-      "primary_url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-      "source": "通义千问 / Qwen",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07c062926909797093417636b55266642a52dfa8",
-          "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "title_zh": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "title_en": null,
-          "title_original": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "source": "通义千问 / Qwen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T03:46:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "通义千问 / Qwen"
-      ],
-      "items": [
-        {
-          "id": "07c062926909797093417636b55266642a52dfa8",
-          "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "title_zh": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "title_en": null,
-          "title_original": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "source": "通义千问 / Qwen",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T03:46:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T03:46:34Z",
-      "latest_at": "2026-11-16T03:46:34Z",
-      "primary_item": {
-        "id": "07c062926909797093417636b55266642a52dfa8",
-        "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-        "title_zh": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-        "title_en": null,
-        "title_original": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-        "source": "通义千问 / Qwen",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "通义千问 / Qwen",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "title": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低",
-          "claim_type": "reported",
-          "basis_source": "通义千问 / Qwen",
-          "basis_url": "https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_3710750e27a2",
-      "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-      "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-      "primary_url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-      "source": "Arena",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a08217070f3cad747f9348d743223f4df507ff47",
-          "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "title_zh": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "title_en": null,
-          "title_original": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T02:21:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Arena"
-      ],
-      "items": [
-        {
-          "id": "a08217070f3cad747f9348d743223f4df507ff47",
-          "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "title_zh": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "title_en": null,
-          "title_original": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T02:21:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:21:45Z",
-      "latest_at": "2026-11-16T02:21:45Z",
-      "primary_item": {
-        "id": "a08217070f3cad747f9348d743223f4df507ff47",
-        "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-        "title_zh": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-        "title_en": null,
-        "title_original": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-        "source": "Arena",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Arena",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "title": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14",
-          "claim_type": "reported",
-          "basis_source": "Arena",
-          "basis_url": "https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_88b48a69bc36",
-      "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-      "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "primary_url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "source": "Qwen：Blog Retrieval",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "title_zh": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "title_en": null,
-          "title_original": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T02:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval"
-      ],
-      "items": [
-        {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "title_zh": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "title_en": null,
-          "title_original": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T02:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8763,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:00:00Z",
-      "latest_at": "2026-11-16T02:00:00Z",
-      "primary_item": {
-        "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-        "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-        "title_zh": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-        "title_en": null,
-        "title_original": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-        "source": "Qwen：Blog Retrieval",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Qwen：Blog Retrieval",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "claim_type": "reported",
-          "basis_source": "Qwen：Blog Retrieval",
-          "basis_url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_fe0b74d30c87",
-      "title": "我们的新科学博客 / Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "primary_url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-15T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-15T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8271,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T22:00:00Z",
-      "latest_at": "2026-11-15T22:00:00Z",
-      "primary_item": {
-        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-        "title": "我们的新科学博客 / Our new blog for science",
-        "title_zh": "我们的新科学博客",
-        "title_en": "Our new blog for science",
-        "title_original": "Our new blog for science",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/our-new-blog-for-science",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/our-new-blog-for-science",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "我们的新科学博客 / Our new blog for science",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/our-new-blog-for-science",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_2d852354ee2d",
-      "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-      "url": "https://www.aibase.com/news/32343",
-      "primary_url": "https://www.aibase.com/news/32343",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
-          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "title_zh": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "title_en": null,
-          "title_original": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
-          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "title_zh": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "title_en": null,
-          "title_original": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32343",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "ed960778fb5059e30ccd7bd1ee16225c426644dd",
-        "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-        "title_zh": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-        "title_en": null,
-        "title_original": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32343",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32343",
-          "title": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32343",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_8723b7d231e1",
-      "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-      "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "primary_url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "title_zh": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "title_en": null,
-          "title_original": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-15T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "title_zh": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "title_en": null,
-          "title_original": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-15T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8505,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T23:56:00Z",
-      "latest_at": "2026-11-15T23:56:00Z",
-      "primary_item": {
-        "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-        "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-        "title_zh": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-        "title_en": null,
-        "title_original": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_5d696b66d3b4",
-      "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-      "url": "https://www.aibase.com/news/32339",
-      "primary_url": "https://www.aibase.com/news/32339",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "title_zh": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "title_en": null,
-          "title_original": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "title_zh": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "title_en": null,
-          "title_original": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "eb7184082b9b2b13fe539fe6c47c4aef9ba7c547",
-        "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-        "title_zh": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-        "title_en": null,
-        "title_original": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32339",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32339",
-          "title": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32339",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_50e3d85bb840",
-      "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-      "url": "https://www.aibase.com/news/32334",
-      "primary_url": "https://www.aibase.com/news/32334",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-          "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "title_zh": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "title_en": null,
-          "title_original": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32334",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-          "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "title_zh": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "title_en": null,
-          "title_original": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32334",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "f873d4dc1c7e6fa1c7065c769677bc2f38465431",
-        "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-        "title_zh": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-        "title_en": null,
-        "title_original": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32334",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32334",
-          "title": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32334",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_02406b3bc67c",
-      "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-      "url": "https://www.aibase.com/news/32333",
-      "primary_url": "https://www.aibase.com/news/32333",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d895b6e0822b73de28b96b432887880f429b3800",
-          "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "title_zh": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "title_en": null,
-          "title_original": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d895b6e0822b73de28b96b432887880f429b3800",
-          "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "title_zh": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "title_en": null,
-          "title_original": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32333",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "d895b6e0822b73de28b96b432887880f429b3800",
-        "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-        "title_zh": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-        "title_en": null,
-        "title_original": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32333",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32333",
-          "title": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32333",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_258dc25f78db",
-      "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-      "url": "https://www.aibase.com/news/32340",
-      "primary_url": "https://www.aibase.com/news/32340",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
-          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "title_zh": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "title_en": null,
-          "title_original": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32340",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
-          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "title_zh": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "title_en": null,
-          "title_original": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32340",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
-        "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-        "title_zh": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-        "title_en": null,
-        "title_original": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32340",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32340",
-          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32340",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_3d96b04a0c3a",
-      "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "source_tier": "community",
-          "source_tier_label": "开源项目",
-          "source_tier_rank": 2,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-16T11:09:45.019000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "source_tier": "community",
-          "source_tier_label": "开源项目",
-          "source_tier_rank": 2,
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-16T11:09:45.019000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:09:45.019000Z",
-      "primary_item": {
-        "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-        "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-        "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "summary": "Chrome DevTools for coding agents",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending",
-        "site_id": "github_trending",
-        "source_tier": "community",
-        "source_tier_label": "开源项目"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 48,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Trending",
-          "site_id": "github_trending",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "source_tier": "community",
-          "source_tier_label": "社区发现",
-          "role": "primary_report",
-          "is_aggregator": false
-        },
-        {
-          "source": "github",
-          "site_id": "newsnow",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "claim_type": "reported",
-          "basis_source": "GitHub Trending",
-          "basis_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        },
-        {
-          "claim": "Chrome DevTools for coding agents",
-          "claim_type": "reported",
-          "basis_source": "GitHub Trending",
-          "basis_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "社区榜单或产品发现页不等于官方发布，不能直接当成已确认新闻。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 1,
-      "summary_missing": false
-    },
-    {
-      "story_id": "story_a31c0ac5bb28",
-      "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-      "url": "https://www.aibase.com/news/32335",
-      "primary_url": "https://www.aibase.com/news/32335",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-16T11:08:35.184834Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T11:08:35.184834Z",
-      "latest_at": "2026-11-16T11:08:35.184834Z",
-      "primary_item": {
-        "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-        "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_en": null,
-        "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32335",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32335",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32335",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }

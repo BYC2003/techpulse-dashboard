@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:10:31.906946+00:00",
+  "generated_at": "2026-11-16T18:32:34.788627+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -53,7 +53,7 @@
       "items_scanned": 10,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-12T21:31:57+00:00"
+      "latest_at": "2026-11-16T17:01:35+00:00"
     },
     {
       "id": "mit_ai",
@@ -98,10 +98,10 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1390,
+      "items_scanned": 1397,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-15T22:00:00+00:00"
+      "latest_at": "2026-11-16T17:00:00+00:00"
     },
     {
       "id": "dwarkesh",
@@ -130,11 +130,56 @@
   ],
   "items": [
     {
-      "id": "a5f12bbaa87c48c3",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "published_at": "2026-11-15T22:00:00+00:00",
+      "id": "9fae1493f0a4fd7a",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "summary": "AI coding agents are increasingly help developers fix bugs and build features largely on their own, but every interaction with their models consumes tokens. In each session, an agent sends instructions, tool descriptions, and session history to its model. Most efforts to reduce this cost focus on individual tasks. Yet…",
+      "published_at": "2026-11-16T17:01:35+00:00",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
+    {
+      "id": "7445935c570e03bd",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
+    {
+      "id": "218de0f6bfd22c30",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
+    {
+      "id": "71f9e7fa15654d3b",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "published_at": "2026-11-16T08:00:00+00:00",
       "source_id": "openai",
       "source_name": "OpenAI News",
       "source_kind": "lab",
@@ -250,21 +295,6 @@
       "is_opinion": false
     },
     {
-      "id": "385bf309c0d16ec4",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "source_id": "openai",
-      "source_name": "OpenAI News",
-      "source_kind": "lab",
-      "category": "viewpoint",
-      "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
       "id": "d2315804aef8ce21",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -292,21 +322,6 @@
       "trust": "interview",
       "trust_label": "访谈观点",
       "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
-      "id": "28af3232569346b1",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "source_id": "openai",
-      "source_name": "OpenAI News",
-      "source_kind": "lab",
-      "category": "viewpoint",
-      "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
       "is_opinion": true
     },
     {
@@ -443,21 +458,6 @@
       "trust_label": "会议官方",
       "verification": "会议官方页面，具体安排以原文为准",
       "is_opinion": false
-    },
-    {
-      "id": "bad226b844df13ba",
-      "title": "Learn the rules: The hacker mindset",
-      "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on…",
-      "published_at": "2026-11-03T17:14:38+00:00",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "interview",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
     },
     {
       "id": "e5b49d5d07e39a06",

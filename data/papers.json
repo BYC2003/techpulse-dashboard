@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:10:36.363186+00:00",
+  "generated_at": "2026-11-16T18:32:52.777184+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,36 +375,6 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
-        "id": "2611.15777",
-        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
-        "authors": [
-          "Lichen Li",
-          "Ziping Dong",
-          "Sicheng Feng",
-          "Qi Li",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 85,
-        "comments": 3,
-        "discussion_score": 856.74,
-        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
-        "keywords": [
-          "System One models",
-          "token generation",
-          "SO-Arena",
-          "capability spectrum",
-          "decision reliability",
-          "evidence-grounded evaluation",
-          "manual verification",
-          "reference labels"
-        ],
-        "url": "https://arxiv.org/abs/2611.15777",
-        "arxiv_url": "https://arxiv.org/abs/2611.15777",
-        "discussion_url": "https://huggingface.co/papers/2611.15777",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.18359",
         "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
         "authors": [
@@ -418,9 +388,9 @@
           "Shizun Wang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 76,
+        "upvotes": 107,
         "comments": 4,
-        "discussion_score": 768.83,
+        "discussion_score": 1078.82,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -438,59 +408,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.14320",
-        "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
-        "authors": [
-          "Yukyeong Lee",
-          "Yumin Choi",
-          "Jinheon Baek",
-          "Sung Ju Hwang"
-        ],
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 73,
-        "comments": 8,
-        "discussion_score": 746.69,
-        "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
-        "keywords": [
-          "LLM agents",
-          "external memory",
-          "memory-induced degradation",
-          "evidence-linked memory system",
-          "trajectories",
-          "lessons",
-          "insights",
-          "terminal tools"
-        ],
-        "url": "https://arxiv.org/abs/2611.14320",
-        "arxiv_url": "https://arxiv.org/abs/2611.14320",
-        "discussion_url": "https://huggingface.co/papers/2611.14320",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.15789",
-        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
-        "authors": [
-          "Yuzhe Chen",
-          "Muxi Diao",
-          "Lele Yang",
-          "Wenbin Xu",
-          "Xuyang Liu",
-          "Qile Su",
-          "Changyi Liu",
-          "Jiankang Chen"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 73,
-        "comments": 2,
-        "discussion_score": 734.74,
-        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.15789",
-        "arxiv_url": "https://arxiv.org/abs/2611.15789",
-        "discussion_url": "https://huggingface.co/papers/2611.15789",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.18397",
         "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
         "authors": [
@@ -504,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 63,
-        "comments": 2,
-        "discussion_score": 634.83,
+        "upvotes": 85,
+        "comments": 3,
+        "discussion_score": 856.82,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -524,6 +441,60 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.15777",
+        "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+        "authors": [
+          "Lichen Li",
+          "Ziping Dong",
+          "Sicheng Feng",
+          "Qi Li",
+          "Xinchao Wang"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 85,
+        "comments": 3,
+        "discussion_score": 856.73,
+        "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+        "keywords": [
+          "System One models",
+          "token generation",
+          "SO-Arena",
+          "capability spectrum",
+          "decision reliability",
+          "evidence-grounded evaluation",
+          "manual verification",
+          "reference labels"
+        ],
+        "url": "https://arxiv.org/abs/2611.15777",
+        "arxiv_url": "https://arxiv.org/abs/2611.15777",
+        "discussion_url": "https://huggingface.co/papers/2611.15777",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.15789",
+        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+        "authors": [
+          "Yuzhe Chen",
+          "Muxi Diao",
+          "Lele Yang",
+          "Wenbin Xu",
+          "Xuyang Liu",
+          "Qile Su",
+          "Changyi Liu",
+          "Jiankang Chen"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 83,
+        "comments": 2,
+        "discussion_score": 834.73,
+        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.15789",
+        "arxiv_url": "https://arxiv.org/abs/2611.15789",
+        "discussion_url": "https://huggingface.co/papers/2611.15789",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.14815",
         "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
         "authors": [
@@ -535,9 +506,9 @@
           "Seung Wook Kim"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 54,
+        "upvotes": 56,
         "comments": 3,
-        "discussion_score": 546.69,
+        "discussion_score": 566.68,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -559,9 +530,9 @@
           "Kai Chen"
         ],
         "published_at": "2026-10-29T00:00:00+00:00",
-        "upvotes": 49,
+        "upvotes": 50,
         "comments": 3,
-        "discussion_score": 496.12,
+        "discussion_score": 506.11,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -592,7 +563,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 46,
         "comments": 3,
-        "discussion_score": 466.6,
+        "discussion_score": 466.58,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
@@ -614,9 +585,9 @@
           "Yuxin Ma"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 44,
+        "upvotes": 45,
         "comments": 3,
-        "discussion_score": 446.74,
+        "discussion_score": 456.73,
         "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
         "keywords": [
           "Reciprocal World Model",
@@ -648,7 +619,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 41,
         "comments": 7,
-        "discussion_score": 424.6,
+        "discussion_score": 424.58,
         "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
         "keywords": [
           "tabular generation",
@@ -663,6 +634,39 @@
         "url": "https://arxiv.org/abs/2611.13001",
         "arxiv_url": "https://arxiv.org/abs/2611.13001",
         "discussion_url": "https://huggingface.co/papers/2611.13001",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.16748",
+        "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+        "authors": [
+          "Yuxuan Chen",
+          "Xiaojie Li",
+          "Hao Chen",
+          "Juncheng Ma",
+          "Kewei Zhang",
+          "Zhongjing Du",
+          "Guoqiang Wei",
+          "Fangfang Wang"
+        ],
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "upvotes": 41,
+        "comments": 4,
+        "discussion_score": 418.77,
+        "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
+        "keywords": [
+          "video generation models",
+          "physical dynamics",
+          "causal consistency",
+          "large language models",
+          "physically grounded self-improvement",
+          "controllable training-data construction",
+          "inference-time video repair",
+          "recursive self-improvement"
+        ],
+        "url": "https://arxiv.org/abs/2611.16748",
+        "arxiv_url": "https://arxiv.org/abs/2611.16748",
+        "discussion_url": "https://huggingface.co/papers/2611.16748",
         "source": "Hugging Face Daily Papers"
       }
     ]
