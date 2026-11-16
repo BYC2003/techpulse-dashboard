@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:04:14.792900+00:00",
+  "generated_at": "2026-11-16T03:51:45.916624+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -385,9 +385,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 137,
+        "upvotes": 138,
         "comments": 3,
-        "discussion_score": 1376.76,
+        "discussion_score": 1386.75,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -447,9 +447,9 @@
           "Sung Ju Hwang"
         ],
         "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 72,
+        "upvotes": 73,
         "comments": 8,
-        "discussion_score": 736.71,
+        "discussion_score": 746.71,
         "summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
         "keywords": [
           "LLM agents",
@@ -486,30 +486,6 @@
         "url": "https://arxiv.org/abs/2611.12885",
         "arxiv_url": "https://arxiv.org/abs/2611.12885",
         "discussion_url": "https://huggingface.co/papers/2611.12885",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.11995",
-        "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
-        "authors": [
-          "Zhengyu Hu",
-          "Zheyuan Xiao",
-          "Yike Wang",
-          "Hamish Ivison",
-          "Haoyu Wang",
-          "Yige Yuan",
-          "Rulin Shao",
-          "Yuetai Li"
-        ],
-        "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 52,
-        "comments": 10,
-        "discussion_score": 540.66,
-        "summary": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings in…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.11995",
-        "arxiv_url": "https://arxiv.org/abs/2611.11995",
-        "discussion_url": "https://huggingface.co/papers/2611.11995",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -608,7 +584,7 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "upvotes": 46,
         "comments": 4,
-        "discussion_score": 468.81,
+        "discussion_score": 468.8,
         "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
         "keywords": [
           "video generation models",
@@ -641,12 +617,45 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 45,
         "comments": 3,
-        "discussion_score": 456.62,
+        "discussion_score": 456.61,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
         "arxiv_url": "https://arxiv.org/abs/2611.13004",
         "discussion_url": "https://huggingface.co/papers/2611.13004",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.15131",
+        "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+        "authors": [
+          "Hengyuan Cao",
+          "Biao Gong",
+          "Guoshan Lu",
+          "Qiyuan Zhang",
+          "Lin Liu",
+          "Yiding Tian",
+          "Yilei Jiang",
+          "Yuxin Ma"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 43,
+        "comments": 3,
+        "discussion_score": 436.75,
+        "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
+        "keywords": [
+          "Reciprocal World Model",
+          "Duo v1",
+          "full-duplex world model",
+          "autoregressive modeling",
+          "diffusion models",
+          "continuous interaction reasoning",
+          "participation decisions",
+          "Intent"
+        ],
+        "url": "https://arxiv.org/abs/2611.15131",
+        "arxiv_url": "https://arxiv.org/abs/2611.15131",
+        "discussion_url": "https://huggingface.co/papers/2611.15131",
         "source": "Hugging Face Daily Papers"
       }
     ]
