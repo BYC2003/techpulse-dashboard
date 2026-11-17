@@ -5,39 +5,135 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 11:48:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 19:26:56 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse with new tools and support</title>
-<link>https://openai.com/index/strengthening-online-child-safety</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
+<title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:46:38 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9</title>
-<link>https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</guid>
+<title>GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 21:34:53 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
 </item>
 <item>
-<title>New Ask Maps features to help with holiday travel and prep</title>
-<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</guid>
+<title>让Gemini为你工作 / Put Gemini to work for you</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI</title>
-<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
+</item>
+<item>
+<title>Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more</title>
+<link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft 在 Ignite 2026 发布 Copilot、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等全栈更新</title>
+<link>https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</link>
+<guid isPermaLink="true">https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</guid>
+<description>Microsoft：Official Blog</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 18:36:03 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每分钟音频</title>
+<link>https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb</link>
+<guid isPermaLink="true">https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb</guid>
+<description>Microsoft AI：官方博客</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter</title>
+<link>https://aihot.news/items/tww8adkmqsbjxg8u6m16vuzta</link>
+<guid isPermaLink="true">https://aihot.news/items/tww8adkmqsbjxg8u6m16vuzta</guid>
+<description>OpenRouter</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 18:10:00 +0000</pubDate>
+</item>
+<item>
+<title>Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat</title>
+<link>https://aihot.news/items/io0nmdphe40k919fuw1h28kg3</link>
+<guid isPermaLink="true">https://aihot.news/items/io0nmdphe40k919fuw1h28kg3</guid>
+<description>Replit：Blog</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代理无提升</title>
+<link>https://aihot.news/items/vop48ebueqjbpzs25hyrsi02m</link>
+<guid isPermaLink="true">https://aihot.news/items/vop48ebueqjbpzs25hyrsi02m</guid>
+<description>Artificial Analysis</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 17:56:04 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol</title>
+<link>https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l</link>
+<guid isPermaLink="true">https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l</guid>
+<description>OpenAI：官网动态</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用</title>
+<link>https://aihot.news/items/k036fkz6s64y292ovwq2qrx39</link>
+<guid isPermaLink="true">https://aihot.news/items/k036fkz6s64y292ovwq2qrx39</guid>
+<description>Google Blog：AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Astra for Law leads in legal intelligence</title>
+<link>https://openai.com/index/astra-law-6-2</link>
+<guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO</title>
+<link>https://aihot.news/items/usw3l00k4sgas3w8v3496sqaw</link>
+<guid isPermaLink="true">https://aihot.news/items/usw3l00k4sgas3w8v3496sqaw</guid>
+<description>Jim Fan</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 16:22:59 +0000</pubDate>
+</item>
+<item>
+<title>Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业</title>
+<link>https://aihot.news/items/qubbawlazjl89lsosb25kr553</link>
+<guid isPermaLink="true">https://aihot.news/items/qubbawlazjl89lsosb25kr553</guid>
+<description>Ed Zitron 长文 / Where’s Your Ed At</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 15:43:58 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
@@ -48,20 +144,20 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year</title>
-<link>https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
+<title>可灵 AI 发布 Kling Image 4.0 图像模型并开放 API</title>
+<link>https://aihot.news/items/e871ammlz8gpx1oozsswidzt0</link>
+<guid isPermaLink="true">https://aihot.news/items/e871ammlz8gpx1oozsswidzt0</guid>
+<description>公众号：可灵AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 15:10:31 +0000</pubDate>
 </item>
 <item>
-<title>ChinaTalk 播客解读美国商务部132页出口管制新规</title>
-<link>https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz</link>
-<guid isPermaLink="true">https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz</guid>
-<description>ChinaTalk</description>
+<title>Suno 发布 Visuals：为歌曲生成视频与图像</title>
+<link>https://aihot.news/items/yznmu3humymvshagrka95k1n1</link>
+<guid isPermaLink="true">https://aihot.news/items/yznmu3humymvshagrka95k1n1</guid>
+<description>Suno：Blog</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 11:03:33 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 15:00:11 +0000</pubDate>
 </item>
 <item>
 <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research</title>
@@ -70,102 +166,6 @@
 <description>MiniMax Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 16 Nov 2026 06:26:49 +0000</pubDate>
-</item>
-<item>
-<title>Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞</title>
-<link>https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu</link>
-<guid isPermaLink="true">https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu</guid>
-<description>IT之家·人工智能</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 09:41:54 +0000</pubDate>
-</item>
-<item>
-<title>ByteDance Seed</title>
-<link>https://seed.bytedance.com/blog/seed-stem-计划-分子逆合成挑战赛启动</link>
-<guid isPermaLink="true">https://seed.bytedance.com/blog/seed-stem-计划-分子逆合成挑战赛启动</guid>
-<description>ByteDance Seed Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 03:13:13 +0000</pubDate>
-</item>
-<item>
-<title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
-<link>https://www.aibase.com/news/32354</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 11:48:36 +0000</pubDate>
-</item>
-<item>
-<title>Our first phase of embedded assessments</title>
-<link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
-<guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 16:07:20 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型</title>
-<link>https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</link>
-<guid isPermaLink="true">https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</guid>
-<description>OpenAI：官网动态</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026</title>
-<link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
-</item>
-<item>
-<title>科技界人士质疑黄仁勋辞职背后存在针对其的谋划</title>
-<link>https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</link>
-<guid isPermaLink="true">https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题</title>
-<link>https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r</link>
-<guid isPermaLink="true">https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 22:03:02 +0000</pubDate>
-</item>
-<item>
-<title>NotebookLM 推出来源一键生成可分享网站功能</title>
-<link>https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390</link>
-<guid isPermaLink="true">https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390</guid>
-<description>Gemini Notebook</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 21:06:23 +0000</pubDate>
-</item>
-<item>
-<title>Redwood Research：Gemini 4 安全报告未能证明失控风险低</title>
-<link>https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</link>
-<guid isPermaLink="true">https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</guid>
-<description>Redwood Research：Blog</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:21:38 +0000</pubDate>
-</item>
-<item>
-<title>Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本</title>
-<link>https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru</link>
-<guid isPermaLink="true">https://aihot.news/items/ctdbuq2r9l6dakhxrm4pmd8ru</guid>
-<description>Databricks：Blog</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%</title>
-<link>https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</link>
-<guid isPermaLink="true">https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</guid>
-<description>Microsoft Research 博客</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
 </item>
 </channel>
 </rss>

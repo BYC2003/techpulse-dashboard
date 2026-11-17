@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:49:57.305223Z",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-17T19:27:58.352112Z",
+  "date": "2026-11-18",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-17T11:48:36.744633Z"
+      "observed_at": "2026-11-17T19:26:56.369429Z"
     },
     {
-      "id": "project_4ee089f927bd",
-      "project_name": "WispOS",
-      "url": "https://www.producthunt.com/products/wispos",
-      "summary": "Free AI game maker with an app store that wants your games",
+      "id": "project_13e90a4455fc",
+      "project_name": "Link.bio",
+      "url": "https://www.producthunt.com/products/link-bio",
+      "summary": "Paste your link, we build your page that your AI runs",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Free AI game maker with an app store that wants your games」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Free AI game maker with an app store that wants your games\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-16T16:56:27Z",
-      "updated_at": "2026-11-17T11:48:44Z",
+      "recommend_reason_zh": "体验它主打的「Paste your link, we build your page that your AI runs」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Paste your link, we build your page that your AI runs\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T19:37:56Z",
+      "updated_at": "2026-11-17T19:27:12Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-17T11:49:44.940505Z"
+      "observed_at": "2026-11-17T19:27:46.921842Z"
     },
     {
       "id": "project_01e478ba125a",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-17T11:48:36.744633Z"
+      "observed_at": "2026-11-17T19:26:56.369429Z"
     },
     {
-      "id": "project_7304645ec331",
-      "project_name": "AI Visibility by TruLata",
-      "url": "https://www.producthunt.com/products/trulata",
-      "summary": "Find out if ChatGPT names your business when buyers ask",
+      "id": "project_2334a2be404e",
+      "project_name": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot",
+      "summary": "Pay-as-you-go SEO and AI Search execution layer for agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Find out if ChatGPT names your business when buyers ask」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Find out if ChatGPT names your business when buyers ask\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T13:53:43Z",
-      "updated_at": "2026-11-17T11:48:43Z",
+      "recommend_reason_zh": "体验它主打的「Pay-as-you-go SEO and AI Search execution layer for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Pay-as-you-go SEO and AI Search execution layer for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-14T10:52:03Z",
+      "updated_at": "2026-11-17T19:20:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-17T11:49:44.940505Z"
+      "observed_at": "2026-11-17T19:27:46.921842Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 365,
+      "duration_ms": 1739,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 183,
+      "duration_ms": 146,
       "error": null
     }
   ]
