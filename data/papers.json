@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T10:50:59.759163+00:00",
+  "generated_at": "2026-11-17T11:50:25.675273+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Shizun Wang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 120,
+        "upvotes": 121,
         "comments": 5,
-        "discussion_score": 1210.79,
+        "discussion_score": 1220.79,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 103,
+        "upvotes": 104,
         "comments": 4,
-        "discussion_score": 1038.79,
+        "discussion_score": 1048.79,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -508,12 +508,69 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 56,
         "comments": 3,
-        "discussion_score": 566.65,
+        "discussion_score": 566.64,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
         "arxiv_url": "https://arxiv.org/abs/2611.14815",
         "discussion_url": "https://huggingface.co/papers/2611.14815",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.19937",
+        "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+        "authors": [
+          "Annan Wang",
+          "Yuchen Xie",
+          "Yu Cen",
+          "Leon Liangyu Chen",
+          "Qianyu Julie Zhu",
+          "Xin Li",
+          "Tianyi Wei",
+          "Weisi Lin"
+        ],
+        "published_at": "2026-11-15T00:00:00+00:00",
+        "upvotes": 53,
+        "comments": 3,
+        "discussion_score": 536.88,
+        "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
+        "keywords": [
+          "flow-matching framework",
+          "cross-asset flow Transformer",
+          "temporal market representations",
+          "continuous signed position weights",
+          "two-stage training scheme",
+          "strategy-supervised imitation",
+          "group-relative reinforcement learning",
+          "frozen policy reference"
+        ],
+        "url": "https://arxiv.org/abs/2611.19937",
+        "arxiv_url": "https://arxiv.org/abs/2611.19937",
+        "discussion_url": "https://huggingface.co/papers/2611.19937",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21003",
+        "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+        "authors": [
+          "K2 Team",
+          "Zhengzhong Liu",
+          "Haonan Li",
+          "Xuezhe Ma",
+          "Alexander Moreno",
+          "Subham Sekhar Sahoo",
+          "Rupesh Kumar Srivastava",
+          "Mikhail Yurochkin"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 51,
+        "comments": 1,
+        "discussion_score": 512.93,
+        "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.21003",
+        "arxiv_url": "https://arxiv.org/abs/2611.21003",
+        "discussion_url": "https://huggingface.co/papers/2611.21003",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -544,39 +601,6 @@
         "url": "https://arxiv.org/abs/2611.12068",
         "arxiv_url": "https://arxiv.org/abs/2611.12068",
         "discussion_url": "https://huggingface.co/papers/2611.12068",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.19937",
-        "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-        "authors": [
-          "Annan Wang",
-          "Yuchen Xie",
-          "Yu Cen",
-          "Leon Liangyu Chen",
-          "Qianyu Julie Zhu",
-          "Xin Li",
-          "Tianyi Wei",
-          "Weisi Lin"
-        ],
-        "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 47,
-        "comments": 3,
-        "discussion_score": 476.88,
-        "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
-        "keywords": [
-          "flow-matching framework",
-          "cross-asset flow Transformer",
-          "temporal market representations",
-          "continuous signed position weights",
-          "two-stage training scheme",
-          "strategy-supervised imitation",
-          "group-relative reinforcement learning",
-          "frozen policy reference"
-        ],
-        "url": "https://arxiv.org/abs/2611.19937",
-        "arxiv_url": "https://arxiv.org/abs/2611.19937",
-        "discussion_url": "https://huggingface.co/papers/2611.19937",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -634,30 +658,6 @@
         "url": "https://arxiv.org/abs/2611.13004",
         "arxiv_url": "https://arxiv.org/abs/2611.13004",
         "discussion_url": "https://huggingface.co/papers/2611.13004",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.21003",
-        "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-        "authors": [
-          "K2 Team",
-          "Zhengzhong Liu",
-          "Haonan Li",
-          "Xuezhe Ma",
-          "Alexander Moreno",
-          "Subham Sekhar Sahoo",
-          "Rupesh Kumar Srivastava",
-          "Mikhail Yurochkin"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 46,
-        "comments": 1,
-        "discussion_score": 462.93,
-        "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.21003",
-        "arxiv_url": "https://arxiv.org/abs/2611.21003",
-        "discussion_url": "https://huggingface.co/papers/2611.21003",
         "source": "Hugging Face Daily Papers"
       }
     ]

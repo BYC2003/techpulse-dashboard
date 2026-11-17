@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 10:49:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 11:48:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse with new tools and support</title>
@@ -56,6 +56,14 @@
 <pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
 </item>
 <item>
+<title>ChinaTalk 播客解读美国商务部132页出口管制新规</title>
+<link>https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz</link>
+<guid isPermaLink="true">https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz</guid>
+<description>ChinaTalk</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 11:03:33 +0000</pubDate>
+</item>
+<item>
 <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research</title>
 <link>https://www.minimax.io/blog/minimax-h3-image</link>
 <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
@@ -85,15 +93,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 10:49:28 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型</title>
-<link>https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</link>
-<guid isPermaLink="true">https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</guid>
-<description>OpenAI：官网动态</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 11:48:36 +0000</pubDate>
 </item>
 <item>
 <title>Our first phase of embedded assessments</title>
@@ -102,6 +102,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Mon, 16 Nov 2026 16:07:20 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型</title>
+<link>https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</link>
+<guid isPermaLink="true">https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</guid>
+<description>OpenAI：官网动态</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026</title>
@@ -158,14 +166,6 @@
 <description>Microsoft Research 博客</description>
 <category>行业动态</category>
 <pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型</title>
-<link>https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8</link>
-<guid isPermaLink="true">https://aihot.news/items/zo7ubny2zjk4qoqjdoiec91b8</guid>
-<description>Philipp Schmid</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 16:02:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
