@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:32:52.777184+00:00",
+  "generated_at": "2026-11-17T02:10:21.228436+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Shizun Wang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 107,
-        "comments": 4,
-        "discussion_score": 1078.82,
+        "upvotes": 110,
+        "comments": 5,
+        "discussion_score": 1110.81,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 85,
-        "comments": 3,
-        "discussion_score": 856.82,
+        "upvotes": 89,
+        "comments": 4,
+        "discussion_score": 898.81,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -451,9 +451,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 85,
+        "upvotes": 86,
         "comments": 3,
-        "discussion_score": 856.73,
+        "discussion_score": 866.71,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -484,9 +484,9 @@
           "Jiankang Chen"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 83,
-        "comments": 2,
-        "discussion_score": 834.73,
+        "upvotes": 84,
+        "comments": 3,
+        "discussion_score": 846.71,
         "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.15789",
@@ -508,7 +508,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 56,
         "comments": 3,
-        "discussion_score": 566.68,
+        "discussion_score": 566.66,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
@@ -532,7 +532,7 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "upvotes": 50,
         "comments": 3,
-        "discussion_score": 506.11,
+        "discussion_score": 506.09,
         "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
         "keywords": [
           "language models",
@@ -545,6 +545,69 @@
         "url": "https://arxiv.org/abs/2610.40394",
         "arxiv_url": "https://arxiv.org/abs/2610.40394",
         "discussion_url": "https://huggingface.co/papers/2610.40394",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.12068",
+        "title": "MIRIX-2.0: Multi-Agent Memory System",
+        "authors": [
+          "Wei-Chieh Huang",
+          "Weizhi Zhang",
+          "Jiayan Nan",
+          "Peng Xia",
+          "Yu Wang"
+        ],
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "upvotes": 47,
+        "comments": 4,
+        "discussion_score": 478.61,
+        "summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
+        "keywords": [
+          "LLM agents",
+          "long-term memory",
+          "parametric memories",
+          "multi-agent memory system",
+          "procedural memory",
+          "typed memory agents",
+          "provenance hypergraph",
+          "episodic records"
+        ],
+        "url": "https://arxiv.org/abs/2611.12068",
+        "arxiv_url": "https://arxiv.org/abs/2611.12068",
+        "discussion_url": "https://huggingface.co/papers/2611.12068",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.15131",
+        "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+        "authors": [
+          "Hengyuan Cao",
+          "Biao Gong",
+          "Guoshan Lu",
+          "Qiyuan Zhang",
+          "Lin Liu",
+          "Yiding Tian",
+          "Yilei Jiang",
+          "Yuxin Ma"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 46,
+        "comments": 3,
+        "discussion_score": 466.71,
+        "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
+        "keywords": [
+          "Reciprocal World Model",
+          "Duo v1",
+          "full-duplex world model",
+          "autoregressive modeling",
+          "diffusion models",
+          "continuous interaction reasoning",
+          "participation decisions",
+          "Intent"
+        ],
+        "url": "https://arxiv.org/abs/2611.15131",
+        "arxiv_url": "https://arxiv.org/abs/2611.15131",
+        "discussion_url": "https://huggingface.co/papers/2611.15131",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -563,45 +626,12 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 46,
         "comments": 3,
-        "discussion_score": 466.58,
+        "discussion_score": 466.57,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
         "arxiv_url": "https://arxiv.org/abs/2611.13004",
         "discussion_url": "https://huggingface.co/papers/2611.13004",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.15131",
-        "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
-        "authors": [
-          "Hengyuan Cao",
-          "Biao Gong",
-          "Guoshan Lu",
-          "Qiyuan Zhang",
-          "Lin Liu",
-          "Yiding Tian",
-          "Yilei Jiang",
-          "Yuxin Ma"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 45,
-        "comments": 3,
-        "discussion_score": 456.73,
-        "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
-        "keywords": [
-          "Reciprocal World Model",
-          "Duo v1",
-          "full-duplex world model",
-          "autoregressive modeling",
-          "diffusion models",
-          "continuous interaction reasoning",
-          "participation decisions",
-          "Intent"
-        ],
-        "url": "https://arxiv.org/abs/2611.15131",
-        "arxiv_url": "https://arxiv.org/abs/2611.15131",
-        "discussion_url": "https://huggingface.co/papers/2611.15131",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -619,7 +649,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 41,
         "comments": 7,
-        "discussion_score": 424.58,
+        "discussion_score": 424.57,
         "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
         "keywords": [
           "tabular generation",
@@ -634,39 +664,6 @@
         "url": "https://arxiv.org/abs/2611.13001",
         "arxiv_url": "https://arxiv.org/abs/2611.13001",
         "discussion_url": "https://huggingface.co/papers/2611.13001",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.16748",
-        "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
-        "authors": [
-          "Yuxuan Chen",
-          "Xiaojie Li",
-          "Hao Chen",
-          "Juncheng Ma",
-          "Kewei Zhang",
-          "Zhongjing Du",
-          "Guoqiang Wei",
-          "Fangfang Wang"
-        ],
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "upvotes": 41,
-        "comments": 4,
-        "discussion_score": 418.77,
-        "summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
-        "keywords": [
-          "video generation models",
-          "physical dynamics",
-          "causal consistency",
-          "large language models",
-          "physically grounded self-improvement",
-          "controllable training-data construction",
-          "inference-time video repair",
-          "recursive self-improvement"
-        ],
-        "url": "https://arxiv.org/abs/2611.16748",
-        "arxiv_url": "https://arxiv.org/abs/2611.16748",
-        "discussion_url": "https://huggingface.co/papers/2611.16748",
         "source": "Hugging Face Daily Papers"
       }
     ]

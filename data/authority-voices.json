@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:32:34.788627+00:00",
+  "generated_at": "2026-11-17T02:10:15.805660+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1397,
+      "items_scanned": 1398,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-16T17:00:00+00:00"
@@ -133,7 +133,7 @@
       "id": "9fae1493f0a4fd7a",
       "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
       "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents are increasingly help developers fix bugs and build features largely on their own, but every interaction with their models consumes tokens. In each session, an agent sends instructions, tool descriptions, and session history to its model. Most efforts to reduce this cost focus on individual tasks. Yet…",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The pos…",
       "published_at": "2026-11-16T17:01:35+00:00",
       "source_id": "microsoft_research",
       "source_name": "Microsoft Research",

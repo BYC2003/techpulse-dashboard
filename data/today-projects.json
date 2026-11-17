@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:32:10.026119Z",
+  "generated_at": "2026-11-17T02:09:53.492504Z",
   "date": "2026-11-17",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-16T18:31:03.918237Z"
+      "observed_at": "2026-11-17T02:08:55.484744Z"
     },
     {
-      "id": "project_bb1ed0d41cdc",
-      "project_name": "OpenFrame",
-      "url": "https://www.producthunt.com/products/openframe-3",
-      "summary": "AI agents that run your IT. You approve every fix.",
+      "id": "project_5f1b22720305",
+      "project_name": "ChatGPT Wallet",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "summary": "Let ChatGPT agents buy things without seeing your card",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI agents that run your IT. You approve every fix」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI agents that run your IT. You approve every fix\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-04T18:56:32Z",
-      "updated_at": "2026-11-16T18:31:17Z",
+      "recommend_reason_zh": "体验它主打的「Let ChatGPT agents buy things without seeing your card」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Let ChatGPT agents buy things without seeing your card\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T18:06:13Z",
+      "updated_at": "2026-11-17T01:10:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T18:31:50.045960Z"
+      "observed_at": "2026-11-17T02:09:41.587448Z"
     },
     {
       "id": "project_ec453d1217c2",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-16T18:31:03.918237Z"
+      "observed_at": "2026-11-17T02:08:55.484744Z"
     },
     {
-      "id": "project_5f1b22720305",
-      "project_name": "ChatGPT Wallet",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "summary": "Let ChatGPT agents buy things without seeing your card",
+      "id": "project_0475cd6c57bf",
+      "project_name": "Degla AI",
+      "url": "https://www.producthunt.com/products/degla-ai",
+      "summary": "Your intent. Onboard Autonomous Execution.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Let ChatGPT agents buy things without seeing your card」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Let ChatGPT agents buy things without seeing your card\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T18:06:13Z",
-      "updated_at": "2026-11-16T18:29:36Z",
+      "recommend_reason_zh": "体验它主打的「Your intent. Onboard Autonomous Execution」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your intent. Onboard Autonomous Execution\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T17:20:36Z",
+      "updated_at": "2026-11-17T00:18:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T18:31:50.045960Z"
+      "observed_at": "2026-11-17T02:09:41.587448Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 1420,
+      "item_count": 14,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 129,
+      "duration_ms": 99,
       "error": null
     }
   ]

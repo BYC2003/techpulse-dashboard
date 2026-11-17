@@ -5,26 +5,26 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 16 Nov 2026 18:31:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 02:08:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>通过新工具和支持加强打击网上儿童性虐待 / Strengthening the fight against online child sexual abuse with new tools and support</title>
+<title>加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse with new tools and support</title>
 <link>https://openai.com/index/strengthening-online-child-safety</link>
 <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 18:12:48 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 00:46:38 +0000</pubDate>
 </item>
 <item>
-<title>批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories</title>
-<link>https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</guid>
+<title>GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9</title>
+<link>https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 15:50:22 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 21:34:53 +0000</pubDate>
 </item>
 <item>
-<title>新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep</title>
+<title>New Ask Maps features to help with holiday travel and prep</title>
 <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</guid>
 <description>Google AI Blog</description>
@@ -32,12 +32,20 @@
 <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>扩大科学家使用人工智能的机会 / Broadening access to AI for scientists</title>
-<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+<title>Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year</title>
+<link>https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
+</item>
+<item>
+<title>Our first phase of embedded assessments</title>
+<link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+<guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 16:07:20 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
@@ -64,31 +72,71 @@
 <pubDate>Mon, 16 Nov 2026 03:13:13 +0000</pubDate>
 </item>
 <item>
-<title>在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo</title>
-<link>https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</guid>
+<title>奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过</title>
+<link>https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms</link>
+<guid isPermaLink="true">https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms</guid>
+<description>IT之家·人工智能</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 01:03:01 +0000</pubDate>
+</item>
+<item>
+<title>科技界人士质疑黄仁勋辞职背后存在针对其的谋划</title>
+<link>https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</link>
+<guid isPermaLink="true">https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</guid>
+<description>The Verge：AI</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026</title>
+<link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 14:30:07 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
 </item>
 <item>
-<title>前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT</title>
-<link>https://openai.com/index/science-at-the-frontier</link>
-<guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络</title>
-<link>https://aihot.news/items/zficxtnfx6piiwlefryulanmh</link>
-<guid isPermaLink="true">https://aihot.news/items/zficxtnfx6piiwlefryulanmh</guid>
+<title>Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题</title>
+<link>https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r</link>
+<guid isPermaLink="true">https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r</guid>
 <description>TechCrunch：AI</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:36:43 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 22:03:02 +0000</pubDate>
 </item>
 <item>
-<title>Microsoft Research 开源 TokenEconomizer 插件，让编码智能体从经验中省 token</title>
+<title>NotebookLM 推出来源一键生成可分享网站功能</title>
+<link>https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390</link>
+<guid isPermaLink="true">https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390</guid>
+<description>Gemini Notebook</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 21:06:23 +0000</pubDate>
+</item>
+<item>
+<title>Broadening access to AI for scientists</title>
+<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元</title>
+<link>https://www.aibase.com/news/32345</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32345</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 02:08:55 +0000</pubDate>
+</item>
+<item>
+<title>Redwood Research：Gemini 4 安全报告未能证明失控风险低</title>
+<link>https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</link>
+<guid isPermaLink="true">https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</guid>
+<description>Redwood Research：Blog</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 17:21:38 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%</title>
 <link>https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</link>
 <guid isPermaLink="true">https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</guid>
 <description>Microsoft Research 博客</description>
@@ -118,54 +166,6 @@
 <description>Philipp Schmid</description>
 <category>行业动态</category>
 <pubDate>Mon, 16 Nov 2026 16:02:31 +0000</pubDate>
-</item>
-<item>
-<title>Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本</title>
-<link>https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z</link>
-<guid isPermaLink="true">https://aihot.news/items/v8ml9usyo7vicoqktyv5cdi0z</guid>
-<description>Lovable Blog</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
-</item>
-<item>
-<title>英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%</title>
-<link>https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7</link>
-<guid isPermaLink="true">https://aihot.news/items/rk143d9qa0j9gp3fdti162fy7</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
-<link>https://www.aibase.com/news/32323</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32323</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 18:31:03 +0000</pubDate>
-</item>
-<item>
-<title>自媒体作者分享10条指挥Agent最常用的Prompt</title>
-<link>https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga</link>
-<guid isPermaLink="true">https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 10:05:59 +0000</pubDate>
-</item>
-<item>
-<title>IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元</title>
-<link>https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7</link>
-<guid isPermaLink="true">https://aihot.news/items/leb3cw7nrt06nvf0ew7rkiqf7</guid>
-<description>IT之家·人工智能</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 09:32:58 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型</title>
-<link>https://aihot.news/items/u36vxmxeopbsx4if4lap30899</link>
-<guid isPermaLink="true">https://aihot.news/items/u36vxmxeopbsx4if4lap30899</guid>
-<description>腾讯混元：Research</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 04:29:37 +0000</pubDate>
 </item>
 </channel>
 </rss>
