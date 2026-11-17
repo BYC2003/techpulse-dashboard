@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 19:26:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:52:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
@@ -16,12 +16,12 @@
 <pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
+<title>OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
+<link>https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:20:29 +0000</pubDate>
 </item>
 <item>
 <title>让Gemini为你工作 / Put Gemini to work for you</title>
@@ -40,6 +40,14 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview</title>
 <link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
@@ -48,12 +56,12 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more</title>
-<link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
+<title>OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型</title>
+<link>https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g</link>
+<guid isPermaLink="true">https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g</guid>
+<description>OpenClaw</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 19:47:03 +0000</pubDate>
 </item>
 <item>
 <title>Microsoft 在 Ignite 2026 发布 Copilot、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等全栈更新</title>
@@ -64,12 +72,12 @@
 <pubDate>Tue, 17 Nov 2026 18:36:03 +0000</pubDate>
 </item>
 <item>
-<title>Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，定价 $0.01 每分钟音频</title>
-<link>https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb</link>
-<guid isPermaLink="true">https://aihot.news/items/eewx1bbnzfmbj6r40v7b6s6nb</guid>
+<title>Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型</title>
+<link>https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</link>
+<guid isPermaLink="true">https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</guid>
 <description>Microsoft AI：官方博客</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:15:16 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter</title>
@@ -86,14 +94,6 @@
 <description>Replit：Blog</description>
 <category>行业动态</category>
 <pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Analysis 评测 GPT-6.2 Astra 与 GPT-6.2 Sol：智能指数第二，编码代理无提升</title>
-<link>https://aihot.news/items/vop48ebueqjbpzs25hyrsi02m</link>
-<guid isPermaLink="true">https://aihot.news/items/vop48ebueqjbpzs25hyrsi02m</guid>
-<description>Artificial Analysis</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 17:56:04 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol</title>
@@ -128,20 +128,20 @@
 <pubDate>Tue, 17 Nov 2026 16:22:59 +0000</pubDate>
 </item>
 <item>
-<title>Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业</title>
-<link>https://aihot.news/items/qubbawlazjl89lsosb25kr553</link>
-<guid isPermaLink="true">https://aihot.news/items/qubbawlazjl89lsosb25kr553</guid>
-<description>Ed Zitron 长文 / Where’s Your Ed At</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 15:43:58 +0000</pubDate>
-</item>
-<item>
 <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
 <link>https://huggingface.co/blog/openrouter</link>
 <guid isPermaLink="true">https://huggingface.co/blog/openrouter</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业</title>
+<link>https://aihot.news/items/qubbawlazjl89lsosb25kr553</link>
+<guid isPermaLink="true">https://aihot.news/items/qubbawlazjl89lsosb25kr553</guid>
+<description>Ed Zitron 长文 / Where’s Your Ed At</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 15:43:58 +0000</pubDate>
 </item>
 <item>
 <title>可灵 AI 发布 Kling Image 4.0 图像模型并开放 API</title>

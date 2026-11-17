@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:28:29.144791+00:00",
+  "generated_at": "2026-11-17T20:54:44.756203+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 117,
+        "upvotes": 118,
         "comments": 4,
-        "discussion_score": 1178.77,
+        "discussion_score": 1188.77,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -456,7 +456,7 @@
         "published_at": "2026-11-11T00:00:00+00:00",
         "upvotes": 88,
         "comments": 3,
-        "discussion_score": 886.68,
+        "discussion_score": 886.67,
         "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.15789",
@@ -478,9 +478,9 @@
           "Lixin Gu"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 83,
+        "upvotes": 84,
         "comments": 1,
-        "discussion_score": 832.91,
+        "discussion_score": 842.91,
         "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we co…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21072",
@@ -502,9 +502,9 @@
           "Weisi Lin"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 66,
+        "upvotes": 67,
         "comments": 3,
-        "discussion_score": 666.87,
+        "discussion_score": 676.86,
         "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
         "keywords": [
           "flow-matching framework",
@@ -535,9 +535,9 @@
           "Mikhail Yurochkin"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 66,
+        "upvotes": 67,
         "comments": 1,
-        "discussion_score": 662.91,
+        "discussion_score": 672.91,
         "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21003",
@@ -635,7 +635,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 44,
         "comments": 2,
-        "discussion_score": 444.87,
+        "discussion_score": 444.86,
         "summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
         "keywords": [
           "coding agent",
