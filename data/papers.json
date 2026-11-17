@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:10:21.228436+00:00",
+  "generated_at": "2026-11-17T10:50:59.759163+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Shizun Wang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 110,
+        "upvotes": 120,
         "comments": 5,
-        "discussion_score": 1110.81,
+        "discussion_score": 1210.79,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 89,
+        "upvotes": 103,
         "comments": 4,
-        "discussion_score": 898.81,
+        "discussion_score": 1038.79,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -441,6 +441,30 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.15789",
+        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+        "authors": [
+          "Yuzhe Chen",
+          "Muxi Diao",
+          "Lele Yang",
+          "Wenbin Xu",
+          "Xuyang Liu",
+          "Qile Su",
+          "Changyi Liu",
+          "Jiankang Chen"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 88,
+        "comments": 3,
+        "discussion_score": 886.69,
+        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.15789",
+        "arxiv_url": "https://arxiv.org/abs/2611.15789",
+        "discussion_url": "https://huggingface.co/papers/2611.15789",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.15777",
         "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
         "authors": [
@@ -451,9 +475,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 86,
-        "comments": 3,
-        "discussion_score": 866.71,
+        "upvotes": 87,
+        "comments": 4,
+        "discussion_score": 878.69,
         "summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
         "keywords": [
           "System One models",
@@ -471,30 +495,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.15789",
-        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
-        "authors": [
-          "Yuzhe Chen",
-          "Muxi Diao",
-          "Lele Yang",
-          "Wenbin Xu",
-          "Xuyang Liu",
-          "Qile Su",
-          "Changyi Liu",
-          "Jiankang Chen"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 84,
-        "comments": 3,
-        "discussion_score": 846.71,
-        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.15789",
-        "arxiv_url": "https://arxiv.org/abs/2611.15789",
-        "discussion_url": "https://huggingface.co/papers/2611.15789",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.14815",
         "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
         "authors": [
@@ -508,43 +508,12 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 56,
         "comments": 3,
-        "discussion_score": 566.66,
+        "discussion_score": 566.65,
         "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introd…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.14815",
         "arxiv_url": "https://arxiv.org/abs/2611.14815",
         "discussion_url": "https://huggingface.co/papers/2611.14815",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2610.40394",
-        "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
-        "authors": [
-          "Youqing Fang",
-          "Zhouqi Hua",
-          "Yinhao Tang",
-          "Yuzhe Gu",
-          "Lingkai Kong",
-          "Bin Liu",
-          "Weiming Zhang",
-          "Kai Chen"
-        ],
-        "published_at": "2026-10-29T00:00:00+00:00",
-        "upvotes": 50,
-        "comments": 3,
-        "discussion_score": 506.09,
-        "summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
-        "keywords": [
-          "language models",
-          "fine-tuning",
-          "curriculum learning",
-          "scaling patterns",
-          "instruction-data baselines",
-          "mathematical reasoning"
-        ],
-        "url": "https://arxiv.org/abs/2610.40394",
-        "arxiv_url": "https://arxiv.org/abs/2610.40394",
-        "discussion_url": "https://huggingface.co/papers/2610.40394",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -558,9 +527,9 @@
           "Yu Wang"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 47,
+        "upvotes": 50,
         "comments": 4,
-        "discussion_score": 478.61,
+        "discussion_score": 508.6,
         "summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
         "keywords": [
           "LLM agents",
@@ -578,6 +547,39 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.19937",
+        "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+        "authors": [
+          "Annan Wang",
+          "Yuchen Xie",
+          "Yu Cen",
+          "Leon Liangyu Chen",
+          "Qianyu Julie Zhu",
+          "Xin Li",
+          "Tianyi Wei",
+          "Weisi Lin"
+        ],
+        "published_at": "2026-11-15T00:00:00+00:00",
+        "upvotes": 47,
+        "comments": 3,
+        "discussion_score": 476.88,
+        "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
+        "keywords": [
+          "flow-matching framework",
+          "cross-asset flow Transformer",
+          "temporal market representations",
+          "continuous signed position weights",
+          "two-stage training scheme",
+          "strategy-supervised imitation",
+          "group-relative reinforcement learning",
+          "frozen policy reference"
+        ],
+        "url": "https://arxiv.org/abs/2611.19937",
+        "arxiv_url": "https://arxiv.org/abs/2611.19937",
+        "discussion_url": "https://huggingface.co/papers/2611.19937",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.15131",
         "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
         "authors": [
@@ -591,9 +593,9 @@
           "Yuxin Ma"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 46,
+        "upvotes": 47,
         "comments": 3,
-        "discussion_score": 466.71,
+        "discussion_score": 476.69,
         "summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
         "keywords": [
           "Reciprocal World Model",
@@ -626,7 +628,7 @@
         "published_at": "2026-11-08T00:00:00+00:00",
         "upvotes": 46,
         "comments": 3,
-        "discussion_score": 466.57,
+        "discussion_score": 466.55,
         "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framew…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.13004",
@@ -635,35 +637,27 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.13001",
-        "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+        "id": "2611.21003",
+        "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
         "authors": [
-          "Yuanrui Wang",
-          "Kaifang Li",
-          "Xuanyue Li",
-          "Ziyun Li",
-          "Yan Lu",
-          "Xingxuan Zhang",
-          "Peng Cui"
+          "K2 Team",
+          "Zhengzhong Liu",
+          "Haonan Li",
+          "Xuezhe Ma",
+          "Alexander Moreno",
+          "Subham Sekhar Sahoo",
+          "Rupesh Kumar Srivastava",
+          "Mikhail Yurochkin"
         ],
-        "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 41,
-        "comments": 7,
-        "discussion_score": 424.57,
-        "summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
-        "keywords": [
-          "tabular generation",
-          "imputation",
-          "prediction",
-          "backbones",
-          "objective combinations",
-          "frozen foundation models",
-          "synthetic-data utility",
-          "distributional fidelity"
-        ],
-        "url": "https://arxiv.org/abs/2611.13001",
-        "arxiv_url": "https://arxiv.org/abs/2611.13001",
-        "discussion_url": "https://huggingface.co/papers/2611.13001",
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 46,
+        "comments": 1,
+        "discussion_score": 462.93,
+        "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.21003",
+        "arxiv_url": "https://arxiv.org/abs/2611.21003",
+        "discussion_url": "https://huggingface.co/papers/2611.21003",
         "source": "Hugging Face Daily Papers"
       }
     ]

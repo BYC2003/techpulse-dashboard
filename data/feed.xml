@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 02:08:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:49:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse with new tools and support</title>
@@ -32,20 +32,12 @@
 <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year</title>
-<link>https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
-</item>
-<item>
-<title>Our first phase of embedded assessments</title>
-<link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
-<guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+<title>利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI</title>
+<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 16:07:20 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
@@ -56,12 +48,28 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year</title>
+<link>https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
+</item>
+<item>
 <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era - MiniMax Research</title>
 <link>https://www.minimax.io/blog/minimax-h3-image</link>
 <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
 <description>MiniMax Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 16 Nov 2026 06:26:49 +0000</pubDate>
+</item>
+<item>
+<title>Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞</title>
+<link>https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu</link>
+<guid isPermaLink="true">https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu</guid>
+<description>IT之家·人工智能</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 09:41:54 +0000</pubDate>
 </item>
 <item>
 <title>ByteDance Seed</title>
@@ -72,20 +80,28 @@
 <pubDate>Mon, 16 Nov 2026 03:13:13 +0000</pubDate>
 </item>
 <item>
-<title>奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过</title>
-<link>https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms</link>
-<guid isPermaLink="true">https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms</guid>
-<description>IT之家·人工智能</description>
+<title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
+<link>https://www.aibase.com/news/32354</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 01:03:01 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 10:49:28 +0000</pubDate>
 </item>
 <item>
-<title>科技界人士质疑黄仁勋辞职背后存在针对其的谋划</title>
-<link>https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</link>
-<guid isPermaLink="true">https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</guid>
-<description>The Verge：AI</description>
+<title>OpenAI 向 NATO 及盟国网络防御机构开放 Daybreak 网络安全模型</title>
+<link>https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</link>
+<guid isPermaLink="true">https://aihot.news/items/t48n0jqxc0g3hsc324hlwhlhk</guid>
+<description>OpenAI：官网动态</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Our first phase of embedded assessments</title>
+<link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+<guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 16 Nov 2026 16:07:20 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026</title>
@@ -94,6 +110,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
+</item>
+<item>
+<title>科技界人士质疑黄仁勋辞职背后存在针对其的谋划</title>
+<link>https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</link>
+<guid isPermaLink="true">https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx</guid>
+<description>The Verge：AI</description>
+<category>行业动态</category>
+<pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题</title>
@@ -112,36 +136,12 @@
 <pubDate>Mon, 16 Nov 2026 21:06:23 +0000</pubDate>
 </item>
 <item>
-<title>Broadening access to AI for scientists</title>
-<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元</title>
-<link>https://www.aibase.com/news/32345</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32345</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 02:08:55 +0000</pubDate>
-</item>
-<item>
 <title>Redwood Research：Gemini 4 安全报告未能证明失控风险低</title>
 <link>https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</link>
 <guid isPermaLink="true">https://aihot.news/items/naql5xzzrykngxhvhd6vin5yn</guid>
 <description>Redwood Research：Blog</description>
 <category>行业动态</category>
 <pubDate>Mon, 16 Nov 2026 17:21:38 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%</title>
-<link>https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</link>
-<guid isPermaLink="true">https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</guid>
-<description>Microsoft Research 博客</description>
-<category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
 </item>
 <item>
 <title>Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本</title>
@@ -152,12 +152,12 @@
 <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预</title>
-<link>https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p</link>
-<guid isPermaLink="true">https://aihot.news/items/cidgb5cgquwqxtiydrzykwc2p</guid>
-<description>OpenAI：官网动态</description>
+<title>Microsoft Research 发布开源插件 TokenEconomizer，借仓库历史经验为 AI 编码 Agent 降本 18.4–30.9%</title>
+<link>https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</link>
+<guid isPermaLink="true">https://aihot.news/items/ub0r10tgaq7g5nnq01ciz9d17</guid>
+<description>Microsoft Research 博客</description>
 <category>行业动态</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型</title>

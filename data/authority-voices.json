@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:10:15.805660+00:00",
+  "generated_at": "2026-11-17T10:50:54.832730+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-13T05:00:00+00:00"
+      "latest_at": "2026-11-17T05:00:00+00:00"
     },
     {
       "id": "bair",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1398,
+      "items_scanned": 1400,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-16T17:00:00+00:00"
@@ -129,6 +129,36 @@
     }
   ],
   "items": [
+    {
+      "id": "bc2e238ff4158842",
+      "title": "Q&A: Why building math muscles remains important in the AI era",
+      "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "interview",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "b828652ea69a1d10",
+      "title": "Learning the language of machine learning",
+      "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+      "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "9fae1493f0a4fd7a",
       "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
@@ -280,21 +310,6 @@
       "is_opinion": true
     },
     {
-      "id": "6d904a42b0b7f9d0",
-      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-      "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
-      "published_at": "2026-11-12T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "d2315804aef8ce21",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -353,21 +368,6 @@
       "trust_label": "官方实验室",
       "verification": "机构官方发布，以原文为准",
       "is_opinion": true
-    },
-    {
-      "id": "ea837826fd8c417d",
-      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
-      "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
-      "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
-      "published_at": "2026-11-10T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
     },
     {
       "id": "b6fad93fdfee6d03",
