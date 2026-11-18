@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:11:26.678794+00:00",
+  "generated_at": "2026-11-18T20:30:20.068353+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-18T05:00:00+00:00"
+      "latest_at": "2026-11-18T19:00:00+00:00"
     },
     {
       "id": "bair",
@@ -98,10 +98,10 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1408,
+      "items_scanned": 1411,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-16T17:00:00+00:00"
+      "latest_at": "2026-11-18T06:00:00+00:00"
     },
     {
       "id": "dwarkesh",
@@ -129,6 +129,36 @@
     }
   ],
   "items": [
+    {
+      "id": "b183f0dc91b65f83",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+      "published_at": "2026-11-18T19:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
+    {
+      "id": "1bf38dbe46f03fbd",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
     {
       "id": "7dd6b96eba367cd6",
       "title": "Helping AI text detectors keep up with changing conditions",
@@ -190,21 +220,6 @@
       "is_opinion": true
     },
     {
-      "id": "b828652ea69a1d10",
-      "title": "Learning the language of machine learning",
-      "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-      "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
-      "published_at": "2026-11-17T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "9fae1493f0a4fd7a",
       "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
       "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
@@ -240,21 +255,6 @@
       "url": "https://openai.com/index/science-at-the-frontier",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "published_at": "2026-11-16T12:00:00+00:00",
-      "source_id": "openai",
-      "source_name": "OpenAI News",
-      "source_kind": "lab",
-      "category": "viewpoint",
-      "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
-      "id": "71f9e7fa15654d3b",
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "published_at": "2026-11-16T08:00:00+00:00",
       "source_id": "openai",
       "source_name": "OpenAI News",
       "source_kind": "lab",
