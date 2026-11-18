@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:54:44.756203+00:00",
+  "generated_at": "2026-11-18T01:51:57.048198+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -390,7 +390,7 @@
         "published_at": "2026-11-13T00:00:00+00:00",
         "upvotes": 124,
         "comments": 5,
-        "discussion_score": 1250.77,
+        "discussion_score": 1250.76,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 118,
+        "upvotes": 120,
         "comments": 4,
-        "discussion_score": 1188.77,
+        "discussion_score": 1208.76,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -456,7 +456,7 @@
         "published_at": "2026-11-11T00:00:00+00:00",
         "upvotes": 88,
         "comments": 3,
-        "discussion_score": 886.67,
+        "discussion_score": 886.66,
         "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.15789",
@@ -478,14 +478,38 @@
           "Lixin Gu"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 84,
-        "comments": 1,
-        "discussion_score": 842.91,
+        "upvotes": 85,
+        "comments": 4,
+        "discussion_score": 858.9,
         "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we co…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21072",
         "arxiv_url": "https://arxiv.org/abs/2611.21072",
         "discussion_url": "https://huggingface.co/papers/2611.21072",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21003",
+        "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+        "authors": [
+          "K2 Team",
+          "Zhengzhong Liu",
+          "Haonan Li",
+          "Xuezhe Ma",
+          "Alexander Moreno",
+          "Subham Sekhar Sahoo",
+          "Rupesh Kumar Srivastava",
+          "Mikhail Yurochkin"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 72,
+        "comments": 2,
+        "discussion_score": 724.9,
+        "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.21003",
+        "arxiv_url": "https://arxiv.org/abs/2611.21003",
+        "discussion_url": "https://huggingface.co/papers/2611.21003",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -503,8 +527,8 @@
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 67,
-        "comments": 3,
-        "discussion_score": 676.86,
+        "comments": 4,
+        "discussion_score": 678.85,
         "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
         "keywords": [
           "flow-matching framework",
@@ -522,30 +546,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.21003",
-        "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-        "authors": [
-          "K2 Team",
-          "Zhengzhong Liu",
-          "Haonan Li",
-          "Xuezhe Ma",
-          "Alexander Moreno",
-          "Subham Sekhar Sahoo",
-          "Rupesh Kumar Srivastava",
-          "Mikhail Yurochkin"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 67,
-        "comments": 1,
-        "discussion_score": 672.91,
-        "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.21003",
-        "arxiv_url": "https://arxiv.org/abs/2611.21003",
-        "discussion_url": "https://huggingface.co/papers/2611.21003",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.21218",
         "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
         "authors": [
@@ -553,8 +553,8 @@
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 62,
-        "comments": 1,
-        "discussion_score": 622.91,
+        "comments": 2,
+        "discussion_score": 624.9,
         "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
         "keywords": [
           "large language models",
@@ -571,6 +571,25 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.07222",
+        "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
+        "authors": [
+          "Woosang Lim",
+          "Yeseul Chang",
+          "Jaewoo Lee"
+        ],
+        "published_at": "2026-11-04T00:00:00+00:00",
+        "upvotes": 56,
+        "comments": 2,
+        "discussion_score": 564.33,
+        "summary": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a language model on the decision that lets an action through, so the decision depends on a model that may read the attacker's text and adds model calls to every step. Provenance defenses keep the model off the final check but need a model to plan or route each task first. Where an action goes can instead be read from the tool…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.07222",
+        "arxiv_url": "https://arxiv.org/abs/2611.07222",
+        "discussion_url": "https://huggingface.co/papers/2611.07222",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.12068",
         "title": "MIRIX-2.0: Multi-Agent Memory System",
         "authors": [
@@ -583,7 +602,7 @@
         "published_at": "2026-11-09T00:00:00+00:00",
         "upvotes": 53,
         "comments": 4,
-        "discussion_score": 538.58,
+        "discussion_score": 538.57,
         "summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
         "keywords": [
           "LLM agents",
@@ -601,25 +620,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.07222",
-        "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
-        "authors": [
-          "Woosang Lim",
-          "Yeseul Chang",
-          "Jaewoo Lee"
-        ],
-        "published_at": "2026-11-04T00:00:00+00:00",
-        "upvotes": 48,
-        "comments": 1,
-        "discussion_score": 482.34,
-        "summary": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a language model on the decision that lets an action through, so the decision depends on a model that may read the attacker's text and adds model calls to every step. Provenance defenses keep the model off the final check but need a model to plan or route each task first. Where an action goes can instead be read from the tool…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.07222",
-        "arxiv_url": "https://arxiv.org/abs/2611.07222",
-        "discussion_url": "https://huggingface.co/papers/2611.07222",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.20218",
         "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
         "authors": [
@@ -633,9 +633,9 @@
           "Han Li"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 44,
-        "comments": 2,
-        "discussion_score": 444.86,
+        "upvotes": 46,
+        "comments": 4,
+        "discussion_score": 468.85,
         "summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
         "keywords": [
           "coding agent",
