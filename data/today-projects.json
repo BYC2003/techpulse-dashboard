@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T11:39:00.570941Z",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-18T18:11:01.720807Z",
+  "date": "2026-11-19",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T11:38:00.306492Z"
+      "observed_at": "2026-11-18T18:09:35.420941Z"
     },
     {
-      "id": "project_f6f0b21aa3e6",
-      "project_name": "GPT-6.2 Astra and Sol",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
+      "id": "project_c72b32fe62bb",
+      "project_name": "ICONS",
+      "url": "https://www.producthunt.com/products/icons-2",
+      "summary": "Where brands book creators, or license their AI likeness",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Two new OpenAI models: frontier Astra and efficient Sol」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Two new OpenAI models: frontier Astra and efficient Sol\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T18:06:04Z",
-      "updated_at": "2026-11-18T11:38:35Z",
+      "recommend_reason_zh": "体验它主打的「Where brands book creators, or license their AI likeness」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Where brands book creators, or license their AI likeness\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-14T17:43:08Z",
+      "updated_at": "2026-11-18T17:53:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T11:38:50.552951Z"
+      "observed_at": "2026-11-18T18:10:50.113522Z"
     },
     {
       "id": "project_1fb256ce62b7",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T11:38:00.306492Z"
+      "observed_at": "2026-11-18T18:09:35.420941Z"
     },
     {
-      "id": "project_9df30e8d6e9e",
-      "project_name": "canfit",
-      "url": "https://www.producthunt.com/products/canfit",
-      "summary": "The top command for people running local LLMs and apps",
+      "id": "project_cd812058f724",
+      "project_name": "S.Space",
+      "url": "https://www.producthunt.com/products/s-space",
+      "summary": "Your team and everyone's AI agents, in one workspace",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The top command for people running local LLMs and apps」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The top command for people running local LLMs and apps\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-16T17:42:21Z",
-      "updated_at": "2026-11-18T11:38:32Z",
+      "recommend_reason_zh": "体验它主打的「Your team and everyone's AI agents, in one workspace」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your team and everyone's AI agents, in one workspace\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-15T13:26:16Z",
+      "updated_at": "2026-11-18T18:08:30Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T11:38:50.552951Z"
+      "observed_at": "2026-11-18T18:10:50.113522Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1824,
+      "duration_ms": 1791,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 143,
+      "item_count": 50,
+      "duration_ms": 183,
       "error": null
     }
   ]

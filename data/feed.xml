@@ -5,15 +5,31 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 11:38:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:09:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Introducing GPT-6.2 Astra and Sol</title>
-<link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
-<description>OpenAI News</description>
+<title>Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 应用程序现在可在内存较低的 Android 设备上使用。 / The Gemini app is now available on lower-memory Android devices.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team</title>
+<link>https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.170.0</title>
@@ -24,12 +40,76 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
+<link>https://huggingface.co/blog/moe-expert-streaming</link>
+<guid isPermaLink="true">https://huggingface.co/blog/moe-expert-streaming</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Advancing chip design with OpenAI models</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元宣布 11 月 20 日在 Reddit r/LocalLLaMA 举办 AMA</title>
+<link>https://aihot.news/items/j8qdprqh5i5n9n7ece0f411f1</link>
+<guid isPermaLink="true">https://aihot.news/items/j8qdprqh5i5n9n7ece0f411f1</guid>
+<description>腾讯混元</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 16:46:05 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
 <link>https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 20:20:29 +0000</pubDate>
+</item>
+<item>
+<title>Vals AI 评测：Anthropic、OpenAI 和 Google 模型易将医护人员与投降士兵标记为自杀式无人机目标</title>
+<link>https://aihot.news/items/yf91syits6gqn8qvtksix0kdj</link>
+<guid isPermaLink="true">https://aihot.news/items/yf91syits6gqn8qvtksix0kdj</guid>
+<description>The Decoder：AI News</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 15:47:49 +0000</pubDate>
+</item>
+<item>
+<title>Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007</title>
+<link>https://aihot.news/items/x8i90coywg5pag1dmf436vgg5</link>
+<guid isPermaLink="true">https://aihot.news/items/x8i90coywg5pag1dmf436vgg5</guid>
+<description>Wiz：Research</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 15:13:20 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢</title>
+<link>https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</link>
+<guid isPermaLink="true">https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</guid>
+<description>IT之家·人工智能</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
+</item>
+<item>
+<title>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单</title>
+<link>https://www.aibase.com/news/32389</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32389</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 18:02:35 +0000</pubDate>
 </item>
 <item>
 <title>Put Gemini to work for you</title>
@@ -40,28 +120,28 @@
 <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
-<description>OpenAI News</description>
+<title>OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型</title>
+<link>https://aihot.news/items/oisr0dfay736le62g425urn8l</link>
+<guid isPermaLink="true">https://aihot.news/items/oisr0dfay736le62g425urn8l</guid>
+<description>Latent Space</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
+</item>
+<item>
+<title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+<link>https://huggingface.co/blog/rumble-2-flash</link>
+<guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
-<description>GitHub Changelog</description>
+<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢</title>
-<link>https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</link>
-<guid isPermaLink="true">https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</guid>
-<description>IT之家·人工智能</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异</title>
@@ -80,92 +160,12 @@
 <pubDate>Wed, 18 Nov 2026 05:30:49 +0000</pubDate>
 </item>
 <item>
-<title>腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本</title>
-<link>https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp</link>
-<guid isPermaLink="true">https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp</guid>
-<description>腾讯混元</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 04:39:34 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>Introducing GPT-6.2 Astra and Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
-<link>https://www.aibase.com/news/32379</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32379</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 11:38:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini API 支持直传 Office 文件并新增多模态内容切片</title>
-<link>https://aihot.news/items/a48izcq1y2jqtjr66xjvwqkak</link>
-<guid isPermaLink="true">https://aihot.news/items/a48izcq1y2jqtjr66xjvwqkak</guid>
-<description>Gemini API：更新日志</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot Evals is now in public preview</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
-<link>https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</link>
-<guid isPermaLink="true">https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen 全面上线 Google Search</title>
-<link>https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf</link>
-<guid isPermaLink="true">https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf</guid>
-<description>Google</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 22:35:20 +0000</pubDate>
-</item>
-<item>
-<title>深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯</title>
-<link>https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</link>
-<guid isPermaLink="true">https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
-</item>
-<item>
-<title>Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行</title>
-<link>https://aihot.news/items/r30kdvujcakiutm7umgxmije7</link>
-<guid isPermaLink="true">https://aihot.news/items/r30kdvujcakiutm7umgxmije7</guid>
-<description>Wiz：Research</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 22:29:57 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩</title>
-<link>https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah</link>
-<guid isPermaLink="true">https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah</guid>
-<description>Perplexity</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 22:10:02 +0000</pubDate>
-</item>
-<item>
-<title>OpenClaw 的 Sign in with ChatGPT 结束测试，支持 ChatGPT Business 及 GPT-6.2 Astra 与 Sol</title>
-<link>https://aihot.news/items/fatxhu2tz1d0g2g8412axx3k5</link>
-<guid isPermaLink="true">https://aihot.news/items/fatxhu2tz1d0g2g8412axx3k5</guid>
-<description>OpenClaw</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 21:49:52 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
