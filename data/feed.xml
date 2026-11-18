@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 09:16:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 11:38:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -24,7 +24,7 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
+<title>OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
 <link>https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available</guid>
 <description>GitHub Changelog</description>
@@ -48,20 +48,20 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere</title>
-<link>https://www.aibase.com/news/32382</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32382</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 09:16:17 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
 <link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢</title>
+<link>https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</link>
+<guid isPermaLink="true">https://aihot.news/items/yxu549lhmsyp0qe8rstrheqlw</guid>
+<description>IT之家·人工智能</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异</title>
@@ -96,12 +96,20 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元</title>
-<link>https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc</link>
-<guid isPermaLink="true">https://aihot.news/items/cxpq4gwitsj6r05zjpphx9agc</guid>
-<description>IT之家·人工智能</description>
+<title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
+<link>https://www.aibase.com/news/32379</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32379</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 00:12:10 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 11:38:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini API 支持直传 Office 文件并新增多模态内容切片</title>
+<link>https://aihot.news/items/a48izcq1y2jqtjr66xjvwqkak</link>
+<guid isPermaLink="true">https://aihot.news/items/a48izcq1y2jqtjr66xjvwqkak</guid>
+<description>Gemini API：更新日志</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot Evals is now in public preview</title>
@@ -158,14 +166,6 @@
 <description>OpenClaw</description>
 <category>行业动态</category>
 <pubDate>Tue, 17 Nov 2026 21:49:52 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code 推出实验性 Code Mode 工具调用方式</title>
-<link>https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp</link>
-<guid isPermaLink="true">https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp</guid>
-<description>Claude Devs</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 21:18:55 +0000</pubDate>
 </item>
 </channel>
 </rss>

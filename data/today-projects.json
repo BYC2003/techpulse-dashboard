@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:17:58.430904Z",
+  "generated_at": "2026-11-18T11:39:00.570941Z",
   "date": "2026-11-18",
   "total_items": 4,
   "items": [
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T09:16:17.211606Z"
+      "observed_at": "2026-11-18T11:38:00.306492Z"
     },
     {
-      "id": "project_911b3c0b848f",
-      "project_name": "LinkBit",
-      "url": "https://www.producthunt.com/products/linkbit",
-      "summary": "Free URL shortener your AI agent can use (MCP + API)",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "GPT-6.2 Astra and Sol",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Free URL shortener your AI agent can use (MCP + API)」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Free URL shortener your AI agent can use (MCP + API)\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T07:57:08Z",
-      "updated_at": "2026-11-18T09:17:37Z",
+      "recommend_reason_zh": "体验它主打的「Two new OpenAI models: frontier Astra and efficient Sol」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Two new OpenAI models: frontier Astra and efficient Sol\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T18:06:04Z",
+      "updated_at": "2026-11-18T11:38:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T09:17:46.513230Z"
+      "observed_at": "2026-11-18T11:38:50.552951Z"
     },
     {
-      "id": "project_01e478ba125a",
-      "project_name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "id": "project_1fb256ce62b7",
+      "project_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor plugin specification and official plugins",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Cursor plugin specification and official plugins」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Cursor plugin specification and official plugins\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T09:16:17.211606Z"
+      "observed_at": "2026-11-18T11:38:00.306492Z"
     },
     {
-      "id": "project_a500e5592344",
-      "project_name": "SaaS Toolkit MCP",
-      "url": "https://www.producthunt.com/products/saas-toolkit-mcp",
-      "summary": "An SDR and CMO on your site 24/7, for one JavaScript snippet",
+      "id": "project_9df30e8d6e9e",
+      "project_name": "canfit",
+      "url": "https://www.producthunt.com/products/canfit",
+      "summary": "The top command for people running local LLMs and apps",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「An SDR and CMO on your site 24/7, for one JavaScript snippet」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"An SDR and CMO on your site 24/7, for one JavaScript snippet\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T22:25:43Z",
-      "updated_at": "2026-11-18T09:17:37Z",
+      "recommend_reason_zh": "体验它主打的「The top command for people running local LLMs and apps」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The top command for people running local LLMs and apps\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-16T17:42:21Z",
+      "updated_at": "2026-11-18T11:38:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T09:17:46.513230Z"
+      "observed_at": "2026-11-18T11:38:50.552951Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 1381,
+      "item_count": 20,
+      "duration_ms": 1824,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 136,
+      "duration_ms": 143,
       "error": null
     }
   ]
