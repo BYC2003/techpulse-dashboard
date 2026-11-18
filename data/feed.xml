@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 02:53:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 09:16:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
+<title>Introducing GPT-6.2 Astra and Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.170.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
@@ -32,15 +40,23 @@
 <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
+<title>特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere</title>
+<link>https://www.aibase.com/news/32382</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32382</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 09:16:17 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
 <link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
 <description>GitHub Changelog</description>
@@ -48,20 +64,36 @@
 <pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
 </item>
 <item>
-<title>Introducing ChatGPT for Sales</title>
-<link>https://openai.com/index/introducing-chatgpt-for-sales</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-for-sales</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+<title>OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异</title>
+<link>https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf</link>
+<guid isPermaLink="true">https://aihot.news/items/sah26a5ofgvrxd76bgj9t77wf</guid>
+<description>Tibo</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 05:47:21 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T</title>
-<link>https://aihot.news/items/hpczcbqe8agr7jffko2cnsp31</link>
-<guid isPermaLink="true">https://aihot.news/items/hpczcbqe8agr7jffko2cnsp31</guid>
+<title>Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务</title>
+<link>https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00</link>
+<guid isPermaLink="true">https://aihot.news/items/znj4uw6kr9vt4uij9fmao9p00</guid>
 <description>Rohan Paul</description>
 <category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 00:15:01 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:30:49 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元 Hy4 flash 开放权重，含 FP8 与 Base 版本</title>
+<link>https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp</link>
+<guid isPermaLink="true">https://aihot.news/items/ei7hom06r7wgtedvkl2eqbofp</guid>
+<description>腾讯混元</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 04:39:34 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元</title>
@@ -72,12 +104,12 @@
 <pubDate>Wed, 18 Nov 2026 00:12:10 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.169.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>GitHub Copilot Evals is now in public preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
@@ -86,14 +118,6 @@
 <description>TechCrunch：AI</description>
 <category>行业动态</category>
 <pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Hydrogen 全面上线 Google Search</title>
@@ -112,7 +136,7 @@
 <pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
 </item>
 <item>
-<title>Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）</title>
+<title>Wiz 解析 OpenJDK 高危漏洞 CVE-2026-114938（Java4Shell）：AVX-512 Base64 解码可致远程代码执行</title>
 <link>https://aihot.news/items/r30kdvujcakiutm7umgxmije7</link>
 <guid isPermaLink="true">https://aihot.news/items/r30kdvujcakiutm7umgxmije7</guid>
 <description>Wiz：Research</description>
@@ -142,30 +166,6 @@
 <description>Claude Devs</description>
 <category>行业动态</category>
 <pubDate>Tue, 17 Nov 2026 21:18:55 +0000</pubDate>
-</item>
-<item>
-<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
-<link>https://www.aibase.com/news/32366</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 02:53:37 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布</title>
-<link>https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</link>
-<guid isPermaLink="true">https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</guid>
-<description>Microsoft：Official Blog</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 18:36:03 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型</title>
-<link>https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</link>
-<guid isPermaLink="true">https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</guid>
-<description>Microsoft AI：官方博客</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 18:15:16 +0000</pubDate>
 </item>
 </channel>
 </rss>

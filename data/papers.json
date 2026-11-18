@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:55:25.184028+00:00",
+  "generated_at": "2026-11-18T09:18:25.632579+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,36 +375,27 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
-        "id": "2611.18359",
-        "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+        "id": "2611.22115",
+        "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
         "authors": [
-          "Grid Robotics",
-          "Qingfeng Lan",
-          "Duo Li",
-          "Siyao Li",
-          "Yiheng Lyu",
-          "Shijian Lu",
-          "Zhenghao Qi",
-          "Shizun Wang"
+          "Xingchen AGI Lab",
+          "Baotian Hu",
+          "Bingkai Yang",
+          "Boyang Wang",
+          "Changzai Pan",
+          "Chao Lyu",
+          "Chao Wang",
+          "Chen Li"
         ],
-        "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 125,
-        "comments": 5,
-        "discussion_score": 1260.76,
-        "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
-        "keywords": [
-          "agentic robotics",
-          "foundation model",
-          "agentic harnesses",
-          "task-specific policies",
-          "embodied benchmarks",
-          "closed-loop system",
-          "Embodied System 2",
-          "embodied harness"
-        ],
-        "url": "https://arxiv.org/abs/2611.18359",
-        "arxiv_url": "https://arxiv.org/abs/2611.18359",
-        "discussion_url": "https://huggingface.co/papers/2611.18359",
+        "published_at": "2026-11-17T00:00:00+00:00",
+        "upvotes": 139,
+        "comments": 2,
+        "discussion_score": 1394.93,
+        "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, an…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.22115",
+        "arxiv_url": "https://arxiv.org/abs/2611.22115",
+        "discussion_url": "https://huggingface.co/papers/2611.22115",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -421,9 +412,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 121,
+        "upvotes": 128,
         "comments": 4,
-        "discussion_score": 1218.76,
+        "discussion_score": 1288.74,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -441,30 +432,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.15789",
-        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
-        "authors": [
-          "Yuzhe Chen",
-          "Muxi Diao",
-          "Lele Yang",
-          "Wenbin Xu",
-          "Xuyang Liu",
-          "Qile Su",
-          "Changyi Liu",
-          "Jiankang Chen"
-        ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 88,
-        "comments": 3,
-        "discussion_score": 886.66,
-        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.15789",
-        "arxiv_url": "https://arxiv.org/abs/2611.15789",
-        "discussion_url": "https://huggingface.co/papers/2611.15789",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.21072",
         "title": "Sage S2.1 Flash Technical Report",
         "authors": [
@@ -478,14 +445,96 @@
           "Lixin Gu"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 87,
+        "upvotes": 94,
         "comments": 4,
-        "discussion_score": 878.9,
+        "discussion_score": 948.89,
         "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we co…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21072",
         "arxiv_url": "https://arxiv.org/abs/2611.21072",
         "discussion_url": "https://huggingface.co/papers/2611.21072",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.15789",
+        "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+        "authors": [
+          "Yuzhe Chen",
+          "Muxi Diao",
+          "Lele Yang",
+          "Wenbin Xu",
+          "Xuyang Liu",
+          "Qile Su",
+          "Changyi Liu",
+          "Jiankang Chen"
+        ],
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 89,
+        "comments": 3,
+        "discussion_score": 896.65,
+        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, cont…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.15789",
+        "arxiv_url": "https://arxiv.org/abs/2611.15789",
+        "discussion_url": "https://huggingface.co/papers/2611.15789",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21218",
+        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+        "authors": [
+          "The InclusionMed Collaboration"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 88,
+        "comments": 2,
+        "discussion_score": 884.89,
+        "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
+        "keywords": [
+          "large language models",
+          "diagnostic reasoning benchmark",
+          "inference cost",
+          "task-level tags",
+          "InclusionMed Atlas",
+          "InclusionMed-DxFiles",
+          "InclusionMed Index"
+        ],
+        "url": "https://arxiv.org/abs/2611.21218",
+        "arxiv_url": "https://arxiv.org/abs/2611.21218",
+        "discussion_url": "https://huggingface.co/papers/2611.21218",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.17621",
+        "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+        "authors": [
+          "AI Training Platform Team",
+          "Bingwei Zhang",
+          "Jing Li",
+          "Amir Abdullin",
+          "Sihang Chen",
+          "Xin Chen",
+          "Liangjun Feng",
+          "Yingmeng Gao"
+        ],
+        "published_at": "2026-11-13T00:00:00+00:00",
+        "upvotes": 86,
+        "comments": 1,
+        "discussion_score": 862.74,
+        "summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
+        "keywords": [
+          "large language model (LLM)",
+          "Ascend NPUs",
+          "kernel optimization",
+          "kernel benchmarks",
+          "kernel generation",
+          "agents",
+          "input configurations",
+          "tensor shapes"
+        ],
+        "url": "https://arxiv.org/abs/2611.17621",
+        "arxiv_url": "https://arxiv.org/abs/2611.17621",
+        "discussion_url": "https://huggingface.co/papers/2611.17621",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -502,9 +551,9 @@
           "Mikhail Yurochkin"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 73,
+        "upvotes": 75,
         "comments": 2,
-        "discussion_score": 734.9,
+        "discussion_score": 754.89,
         "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21003",
@@ -526,9 +575,9 @@
           "Weisi Lin"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 68,
+        "upvotes": 70,
         "comments": 4,
-        "discussion_score": 688.85,
+        "discussion_score": 708.84,
         "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
         "keywords": [
           "flow-matching framework",
@@ -546,31 +595,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.21218",
-        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-        "authors": [
-          "The InclusionMed Collaboration"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 63,
-        "comments": 2,
-        "discussion_score": 634.9,
-        "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
-        "keywords": [
-          "large language models",
-          "diagnostic reasoning benchmark",
-          "inference cost",
-          "task-level tags",
-          "InclusionMed Atlas",
-          "InclusionMed-DxFiles",
-          "InclusionMed Index"
-        ],
-        "url": "https://arxiv.org/abs/2611.21218",
-        "arxiv_url": "https://arxiv.org/abs/2611.21218",
-        "discussion_url": "https://huggingface.co/papers/2611.21218",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.07222",
         "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
         "authors": [
@@ -579,9 +603,9 @@
           "Jaewoo Lee"
         ],
         "published_at": "2026-11-04T00:00:00+00:00",
-        "upvotes": 56,
+        "upvotes": 64,
         "comments": 2,
-        "discussion_score": 564.33,
+        "discussion_score": 644.31,
         "summary": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a language model on the decision that lets an action through, so the decision depends on a model that may read the attacker's text and adds model calls to every step. Provenance defenses keep the model off the final check but need a model to plan or route each task first. Where an action goes can instead be read from the tool…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.07222",
@@ -602,7 +626,7 @@
         "published_at": "2026-11-09T00:00:00+00:00",
         "upvotes": 53,
         "comments": 4,
-        "discussion_score": 538.57,
+        "discussion_score": 538.55,
         "summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
         "keywords": [
           "LLM agents",
@@ -617,37 +641,6 @@
         "url": "https://arxiv.org/abs/2611.12068",
         "arxiv_url": "https://arxiv.org/abs/2611.12068",
         "discussion_url": "https://huggingface.co/papers/2611.12068",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.20218",
-        "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
-        "authors": [
-          "Xinping Lei",
-          "Minghao Liu",
-          "Ruijie Zhu",
-          "Xiaohui Hu",
-          "Xingqiao Li",
-          "Ao Zhang",
-          "Wenhao Chai",
-          "Han Li"
-        ],
-        "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 46,
-        "comments": 4,
-        "discussion_score": 468.85,
-        "summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
-        "keywords": [
-          "coding agent",
-          "benchmark",
-          "fail-to-pass (F2P) tests",
-          "requirement-level trajectory analysis",
-          "autonomous software engineering",
-          "requirement tracking"
-        ],
-        "url": "https://arxiv.org/abs/2611.20218",
-        "arxiv_url": "https://arxiv.org/abs/2611.20218",
-        "discussion_url": "https://huggingface.co/papers/2611.20218",
         "source": "Hugging Face Daily Papers"
       }
     ]

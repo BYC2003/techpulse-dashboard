@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:55:01.608930Z",
+  "generated_at": "2026-11-18T09:17:58.430904Z",
   "date": "2026-11-18",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T02:53:37.712519Z"
+      "observed_at": "2026-11-18T09:16:17.211606Z"
     },
     {
-      "id": "project_2334a2be404e",
-      "project_name": "RankSpot",
-      "url": "https://www.producthunt.com/products/rankspot",
-      "summary": "Pay-as-you-go SEO and AI Search execution layer for agents",
+      "id": "project_911b3c0b848f",
+      "project_name": "LinkBit",
+      "url": "https://www.producthunt.com/products/linkbit",
+      "summary": "Free URL shortener your AI agent can use (MCP + API)",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Pay-as-you-go SEO and AI Search execution layer for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Pay-as-you-go SEO and AI Search execution layer for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T10:52:03Z",
-      "updated_at": "2026-11-18T02:54:29Z",
+      "recommend_reason_zh": "体验它主打的「Free URL shortener your AI agent can use (MCP + API)」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Free URL shortener your AI agent can use (MCP + API)\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T07:57:08Z",
+      "updated_at": "2026-11-18T09:17:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T02:54:48.696261Z"
+      "observed_at": "2026-11-18T09:17:46.513230Z"
     },
     {
       "id": "project_01e478ba125a",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T02:53:37.712519Z"
+      "observed_at": "2026-11-18T09:16:17.211606Z"
     },
     {
-      "id": "project_13e90a4455fc",
-      "project_name": "Link.bio",
-      "url": "https://www.producthunt.com/products/link-bio",
-      "summary": "Paste your link, we build your page that your AI runs",
+      "id": "project_a500e5592344",
+      "project_name": "SaaS Toolkit MCP",
+      "url": "https://www.producthunt.com/products/saas-toolkit-mcp",
+      "summary": "An SDR and CMO on your site 24/7, for one JavaScript snippet",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Paste your link, we build your page that your AI runs」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Paste your link, we build your page that your AI runs\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T19:37:56Z",
-      "updated_at": "2026-11-18T01:07:01Z",
+      "recommend_reason_zh": "体验它主打的「An SDR and CMO on your site 24/7, for one JavaScript snippet」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"An SDR and CMO on your site 24/7, for one JavaScript snippet\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T22:25:43Z",
+      "updated_at": "2026-11-18T09:17:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T02:54:48.696261Z"
+      "observed_at": "2026-11-18T09:17:46.513230Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1195,
+      "duration_ms": 1381,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 117,
+      "item_count": 49,
+      "duration_ms": 136,
       "error": null
     }
   ]
