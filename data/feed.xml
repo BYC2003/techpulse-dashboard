@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 01:50:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 02:53:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
@@ -72,20 +72,20 @@
 <pubDate>Wed, 18 Nov 2026 00:12:10 +0000</pubDate>
 </item>
 <item>
-<title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
-<link>https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</link>
-<guid isPermaLink="true">https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
-</item>
-<item>
 <title>Codex CLI 0.169.1</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
+<link>https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</link>
+<guid isPermaLink="true">https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview</title>
@@ -96,20 +96,20 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯</title>
-<link>https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</link>
-<guid isPermaLink="true">https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
-</item>
-<item>
 <title>Gemini 4 Hydrogen 全面上线 Google Search</title>
 <link>https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf</link>
 <guid isPermaLink="true">https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf</guid>
 <description>Google</description>
 <category>行业动态</category>
 <pubDate>Tue, 17 Nov 2026 22:35:20 +0000</pubDate>
+</item>
+<item>
+<title>深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯</title>
+<link>https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</link>
+<guid isPermaLink="true">https://aihot.news/items/n125mhueen4ul4elntsa1kk1v</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
 </item>
 <item>
 <title>Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）</title>
@@ -144,6 +144,14 @@
 <pubDate>Tue, 17 Nov 2026 21:18:55 +0000</pubDate>
 </item>
 <item>
+<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
+<link>https://www.aibase.com/news/32366</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 02:53:37 +0000</pubDate>
+</item>
+<item>
 <title>Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布</title>
 <link>https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</link>
 <guid isPermaLink="true">https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt</guid>
@@ -152,20 +160,12 @@
 <pubDate>Tue, 17 Nov 2026 18:36:03 +0000</pubDate>
 </item>
 <item>
-<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
-<link>https://www.aibase.com/news/32366</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 01:50:32 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区</title>
-<link>https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j</link>
-<guid isPermaLink="true">https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j</guid>
+<title>Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型</title>
+<link>https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</link>
+<guid isPermaLink="true">https://aihot.news/items/c3qj65urfo345mc80xz5jdefb</guid>
 <description>Microsoft AI：官方博客</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 18:16:36 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:15:16 +0000</pubDate>
 </item>
 </channel>
 </rss>

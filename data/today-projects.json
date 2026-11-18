@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:51:28.043204Z",
+  "generated_at": "2026-11-18T02:55:01.608930Z",
   "date": "2026-11-18",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T01:50:32.942471Z"
+      "observed_at": "2026-11-18T02:53:37.712519Z"
     },
     {
-      "id": "project_92fe985a1f9c",
-      "project_name": "Pinecall",
-      "url": "https://www.producthunt.com/products/pinecall",
-      "summary": "The open-source platform for voice AI agents",
+      "id": "project_2334a2be404e",
+      "project_name": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot",
+      "summary": "Pay-as-you-go SEO and AI Search execution layer for agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The open-source platform for voice AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The open-source platform for voice AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-16T10:54:15Z",
-      "updated_at": "2026-11-18T01:43:18Z",
+      "recommend_reason_zh": "体验它主打的「Pay-as-you-go SEO and AI Search execution layer for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Pay-as-you-go SEO and AI Search execution layer for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-14T10:52:03Z",
+      "updated_at": "2026-11-18T02:54:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T01:51:18.338445Z"
+      "observed_at": "2026-11-18T02:54:48.696261Z"
     },
     {
       "id": "project_01e478ba125a",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T01:50:32.942471Z"
+      "observed_at": "2026-11-18T02:53:37.712519Z"
     },
     {
-      "id": "project_2334a2be404e",
-      "project_name": "RankSpot",
-      "url": "https://www.producthunt.com/products/rankspot",
-      "summary": "Pay-as-you-go SEO and AI Search execution layer for agents",
+      "id": "project_13e90a4455fc",
+      "project_name": "Link.bio",
+      "url": "https://www.producthunt.com/products/link-bio",
+      "summary": "Paste your link, we build your page that your AI runs",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Pay-as-you-go SEO and AI Search execution layer for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Pay-as-you-go SEO and AI Search execution layer for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T10:52:03Z",
-      "updated_at": "2026-11-18T01:39:08Z",
+      "recommend_reason_zh": "体验它主打的「Paste your link, we build your page that your AI runs」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Paste your link, we build your page that your AI runs\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T19:37:56Z",
+      "updated_at": "2026-11-18T01:07:01Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T01:51:18.338445Z"
+      "observed_at": "2026-11-18T02:54:48.696261Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1288,
+      "duration_ms": 1195,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 161,
+      "duration_ms": 117,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:51:57.048198+00:00",
+  "generated_at": "2026-11-18T02:55:25.184028+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Shizun Wang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 124,
+        "upvotes": 125,
         "comments": 5,
-        "discussion_score": 1250.76,
+        "discussion_score": 1260.76,
         "summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
         "keywords": [
           "agentic robotics",
@@ -421,9 +421,9 @@
           "Yi Zhang"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 120,
+        "upvotes": 121,
         "comments": 4,
-        "discussion_score": 1208.76,
+        "discussion_score": 1218.76,
         "summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
         "keywords": [
           "generalist agent framework",
@@ -478,9 +478,9 @@
           "Lixin Gu"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 85,
+        "upvotes": 87,
         "comments": 4,
-        "discussion_score": 858.9,
+        "discussion_score": 878.9,
         "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we co…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21072",
@@ -502,9 +502,9 @@
           "Mikhail Yurochkin"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 72,
+        "upvotes": 73,
         "comments": 2,
-        "discussion_score": 724.9,
+        "discussion_score": 734.9,
         "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21003",
@@ -526,9 +526,9 @@
           "Weisi Lin"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 67,
+        "upvotes": 68,
         "comments": 4,
-        "discussion_score": 678.85,
+        "discussion_score": 688.85,
         "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
         "keywords": [
           "flow-matching framework",
@@ -552,9 +552,9 @@
           "The InclusionMed Collaboration"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 62,
+        "upvotes": 63,
         "comments": 2,
-        "discussion_score": 624.9,
+        "discussion_score": 634.9,
         "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
         "keywords": [
           "large language models",

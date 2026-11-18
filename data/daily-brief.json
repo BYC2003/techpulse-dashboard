@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:50:32.942471Z",
+  "generated_at": "2026-11-18T02:53:37.712519Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -136,15 +136,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8901,
-      "importance": 0.8901,
-      "importance_score": 0.8901,
+      "score": 0.8877,
+      "importance": 0.8877,
+      "importance_score": 0.8877,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8897,
+        "recency": 0.8763,
         "story_heat": 0.5
       },
       "category": "official",
@@ -286,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9236,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8801,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.6885,
+        "recency": 0.6782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -675,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.894,
+        "recency": 0.8805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -806,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7729,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -935,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1066,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1143,6 +1143,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_6c7e27208a0a",
+      "title": "Codex CLI 0.169.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
+          "title": "Codex CLI 0.169.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.169.1",
+          "title_original": "Codex CLI 0.169.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
+          "title": "Codex CLI 0.169.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.169.1",
+          "title_original": "Codex CLI 0.169.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.6782,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
+      "primary_item": {
+        "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
+        "title": "Codex CLI 0.169.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.169.1",
+        "title_original": "Codex CLI 0.169.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.169.1",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Codex CLI 0.169.1",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_862d42442c1b",
       "title": "Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会",
       "url": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
@@ -1197,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9686,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1274,135 +1403,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_6c7e27208a0a",
-      "title": "Codex CLI 0.169.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
-          "title": "Codex CLI 0.169.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.1",
-          "title_original": "Codex CLI 0.169.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
-          "title": "Codex CLI 0.169.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.1",
-          "title_original": "Codex CLI 0.169.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6885,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "9439f832509e4f8ed050c0ea37d73367d7dd6230",
-        "title": "Codex CLI 0.169.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.169.1",
-        "title_original": "Codex CLI 0.169.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.169.1",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Codex CLI 0.169.1",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_2c5bfba61515",
       "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
       "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
@@ -1457,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.893,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1533,135 +1533,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_5f7f0575ee91",
-      "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-      "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-      "primary_url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
-          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "title_en": null,
-          "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-17T22:36:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
-          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "title_en": null,
-          "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-17T22:36:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9544,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T22:36:45Z",
-      "latest_at": "2026-11-17T22:36:45Z",
-      "primary_item": {
-        "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
-        "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-        "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-        "title_en": null,
-        "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
-          "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_2804c4295817",
       "title": "Gemini 4 Hydrogen 全面上线 Google Search",
       "url": "https://aihot.news/items/vxcsjujkrvgpqxl56xkjgdfqf",
@@ -1716,15 +1587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1792,6 +1663,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_5f7f0575ee91",
+      "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+      "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+      "primary_url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
+          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "title_en": null,
+          "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-17T22:36:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
+          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "title_en": null,
+          "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-17T22:36:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.94,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T22:36:45Z",
+      "latest_at": "2026-11-17T22:36:45Z",
+      "primary_item": {
+        "id": "880f47c2e2e974d0c7efdd9f2e338a70fb4af91e",
+        "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+        "title_zh": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+        "title_en": null,
+        "title_original": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+          "title": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯",
+          "claim_type": "reported",
+          "basis_source": "公众号：数字生命卡兹克",
+          "basis_url": "https://aihot.news/items/n125mhueen4ul4elntsa1kk1v",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_10e4ea4ca22a",
       "title": "Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）",
       "url": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
@@ -1846,15 +1846,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1975,15 +1975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2106,15 +2106,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2237,15 +2237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9367,
+        "recency": 0.9226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2313,6 +2313,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_5fee3ed848e2",
+      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+      "url": "https://www.aibase.com/news/32366",
+      "primary_url": "https://www.aibase.com/news/32366",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_en": null,
+          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-18T02:53:37.712519Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_en": null,
+          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-18T02:53:37.712519Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T02:53:37.712519Z",
+      "latest_at": "2026-11-18T02:53:37.712519Z",
+      "primary_item": {
+        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "title_en": null,
+        "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32366",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32366",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32366",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_dc7b58208fd2",
       "title": "Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布",
       "url": "https://aihot.news/items/jj0ftew61l69qvcrmww6gcxjt",
@@ -2367,15 +2496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2442,158 +2571,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_5fee3ed848e2",
-      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-      "url": "https://www.aibase.com/news/32366",
-      "primary_url": "https://www.aibase.com/news/32366",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_en": null,
-          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T01:50:32.942471Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_en": null,
-          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T01:50:32.942471Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T01:50:32.942471Z",
-      "latest_at": "2026-11-18T01:50:32.942471Z",
-      "primary_item": {
-        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "title_en": null,
-        "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32366",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32366",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32366",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_b9709cff04e4",
-      "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-      "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
-      "primary_url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+      "story_id": "story_2be53582bc95",
+      "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+      "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
+      "primary_url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
       "source": "Microsoft AI：官方博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "673b3d832c7cef8325845ebe72f0f36047f38a80",
-          "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-          "title_zh": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "id": "3023287ce87b3371f24ccc452e9f5563ee310ead",
+          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+          "title_zh": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "title_en": null,
-          "title_original": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "title_original": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+          "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
           "source": "Microsoft AI：官方博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-17T18:16:36Z",
+          "published_at": "2026-11-17T18:15:16Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2604,36 +2604,36 @@
       ],
       "items": [
         {
-          "id": "673b3d832c7cef8325845ebe72f0f36047f38a80",
-          "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-          "title_zh": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "id": "3023287ce87b3371f24ccc452e9f5563ee310ead",
+          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+          "title_zh": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "title_en": null,
-          "title_original": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "title_original": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+          "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
           "source": "Microsoft AI：官方博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-17T18:16:36Z",
+          "published_at": "2026-11-17T18:15:16Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8965,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2641,17 +2641,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:16:36Z",
-      "latest_at": "2026-11-17T18:16:36Z",
+      "earliest_at": "2026-11-17T18:15:16Z",
+      "latest_at": "2026-11-17T18:15:16Z",
       "primary_item": {
-        "id": "673b3d832c7cef8325845ebe72f0f36047f38a80",
-        "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
-        "title_zh": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+        "id": "3023287ce87b3371f24ccc452e9f5563ee310ead",
+        "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+        "title_zh": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
         "title_en": null,
-        "title_original": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+        "title_original": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+        "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
         "source": "Microsoft AI：官方博客",
         "source_name": "AI HOT",
         "site_id": "aihot",
@@ -2673,8 +2673,8 @@
         {
           "source": "Microsoft AI：官方博客",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
-          "title": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
+          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -2683,16 +2683,15 @@
       ],
       "key_claims": [
         {
-          "claim": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+          "claim": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
           "claim_type": "reported",
           "basis_source": "Microsoft AI：官方博客",
-          "basis_url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+          "basis_url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
