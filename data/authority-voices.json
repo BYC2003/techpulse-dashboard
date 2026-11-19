@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:37:30.115976+00:00",
+  "generated_at": "2026-11-19T16:52:09.670202+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-18T19:00:00+00:00"
+      "latest_at": "2026-11-19T14:00:00+00:00"
     },
     {
       "id": "bair",
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "6f24490fc20b4ab7",
+      "title": "Study reveals data centers’ long-distance damage to air quality",
+      "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
+      "published_at": "2026-11-19T14:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "b183f0dc91b65f83",
       "title": "This featherweight, flying robot carries its own sensors and computers",
@@ -212,21 +227,6 @@
       "published_at": "2026-11-17T16:52:17+00:00",
       "source_id": "microsoft_research",
       "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "interview",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
-      "id": "bc2e238ff4158842",
-      "title": "Q&A: Why building math muscles remains important in the AI era",
-      "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
-      "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
-      "published_at": "2026-11-17T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
       "source_kind": "research",
       "category": "interview",
       "trust": "research",

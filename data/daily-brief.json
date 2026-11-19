@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:36:00.472645Z",
+  "generated_at": "2026-11-19T16:50:35.868183Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9556,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7973,
+        "recency": 0.7392,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,15 +317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8169,
+        "recency": 0.7573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,186 +392,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_9205b5475a74",
-      "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-          "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
-          "title_en": "Advancing chip design with OpenAI models",
-          "title_original": "Advancing chip design with OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "730aca89915eec1e31980d077c39e0de618fa40b",
-          "title": "利用 OpenAI 模型推动芯片设计发展",
-          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
-          "title_en": null,
-          "title_original": "利用 OpenAI 模型推动芯片设计发展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-18T21:51:51.423000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-          "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
-          "title_en": "Advancing chip design with OpenAI models",
-          "title_original": "Advancing chip design with OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "730aca89915eec1e31980d077c39e0de618fa40b",
-          "title": "利用 OpenAI 模型推动芯片设计发展",
-          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
-          "title_en": null,
-          "title_original": "利用 OpenAI 模型推动芯片设计发展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-18T21:51:51.423000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.598,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T00:00:00Z",
-      "latest_at": "2026-11-18T21:51:51.423000Z",
-      "primary_item": {
-        "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-        "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-        "title_zh": "利用 OpenAI 模型推动芯片设计发展",
-        "title_en": "Advancing chip design with OpenAI models",
-        "title_original": "Advancing chip design with OpenAI models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        },
-        {
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "title": "利用 OpenAI 模型推动芯片设计发展",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 1,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_f81fe699314d",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
@@ -626,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7645,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -702,393 +522,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_a2f60c2240b8",
-      "title": "Gemini 4 Neon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:49:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:49:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8196,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:49:21Z",
-      "latest_at": "2026-11-18T21:49:21Z",
-      "primary_item": {
-        "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-        "title": "Gemini 4 Neon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Neon in GitHub Copilot",
-        "title_original": "Gemini 4 Neon in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Gemini 4 Neon in GitHub Copilot",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_916b3373dca3",
-      "title": "Codex CLI 0.170.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-          "title": "Codex CLI 0.170.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.170.0",
-          "title_original": "Codex CLI 0.170.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-          "title": "Codex CLI 0.170.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.170.0",
-          "title_original": "Codex CLI 0.170.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.598,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T00:00:00Z",
-      "latest_at": "2026-11-18T00:00:00Z",
-      "primary_item": {
-        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-        "title": "Codex CLI 0.170.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.170.0",
-        "title_original": "Codex CLI 0.170.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.170.0",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Codex CLI 0.170.0",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_9f84fd3609e3",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7857,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:53:43Z",
-      "latest_at": "2026-11-18T18:53:43Z",
-      "primary_item": {
-        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-        "title": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_zh": null,
-        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_aca705309e9e",
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
@@ -1143,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6713,
+        "recency": 0.6223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1218,6 +651,1300 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_25fedfecfc0f",
+      "title": "ChatGPT for iOS 1.2026.314",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
+          "title": "ChatGPT for iOS 1.2026.314",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.314",
+          "title_original": "ChatGPT for iOS 1.2026.314",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
+          "title": "ChatGPT for iOS 1.2026.314",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.314",
+          "title_original": "ChatGPT for iOS 1.2026.314",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.5544,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
+        "title": "ChatGPT for iOS 1.2026.314",
+        "title_zh": null,
+        "title_en": "ChatGPT for iOS 1.2026.314",
+        "title_original": "ChatGPT for iOS 1.2026.314",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "ChatGPT for iOS 1.2026.314",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "ChatGPT for iOS 1.2026.314",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_a2f60c2240b8",
+      "title": "Gemini 4 Neon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+          "title": "Gemini 4 Neon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon in GitHub Copilot",
+          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T21:49:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+          "title": "Gemini 4 Neon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon in GitHub Copilot",
+          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T21:49:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7598,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T21:49:21Z",
+      "latest_at": "2026-11-18T21:49:21Z",
+      "primary_item": {
+        "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+        "title": "Gemini 4 Neon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Neon in GitHub Copilot",
+        "title_original": "Gemini 4 Neon in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "title": "Gemini 4 Neon in GitHub Copilot",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Gemini 4 Neon in GitHub Copilot",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_cdd7fad3e6a1",
+      "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+      "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+      "primary_url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+      "source": "Aravind Srinivas",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4bba3451b93c05a805d202ccd5bbe4f425b5bba",
+          "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "title_zh": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "title_en": null,
+          "title_original": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+          "source": "Aravind Srinivas",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T16:19:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Aravind Srinivas"
+      ],
+      "items": [
+        {
+          "id": "a4bba3451b93c05a805d202ccd5bbe4f425b5bba",
+          "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "title_zh": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "title_en": null,
+          "title_original": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+          "source": "Aravind Srinivas",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T16:19:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T16:19:15Z",
+      "latest_at": "2026-11-19T16:19:15Z",
+      "primary_item": {
+        "id": "a4bba3451b93c05a805d202ccd5bbe4f425b5bba",
+        "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+        "title_zh": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+        "title_en": null,
+        "title_original": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+        "source": "Aravind Srinivas",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Aravind Srinivas",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+          "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+          "claim_type": "reported",
+          "basis_source": "Aravind Srinivas",
+          "basis_url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_c20545942974",
+      "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+      "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+      "primary_url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
+          "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "title_zh": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "title_en": null,
+          "title_original": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T15:42:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
+          "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "title_zh": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "title_en": null,
+          "title_original": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T15:42:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9837,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T15:42:12Z",
+      "latest_at": "2026-11-19T15:42:12Z",
+      "primary_item": {
+        "id": "ca1b90449bb01d140854fdbd5fe70bbea82b7615",
+        "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+        "title_zh": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+        "title_en": null,
+        "title_original": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Rohan Paul",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+          "title": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Anthropic CEO Dario Amodei 与联合创始人 Daniela Amodei 参与 Nasdaq 开市敲钟",
+          "claim_type": "reported",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/wy4i94u2e6f4gl8p0fapqxcbg",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_9f84fd3609e3",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7284,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T18:53:43Z",
+      "latest_at": "2026-11-18T18:53:43Z",
+      "primary_item": {
+        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_zh": null,
+        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4adc45e4f730",
+      "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+      "url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+      "primary_url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "13742ea284985a1fee595fcab5449f4af9cb712a",
+          "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "title_zh": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:54:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "13742ea284985a1fee595fcab5449f4af9cb712a",
+          "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "title_zh": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "title_en": null,
+          "title_original": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:54:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T14:54:39Z",
+      "latest_at": "2026-11-19T14:54:39Z",
+      "primary_item": {
+        "id": "13742ea284985a1fee595fcab5449f4af9cb712a",
+        "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+        "title_zh": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+        "title_en": null,
+        "title_original": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+          "title": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Anthropic IPO 检验 AI 循环融资模式，Amazon 和 Google 持股市值约 3079 亿美元",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/a8d06cpj4vy2dkdzazgsqsrwx",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_534f05289b68",
+      "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+      "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+      "primary_url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
+          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "title_en": null,
+          "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:25:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
+          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "title_en": null,
+          "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:25:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9657,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T14:25:37Z",
+      "latest_at": "2026-11-19T14:25:37Z",
+      "primary_item": {
+        "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
+        "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+        "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+        "title_en": null,
+        "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Verge：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
+          "claim_type": "reported",
+          "basis_source": "The Verge：AI",
+          "basis_url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4a6ca044b8cc",
+      "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+      "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+      "primary_url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+      "source": "MIT News",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
+          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "title_en": null,
+          "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+          "source": "MIT News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MIT News"
+      ],
+      "items": [
+        {
+          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
+          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "title_en": null,
+          "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+          "source": "MIT News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T14:00:00Z",
+      "latest_at": "2026-11-19T14:00:00Z",
+      "primary_item": {
+        "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
+        "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+        "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+        "title_en": null,
+        "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+        "source": "MIT News",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "MIT News",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+          "claim_type": "reported",
+          "basis_source": "MIT News",
+          "basis_url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_38f7fb3b7cdd",
+      "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+      "url": "https://www.aibase.com/news/32415",
+      "primary_url": "https://www.aibase.com/news/32415",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_en": null,
+          "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32415",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T16:50:35.868183Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_en": null,
+          "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32415",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T16:50:35.868183Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T16:50:35.868183Z",
+      "latest_at": "2026-11-19T16:50:35.868183Z",
+      "primary_item": {
+        "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+        "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+        "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+        "title_en": null,
+        "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32415",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32415",
+          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32415",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_e719d966b58c",
+      "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+      "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+      "primary_url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+      "source": "Ai2 / Allen Institute for AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1a8e2c59bbcc0870c25bbd3e822fe74d33616fc6",
+          "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "title_zh": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "title_en": null,
+          "title_original": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+          "source": "Ai2 / Allen Institute for AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ai2 / Allen Institute for AI"
+      ],
+      "items": [
+        {
+          "id": "1a8e2c59bbcc0870c25bbd3e822fe74d33616fc6",
+          "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "title_zh": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "title_en": null,
+          "title_original": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+          "source": "Ai2 / Allen Institute for AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T08:00:00Z",
+      "latest_at": "2026-11-19T08:00:00Z",
+      "primary_item": {
+        "id": "1a8e2c59bbcc0870c25bbd3e822fe74d33616fc6",
+        "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+        "title_zh": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+        "title_en": null,
+        "title_original": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+        "source": "Ai2 / Allen Institute for AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ai2 / Allen Institute for AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+          "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+          "claim_type": "reported",
+          "basis_source": "Ai2 / Allen Institute for AI",
+          "basis_url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_2256a2f0ba3c",
       "title": "Genie 4 is now available",
       "url": "https://deepmind.google/blog/genie-4-is-now-available",
@@ -1272,15 +1999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7781,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1348,257 +2075,128 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_3e8f9ca99961",
-      "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-      "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-      "primary_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
+      "story_id": "story_53632e39d9e8",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "primary_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
-          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "title_en": null,
-          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "id": "cae34c6760444c6d282bbd78dd29c4d26482c977",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "title_zh": null,
+          "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "title_original": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T04:49:53Z",
+          "url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
-          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "title_en": null,
-          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "id": "cae34c6760444c6d282bbd78dd29c4d26482c977",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "title_zh": null,
+          "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "title_original": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T04:49:53Z",
+          "url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
-      "importance_label": "行业动态",
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6223,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T04:49:53Z",
-      "latest_at": "2026-11-19T04:49:53Z",
+      "earliest_at": "2026-11-18T08:00:00Z",
+      "latest_at": "2026-11-18T08:00:00Z",
       "primary_item": {
-        "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
-        "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-        "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-        "title_en": null,
-        "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+        "id": "cae34c6760444c6d282bbd78dd29c4d26482c977",
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "title_zh": null,
+        "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "title_original": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
       },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
+      "primary_source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "IT之家·人工智能",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
-          "claim_type": "reported",
-          "basis_source": "IT之家·人工智能",
-          "basis_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_46a68d8b55a8",
-      "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-      "url": "https://www.aibase.com/news/32410",
-      "primary_url": "https://www.aibase.com/news/32410",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_en": null,
-          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32410",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T11:36:00.472645Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_en": null,
-          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32410",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T11:36:00.472645Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T11:36:00.472645Z",
-      "latest_at": "2026-11-19T11:36:00.472645Z",
-      "primary_item": {
-        "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-        "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-        "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-        "title_en": null,
-        "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32410",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32410",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
           "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32410",
-          "status": "needs_primary_source",
+          "claim": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1699,15 +2297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5405,
+        "recency": 0.5011,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1785,198 +2383,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_f7f395a19123",
-      "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8226,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T22:04:50Z",
-      "latest_at": "2026-11-18T22:04:50Z",
-      "primary_item": {
-        "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-        "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-        "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_9ac516c2277d",
-      "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-      "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-      "primary_url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-      "source": "TechCrunch：AI",
+      "story_id": "story_3e8f9ca99961",
+      "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+      "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+      "primary_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
-          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-          "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "title_en": null,
-          "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-          "source": "TechCrunch：AI",
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-19T00:42:56Z",
+          "published_at": "2026-11-19T04:49:53Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI"
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
-          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-          "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "title_en": null,
-          "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-          "source": "TechCrunch：AI",
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-19T00:42:56Z",
+          "published_at": "2026-11-19T04:49:53Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1984,18 +2453,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T00:42:56Z",
-      "latest_at": "2026-11-19T00:42:56Z",
+      "earliest_at": "2026-11-19T04:49:53Z",
+      "latest_at": "2026-11-19T04:49:53Z",
       "primary_item": {
-        "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
-        "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
-        "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+        "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+        "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+        "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
         "title_en": null,
-        "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+        "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-        "source": "TechCrunch：AI",
+        "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -2014,10 +2483,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "TechCrunch：AI",
+          "source": "IT之家·人工智能",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
-          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -2026,10 +2495,10 @@
       ],
       "key_claims": [
         {
-          "claim": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "claim": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
           "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+          "basis_source": "IT之家·人工智能",
+          "basis_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2043,198 +2512,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_718ad7274e80",
-      "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-      "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-      "primary_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-      "source": "X.PIN",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_en": null,
-          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:41:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X.PIN"
-      ],
-      "items": [
-        {
-          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_en": null,
-          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:41:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.842,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T23:41:28Z",
-      "latest_at": "2026-11-18T23:41:28Z",
-      "primary_item": {
-        "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-        "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-        "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-        "title_en": null,
-        "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-        "source": "X.PIN",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "rumor",
-      "claim_status_label": "传闻待核",
-      "claim_status_note": "出现消息人士、据称、爆料等信号，除非一手确认，否则不应进入正式口播。",
-      "claim_status_reason": "matched_rumor_signal",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "unverified",
-      "verification_score": 13,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "X.PIN",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "claim_type": "rumor",
-          "basis_source": "X.PIN",
-          "basis_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0f2a2904d331",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face Blog",
+      "story_id": "story_916b3373dca3",
+      "title": "Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
           "title_zh": null,
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-18T15:00:23Z",
+          "published_at": "2026-11-18T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
           "title_zh": null,
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-18T15:00:23Z",
+          "published_at": "2026-11-18T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7428,
+        "ai_relevance": 0.98,
+        "recency": 0.5544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2243,18 +2583,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T15:00:23Z",
-      "latest_at": "2026-11-18T15:00:23Z",
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
       "primary_item": {
-        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "Codex CLI 0.170.0",
         "title_zh": null,
-        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_en": "Codex CLI 0.170.0",
+        "title_original": "Codex CLI 0.170.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-        "source": "Hugging Face Blog",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
         "source_tier": "official",
@@ -2265,7 +2605,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -2273,10 +2613,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Hugging Face Blog",
+          "source": "OpenAI Codex Changelog",
           "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.170.0",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -2285,406 +2625,15 @@
       ],
       "key_claims": [
         {
-          "claim": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "claim": "Codex CLI 0.170.0",
           "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0c8b03a4572f",
-      "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-      "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-      "primary_url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-      "source": "Tibo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e374a6e61f26c969943c7f3afcd33524294618fe",
-          "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "title_zh": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "title_en": null,
-          "title_original": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T22:03:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tibo"
-      ],
-      "items": [
-        {
-          "id": "e374a6e61f26c969943c7f3afcd33524294618fe",
-          "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "title_zh": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "title_en": null,
-          "title_original": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-          "source": "Tibo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T22:03:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T22:03:01Z",
-      "latest_at": "2026-11-18T22:03:01Z",
-      "primary_item": {
-        "id": "e374a6e61f26c969943c7f3afcd33524294618fe",
-        "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-        "title_zh": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-        "title_en": null,
-        "title_original": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-        "source": "Tibo",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Tibo",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-          "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
-          "claim_type": "reported",
-          "basis_source": "Tibo",
-          "basis_url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_65897d1e3784",
-      "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-      "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-      "primary_url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-      "source": "OpenRouter",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91fb932326defccc9bd6748a1880edcb3b0d5239",
-          "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "title_zh": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "title_en": null,
-          "title_original": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-          "source": "OpenRouter",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:42:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter"
-      ],
-      "items": [
-        {
-          "id": "91fb932326defccc9bd6748a1880edcb3b0d5239",
-          "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "title_zh": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "title_en": null,
-          "title_original": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-          "source": "OpenRouter",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:42:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8183,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:42:43Z",
-      "latest_at": "2026-11-18T21:42:43Z",
-      "primary_item": {
-        "id": "91fb932326defccc9bd6748a1880edcb3b0d5239",
-        "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-        "title_zh": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-        "title_en": null,
-        "title_original": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-        "source": "OpenRouter",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenRouter",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-          "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
-          "claim_type": "reported",
-          "basis_source": "OpenRouter",
-          "basis_url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0132e11e0677",
-      "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-      "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-      "primary_url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-      "source": "Gemini",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf5e0274c897376dddcd1c5aa305531b543adc59",
-          "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "title_zh": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-          "source": "Gemini",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:37:20Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gemini"
-      ],
-      "items": [
-        {
-          "id": "bf5e0274c897376dddcd1c5aa305531b543adc59",
-          "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "title_zh": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "title_en": null,
-          "title_original": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-          "source": "Gemini",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:37:20Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8172,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:37:20Z",
-      "latest_at": "2026-11-18T21:37:20Z",
-      "primary_item": {
-        "id": "bf5e0274c897376dddcd1c5aa305531b543adc59",
-        "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-        "title_zh": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-        "title_en": null,
-        "title_original": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-        "source": "Gemini",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Gemini",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-          "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
-          "claim_type": "reported",
-          "basis_source": "Gemini",
-          "basis_url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
