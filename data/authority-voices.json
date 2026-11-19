@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:20.068353+00:00",
+  "generated_at": "2026-11-19T00:30:14.196765+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -98,10 +98,10 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1411,
+      "items_scanned": 1413,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-18T06:00:00+00:00"
+      "latest_at": "2026-11-18T08:00:00+00:00"
     },
     {
       "id": "dwarkesh",
@@ -143,6 +143,21 @@
       "trust_label": "研究机构",
       "verification": "研究机构原文，以论文或原文为准",
       "is_opinion": false
+    },
+    {
+      "id": "b476f208e2203bf2",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
     },
     {
       "id": "1bf38dbe46f03fbd",
@@ -240,21 +255,6 @@
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "published_at": "2026-11-16T17:00:00+00:00",
-      "source_id": "openai",
-      "source_name": "OpenAI News",
-      "source_kind": "lab",
-      "category": "viewpoint",
-      "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
-      "id": "218de0f6bfd22c30",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "published_at": "2026-11-16T12:00:00+00:00",
       "source_id": "openai",
       "source_name": "OpenAI News",
       "source_kind": "lab",

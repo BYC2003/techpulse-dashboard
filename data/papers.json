@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:25.837441+00:00",
+  "generated_at": "2026-11-19T00:30:19.641991+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -390,12 +390,37 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 149,
         "comments": 2,
-        "discussion_score": 1494.91,
+        "discussion_score": 1494.9,
         "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, an…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.22115",
         "arxiv_url": "https://arxiv.org/abs/2611.22115",
         "discussion_url": "https://huggingface.co/papers/2611.22115",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21218",
+        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+        "authors": [
+          "The InclusionMed Collaboration"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 97,
+        "comments": 2,
+        "discussion_score": 974.86,
+        "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
+        "keywords": [
+          "large language models",
+          "diagnostic reasoning benchmark",
+          "inference cost",
+          "task-level tags",
+          "InclusionMed Atlas",
+          "InclusionMed-DxFiles",
+          "InclusionMed Index"
+        ],
+        "url": "https://arxiv.org/abs/2611.21218",
+        "arxiv_url": "https://arxiv.org/abs/2611.21218",
+        "discussion_url": "https://huggingface.co/papers/2611.21218",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -423,31 +448,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.21218",
-        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-        "authors": [
-          "The InclusionMed Collaboration"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 95,
-        "comments": 2,
-        "discussion_score": 954.86,
-        "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
-        "keywords": [
-          "large language models",
-          "diagnostic reasoning benchmark",
-          "inference cost",
-          "task-level tags",
-          "InclusionMed Atlas",
-          "InclusionMed-DxFiles",
-          "InclusionMed Index"
-        ],
-        "url": "https://arxiv.org/abs/2611.21218",
-        "arxiv_url": "https://arxiv.org/abs/2611.21218",
-        "discussion_url": "https://huggingface.co/papers/2611.21218",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.17621",
         "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
         "authors": [
@@ -463,7 +463,7 @@
         "published_at": "2026-11-13T00:00:00+00:00",
         "upvotes": 91,
         "comments": 2,
-        "discussion_score": 914.72,
+        "discussion_score": 914.71,
         "summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
         "keywords": [
           "large language model (LLM)",
@@ -494,9 +494,9 @@
           "Mikhail Yurochkin"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 82,
+        "upvotes": 84,
         "comments": 2,
-        "discussion_score": 824.86,
+        "discussion_score": 844.86,
         "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus att…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21003",
@@ -520,7 +520,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 72,
         "comments": 4,
-        "discussion_score": 728.82,
+        "discussion_score": 728.81,
         "summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
         "keywords": [
           "flow-matching framework",
@@ -550,7 +550,7 @@
         "published_at": "2026-11-09T00:00:00+00:00",
         "upvotes": 53,
         "comments": 4,
-        "discussion_score": 538.53,
+        "discussion_score": 538.52,
         "summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
         "keywords": [
           "LLM agents",
@@ -583,7 +583,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 51,
         "comments": 4,
-        "discussion_score": 518.82,
+        "discussion_score": 518.81,
         "summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
         "keywords": [
           "coding agent",
@@ -608,7 +608,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 47,
         "comments": 2,
-        "discussion_score": 474.91,
+        "discussion_score": 474.9,
         "summary": "When large language models write neural network weights without gradient-based training, they tend to design sparse table or associative-memory models that outperform same-sized Transformers with far fewer parameters and faster GPU inference, though pretrained LLMs remain more accurate.",
         "keywords": [
           "Transformer",
@@ -639,9 +639,9 @@
           "Yingheng Wang"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 42,
+        "upvotes": 43,
         "comments": 2,
-        "discussion_score": 424.82,
+        "discussion_score": 434.81,
         "summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
         "keywords": [
           "Multi-Branch Transformer (MBT)",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:30:16.927268+00:00",
+  "generated_at": "2026-11-19T00:30:11.037801+00:00",
   "source": "GitHub Trending",
   "methodology": "抓取 GitHub 官方 Trending 页面，读取页面展示的周期新增 Star 与仓库信息。",
   "periods": {
@@ -15,10 +15,10 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description": "Keep your coding agent up to date with the latest web best practices",
           "language": "TypeScript",
-          "total_stars": 8792,
-          "period_stars": 7015,
+          "total_stars": 8832,
+          "period_stars": 7257,
           "period_label": "本周新增 Star",
-          "period_text": "7,015 stars this week"
+          "period_text": "7,257 stars this week"
         },
         {
           "rank": 2,
@@ -28,114 +28,114 @@
           "url": "https://github.com/backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
           "language": "TypeScript",
-          "total_stars": 13391,
-          "period_stars": 2926,
+          "total_stars": 13452,
+          "period_stars": 3290,
           "period_label": "本周新增 Star",
-          "period_text": "2,926 stars this week"
+          "period_text": "3,290 stars this week"
         },
         {
           "rank": 3,
-          "full_name": "elementalsouls/Claude-BugHunter",
-          "owner": "elementalsouls",
-          "repo": "Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-          "language": "Python",
-          "total_stars": 11146,
-          "period_stars": 2508,
-          "period_label": "本周新增 Star",
-          "period_text": "2,508 stars this week"
-        },
-        {
-          "rank": 4,
           "full_name": "meta/astryx",
           "owner": "meta",
           "repo": "astryx",
           "url": "https://github.com/meta/astryx",
           "description": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "total_stars": 30529,
-          "period_stars": 8700,
+          "total_stars": 30568,
+          "period_stars": 6250,
           "period_label": "本周新增 Star",
-          "period_text": "8,700 stars this week"
+          "period_text": "6,250 stars this week"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "full_name": "we-promise/sure",
           "owner": "we-promise",
           "repo": "sure",
           "url": "https://github.com/we-promise/sure",
           "description": "The personal finance app for everyone (by everyone)",
           "language": "Ruby",
-          "total_stars": 16474,
-          "period_stars": 4786,
+          "total_stars": 16495,
+          "period_stars": 3866,
           "period_label": "本周新增 Star",
-          "period_text": "4,786 stars this week"
+          "period_text": "3,866 stars this week"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "full_name": "alibaba/open-code-review",
           "owner": "alibaba",
           "repo": "open-code-review",
           "url": "https://github.com/alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "total_stars": 54158,
-          "period_stars": 3675,
+          "total_stars": 54168,
+          "period_stars": 4383,
           "period_label": "本周新增 Star",
-          "period_text": "3,675 stars this week"
+          "period_text": "4,383 stars this week"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "full_name": "google-labs-code/stitch-skills",
           "owner": "google-labs-code",
           "repo": "stitch-skills",
           "url": "https://github.com/google-labs-code/stitch-skills",
           "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
           "language": "TypeScript",
-          "total_stars": 10365,
-          "period_stars": 1197,
+          "total_stars": 10395,
+          "period_stars": 1567,
           "period_label": "本周新增 Star",
-          "period_text": "1,197 stars this week"
+          "period_text": "1,567 stars this week"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "full_name": "tradermonty/claude-trading-skills",
           "owner": "tradermonty",
           "repo": "claude-trading-skills",
           "url": "https://github.com/tradermonty/claude-trading-skills",
           "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
           "language": "Python",
-          "total_stars": 7056,
-          "period_stars": 2985,
+          "total_stars": 7078,
+          "period_stars": 3242,
           "period_label": "本周新增 Star",
-          "period_text": "2,985 stars this week"
+          "period_text": "3,242 stars this week"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "full_name": "ChromeDevTools/chrome-devtools-mcp",
           "owner": "ChromeDevTools",
           "repo": "chrome-devtools-mcp",
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "total_stars": 58200,
-          "period_stars": 2948,
+          "total_stars": 58209,
+          "period_stars": 3143,
           "period_label": "本周新增 Star",
-          "period_text": "2,948 stars this week"
+          "period_text": "3,143 stars this week"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "full_name": "anthropics/skills",
           "owner": "anthropics",
           "repo": "skills",
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "total_stars": 197146,
-          "period_stars": 4847,
+          "total_stars": 197206,
+          "period_stars": 4381,
           "period_label": "本周新增 Star",
-          "period_text": "4,847 stars this week"
+          "period_text": "4,381 stars this week"
+        },
+        {
+          "rank": 10,
+          "full_name": "ZhuLinsen/daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "repo": "daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "total_stars": 73347,
+          "period_stars": 3566,
+          "period_label": "本周新增 Star",
+          "period_text": "3,566 stars this week"
         }
       ]
     },
@@ -151,10 +151,10 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "total_stars": 57467,
-          "period_stars": 26594,
+          "total_stars": 57534,
+          "period_stars": 27295,
           "period_label": "本月新增 Star",
-          "period_text": "26,594 stars this month"
+          "period_text": "27,295 stars this month"
         },
         {
           "rank": 2,
@@ -164,10 +164,10 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 75303,
-          "period_stars": 44314,
+          "total_stars": 75374,
+          "period_stars": 44600,
           "period_label": "本月新增 Star",
-          "period_text": "44,314 stars this month"
+          "period_text": "44,600 stars this month"
         },
         {
           "rank": 3,
@@ -177,10 +177,10 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": "The best way to control Claude Code, Codex and more from any computer or phone",
           "language": "TypeScript",
-          "total_stars": 65111,
-          "period_stars": 35748,
+          "total_stars": 65236,
+          "period_stars": 36872,
           "period_label": "本月新增 Star",
-          "period_text": "35,748 stars this month"
+          "period_text": "36,872 stars this month"
         },
         {
           "rank": 4,
@@ -190,10 +190,10 @@
           "url": "https://github.com/php/php-src",
           "description": "The PHP Interpreter",
           "language": "C",
-          "total_stars": 41805,
-          "period_stars": 1447,
+          "total_stars": 41809,
+          "period_stars": 1454,
           "period_label": "本月新增 Star",
-          "period_text": "1,447 stars this month"
+          "period_text": "1,454 stars this month"
         },
         {
           "rank": 5,
@@ -203,10 +203,10 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "total_stars": 25321,
-          "period_stars": 20211,
+          "total_stars": 25382,
+          "period_stars": 20270,
           "period_label": "本月新增 Star",
-          "period_text": "20,211 stars this month"
+          "period_text": "20,270 stars this month"
         },
         {
           "rank": 6,
@@ -216,10 +216,10 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "total_stars": 197146,
-          "period_stars": 15351,
+          "total_stars": 197206,
+          "period_stars": 15769,
           "period_label": "本月新增 Star",
-          "period_text": "15,351 stars this month"
+          "period_text": "15,769 stars this month"
         },
         {
           "rank": 7,
@@ -229,10 +229,10 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "total_stars": 118203,
-          "period_stars": 17236,
+          "total_stars": 118238,
+          "period_stars": 17311,
           "period_label": "本月新增 Star",
-          "period_text": "17,236 stars this month"
+          "period_text": "17,311 stars this month"
         },
         {
           "rank": 8,
@@ -242,10 +242,10 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "total_stars": 112833,
-          "period_stars": 30177,
+          "total_stars": 112899,
+          "period_stars": 30662,
           "period_label": "本月新增 Star",
-          "period_text": "30,177 stars this month"
+          "period_text": "30,662 stars this month"
         },
         {
           "rank": 9,
@@ -255,10 +255,10 @@
           "url": "https://github.com/backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
           "language": "TypeScript",
-          "total_stars": 13391,
-          "period_stars": 3475,
+          "total_stars": 13452,
+          "period_stars": 3868,
           "period_label": "本月新增 Star",
-          "period_text": "3,475 stars this month"
+          "period_text": "3,868 stars this month"
         },
         {
           "rank": 10,
@@ -268,10 +268,10 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
           "language": "Python",
-          "total_stars": 60443,
-          "period_stars": 18753,
+          "total_stars": 60484,
+          "period_stars": 19065,
           "period_label": "本月新增 Star",
-          "period_text": "18,753 stars this month"
+          "period_text": "19,065 stars this month"
         }
       ]
     }
