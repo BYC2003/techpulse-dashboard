@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:52:15.045070+00:00",
+  "generated_at": "2026-11-19T20:34:30.757628+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,14 +388,43 @@
           "Chen Li"
         ],
         "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 158,
+        "upvotes": 159,
         "comments": 3,
-        "discussion_score": 1586.87,
+        "discussion_score": 1596.86,
         "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, an…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.22115",
         "arxiv_url": "https://arxiv.org/abs/2611.22115",
         "discussion_url": "https://huggingface.co/papers/2611.22115",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.24738",
+        "title": "Jeveration: System One Models Now Generate",
+        "authors": [
+          "Yuhe Liu",
+          "Qi Li",
+          "Shihua Zhang",
+          "Xinchao Wang"
+        ],
+        "published_at": "2026-11-18T00:00:00+00:00",
+        "upvotes": 110,
+        "comments": 3,
+        "discussion_score": 1106.91,
+        "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
+        "keywords": [
+          "System One models",
+          "parallel prediction",
+          "single forward pass",
+          "frozen vision-language model",
+          "visual-semantic knowledge",
+          "holistic image generation",
+          "global consistency",
+          "shared random state"
+        ],
+        "url": "https://arxiv.org/abs/2611.24738",
+        "arxiv_url": "https://arxiv.org/abs/2611.24738",
+        "discussion_url": "https://huggingface.co/papers/2611.24738",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -414,7 +443,7 @@
         "published_at": "2026-11-13T00:00:00+00:00",
         "upvotes": 92,
         "comments": 3,
-        "discussion_score": 926.68,
+        "discussion_score": 926.67,
         "summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
         "keywords": [
           "large language model (LLM)",
@@ -432,35 +461,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.24738",
-        "title": "Jeveration: System One Models Now Generate",
-        "authors": [
-          "Yuhe Liu",
-          "Qi Li",
-          "Shihua Zhang",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 78,
-        "comments": 3,
-        "discussion_score": 786.92,
-        "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
-        "keywords": [
-          "System One models",
-          "parallel prediction",
-          "single forward pass",
-          "frozen vision-language model",
-          "visual-semantic knowledge",
-          "holistic image generation",
-          "global consistency",
-          "shared random state"
-        ],
-        "url": "https://arxiv.org/abs/2611.24738",
-        "arxiv_url": "https://arxiv.org/abs/2611.24738",
-        "discussion_url": "https://huggingface.co/papers/2611.24738",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.22055",
         "title": "Weight-Space Programming Doesn't Need Transformers",
         "authors": [
@@ -468,9 +468,9 @@
           "Jaeho Lee"
         ],
         "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 53,
+        "upvotes": 54,
         "comments": 3,
-        "discussion_score": 536.87,
+        "discussion_score": 546.86,
         "summary": "When large language models write neural network weights without gradient-based training, they tend to design sparse table or associative-memory models that outperform same-sized Transformers with far fewer parameters and faster GPU inference, though pretrained LLMs remain more accurate.",
         "keywords": [
           "Transformer",
@@ -501,9 +501,9 @@
           "Yingheng Wang"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 43,
+        "upvotes": 44,
         "comments": 3,
-        "discussion_score": 436.78,
+        "discussion_score": 446.77,
         "summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
         "keywords": [
           "Multi-Branch Transformer (MBT)",
@@ -531,9 +531,9 @@
           "Mike Zheng Shou"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 40,
+        "upvotes": 41,
         "comments": 3,
-        "discussion_score": 406.82,
+        "discussion_score": 416.82,
         "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on force beneath the model. Second, a frozen model cannot interpret raw force streams, so force must be returned in a form the model can reason about. Therefore, we present ForceHarness, a harness that l…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21099",
@@ -557,7 +557,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 36,
         "comments": 2,
-        "discussion_score": 364.78,
+        "discussion_score": 364.77,
         "summary": "AURA 2.0 is a streaming video large language model that can initiate conversations, call tools, and perform interactive visual grounding, with long-horizon memory and a three-stage training scheme for improved streaming interaction.",
         "keywords": [
           "streaming video large language model",
@@ -575,34 +575,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.15348",
-        "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+        "id": "2611.23068",
+        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
         "authors": [
-          "Ivan Poddiakov",
-          "Ivan Kruzhilov",
-          "Galina Zubkova",
-          "Svetlana Erofeeva",
-          "Andrey Savchenko",
-          "Pavel Blinov"
+          "Yuanhao Zeng",
+          "Shaocheng Lan",
+          "Ao Lu",
+          "Kuang Yan",
+          "Heng Lin",
+          "Xinang Xu",
+          "Yuan Luo",
+          "Yueting Wang"
         ],
-        "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 33,
-        "comments": 3,
-        "discussion_score": 336.59,
-        "summary": "A comprehensive benchmark evaluates time-series classification methods on a large clinical breath dataset under realistic temporal splits, showing that sensor drift lowers performance and recurrent models are most consistent across diseases.",
+        "published_at": "2026-11-17T00:00:00+00:00",
+        "upvotes": 34,
+        "comments": 2,
+        "discussion_score": 344.86,
+        "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
-          "time series classification",
-          "multivariate time series",
-          "feature-based tabular learners",
-          "convolution-based models",
-          "graph-based models",
-          "time series architectures",
-          "recurrent architectures",
-          "temporal validation"
+          "agent evolution",
+          "proposer",
+          "selection",
+          "candidate artifacts",
+          "prompts",
+          "skills",
+          "memories",
+          "noisy evaluations"
         ],
-        "url": "https://arxiv.org/abs/2611.15348",
-        "arxiv_url": "https://arxiv.org/abs/2611.15348",
-        "discussion_url": "https://huggingface.co/papers/2611.15348",
+        "url": "https://arxiv.org/abs/2611.23068",
+        "arxiv_url": "https://arxiv.org/abs/2611.23068",
+        "discussion_url": "https://huggingface.co/papers/2611.23068",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -619,9 +621,9 @@
           "Yanfei Chen"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 31,
+        "upvotes": 33,
         "comments": 6,
-        "discussion_score": 322.68,
+        "discussion_score": 342.67,
         "summary": "Continual recursive self-improvement lets harness optimizers reuse and revise prior edits across changing benchmarks or policy models by storing rationales, predicted and observed outcomes, and evaluation contexts in a self-improvement memory, improving final scores over continuation baselines.",
         "keywords": [
           "Continual Recursive Self-Improvement (CRSI)",
@@ -639,36 +641,34 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.23068",
-        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+        "id": "2611.15348",
+        "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
         "authors": [
-          "Yuanhao Zeng",
-          "Shaocheng Lan",
-          "Ao Lu",
-          "Kuang Yan",
-          "Heng Lin",
-          "Xinang Xu",
-          "Yuan Luo",
-          "Yueting Wang"
+          "Ivan Poddiakov",
+          "Ivan Kruzhilov",
+          "Galina Zubkova",
+          "Svetlana Erofeeva",
+          "Andrey Savchenko",
+          "Pavel Blinov"
         ],
-        "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 31,
-        "comments": 1,
-        "discussion_score": 312.87,
-        "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
+        "published_at": "2026-11-11T00:00:00+00:00",
+        "upvotes": 33,
+        "comments": 3,
+        "discussion_score": 336.58,
+        "summary": "A comprehensive benchmark evaluates time-series classification methods on a large clinical breath dataset under realistic temporal splits, showing that sensor drift lowers performance and recurrent models are most consistent across diseases.",
         "keywords": [
-          "agent evolution",
-          "proposer",
-          "selection",
-          "candidate artifacts",
-          "prompts",
-          "skills",
-          "memories",
-          "noisy evaluations"
+          "time series classification",
+          "multivariate time series",
+          "feature-based tabular learners",
+          "convolution-based models",
+          "graph-based models",
+          "time series architectures",
+          "recurrent architectures",
+          "temporal validation"
         ],
-        "url": "https://arxiv.org/abs/2611.23068",
-        "arxiv_url": "https://arxiv.org/abs/2611.23068",
-        "discussion_url": "https://huggingface.co/papers/2611.23068",
+        "url": "https://arxiv.org/abs/2611.15348",
+        "arxiv_url": "https://arxiv.org/abs/2611.15348",
+        "discussion_url": "https://huggingface.co/papers/2611.15348",
         "source": "Hugging Face Daily Papers"
       }
     ]
