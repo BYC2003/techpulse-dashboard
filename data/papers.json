@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:51:21.972126+00:00",
+  "generated_at": "2026-11-19T11:37:33.978471+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,39 +388,14 @@
           "Chen Li"
         ],
         "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 154,
+        "upvotes": 156,
         "comments": 3,
-        "discussion_score": 1546.89,
+        "discussion_score": 1566.88,
         "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, an…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.22115",
         "arxiv_url": "https://arxiv.org/abs/2611.22115",
         "discussion_url": "https://huggingface.co/papers/2611.22115",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.21218",
-        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-        "authors": [
-          "The InclusionMed Collaboration"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 99,
-        "comments": 2,
-        "discussion_score": 994.84,
-        "summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
-        "keywords": [
-          "large language models",
-          "diagnostic reasoning benchmark",
-          "inference cost",
-          "task-level tags",
-          "InclusionMed Atlas",
-          "InclusionMed-DxFiles",
-          "InclusionMed Index"
-        ],
-        "url": "https://arxiv.org/abs/2611.21218",
-        "arxiv_url": "https://arxiv.org/abs/2611.21218",
-        "discussion_url": "https://huggingface.co/papers/2611.21218",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -437,9 +412,9 @@
           "Lixin Gu"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 95,
+        "upvotes": 96,
         "comments": 4,
-        "discussion_score": 958.84,
+        "discussion_score": 968.83,
         "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we co…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21072",
@@ -461,9 +436,9 @@
           "Yingmeng Gao"
         ],
         "published_at": "2026-11-13T00:00:00+00:00",
-        "upvotes": 91,
+        "upvotes": 92,
         "comments": 3,
-        "discussion_score": 916.7,
+        "discussion_score": 926.69,
         "summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
         "keywords": [
           "large language model (LLM)",
@@ -490,7 +465,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 52,
         "comments": 3,
-        "discussion_score": 526.89,
+        "discussion_score": 526.88,
         "summary": "When large language models write neural network weights without gradient-based training, they tend to design sparse table or associative-memory models that outperform same-sized Transformers with far fewer parameters and faster GPU inference, though pretrained LLMs remain more accurate.",
         "keywords": [
           "Transformer",
@@ -508,34 +483,32 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.20218",
-        "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+        "id": "2611.24738",
+        "title": "Jeveration: System One Models Now Generate",
         "authors": [
-          "Xinping Lei",
-          "Minghao Liu",
-          "Ruijie Zhu",
-          "Xiaohui Hu",
-          "Xingqiao Li",
-          "Ao Zhang",
-          "Wenhao Chai",
-          "Han Li"
+          "Yuhe Liu",
+          "Qi Li",
+          "Shihua Zhang",
+          "Xinchao Wang"
         ],
-        "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 51,
-        "comments": 4,
-        "discussion_score": 518.79,
-        "summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
+        "published_at": "2026-11-18T00:00:00+00:00",
+        "upvotes": 45,
+        "comments": 3,
+        "discussion_score": 456.93,
+        "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
-          "coding agent",
-          "benchmark",
-          "fail-to-pass (F2P) tests",
-          "requirement-level trajectory analysis",
-          "autonomous software engineering",
-          "requirement tracking"
+          "System One models",
+          "parallel prediction",
+          "single forward pass",
+          "frozen vision-language model",
+          "visual-semantic knowledge",
+          "holistic image generation",
+          "global consistency",
+          "shared random state"
         ],
-        "url": "https://arxiv.org/abs/2611.20218",
-        "arxiv_url": "https://arxiv.org/abs/2611.20218",
-        "discussion_url": "https://huggingface.co/papers/2611.20218",
+        "url": "https://arxiv.org/abs/2611.24738",
+        "arxiv_url": "https://arxiv.org/abs/2611.24738",
+        "discussion_url": "https://huggingface.co/papers/2611.24738",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -552,9 +525,9 @@
           "Yingheng Wang"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 45,
+        "upvotes": 43,
         "comments": 3,
-        "discussion_score": 456.79,
+        "discussion_score": 436.79,
         "summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
         "keywords": [
           "Multi-Branch Transformer (MBT)",
@@ -582,9 +555,9 @@
           "Mike Zheng Shou"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 40,
         "comments": 3,
-        "discussion_score": 416.84,
+        "discussion_score": 406.83,
         "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on force beneath the model. Second, a frozen model cannot interpret raw force streams, so force must be returned in a form the model can reason about. Therefore, we present ForceHarness, a harness that l…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21099",
@@ -606,9 +579,9 @@
           "Fang Liu"
         ],
         "published_at": "2026-11-15T00:00:00+00:00",
-        "upvotes": 35,
+        "upvotes": 36,
         "comments": 2,
-        "discussion_score": 354.79,
+        "discussion_score": 364.79,
         "summary": "AURA 2.0 is a streaming video large language model that can initiate conversations, call tools, and perform interactive visual grounding, with long-horizon memory and a three-stage training scheme for improved streaming interaction.",
         "keywords": [
           "streaming video large language model",
@@ -637,9 +610,9 @@
           "Pavel Blinov"
         ],
         "published_at": "2026-11-11T00:00:00+00:00",
-        "upvotes": 32,
+        "upvotes": 33,
         "comments": 3,
-        "discussion_score": 326.6,
+        "discussion_score": 336.6,
         "summary": "A comprehensive benchmark evaluates time-series classification methods on a large clinical breath dataset under realistic temporal splits, showing that sensor drift lowers performance and recurrent models are most consistent across diseases.",
         "keywords": [
           "time series classification",
@@ -654,6 +627,39 @@
         "url": "https://arxiv.org/abs/2611.15348",
         "arxiv_url": "https://arxiv.org/abs/2611.15348",
         "discussion_url": "https://huggingface.co/papers/2611.15348",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.18856",
+        "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+        "authors": [
+          "Xin Yu",
+          "Fei Xia",
+          "Jiaqi Pan",
+          "Youbao Tang",
+          "Chengzhi Liu",
+          "Adams Yu",
+          "Sicong Jiang",
+          "Yanfei Chen"
+        ],
+        "published_at": "2026-11-13T00:00:00+00:00",
+        "upvotes": 30,
+        "comments": 6,
+        "discussion_score": 312.69,
+        "summary": "Continual recursive self-improvement lets harness optimizers reuse and revise prior edits across changing benchmarks or policy models by storing rationales, predicted and observed outcomes, and evaluation contexts in a self-improvement memory, improving final scores over continuation baselines.",
+        "keywords": [
+          "Continual Recursive Self-Improvement (CRSI)",
+          "Self-Improvement Memory (SIM)",
+          "harness optimizer",
+          "harness optimization",
+          "policy model",
+          "task-solving policy",
+          "harness-only continuation",
+          "root-cause-only continuation"
+        ],
+        "url": "https://arxiv.org/abs/2611.18856",
+        "arxiv_url": "https://arxiv.org/abs/2611.18856",
+        "discussion_url": "https://huggingface.co/papers/2611.18856",
         "source": "Hugging Face Daily Papers"
       }
     ]

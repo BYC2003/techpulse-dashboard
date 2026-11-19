@@ -5,18 +5,18 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 07:49:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 11:36:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Gemini 4 Neon in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</guid>
+<title>使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com</title>
+<link>https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 21:49:21 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:27:16 +0000</pubDate>
 </item>
 <item>
-<title>DaisyRose-27B：突破训练后效率的前沿 / DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
+<title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
 <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
 <guid isPermaLink="true">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
 <description>Hugging Face Blog</description>
@@ -32,14 +32,6 @@
 <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
 </item>
 <item>
-<title>The Gemini app is now available on lower-memory Android devices.</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
 <title>利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models</title>
 <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
 <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
@@ -48,12 +40,20 @@
 <pubDate>Wed, 18 Nov 2026 21:51:51 +0000</pubDate>
 </item>
 <item>
-<title>彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲</title>
-<link>https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a</link>
-<guid isPermaLink="true">https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a</guid>
-<description>IT之家·人工智能</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 04:49:53 +0000</pubDate>
+<title>The Gemini app is now available on lower-memory Android devices.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Neon in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 21:49:21 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.170.0</title>
@@ -72,14 +72,6 @@
 <pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
 </item>
 <item>
-<title>将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot</title>
-<link>https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 22:04:50 +0000</pubDate>
-</item>
-<item>
 <title>Inside the Codex sandbox</title>
 <link>https://openai.com/index/inside-the-codex-sandbox</link>
 <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
@@ -96,12 +88,36 @@
 <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
 </item>
 <item>
+<title>彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲</title>
+<link>https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a</link>
+<guid isPermaLink="true">https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a</guid>
+<description>IT之家·人工智能</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 04:49:53 +0000</pubDate>
+</item>
+<item>
+<title>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤</title>
+<link>https://www.aibase.com/news/32410</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32410</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 11:36:00 +0000</pubDate>
+</item>
+<item>
 <title>Put Gemini to work for you</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 18 Nov 2026 20:20:17 +0000</pubDate>
+</item>
+<item>
+<title>将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot</title>
+<link>https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 22:04:50 +0000</pubDate>
 </item>
 <item>
 <title>Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员</title>
@@ -112,14 +128,6 @@
 <pubDate>Thu, 19 Nov 2026 00:42:56 +0000</pubDate>
 </item>
 <item>
-<title>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤</title>
-<link>https://www.aibase.com/news/32410</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32410</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 07:49:33 +0000</pubDate>
-</item>
-<item>
 <title>黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售</title>
 <link>https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3</link>
 <guid isPermaLink="true">https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3</guid>
@@ -128,12 +136,12 @@
 <pubDate>Wed, 18 Nov 2026 23:41:28 +0000</pubDate>
 </item>
 <item>
-<title>使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI</title>
-<link>https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli</guid>
-<description>GitHub Changelog</description>
+<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 00:00:13 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果</title>
@@ -142,14 +150,6 @@
 <description>Tibo</description>
 <category>行业动态</category>
 <pubDate>Wed, 18 Nov 2026 22:03:01 +0000</pubDate>
-</item>
-<item>
-<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
-<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter</title>
