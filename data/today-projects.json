@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:29:54.603396Z",
+  "generated_at": "2026-11-19T07:50:56.777949Z",
   "date": "2026-11-19",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T00:28:49.599442Z"
+      "observed_at": "2026-11-19T07:49:33.047480Z"
     },
     {
-      "id": "project_c64bb2be7608",
-      "project_name": "Toone",
-      "url": "https://www.producthunt.com/products/toone",
-      "summary": "Grokbot meets n8n/zapier",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "GPT-6.2 Astra and Sol",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Grokbot meets n8n/zapier」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Grokbot meets n8n/zapier\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-23T11:02:40Z",
-      "updated_at": "2026-11-19T00:28:16Z",
+      "recommend_reason_zh": "体验它主打的「Two new OpenAI models: frontier Astra and efficient Sol」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Two new OpenAI models: frontier Astra and efficient Sol\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T18:06:04Z",
+      "updated_at": "2026-11-19T07:23:10Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T00:29:46.086234Z"
+      "observed_at": "2026-11-19T07:50:46.989650Z"
     },
     {
       "id": "project_01e478ba125a",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T00:28:49.599442Z"
+      "observed_at": "2026-11-19T07:49:33.047480Z"
     },
     {
-      "id": "project_daf92c8e7ba4",
-      "project_name": "dusk bot",
-      "url": "https://www.producthunt.com/products/dusk-bot",
-      "summary": "free open source Grok bot alternative",
+      "id": "project_f4646b1e2f18",
+      "project_name": "Incredible Agents",
+      "url": "https://www.producthunt.com/products/incredible",
+      "summary": "Fast Voice AI that sees your screen and runs your agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「free open source Grok bot alternative」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"free open source Grok bot alternative\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T14:13:59Z",
-      "updated_at": "2026-11-19T00:10:14Z",
+      "recommend_reason_zh": "体验它主打的「Fast Voice AI that sees your screen and runs your agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Fast Voice AI that sees your screen and runs your agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T22:02:24Z",
+      "updated_at": "2026-11-19T07:09:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T00:29:46.086234Z"
+      "observed_at": "2026-11-19T07:50:46.989650Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 19,
-      "duration_ms": 1737,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 135,
+      "duration_ms": 113,
       "error": null
     }
   ]

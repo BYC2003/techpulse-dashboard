@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:28:49.599442Z",
+  "generated_at": "2026-11-19T07:49:33.047480Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8532,
-      "importance": 0.8532,
-      "importance_score": 0.8532,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9623,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9362,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,15 +317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9592,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -446,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8976,
+        "recency": 0.8073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -615,15 +615,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7022,
+        "recency": 0.6315,
         "story_heat": 0.25
       },
       "category": "official",
@@ -702,8 +702,316 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_3e8f9ca99961",
+      "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+      "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+      "primary_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_en": null,
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T04:49:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7c9f23fd2d33b793e7f489d4e8d73554d43b2a93",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "title_en": null,
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/029/265.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-19T04:49:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "title_en": null,
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T04:49:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7c9f23fd2d33b793e7f489d4e8d73554d43b2a93",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "title_en": null,
+          "title_original": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/029/265.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-19T04:49:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T04:49:53Z",
+      "latest_at": "2026-11-19T04:49:53Z",
+      "primary_item": {
+        "id": "5fd969862775b9bd797b8969ac079e2f847fb8a5",
+        "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+        "title_zh": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+        "title_en": null,
+        "title_original": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "IT之家·人工智能",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        },
+        {
+          "source": "IT之家",
+          "site_id": "opmlrss",
+          "url": "https://www.ithome.com/1/029/265.htm",
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
+          "source_tier": "ai_media",
+          "source_tier_label": "AI 媒体",
+          "role": "report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "claim_type": "reported",
+          "basis_source": "IT之家·人工智能",
+          "basis_url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_916b3373dca3",
+      "title": "Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.6315,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "Codex CLI 0.170.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.170.0",
+        "title_original": "Codex CLI 0.170.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.170.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Codex CLI 0.170.0",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_9f84fd3609e3",
-      "title": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "source": "Hugging Face Blog",
@@ -711,8 +1019,8 @@
       "sources": [
         {
           "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": "为什么你的微调工作花费的时间比 FLOP 所说的要长",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
           "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
           "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
           "summary": null,
@@ -736,8 +1044,8 @@
       "items": [
         {
           "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": "为什么你的微调工作花费的时间比 FLOP 所说的要长",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
           "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
           "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
           "summary": null,
@@ -756,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9225,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -777,8 +1085,8 @@
       "latest_at": "2026-11-18T18:53:43Z",
       "primary_item": {
         "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-        "title": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
-        "title_zh": "为什么你的微调工作花费的时间比 FLOP 所说的要长",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_zh": null,
         "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
         "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
         "summary": null,
@@ -806,7 +1114,7 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "title": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -815,7 +1123,7 @@
       ],
       "key_claims": [
         {
-          "claim": "为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say",
+          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
           "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
@@ -885,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9659,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -960,265 +1268,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_916b3373dca3",
-      "title": "Codex CLI 0.170.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-          "title": "Codex CLI 0.170.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.170.0",
-          "title_original": "Codex CLI 0.170.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-          "title": "Codex CLI 0.170.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.170.0",
-          "title_original": "Codex CLI 0.170.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7022,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T00:00:00Z",
-      "latest_at": "2026-11-18T00:00:00Z",
-      "primary_item": {
-        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
-        "title": "Codex CLI 0.170.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.170.0",
-        "title_original": "Codex CLI 0.170.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.170.0",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Codex CLI 0.170.0",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_2256a2f0ba3c",
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available",
-      "primary_url": "https://deepmind.google/blog/genie-4-is-now-available",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "725506b42b16c18702103415e53d51ff53358fc5",
-          "title": "Genie 4 is now available",
-          "title_zh": null,
-          "title_en": "Genie 4 is now available",
-          "title_original": "Genie 4 is now available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:13:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "725506b42b16c18702103415e53d51ff53358fc5",
-          "title": "Genie 4 is now available",
-          "title_zh": null,
-          "title_en": "Genie 4 is now available",
-          "title_original": "Genie 4 is now available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:13:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9137,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:13:42Z",
-      "latest_at": "2026-11-18T18:13:42Z",
-      "primary_item": {
-        "id": "725506b42b16c18702103415e53d51ff53358fc5",
-        "title": "Genie 4 is now available",
-        "title_zh": null,
-        "title_en": "Genie 4 is now available",
-        "title_original": "Genie 4 is now available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/genie-4-is-now-available",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://deepmind.google/blog/genie-4-is-now-available",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google DeepMind",
-          "site_id": "official_ai",
-          "url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "title": "Genie 4 is now available",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Genie 4 is now available",
-          "claim_type": "confirmed",
-          "basis_source": "Google DeepMind",
-          "basis_url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_aca705309e9e",
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
@@ -1273,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7882,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1348,257 +1397,129 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_718ad7274e80",
-      "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-      "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-      "primary_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-      "source": "X.PIN",
-      "source_name": "AI HOT",
+      "story_id": "story_2256a2f0ba3c",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "primary_url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_en": null,
-          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "id": "725506b42b16c18702103415e53d51ff53358fc5",
+          "title": "Genie 4 is now available",
+          "title_zh": null,
+          "title_en": "Genie 4 is now available",
+          "title_original": "Genie 4 is now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:41:28Z",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:13:42Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X.PIN"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "title_en": null,
-          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "id": "725506b42b16c18702103415e53d51ff53358fc5",
+          "title": "Genie 4 is now available",
+          "title_zh": null,
+          "title_en": "Genie 4 is now available",
+          "title_original": "Genie 4 is now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "source": "X.PIN",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:41:28Z",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:13:42Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
-      "importance_label": "行业动态",
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T23:41:28Z",
-      "latest_at": "2026-11-18T23:41:28Z",
+      "earliest_at": "2026-11-18T18:13:42Z",
+      "latest_at": "2026-11-18T18:13:42Z",
       "primary_item": {
-        "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
-        "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-        "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-        "title_en": null,
-        "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+        "id": "725506b42b16c18702103415e53d51ff53358fc5",
+        "title": "Genie 4 is now available",
+        "title_zh": null,
+        "title_en": "Genie 4 is now available",
+        "title_original": "Genie 4 is now available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-        "source": "X.PIN",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
+        "url": "https://deepmind.google/blog/genie-4-is-now-available",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
       },
-      "claim_status": "rumor",
-      "claim_status_label": "传闻待核",
-      "claim_status_note": "出现消息人士、据称、爆料等信号，除非一手确认，否则不应进入正式口播。",
-      "claim_status_reason": "matched_rumor_signal",
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "unverified",
-      "verification_score": 13,
+      "primary_source_url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "X.PIN",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "title": "Genie 4 is now available",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
-          "claim_type": "rumor",
-          "basis_source": "X.PIN",
-          "basis_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
-          "status": "needs_primary_source",
+          "claim": "Genie 4 is now available",
+          "claim_type": "confirmed",
+          "basis_source": "Google DeepMind",
+          "basis_url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_cefcc45e6f6f",
-      "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-      "url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-      "primary_url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ecc2d0ab77f636e52a91711f1d005d77396a9bd0",
-          "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "title_zh": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:17:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "ecc2d0ab77f636e52a91711f1d005d77396a9bd0",
-          "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "title_zh": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T23:17:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.983,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T23:17:28Z",
-      "latest_at": "2026-11-18T23:17:28Z",
-      "primary_item": {
-        "id": "ecc2d0ab77f636e52a91711f1d005d77396a9bd0",
-        "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-        "title_zh": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-        "title_en": null,
-        "title_original": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-          "title": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/uaupvkzwpndnn2zg1b50zv9v7",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1699,15 +1620,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6347,
+        "recency": 0.5708,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1787,6 +1708,522 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_9ac516c2277d",
+      "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+      "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+      "primary_url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
+          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_en": null,
+          "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T00:42:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
+          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "title_en": null,
+          "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T00:42:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9024,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:42:56Z",
+      "latest_at": "2026-11-19T00:42:56Z",
+      "primary_item": {
+        "id": "b7eafbd688edbada810f19b1b8e1e22175785dcd",
+        "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+        "title_zh": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+        "title_en": null,
+        "title_original": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_46a68d8b55a8",
+      "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+      "url": "https://www.aibase.com/news/32410",
+      "primary_url": "https://www.aibase.com/news/32410",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_en": null,
+          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32410",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T07:49:33.047480Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_en": null,
+          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32410",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T07:49:33.047480Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T07:49:33.047480Z",
+      "latest_at": "2026-11-19T07:49:33.047480Z",
+      "primary_item": {
+        "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+        "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "title_en": null,
+        "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32410",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32410",
+          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32410",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_718ad7274e80",
+      "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+      "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+      "primary_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+      "source": "X.PIN",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
+          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "title_en": null,
+          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+          "source": "X.PIN",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-18T23:41:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X.PIN"
+      ],
+      "items": [
+        {
+          "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
+          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "title_en": null,
+          "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+          "source": "X.PIN",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-18T23:41:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T23:41:28Z",
+      "latest_at": "2026-11-18T23:41:28Z",
+      "primary_item": {
+        "id": "0dadb3d4b2a3b2cfce2c959154e9c9dc59085648",
+        "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+        "title_zh": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+        "title_en": null,
+        "title_original": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+        "source": "X.PIN",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "rumor",
+      "claim_status_label": "传闻待核",
+      "claim_status_note": "出现消息人士、据称、爆料等信号，除非一手确认，否则不应进入正式口播。",
+      "claim_status_reason": "matched_rumor_signal",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "unverified",
+      "verification_score": 13,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "X.PIN",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "claim_type": "rumor",
+          "basis_source": "X.PIN",
+          "basis_url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_9a9d0a568ee7",
+      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8932,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:13Z",
+      "latest_at": "2026-11-19T00:00:13Z",
+      "primary_item": {
+        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+        "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+        "title_en": "Wait for pull request events with GitHub CLI",
+        "title_original": "Wait for pull request events with GitHub CLI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_0c8b03a4572f",
       "title": "OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果",
       "url": "https://aihot.news/items/bnqsw7ispucfily4bdq9vz33j",
@@ -1841,15 +2278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1916,6 +2353,138 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_0f2a2904d331",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": null,
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T15:00:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": null,
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T15:00:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7844,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T15:00:23Z",
+      "latest_at": "2026-11-18T15:00:23Z",
+      "primary_item": {
+        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_zh": null,
+        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_65897d1e3784",
       "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
       "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
@@ -1970,15 +2539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9608,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2100,15 +2669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "recency": 0.863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2167,527 +2736,6 @@
         }
       ],
       "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_7fb9a5bc4048",
-      "title": "Google DeepMind 发布 Gemini 4 Neon",
-      "url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-      "primary_url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-      "source": "Google DeepMind：Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7f1fe5c89f133e7f324e8e297b6c9c362801c310",
-          "title": "Google DeepMind 发布 Gemini 4 Neon",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Neon",
-          "title_en": null,
-          "title_original": "Google DeepMind 发布 Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog"
-      ],
-      "items": [
-        {
-          "id": "7f1fe5c89f133e7f324e8e297b6c9c362801c310",
-          "title": "Google DeepMind 发布 Gemini 4 Neon",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Neon",
-          "title_en": null,
-          "title_original": "Google DeepMind 发布 Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9592,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:35:43Z",
-      "latest_at": "2026-11-18T21:35:43Z",
-      "primary_item": {
-        "id": "7f1fe5c89f133e7f324e8e297b6c9c362801c310",
-        "title": "Google DeepMind 发布 Gemini 4 Neon",
-        "title_zh": "Google DeepMind 发布 Gemini 4 Neon",
-        "title_en": null,
-        "title_original": "Google DeepMind 发布 Gemini 4 Neon",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-        "source": "Google DeepMind：Blog",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google DeepMind：Blog",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-          "title": "Google DeepMind 发布 Gemini 4 Neon",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google DeepMind 发布 Gemini 4 Neon",
-          "claim_type": "reported",
-          "basis_source": "Google DeepMind：Blog",
-          "basis_url": "https://aihot.news/items/lp0snt9lfrx5ju7mg3wma6hnw",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0f2a2904d331",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_zh": null,
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T15:00:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_zh": null,
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T15:00:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T15:00:23Z",
-      "latest_at": "2026-11-18T15:00:23Z",
-      "primary_item": {
-        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "title_zh": null,
-        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_6676aa7cab2e",
-      "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-      "url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-      "primary_url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-      "source": "Ars Technica：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9a44d70ed770120d276466e6281e89dfd44f22ca",
-          "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "title_zh": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "title_en": null,
-          "title_original": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-          "source": "Ars Technica：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T19:19:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI"
-      ],
-      "items": [
-        {
-          "id": "9a44d70ed770120d276466e6281e89dfd44f22ca",
-          "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "title_zh": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "title_en": null,
-          "title_original": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-          "source": "Ars Technica：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T19:19:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9283,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T19:19:33Z",
-      "latest_at": "2026-11-18T19:19:33Z",
-      "primary_item": {
-        "id": "9a44d70ed770120d276466e6281e89dfd44f22ca",
-        "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-        "title_zh": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-        "title_en": null,
-        "title_original": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-        "source": "Ars Technica：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Ars Technica：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-          "title": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧",
-          "claim_type": "reported",
-          "basis_source": "Ars Technica：AI",
-          "basis_url": "https://aihot.news/items/i24hiy236uc3ynswh26pw7s0h",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_9e21c67e2136",
-      "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-      "url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-      "primary_url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-      "source": "Greg Brockman",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "767dfd6a1486795976f766d6a96f5317e841b0bd",
-          "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "title_zh": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "title_en": null,
-          "title_original": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T19:05:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Greg Brockman"
-      ],
-      "items": [
-        {
-          "id": "767dfd6a1486795976f766d6a96f5317e841b0bd",
-          "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "title_zh": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "title_en": null,
-          "title_original": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-18T19:05:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9251,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T19:05:11Z",
-      "latest_at": "2026-11-18T19:05:11Z",
-      "primary_item": {
-        "id": "767dfd6a1486795976f766d6a96f5317e841b0bd",
-        "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-        "title_zh": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-        "title_en": null,
-        "title_original": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-        "source": "Greg Brockman",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Greg Brockman",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-          "title": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度",
-          "claim_type": "reported",
-          "basis_source": "Greg Brockman",
-          "basis_url": "https://aihot.news/items/tsh3b6rieynf7vstk1ipl34ae",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
