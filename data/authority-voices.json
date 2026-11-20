@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:34:25.447305+00:00",
+  "generated_at": "2026-11-20T02:19:41.469483+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-19T14:00:00+00:00"
+      "latest_at": "2026-11-19T22:15:00+00:00"
     },
     {
       "id": "bair",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1414,
+      "items_scanned": 1418,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-18T08:00:00+00:00"
@@ -125,10 +125,40 @@
       "items_scanned": 20,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-13T04:17:25+00:00"
+      "latest_at": "2026-11-19T23:58:21+00:00"
     }
   ],
   "items": [
+    {
+      "id": "98238347f417dde6",
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "url": "https://latent.space/p/linear-scaling/",
+      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "published_at": "2026-11-19T23:58:21+00:00",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "5d34fe7d8b23132f",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+      "published_at": "2026-11-19T22:15:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "6f24490fc20b4ab7",
       "title": "Study reveals data centers’ long-distance damage to air quality",
@@ -195,21 +225,6 @@
       "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
       "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
       "published_at": "2026-11-18T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "1a48957e39d1b882",
-      "title": "Putting a spotlight on AI, society, and humanity",
-      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
-      "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
-      "published_at": "2026-11-17T20:40:00+00:00",
       "source_id": "mit_ai",
       "source_name": "MIT News · AI",
       "source_kind": "research",
@@ -337,21 +352,6 @@
       "trust": "official",
       "trust_label": "官方实验室",
       "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
-      "id": "92b6e6010711c686",
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "url": "https://latent.space/p/codex-work/",
-      "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
-      "published_at": "2026-11-11T04:49:48+00:00",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "source_kind": "interview",
-      "category": "interview",
-      "trust": "interview",
-      "trust_label": "访谈观点",
-      "verification": "访谈观点，需区分事实与受访者判断",
       "is_opinion": true
     },
     {

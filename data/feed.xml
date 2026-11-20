@@ -5,23 +5,31 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 20:32:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 02:18:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API</title>
+<title>Codex CLI 0.171.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
+</item>
+<item>
+<title>Introducing Tool Retrieval in the Gemini API</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available</title>
-<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
 </item>
 <item>
 <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -32,14 +40,6 @@
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available</title>
-<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
-</item>
-<item>
 <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
 <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
 <guid isPermaLink="true">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
@@ -48,7 +48,15 @@
 <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
 </item>
 <item>
-<title>沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.</title>
+<title>Enterprise Live Migrations from Azure DevOps generally available</title>
+<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
+</item>
+<item>
+<title>Walter Isaacson on curiosity and creativity in the AI age.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</guid>
 <description>Google AI Blog</description>
@@ -64,6 +72,38 @@
 <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
 </item>
 <item>
+<title>Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%</title>
+<link>https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc</link>
+<guid isPermaLink="true">https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc</guid>
+<description>The Verge：AI</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 21:59:35 +0000</pubDate>
+</item>
+<item>
+<title>Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务</title>
+<link>https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj</link>
+<guid isPermaLink="true">https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj</guid>
+<description>Josh Woodward</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 21:52:19 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验</title>
+<link>https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</link>
+<guid isPermaLink="true">https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</guid>
+<description>Arena</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 21:28:16 +0000</pubDate>
+</item>
+<item>
+<title>Explore the Codex Security Plugin</title>
+<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO</title>
 <link>https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</link>
 <guid isPermaLink="true">https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</guid>
@@ -72,12 +112,12 @@
 <pubDate>Thu, 19 Nov 2026 20:13:16 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT for iOS 1.2026.314</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
+<link>https://www.aibase.com/news/32422</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 02:18:16 +0000</pubDate>
 </item>
 <item>
 <title>Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型</title>
@@ -88,12 +128,28 @@
 <pubDate>Thu, 19 Nov 2026 18:18:09 +0000</pubDate>
 </item>
 <item>
+<title>Red Hat Enterprise Linux runner images now generally available</title>
+<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
+</item>
+<item>
 <title>Google 在 Gemini API 推出 Tool Retrieval 预览</title>
 <link>https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</link>
 <guid isPermaLink="true">https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</guid>
 <description>Google Blog：AI</description>
 <category>行业动态</category>
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Why your fine-tuning job takes longer than the FLOPs say</title>
+<link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
 </item>
 <item>
 <title>Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型</title>
@@ -110,62 +166,6 @@
 <description>indigo</description>
 <category>行业动态</category>
 <pubDate>Thu, 19 Nov 2026 17:14:14 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic CEO Dario Amodei 就公司 IPO 发表声明</title>
-<link>https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5</link>
-<guid isPermaLink="true">https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5</guid>
-<description>Anthropic</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 17:01:26 +0000</pubDate>
-</item>
-<item>
-<title>芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击</title>
-<link>https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42</link>
-<guid isPermaLink="true">https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42</guid>
-<description>The Decoder：AI News</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 17:02:41 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%</title>
-<link>https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv</link>
-<guid isPermaLink="true">https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
-</item>
-<item>
-<title>Why your fine-tuning job takes longer than the FLOPs say</title>
-<link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视</title>
-<link>https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf</link>
-<guid isPermaLink="true">https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 14:25:37 +0000</pubDate>
-</item>
-<item>
-<title>MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡</title>
-<link>https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav</link>
-<guid isPermaLink="true">https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav</guid>
-<description>MIT News</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜</title>
-<link>https://www.aibase.com/news/32417</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32417</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 18:32:48 +0000</pubDate>
 </item>
 </channel>
 </rss>

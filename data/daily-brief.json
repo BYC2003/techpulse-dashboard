@@ -1,11 +1,269 @@
 {
-  "generated_at": "2026-11-19T20:32:48.936005Z",
+  "generated_at": "2026-11-20T02:18:16.704328Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_ef0476de7328",
+      "title": "Codex CLI 0.171.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "Codex CLI 0.171.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.171.0",
+          "title_original": "Codex CLI 0.171.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "Codex CLI 0.171.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.171.0",
+          "title_original": "Codex CLI 0.171.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9673,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+        "title": "Codex CLI 0.171.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.171.0",
+        "title_original": "Codex CLI 0.171.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex CLI 0.171.0",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Codex CLI 0.171.0",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_5c21545858a7",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9678,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "title_zh": "公共预览版中拉取请求概述的改进",
+        "title_en": "Improvements on the pull request overview in public preview",
+        "title_original": "Improvements on the pull request overview in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_f4a0bde39164",
-      "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+      "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
       "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
       "source": "Google AI Blog",
@@ -13,8 +271,8 @@
       "sources": [
         {
           "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "title_zh": "在 Gemini API 中引入工具检索",
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "title_zh": null,
           "title_en": "Introducing Tool Retrieval in the Gemini API",
           "title_original": "Introducing Tool Retrieval in the Gemini API",
           "summary": null,
@@ -38,8 +296,8 @@
       "items": [
         {
           "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "title_zh": "在 Gemini API 中引入工具检索",
+          "title": "Introducing Tool Retrieval in the Gemini API",
+          "title_zh": null,
           "title_en": "Introducing Tool Retrieval in the Gemini API",
           "title_original": "Introducing Tool Retrieval in the Gemini API",
           "summary": null,
@@ -58,15 +316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9639,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -79,8 +337,8 @@
       "latest_at": "2026-11-19T18:00:00Z",
       "primary_item": {
         "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-        "title_zh": "在 Gemini API 中引入工具检索",
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "title_zh": null,
         "title_en": "Introducing Tool Retrieval in the Gemini API",
         "title_original": "Introducing Tool Retrieval in the Gemini API",
         "summary": null,
@@ -108,7 +366,7 @@
           "source": "Google AI Blog",
           "site_id": "official_ai",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+          "title": "Introducing Tool Retrieval in the Gemini API",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,7 +375,7 @@
       ],
       "key_claims": [
         {
-          "claim": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+          "claim": "Introducing Tool Retrieval in the Gemini API",
           "claim_type": "confirmed",
           "basis_source": "Google AI Blog",
           "basis_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
@@ -126,136 +384,6 @@
         }
       ],
       "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_99c3c3718f01",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:50:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:50:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9758,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -317,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8343,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,136 +520,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_98815cd1b0b3",
-      "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行程序镜像现已普遍可用",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:48:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行程序镜像现已普遍可用",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:48:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9753,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
-      "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-        "title_zh": "红帽企业 Linux 运行程序镜像现已普遍可用",
-        "title_en": "Red Hat Enterprise Linux runner images now generally available",
-        "title_original": "Red Hat Enterprise Linux runner images now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_913b1679e631",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -576,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7007,
+        "recency": 0.6448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -652,8 +650,138 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_99c3c3718f01",
+      "title": "Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": null,
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T18:50:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": null,
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T18:50:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8979,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
+      "primary_item": {
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Enterprise Live Migrations from Azure DevOps generally available",
+        "title_zh": null,
+        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "title": "Enterprise Live Migrations from Azure DevOps generally available",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Enterprise Live Migrations from Azure DevOps generally available",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_c2ba68bd6600",
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
       "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
       "source": "Google AI Blog",
@@ -661,8 +789,8 @@
       "sources": [
         {
           "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
           "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
           "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
           "summary": null,
@@ -686,8 +814,8 @@
       "items": [
         {
           "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
           "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
           "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
           "summary": null,
@@ -706,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9501,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,8 +855,8 @@
       "latest_at": "2026-11-19T17:00:00Z",
       "primary_item": {
         "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "title_zh": null,
         "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
         "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
         "summary": null,
@@ -756,7 +884,7 @@
           "source": "Google AI Blog",
           "site_id": "official_ai",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -765,7 +893,7 @@
       ],
       "key_claims": [
         {
-          "claim": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
+          "claim": "Walter Isaacson on curiosity and creativity in the AI age.",
           "claim_type": "confirmed",
           "basis_source": "Google AI Blog",
           "basis_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
@@ -835,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7179,
+        "recency": 0.6606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -910,6 +1038,524 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_0b80697932c9",
+      "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+      "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+      "primary_url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
+          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "title_zh": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "title_en": null,
+          "title_original": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:59:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
+          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "title_zh": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "title_en": null,
+          "title_original": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:59:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T21:59:35Z",
+      "latest_at": "2026-11-19T21:59:35Z",
+      "primary_item": {
+        "id": "51992e90ad27f9fa969ec6fd5c83e87384ac687b",
+        "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+        "title_zh": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+        "title_en": null,
+        "title_original": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "The Verge：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "claim_type": "reported",
+          "basis_source": "The Verge：AI",
+          "basis_url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_b20abe58583f",
+      "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+      "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+      "primary_url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+      "source": "Josh Woodward",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "715e63131bf528800a16dfb6972d526a383482c4",
+          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "title_zh": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "title_en": null,
+          "title_original": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+          "source": "Josh Woodward",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:52:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Josh Woodward"
+      ],
+      "items": [
+        {
+          "id": "715e63131bf528800a16dfb6972d526a383482c4",
+          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "title_zh": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "title_en": null,
+          "title_original": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+          "source": "Josh Woodward",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:52:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.938,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T21:52:19Z",
+      "latest_at": "2026-11-19T21:52:19Z",
+      "primary_item": {
+        "id": "715e63131bf528800a16dfb6972d526a383482c4",
+        "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+        "title_zh": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+        "title_en": null,
+        "title_original": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+        "source": "Josh Woodward",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Josh Woodward",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "claim_type": "reported",
+          "basis_source": "Josh Woodward",
+          "basis_url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_2ede4b9c8caf",
+      "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+      "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+      "primary_url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+      "source": "Arena",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e9dd1c271339478662a52c76740ce419571ceb35",
+          "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "title_zh": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "title_en": null,
+          "title_original": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:28:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Arena"
+      ],
+      "items": [
+        {
+          "id": "e9dd1c271339478662a52c76740ce419571ceb35",
+          "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "title_zh": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "title_en": null,
+          "title_original": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-19T21:28:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9326,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T21:28:16Z",
+      "latest_at": "2026-11-19T21:28:16Z",
+      "primary_item": {
+        "id": "e9dd1c271339478662a52c76740ce419571ceb35",
+        "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+        "title_zh": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+        "title_en": null,
+        "title_original": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+        "source": "Arena",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Arena",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+          "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+          "claim_type": "reported",
+          "basis_source": "Arena",
+          "basis_url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_cd4902b49aba",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+        "title": "Explore the Codex Security Plugin",
+        "title_zh": null,
+        "title_en": "Explore the Codex Security Plugin",
+        "title_original": "Explore the Codex Security Plugin",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "title": "Explore the Codex Security Plugin",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Explore the Codex Security Plugin",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_57c2c93c0449",
       "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
       "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
@@ -964,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9953,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,128 +1686,129 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_25fedfecfc0f",
-      "title": "ChatGPT for iOS 1.2026.314",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_69be317b2dfa",
+      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+      "url": "https://www.aibase.com/news/32422",
+      "primary_url": "https://www.aibase.com/news/32422",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
-          "title": "ChatGPT for iOS 1.2026.314",
-          "title_zh": null,
-          "title_en": "ChatGPT for iOS 1.2026.314",
-          "title_original": "ChatGPT for iOS 1.2026.314",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
+          "url": "https://www.aibase.com/news/32422",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T02:18:16.704328Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
-          "title": "ChatGPT for iOS 1.2026.314",
-          "title_zh": null,
-          "title_en": "ChatGPT for iOS 1.2026.314",
-          "title_original": "ChatGPT for iOS 1.2026.314",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T00:00:00Z",
+          "url": "https://www.aibase.com/news/32422",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T02:18:16.704328Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.72,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5256,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T00:00:00Z",
-      "latest_at": "2026-11-18T00:00:00Z",
+      "earliest_at": "2026-11-20T02:18:16.704328Z",
+      "latest_at": "2026-11-20T02:18:16.704328Z",
       "primary_item": {
-        "id": "895eb7cca035ad5a37f592361cb2e53882fa75ae",
-        "title": "ChatGPT for iOS 1.2026.314",
-        "title_zh": null,
-        "title_en": "ChatGPT for iOS 1.2026.314",
-        "title_original": "ChatGPT for iOS 1.2026.314",
+        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_en": null,
+        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
+        "url": "https://www.aibase.com/news/32422",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
       },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
       "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "ChatGPT for iOS 1.2026.314",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32422",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
           "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "ChatGPT for iOS 1.2026.314",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
+          "claim": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32422",
+          "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1223,15 +1870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,6 +1947,136 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_98815cd1b0b3",
+      "title": "Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": null,
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T18:48:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": null,
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T18:48:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8975,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T18:48:46Z",
+      "latest_at": "2026-11-19T18:48:46Z",
+      "primary_item": {
+        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+        "title": "Red Hat Enterprise Linux runner images now generally available",
+        "title_zh": null,
+        "title_en": "Red Hat Enterprise Linux runner images now generally available",
+        "title_original": "Red Hat Enterprise Linux runner images now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "title": "Red Hat Enterprise Linux runner images now generally available",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Red Hat Enterprise Linux runner images now generally available",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_c019ab9bc44b",
       "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
       "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
@@ -1354,15 +2131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9639,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1430,6 +2207,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_9f84fd3609e3",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6354,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T18:53:43Z",
+      "latest_at": "2026-11-18T18:53:43Z",
+      "primary_item": {
+        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_zh": null,
+        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_fd5ce133759c",
       "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
       "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
@@ -1484,15 +2390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1615,15 +2521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1683,913 +2589,6 @@
       ],
       "limits": [
         "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_ce7e7f171cf4",
-      "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-      "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-      "primary_url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-      "source": "Anthropic",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-          "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "title_zh": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "title_en": null,
-          "title_original": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:01:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic"
-      ],
-      "items": [
-        {
-          "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-          "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "title_zh": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "title_en": null,
-          "title_original": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:01:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9504,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:01:26Z",
-      "latest_at": "2026-11-19T17:01:26Z",
-      "primary_item": {
-        "id": "64c7724bbe2e3bcfdce8acfd30fd118af22a78d2",
-        "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-        "title_zh": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-        "title_en": null,
-        "title_original": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-        "source": "Anthropic",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Anthropic",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "title": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic CEO Dario Amodei 就公司 IPO 发表声明",
-          "claim_type": "reported",
-          "basis_source": "Anthropic",
-          "basis_url": "https://aihot.news/items/bj8r4lnrbcoi5cl1asnyn6qt5",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_68b6cfcb118d",
-      "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-      "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-      "primary_url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "title_zh": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "title_en": null,
-          "title_original": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:02:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News"
-      ],
-      "items": [
-        {
-          "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "title_zh": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "title_en": null,
-          "title_original": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:02:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9507,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:02:41Z",
-      "latest_at": "2026-11-19T17:02:41Z",
-      "primary_item": {
-        "id": "b888f8b1d2758e9637df729246b9eda1bb75dbc8",
-        "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-        "title_zh": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-        "title_en": null,
-        "title_original": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "The Decoder：AI News",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
-          "claim_type": "reported",
-          "basis_source": "The Decoder：AI News",
-          "basis_url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_4daaafcb70ce",
-      "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-      "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-      "primary_url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "title_zh": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "title_en": null,
-          "title_original": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T16:59:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "title_zh": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "title_en": null,
-          "title_original": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T16:59:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9499,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "768184f2be2bb4b3ba6634cd6461a2ec4a383412",
-        "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-        "title_zh": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-        "title_en": null,
-        "title_original": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_9f84fd3609e3",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6904,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:53:43Z",
-      "latest_at": "2026-11-18T18:53:43Z",
-      "primary_item": {
-        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-        "title": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_zh": null,
-        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_534f05289b68",
-      "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-      "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-      "primary_url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-      "source": "The Verge：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
-          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "title_en": null,
-          "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T14:25:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI"
-      ],
-      "items": [
-        {
-          "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
-          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "title_en": null,
-          "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T14:25:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T14:25:37Z",
-      "latest_at": "2026-11-19T14:25:37Z",
-      "primary_item": {
-        "id": "bf981ad95db0434b709dc6ae8f5e71d162eb304b",
-        "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-        "title_zh": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-        "title_en": null,
-        "title_original": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-        "source": "The Verge：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "The Verge：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-          "title": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视",
-          "claim_type": "reported",
-          "basis_source": "The Verge：AI",
-          "basis_url": "https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_4a6ca044b8cc",
-      "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-      "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-      "primary_url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-      "source": "MIT News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "title_en": null,
-          "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News"
-      ],
-      "items": [
-        {
-          "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "title_en": null,
-          "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9098,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T14:00:00Z",
-      "latest_at": "2026-11-19T14:00:00Z",
-      "primary_item": {
-        "id": "60fe139c9f58d1858031413fcf7c1cae16682335",
-        "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-        "title_zh": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-        "title_en": null,
-        "title_original": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-        "source": "MIT News",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "MIT News",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
-          "claim_type": "reported",
-          "basis_source": "MIT News",
-          "basis_url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_867858c73a46",
-      "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-      "url": "https://www.aibase.com/news/32417",
-      "primary_url": "https://www.aibase.com/news/32417",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "title_en": null,
-          "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32417",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T18:32:48.936005Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "title_en": null,
-          "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32417",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T18:32:48.936005Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:32:48.936005Z",
-      "latest_at": "2026-11-19T18:32:48.936005Z",
-      "primary_item": {
-        "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-        "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "title_en": null,
-        "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32417",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32417",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32417",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:34:30.757628+00:00",
+  "generated_at": "2026-11-20T02:19:46.319884+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Chen Li"
         ],
         "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 159,
+        "upvotes": 160,
         "comments": 3,
-        "discussion_score": 1596.86,
+        "discussion_score": 1606.85,
         "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, an…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.22115",
@@ -408,9 +408,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 110,
-        "comments": 3,
-        "discussion_score": 1106.91,
+        "upvotes": 112,
+        "comments": 4,
+        "discussion_score": 1128.9,
         "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
           "System One models",
@@ -443,7 +443,7 @@
         "published_at": "2026-11-13T00:00:00+00:00",
         "upvotes": 92,
         "comments": 3,
-        "discussion_score": 926.67,
+        "discussion_score": 926.66,
         "summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
         "keywords": [
           "large language model (LLM)",
@@ -470,7 +470,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 54,
         "comments": 3,
-        "discussion_score": 546.86,
+        "discussion_score": 546.85,
         "summary": "When large language models write neural network weights without gradient-based training, they tend to design sparse table or associative-memory models that outperform same-sized Transformers with far fewer parameters and faster GPU inference, though pretrained LLMs remain more accurate.",
         "keywords": [
           "Transformer",
@@ -503,7 +503,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 44,
         "comments": 3,
-        "discussion_score": 446.77,
+        "discussion_score": 446.76,
         "summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
         "keywords": [
           "Multi-Branch Transformer (MBT)",
@@ -533,7 +533,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 41,
         "comments": 3,
-        "discussion_score": 416.82,
+        "discussion_score": 416.8,
         "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on force beneath the model. Second, a frozen model cannot interpret raw force streams, so force must be returned in a form the model can reason about. Therefore, we present ForceHarness, a harness that l…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21099",
@@ -557,7 +557,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 36,
         "comments": 2,
-        "discussion_score": 364.77,
+        "discussion_score": 364.76,
         "summary": "AURA 2.0 is a streaming video large language model that can initiate conversations, call tools, and perform interactive visual grounding, with long-horizon memory and a three-stage training scheme for improved streaming interaction.",
         "keywords": [
           "streaming video large language model",
@@ -588,9 +588,9 @@
           "Yueting Wang"
         ],
         "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 34,
-        "comments": 2,
-        "discussion_score": 344.86,
+        "upvotes": 35,
+        "comments": 4,
+        "discussion_score": 358.85,
         "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
           "agent evolution",
@@ -623,7 +623,7 @@
         "published_at": "2026-11-13T00:00:00+00:00",
         "upvotes": 33,
         "comments": 6,
-        "discussion_score": 342.67,
+        "discussion_score": 342.66,
         "summary": "Continual recursive self-improvement lets harness optimizers reuse and revise prior edits across changing benchmarks or policy models by storing rationales, predicted and observed outcomes, and evaluation contexts in a self-improvement memory, improving final scores over continuation baselines.",
         "keywords": [
           "Continual Recursive Self-Improvement (CRSI)",
@@ -641,34 +641,27 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.15348",
-        "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+        "id": "2611.21366",
+        "title": "ALIVE: Making Streaming Video Models Interactive",
         "authors": [
-          "Ivan Poddiakov",
-          "Ivan Kruzhilov",
-          "Galina Zubkova",
-          "Svetlana Erofeeva",
-          "Andrey Savchenko",
-          "Pavel Blinov"
+          "Jinzhao Li",
+          "Yuan Xu",
+          "Jinxuan Wu",
+          "Yukun Wang",
+          "Yijia Lei",
+          "Hanyu Ji",
+          "Yinuo Chen",
+          "Zining Huang"
         ],
-        "published_at": "2026-11-11T00:00:00+00:00",
+        "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 33,
         "comments": 3,
-        "discussion_score": 336.58,
-        "summary": "A comprehensive benchmark evaluates time-series classification methods on a large clinical breath dataset under realistic temporal splits, showing that sensor drift lowers performance and recurrent models are most consistent across diseases.",
-        "keywords": [
-          "time series classification",
-          "multivariate time series",
-          "feature-based tabular learners",
-          "convolution-based models",
-          "graph-based models",
-          "time series architectures",
-          "recurrent architectures",
-          "temporal validation"
-        ],
-        "url": "https://arxiv.org/abs/2611.15348",
-        "arxiv_url": "https://arxiv.org/abs/2611.15348",
-        "discussion_url": "https://huggingface.co/papers/2611.15348",
+        "discussion_score": 336.8,
+        "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.21366",
+        "arxiv_url": "https://arxiv.org/abs/2611.21366",
+        "discussion_url": "https://huggingface.co/papers/2611.21366",
         "source": "Hugging Face Daily Papers"
       }
     ]
