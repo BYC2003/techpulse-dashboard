@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 02:18:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 04:01:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.171.0</title>
@@ -56,6 +56,14 @@
 <pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
 </item>
 <item>
+<title>Introducing Gemini 4 Neon</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-neon</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
+</item>
+<item>
 <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</guid>
@@ -64,12 +72,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Introducing Gemini 4 Neon</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-neon</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
+<title>腾讯混元 Hy4 正式开源并发布 System Card</title>
+<link>https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6</link>
+<guid isPermaLink="true">https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6</guid>
+<description>公众号：腾讯混元</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 03:41:18 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%</title>
@@ -88,14 +96,6 @@
 <pubDate>Thu, 19 Nov 2026 21:52:19 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验</title>
-<link>https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</link>
-<guid isPermaLink="true">https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</guid>
-<description>Arena</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 21:28:16 +0000</pubDate>
-</item>
-<item>
 <title>Explore the Codex Security Plugin</title>
 <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
 <guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
@@ -104,12 +104,12 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO</title>
-<link>https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</link>
-<guid isPermaLink="true">https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</guid>
-<description>Karina Nguyen</description>
+<title>Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验</title>
+<link>https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</link>
+<guid isPermaLink="true">https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</guid>
+<description>Arena</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 20:13:16 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 21:28:16 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
@@ -117,7 +117,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 02:18:16 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 04:01:47 +0000</pubDate>
+</item>
+<item>
+<title>Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO</title>
+<link>https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</link>
+<guid isPermaLink="true">https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</guid>
+<description>Karina Nguyen</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 20:13:16 +0000</pubDate>
 </item>
 <item>
 <title>Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型</title>
@@ -136,14 +144,6 @@
 <pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
-<title>Google 在 Gemini API 推出 Tool Retrieval 预览</title>
-<link>https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</link>
-<guid isPermaLink="true">https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</guid>
-<description>Google Blog：AI</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Why your fine-tuning job takes longer than the FLOPs say</title>
 <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
 <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
@@ -152,20 +152,20 @@
 <pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
 </item>
 <item>
+<title>Google 在 Gemini API 推出 Tool Retrieval 预览</title>
+<link>https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</link>
+<guid isPermaLink="true">https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</guid>
+<description>Google Blog：AI</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型</title>
 <link>https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde</link>
 <guid isPermaLink="true">https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde</guid>
 <description>Philipp Schmid</description>
 <category>行业动态</category>
 <pubDate>Thu, 19 Nov 2026 17:17:39 +0000</pubDate>
-</item>
-<item>
-<title>indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟</title>
-<link>https://aihot.news/items/gp3hccimt42ak2uh82nrpty65</link>
-<guid isPermaLink="true">https://aihot.news/items/gp3hccimt42ak2uh82nrpty65</guid>
-<description>indigo</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 17:14:14 +0000</pubDate>
 </item>
 </channel>
 </rss>

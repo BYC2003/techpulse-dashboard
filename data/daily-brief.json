@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:18:16.704328Z",
+  "generated_at": "2026-11-20T04:01:47.759602Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8601,
-      "importance": 0.8601,
-      "importance_score": 0.8601,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9673,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9678,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -316,15 +316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.887,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7677,
+        "recency": 0.7488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6448,
+        "recency": 0.6289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -704,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8979,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,135 +780,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_c2ba68bd6600",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": null,
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": null,
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8743,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
-      "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_zh": null,
-        "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI Blog",
-          "site_id": "official_ai",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "claim_type": "confirmed",
-          "basis_source": "Google AI Blog",
-          "basis_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_e0cc6809540e",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
@@ -963,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6606,
+        "recency": 0.6444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1038,6 +909,264 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_c2ba68bd6600",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
+          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
+          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8528,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T17:00:00Z",
+      "latest_at": "2026-11-19T17:00:00Z",
+      "primary_item": {
+        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "title_zh": null,
+        "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "claim_type": "confirmed",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_2520f44c0b0d",
+      "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+      "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+      "primary_url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_en": null,
+          "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T03:41:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_en": null,
+          "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T03:41:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:41:18Z",
+      "latest_at": "2026-11-20T03:41:18Z",
+      "primary_item": {
+        "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+        "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "title_en": null,
+        "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：腾讯混元",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "claim_type": "reported",
+          "basis_source": "公众号：腾讯混元",
+          "basis_url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_0b80697932c9",
       "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
       "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
@@ -1092,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9396,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,6 +1426,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_cd4902b49aba",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6671,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+        "title": "Explore the Codex Security Plugin",
+        "title_zh": null,
+        "title_en": "Explore the Codex Security Plugin",
+        "title_original": "Explore the Codex Security Plugin",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "title": "Explore the Codex Security Plugin",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Explore the Codex Security Plugin",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_2ede4b9c8caf",
       "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
       "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
@@ -1351,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,128 +1685,129 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_cd4902b49aba",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_69be317b2dfa",
+      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+      "url": "https://www.aibase.com/news/32422",
+      "primary_url": "https://www.aibase.com/news/32422",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-          "title": "Explore the Codex Security Plugin",
-          "title_zh": null,
-          "title_en": "Explore the Codex Security Plugin",
-          "title_original": "Explore the Codex Security Plugin",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T00:00:00Z",
+          "url": "https://www.aibase.com/news/32422",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T04:01:47.759602Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-          "title": "Explore the Codex Security Plugin",
-          "title_zh": null,
-          "title_en": "Explore the Codex Security Plugin",
-          "title_original": "Explore the Codex Security Plugin",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T00:00:00Z",
+          "url": "https://www.aibase.com/news/32422",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T04:01:47.759602Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.684,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T00:00:00Z",
-      "latest_at": "2026-11-19T00:00:00Z",
+      "earliest_at": "2026-11-20T04:01:47.759602Z",
+      "latest_at": "2026-11-20T04:01:47.759602Z",
       "primary_item": {
-        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-        "title": "Explore the Codex Security Plugin",
-        "title_zh": null,
-        "title_en": "Explore the Codex Security Plugin",
-        "title_original": "Explore the Codex Security Plugin",
+        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_en": null,
+        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
+        "url": "https://www.aibase.com/news/32422",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
       },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
       "is_opinion": false,
-      "primary_source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "title": "Explore the Codex Security Plugin",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32422",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
           "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "Explore the Codex Security Plugin",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "status": "source_available",
+          "claim": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32422",
+          "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1610,15 +1869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.8934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1686,136 +1945,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_69be317b2dfa",
-      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-      "url": "https://www.aibase.com/news/32422",
-      "primary_url": "https://www.aibase.com/news/32422",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T02:18:16.704328Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T02:18:16.704328Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:18:16.704328Z",
-      "latest_at": "2026-11-20T02:18:16.704328Z",
-      "primary_item": {
-        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_en": null,
-        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32422",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32422",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32422",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_295842767974",
       "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
       "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
@@ -1870,15 +1999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2001,15 +2130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8975,
+        "recency": 0.8754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2077,6 +2206,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_9f84fd3609e3",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6197,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T18:53:43Z",
+      "latest_at": "2026-11-18T18:53:43Z",
+      "primary_item": {
+        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_zh": null,
+        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_c019ab9bc44b",
       "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
       "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
@@ -2131,15 +2389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.887,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2207,135 +2465,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_9f84fd3609e3",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6354,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:53:43Z",
-      "latest_at": "2026-11-18T18:53:43Z",
-      "primary_item": {
-        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-        "title": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_zh": null,
-        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_fd5ce133759c",
       "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
       "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
@@ -2390,15 +2519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2459,136 +2588,6 @@
       "limits": [
         "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_5e8effda5c31",
-      "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-      "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-      "primary_url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-      "source": "indigo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-          "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "title_zh": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "title_en": null,
-          "title_original": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "source": "indigo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:14:14Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "indigo"
-      ],
-      "items": [
-        {
-          "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-          "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "title_zh": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "title_en": null,
-          "title_original": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "source": "indigo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:14:14Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:14:14Z",
-      "latest_at": "2026-11-19T17:14:14Z",
-      "primary_item": {
-        "id": "00764627514aee49dffd75a7783fe056f6cdd58c",
-        "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-        "title_zh": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-        "title_en": null,
-        "title_original": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-        "source": "indigo",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "indigo",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "title": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "indigo 转发 Dario Amodei 为 Anthropic IPO 在 Nasdaq 敲钟",
-          "claim_type": "reported",
-          "basis_source": "indigo",
-          "basis_url": "https://aihot.news/items/gp3hccimt42ak2uh82nrpty65",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],

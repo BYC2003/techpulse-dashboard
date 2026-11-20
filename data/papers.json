@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:19:46.319884+00:00",
+  "generated_at": "2026-11-20T04:03:45.925290+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -408,9 +408,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 112,
+        "upvotes": 116,
         "comments": 4,
-        "discussion_score": 1128.9,
+        "discussion_score": 1168.9,
         "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
           "System One models",
@@ -503,7 +503,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 44,
         "comments": 3,
-        "discussion_score": 446.76,
+        "discussion_score": 446.75,
         "summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
         "keywords": [
           "Multi-Branch Transformer (MBT)",
@@ -531,9 +531,9 @@
           "Mike Zheng Shou"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 3,
-        "discussion_score": 416.8,
+        "discussion_score": 426.8,
         "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on force beneath the model. Second, a frozen model cannot interpret raw force streams, so force must be returned in a form the model can reason about. Therefore, we present ForceHarness, a harness that l…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21099",
@@ -557,7 +557,7 @@
         "published_at": "2026-11-15T00:00:00+00:00",
         "upvotes": 36,
         "comments": 2,
-        "discussion_score": 364.76,
+        "discussion_score": 364.75,
         "summary": "AURA 2.0 is a streaming video large language model that can initiate conversations, call tools, and perform interactive visual grounding, with long-horizon memory and a three-stage training scheme for improved streaming interaction.",
         "keywords": [
           "streaming video large language model",
@@ -608,6 +608,30 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.21366",
+        "title": "ALIVE: Making Streaming Video Models Interactive",
+        "authors": [
+          "Jinzhao Li",
+          "Yuan Xu",
+          "Jinxuan Wu",
+          "Yukun Wang",
+          "Yijia Lei",
+          "Hanyu Ji",
+          "Yinuo Chen",
+          "Zining Huang"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 34,
+        "comments": 3,
+        "discussion_score": 346.8,
+        "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.21366",
+        "arxiv_url": "https://arxiv.org/abs/2611.21366",
+        "discussion_url": "https://huggingface.co/papers/2611.21366",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.18856",
         "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
         "authors": [
@@ -638,30 +662,6 @@
         "url": "https://arxiv.org/abs/2611.18856",
         "arxiv_url": "https://arxiv.org/abs/2611.18856",
         "discussion_url": "https://huggingface.co/papers/2611.18856",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.21366",
-        "title": "ALIVE: Making Streaming Video Models Interactive",
-        "authors": [
-          "Jinzhao Li",
-          "Yuan Xu",
-          "Jinxuan Wu",
-          "Yukun Wang",
-          "Yijia Lei",
-          "Hanyu Ji",
-          "Yinuo Chen",
-          "Zining Huang"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 33,
-        "comments": 3,
-        "discussion_score": 336.8,
-        "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.21366",
-        "arxiv_url": "https://arxiv.org/abs/2611.21366",
-        "discussion_url": "https://huggingface.co/papers/2611.21366",
         "source": "Hugging Face Daily Papers"
       }
     ]
