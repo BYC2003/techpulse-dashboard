@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:36:01.623888+00:00",
+  "generated_at": "2026-11-20T20:14:53.224337+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-19T22:15:00+00:00"
+      "latest_at": "2026-11-20T15:20:00+00:00"
     },
     {
       "id": "bair",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1418,
+      "items_scanned": 1420,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-18T08:00:00+00:00"
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "8b6cbe6b0ceb3aa9",
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
+      "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+      "published_at": "2026-11-20T15:20:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "conference",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
+    },
     {
       "id": "98238347f417dde6",
       "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
@@ -218,21 +233,6 @@
       "trust_label": "官方实验室",
       "verification": "机构官方发布，以原文为准",
       "is_opinion": true
-    },
-    {
-      "id": "7dd6b96eba367cd6",
-      "title": "Helping AI text detectors keep up with changing conditions",
-      "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
-      "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
-      "published_at": "2026-11-18T05:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
     },
     {
       "id": "addd2ad9b3104856",

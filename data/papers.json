@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:36:05.832276+00:00",
+  "generated_at": "2026-11-20T20:14:57.797556+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -384,9 +384,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 123,
+        "upvotes": 137,
         "comments": 4,
-        "discussion_score": 1238.88,
+        "discussion_score": 1378.86,
         "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
           "System One models",
@@ -404,6 +404,71 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.14848",
+        "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+        "authors": [
+          "Yifei Wang",
+          "Tsun-yu Yang",
+          "Yechen Xu",
+          "Hancheng Ye",
+          "Qinsi Wang",
+          "Baijun Zhou",
+          "Tingjun Chen",
+          "Hai \"Helen\" Li"
+        ],
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "upvotes": 64,
+        "comments": 3,
+        "discussion_score": 646.48,
+        "summary": "TIDEWAY enables efficient inference of large Mixture-of-Experts models on memory-constrained consumer devices by treating host RAM and GPU VRAM as a unified memory pool with phase-aware layouts and optimized CUDA Graph execution under expert paging.",
+        "keywords": [
+          "large language model (LLM) agents",
+          "Mixture-of-Experts (MoE) models",
+          "inference",
+          "GPU VRAM",
+          "host RAM",
+          "prefill",
+          "decode",
+          "phase-aware memory layouts"
+        ],
+        "url": "https://arxiv.org/abs/2611.14848",
+        "arxiv_url": "https://arxiv.org/abs/2611.14848",
+        "discussion_url": "https://huggingface.co/papers/2611.14848",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21373",
+        "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+        "authors": [
+          "Yipeng Du",
+          "Yuxi Li",
+          "Ying Zhang",
+          "Chong Sun",
+          "Chen Li",
+          "Jing Lyu",
+          "Ying Tai"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 48,
+        "comments": 2,
+        "discussion_score": 484.77,
+        "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+        "keywords": [
+          "video generation",
+          "chain-of-thought reasoning",
+          "multi-agent workflows",
+          "agentic framework",
+          "main investigator agent",
+          "self-evolving library",
+          "forensic inspector sub-agents",
+          "visual and audio cues"
+        ],
+        "url": "https://arxiv.org/abs/2611.21373",
+        "arxiv_url": "https://arxiv.org/abs/2611.21373",
+        "discussion_url": "https://huggingface.co/papers/2611.21373",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.26444",
         "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
         "authors": [
@@ -417,9 +482,9 @@
           "Zhengwei Xie"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 46,
         "comments": 2,
-        "discussion_score": 414.93,
+        "discussion_score": 464.91,
         "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
         "keywords": [
           "embodied intelligence",
@@ -450,47 +515,14 @@
           "Zining Huang"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 38,
-        "comments": 3,
-        "discussion_score": 386.79,
+        "upvotes": 40,
+        "comments": 4,
+        "discussion_score": 408.77,
         "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21366",
         "arxiv_url": "https://arxiv.org/abs/2611.21366",
         "discussion_url": "https://huggingface.co/papers/2611.21366",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.23068",
-        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
-        "authors": [
-          "Yuanhao Zeng",
-          "Shaocheng Lan",
-          "Ao Lu",
-          "Kuang Yan",
-          "Heng Lin",
-          "Xinang Xu",
-          "Yuan Luo",
-          "Yueting Wang"
-        ],
-        "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 36,
-        "comments": 6,
-        "discussion_score": 372.83,
-        "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
-        "keywords": [
-          "agent evolution",
-          "proposer",
-          "selection",
-          "candidate artifacts",
-          "prompts",
-          "skills",
-          "memories",
-          "noisy evaluations"
-        ],
-        "url": "https://arxiv.org/abs/2611.23068",
-        "arxiv_url": "https://arxiv.org/abs/2611.23068",
-        "discussion_url": "https://huggingface.co/papers/2611.23068",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -507,9 +539,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 36,
+        "upvotes": 39,
         "comments": 2,
-        "discussion_score": 364.93,
+        "discussion_score": 394.91,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -527,35 +559,54 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.21373",
-        "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+        "id": "2611.23068",
+        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
         "authors": [
-          "Yipeng Du",
-          "Yuxi Li",
-          "Ying Zhang",
-          "Chong Sun",
-          "Chen Li",
-          "Jing Lyu",
-          "Ying Tai"
+          "Yuanhao Zeng",
+          "Shaocheng Lan",
+          "Ao Lu",
+          "Kuang Yan",
+          "Heng Lin",
+          "Xinang Xu",
+          "Yuan Luo",
+          "Yueting Wang"
         ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 35,
-        "comments": 1,
-        "discussion_score": 352.79,
-        "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+        "published_at": "2026-11-17T00:00:00+00:00",
+        "upvotes": 37,
+        "comments": 6,
+        "discussion_score": 382.82,
+        "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
-          "video generation",
-          "chain-of-thought reasoning",
-          "multi-agent workflows",
-          "agentic framework",
-          "main investigator agent",
-          "self-evolving library",
-          "forensic inspector sub-agents",
-          "visual and audio cues"
+          "agent evolution",
+          "proposer",
+          "selection",
+          "candidate artifacts",
+          "prompts",
+          "skills",
+          "memories",
+          "noisy evaluations"
         ],
-        "url": "https://arxiv.org/abs/2611.21373",
-        "arxiv_url": "https://arxiv.org/abs/2611.21373",
-        "discussion_url": "https://huggingface.co/papers/2611.21373",
+        "url": "https://arxiv.org/abs/2611.23068",
+        "arxiv_url": "https://arxiv.org/abs/2611.23068",
+        "discussion_url": "https://huggingface.co/papers/2611.23068",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.26590",
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "authors": [
+          "Jiahao Huang",
+          "Jun Wang"
+        ],
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "upvotes": 34,
+        "comments": 1,
+        "discussion_score": 342.91,
+        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.26590",
+        "arxiv_url": "https://arxiv.org/abs/2611.26590",
+        "discussion_url": "https://huggingface.co/papers/2611.26590",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -572,9 +623,9 @@
           "Xiaohan Zhang"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 29,
-        "comments": 1,
-        "discussion_score": 292.93,
+        "upvotes": 32,
+        "comments": 3,
+        "discussion_score": 326.91,
         "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
         "keywords": [
           "3D proxies",
@@ -592,50 +643,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.24154",
-        "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
-        "authors": [
-          "Xirui Jiang",
-          "Yuxi Chen",
-          "Rui Yang",
-          "Feng Luo",
-          "Pengcheng Wang",
-          "Bingxuan Li",
-          "Zihao Zhao",
-          "Yushan Li"
-        ],
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 27,
-        "comments": 4,
-        "discussion_score": 278.88,
-        "summary": "Games are a rich testbed for visual agents, demanding perception, long-horizon planning, and precise control. However, collecting human gameplay is costly, and learning from gameplay videos requires inferring missing actions. Existing datasets also cover a limited range of games, often without explicit tasks or verifiable outcomes. To address these gaps, we introduce Game2Player, a framework that co-develops game environments and players to collect diverse and verifiable gameplay experience at scale. In the Game2P…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.24154",
-        "arxiv_url": "https://arxiv.org/abs/2611.24154",
-        "discussion_url": "https://huggingface.co/papers/2611.24154",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.11318",
-        "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
-        "authors": [
-          "Minseo Yoon",
-          "Minseong Bae",
-          "Sojin Lee",
-          "Hyunwoo J. Kim"
-        ],
-        "published_at": "2026-11-08T00:00:00+00:00",
-        "upvotes": 27,
-        "comments": 2,
-        "discussion_score": 274.41,
-        "summary": "High-resolution weather prediction is important for resolving local atmospheric patterns missed by coarse global forecasts. Large pretrained weather backbones have improved global forecasting, but adapting them to produce future high-resolution fields from recent coarse states remains challenging and costly. We formulate this setting as Predictive Spatiotemporal Weather Downscaling (PSWD), a task that jointly refines spatial and temporal resolution while predicting future high-resolution trajectories. To this end,…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.11318",
-        "arxiv_url": "https://arxiv.org/abs/2611.11318",
-        "discussion_url": "https://huggingface.co/papers/2611.11318",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.21383",
         "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
         "authors": [
@@ -645,9 +652,9 @@
           "Seon Joo Kim"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 26,
+        "upvotes": 30,
         "comments": 2,
-        "discussion_score": 264.79,
+        "discussion_score": 304.77,
         "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
         "keywords": [
           "3D Gaussian Splatting",

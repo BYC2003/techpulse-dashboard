@@ -5,13 +5,45 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 11:34:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:13:09 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard</title>
+<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
+</item>
+<item>
+<title>Combatting adversarial distillation</title>
+<link>https://openai.com/index/combatting-adversarial-distillation</link>
+<guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
+<link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
+<guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
+<description>MiniMax Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 13:03:02 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.171.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
 <description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+<link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+<guid isPermaLink="true">https://huggingface.co/blog/harness-adapters-at-scale</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -24,28 +56,68 @@
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
+<title>Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明</title>
+<link>https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe</link>
+<guid isPermaLink="true">https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
 </item>
 <item>
-<title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-<link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-<guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+<title>ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件</title>
+<link>https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1</link>
+<guid isPermaLink="true">https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1</guid>
+<description>ChatGPT</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 18:48:12 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码</title>
+<link>https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4</link>
+<guid isPermaLink="true">https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 16:54:55 +0000</pubDate>
+</item>
+<item>
+<title>Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染</title>
+<link>https://aihot.news/items/rhln87mprozseglkairsway74</link>
+<guid isPermaLink="true">https://aihot.news/items/rhln87mprozseglkairsway74</guid>
+<description>可灵 Kling AI</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 16:40:57 +0000</pubDate>
+</item>
+<item>
+<title>Can AI help scientists identify promising drug candidates?</title>
+<link>https://openai.com/index/introducing-medchembench</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
-<link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-<guid isPermaLink="true">https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
-<description>Hugging Face Blog</description>
+<title>MIT 数学面板讨论 AI 冲击下的数学研究未来</title>
+<link>https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</link>
+<guid isPermaLink="true">https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</guid>
+<description>MIT News</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop now supports multiple accounts per host</title>
+<link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
+<link>https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r</link>
+<guid isPermaLink="true">https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r</guid>
+<description>Hacker News：AI 热帖</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 13:53:13 +0000</pubDate>
 </item>
 <item>
 <title>Introducing Gemini 4 Neon</title>
@@ -56,12 +128,12 @@
 <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise Live Migrations from Azure DevOps generally available</title>
-<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
+<title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
+<link>https://www.aibase.com/news/32448</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 18:13:09 +0000</pubDate>
 </item>
 <item>
 <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
@@ -72,12 +144,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
-<link>https://www.aibase.com/news/32446</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
-<description>AIbase</description>
+<title>MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹</title>
+<link>https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g</link>
+<guid isPermaLink="true">https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g</guid>
+<description>MiniMax：Blog</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 11:34:20 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek Harness 发布100天，作者分享13个实用插件玩法</title>
@@ -94,78 +166,6 @@
 <description>腾讯混元</description>
 <category>行业动态</category>
 <pubDate>Fri, 20 Nov 2026 03:52:40 +0000</pubDate>
-</item>
-<item>
-<title>Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%</title>
-<link>https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc</link>
-<guid isPermaLink="true">https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 21:59:35 +0000</pubDate>
-</item>
-<item>
-<title>Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务</title>
-<link>https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj</link>
-<guid isPermaLink="true">https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj</guid>
-<description>Josh Woodward</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 21:52:19 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验</title>
-<link>https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</link>
-<guid isPermaLink="true">https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6</guid>
-<description>Arena</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 21:28:16 +0000</pubDate>
-</item>
-<item>
-<title>Why your fine-tuning job takes longer than the FLOPs say</title>
-<link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
-</item>
-<item>
-<title>Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO</title>
-<link>https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</link>
-<guid isPermaLink="true">https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq</guid>
-<description>Karina Nguyen</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 20:13:16 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型</title>
-<link>https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo</link>
-<guid isPermaLink="true">https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo</guid>
-<description>Aravind Srinivas</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 18:18:09 +0000</pubDate>
-</item>
-<item>
-<title>Red Hat Enterprise Linux runner images now generally available</title>
-<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
-</item>
-<item>
-<title>Google 在 Gemini API 推出 Tool Retrieval 预览</title>
-<link>https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</link>
-<guid isPermaLink="true">https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l</guid>
-<description>Google Blog：AI</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
