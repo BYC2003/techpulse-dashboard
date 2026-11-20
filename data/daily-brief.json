@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:01:47.759602Z",
+  "generated_at": "2026-11-20T11:34:20.856332Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9435,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -133,135 +133,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_5c21545858a7",
-      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.944,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
-      "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-        "title_zh": "公共预览版中拉取请求概述的改进",
-        "title_en": "Improvements on the pull request overview in public preview",
-        "title_original": "Improvements on the pull request overview in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_f4a0bde39164",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
@@ -316,15 +187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8652,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,6 +262,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_5c21545858a7",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8466,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "title_zh": "公共预览版中拉取请求概述的改进",
+        "title_en": "Improvements on the pull request overview in public preview",
+        "title_original": "Improvements on the pull request overview in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_282ab6eeb971",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7488,
+        "recency": 0.6716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6289,
+        "recency": 0.564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,6 +650,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_e0cc6809540e",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dec27a174458fb924c93975be1ddec17839441f",
+          "title": "Introducing Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Neon",
+          "title_original": "Introducing Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T21:35:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "4dec27a174458fb924c93975be1ddec17839441f",
+          "title": "Introducing Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Neon",
+          "title_original": "Introducing Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T21:35:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5779,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T21:35:43Z",
+      "latest_at": "2026-11-18T21:35:43Z",
+      "primary_item": {
+        "id": "4dec27a174458fb924c93975be1ddec17839441f",
+        "title": "Introducing Gemini 4 Neon",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 4 Neon",
+        "title_original": "Introducing Gemini 4 Neon",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "title": "Introducing Gemini 4 Neon",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Introducing Gemini 4 Neon",
+          "claim_type": "confirmed",
+          "basis_source": "Google DeepMind",
+          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_99c3c3718f01",
       "title": "Enterprise Live Migrations from Azure DevOps generally available",
       "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
@@ -704,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8758,
+        "recency": 0.7855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,135 +909,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_e0cc6809540e",
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6444,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:35:43Z",
-      "latest_at": "2026-11-18T21:35:43Z",
-      "primary_item": {
-        "id": "4dec27a174458fb924c93975be1ddec17839441f",
-        "title": "Introducing Gemini 4 Neon",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Neon",
-        "title_original": "Introducing Gemini 4 Neon",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google DeepMind",
-          "site_id": "official_ai",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "title": "Introducing Gemini 4 Neon",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Introducing Gemini 4 Neon",
-          "claim_type": "confirmed",
-          "basis_source": "Google DeepMind",
-          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_c2ba68bd6600",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
@@ -963,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8528,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1038,69 +1038,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_2520f44c0b0d",
-      "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-      "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-      "primary_url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
+      "story_id": "story_15c006960724",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
-          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-          "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "title_en": null,
-          "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-20T03:41:18Z",
+          "published_at": "2026-11-20T11:34:20.856332Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：腾讯混元"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
-          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-          "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "title_en": null,
-          "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-20T03:41:18Z",
+          "published_at": "2026-11-20T11:34:20.856332Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9951,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,18 +1108,148 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T03:41:18Z",
-      "latest_at": "2026-11-20T03:41:18Z",
+      "earliest_at": "2026-11-20T11:34:20.856332Z",
+      "latest_at": "2026-11-20T11:34:20.856332Z",
       "primary_item": {
-        "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
-        "title": "腾讯混元 Hy4 正式开源并发布 System Card",
-        "title_zh": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
         "title_en": null,
-        "title_original": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-        "source": "公众号：腾讯混元",
+        "url": "https://www.aibase.com/news/32446",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32446",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32446",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4e916fd54eb0",
+      "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+      "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+      "primary_url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "title_en": null,
+          "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T04:01:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "title_en": null,
+          "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T04:01:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T04:01:57Z",
+      "latest_at": "2026-11-20T04:01:57Z",
+      "primary_item": {
+        "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
+        "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+        "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+        "title_en": null,
+        "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+        "source": "卡兹克",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -1138,10 +1268,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "公众号：腾讯混元",
+          "source": "卡兹克",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
-          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
+          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -1150,16 +1280,274 @@
       ],
       "key_claims": [
         {
-          "claim": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "claim": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
           "claim_type": "reported",
-          "basis_source": "公众号：腾讯混元",
-          "basis_url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "basis_source": "卡兹克",
+          "basis_url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_abd9d496d24c",
+      "title": "腾讯混元开放 Hy4 权重",
+      "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+      "primary_url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+      "source": "腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+          "title": "腾讯混元开放 Hy4 权重",
+          "title_zh": "腾讯混元开放 Hy4 权重",
+          "title_en": null,
+          "title_original": "腾讯混元开放 Hy4 权重",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "source": "腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T03:52:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+          "title": "腾讯混元开放 Hy4 权重",
+          "title_zh": "腾讯混元开放 Hy4 权重",
+          "title_en": null,
+          "title_original": "腾讯混元开放 Hy4 权重",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "source": "腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T03:52:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:40Z",
+      "latest_at": "2026-11-20T03:52:40Z",
+      "primary_item": {
+        "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
+        "title": "腾讯混元开放 Hy4 权重",
+        "title_zh": "腾讯混元开放 Hy4 权重",
+        "title_en": null,
+        "title_original": "腾讯混元开放 Hy4 权重",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+        "source": "腾讯混元",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "腾讯混元",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "title": "腾讯混元开放 Hy4 权重",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "腾讯混元开放 Hy4 权重",
+          "claim_type": "reported",
+          "basis_source": "腾讯混元",
+          "basis_url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_cd4902b49aba",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "Explore the Codex Security Plugin",
+          "title_zh": null,
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5983,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+        "title": "Explore the Codex Security Plugin",
+        "title_zh": null,
+        "title_en": "Explore the Codex Security Plugin",
+        "title_original": "Explore the Codex Security Plugin",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "title": "Explore the Codex Security Plugin",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Explore the Codex Security Plugin",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1221,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1426,135 +1814,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_cd4902b49aba",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-          "title": "Explore the Codex Security Plugin",
-          "title_zh": null,
-          "title_en": "Explore the Codex Security Plugin",
-          "title_original": "Explore the Codex Security Plugin",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-          "title": "Explore the Codex Security Plugin",
-          "title_zh": null,
-          "title_en": "Explore the Codex Security Plugin",
-          "title_original": "Explore the Codex Security Plugin",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6671,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T00:00:00Z",
-      "latest_at": "2026-11-19T00:00:00Z",
-      "primary_item": {
-        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
-        "title": "Explore the Codex Security Plugin",
-        "title_zh": null,
-        "title_en": "Explore the Codex Security Plugin",
-        "title_original": "Explore the Codex Security Plugin",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "title": "Explore the Codex Security Plugin",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Explore the Codex Security Plugin",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_2ede4b9c8caf",
       "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
       "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
@@ -1609,15 +1868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9096,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1685,129 +1944,128 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_69be317b2dfa",
-      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-      "url": "https://www.aibase.com/news/32422",
-      "primary_url": "https://www.aibase.com/news/32422",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_9f84fd3609e3",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T04:01:47.759602Z",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_zh": null,
+          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T04:01:47.759602Z",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-18T18:53:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5558,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T04:01:47.759602Z",
-      "latest_at": "2026-11-20T04:01:47.759602Z",
+      "earliest_at": "2026-11-18T18:53:43Z",
+      "latest_at": "2026-11-18T18:53:43Z",
       "primary_item": {
-        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_en": null,
-        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_zh": null,
+        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
+        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32422",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
       },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
+      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32422",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
           "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32422",
-          "status": "needs_primary_source",
+          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1869,21 +2127,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8012,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T20:13:16Z",
       "latest_at": "2026-11-19T20:13:16Z",
@@ -1999,21 +2256,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.869,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T18:18:09Z",
       "latest_at": "2026-11-19T18:18:09Z",
@@ -2130,15 +2386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8754,
+        "recency": 0.785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2206,135 +2462,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_9f84fd3609e3",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_zh": null,
-          "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-          "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-18T18:53:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6197,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:53:43Z",
-      "latest_at": "2026-11-18T18:53:43Z",
-      "primary_item": {
-        "id": "24345071d1f63c1884389530f3e0dd8f95bebab7",
-        "title": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_zh": null,
-        "title_en": "Why your fine-tuning job takes longer than the FLOPs say",
-        "title_original": "Why your fine-tuning job takes longer than the FLOPs say",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Why your fine-tuning job takes longer than the FLOPs say",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_c019ab9bc44b",
       "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
       "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
@@ -2389,21 +2516,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T18:00:00Z",
       "latest_at": "2026-11-19T18:00:00Z",
@@ -2457,137 +2583,6 @@
       ],
       "limits": [
         "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_fd5ce133759c",
-      "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-      "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-      "primary_url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-      "source": "Philipp Schmid",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-          "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "title_zh": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "title_en": null,
-          "title_original": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:17:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Philipp Schmid"
-      ],
-      "items": [
-        {
-          "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-          "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "title_zh": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "title_en": null,
-          "title_original": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-19T17:17:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8564,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:17:39Z",
-      "latest_at": "2026-11-19T17:17:39Z",
-      "primary_item": {
-        "id": "2cf89127e32b7c04bff01a68c78ecf7f355fdeaa",
-        "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-        "title_zh": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-        "title_en": null,
-        "title_original": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-        "source": "Philipp Schmid",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Philipp Schmid",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
-          "claim_type": "reported",
-          "basis_source": "Philipp Schmid",
-          "basis_url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],

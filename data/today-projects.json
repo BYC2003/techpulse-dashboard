@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:03:02.107052Z",
+  "generated_at": "2026-11-20T11:35:33.190786Z",
   "date": "2026-11-20",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T04:01:47.759602Z"
+      "observed_at": "2026-11-20T11:34:20.856332Z"
     },
     {
-      "id": "project_59c9722c5ea3",
-      "project_name": "Ableten Hybrid AI Travel Planner",
-      "url": "https://www.producthunt.com/products/ableten-source-library",
-      "summary": "Get your group on the same map.",
+      "id": "project_636defb3c44d",
+      "project_name": "Storiara",
+      "url": "https://www.producthunt.com/products/storiara",
+      "summary": "AI producers that find real savings in your film budget",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Get your group on the same map」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Get your group on the same map\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-08-19T06:21:46Z",
-      "updated_at": "2026-11-20T03:34:27Z",
+      "recommend_reason_zh": "体验它主打的「AI producers that find real savings in your film budget」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI producers that find real savings in your film budget\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T20:02:24Z",
+      "updated_at": "2026-11-20T11:35:11Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T04:02:51.314726Z"
+      "observed_at": "2026-11-20T11:35:22.031056Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T04:01:47.759602Z"
+      "observed_at": "2026-11-20T11:34:20.856332Z"
     },
     {
-      "id": "project_6ca481a23918",
-      "project_name": "Manufact",
-      "url": "https://www.producthunt.com/products/manufact",
-      "summary": "Ship and test your MCP to every plugin marketplace",
+      "id": "project_a95a26b43eea",
+      "project_name": "Memanto Cloud",
+      "url": "https://www.producthunt.com/products/memanto-by-moorcheh",
+      "summary": "A companion memory for agents to improve as you work",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Ship and test your MCP to every plugin marketplace」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Ship and test your MCP to every plugin marketplace\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-10T01:42:17Z",
-      "updated_at": "2026-11-20T03:41:13Z",
+      "recommend_reason_zh": "体验它主打的「A companion memory for agents to improve as you work」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A companion memory for agents to improve as you work\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T18:16:20Z",
+      "updated_at": "2026-11-20T11:35:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T04:02:51.314726Z"
+      "observed_at": "2026-11-20T11:35:22.031056Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1617,
+      "duration_ms": 2156,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 193,
+      "duration_ms": 128,
       "error": null
     }
   ]
