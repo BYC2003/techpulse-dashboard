@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 08:50:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 09:46:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
@@ -144,12 +144,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
-<link>https://www.aibase.com/news/32449</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32449</guid>
+<title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
+<link>https://www.aibase.com/news/32448</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 18:50:46 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 18:46:43 +0000</pubDate>
 </item>
 <item>
 <title>Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini</title>
