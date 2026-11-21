@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:28:29.879426+00:00",
+  "generated_at": "2026-11-21T17:31:15.209320+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -515,9 +515,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 3,
-        "discussion_score": 416.87,
+        "discussion_score": 426.87,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -542,9 +542,9 @@
           "Jun Wang"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 2,
-        "discussion_score": 414.87,
+        "discussion_score": 424.87,
         "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.26590",
@@ -592,7 +592,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 39,
         "comments": 8,
-        "discussion_score": 406.78,
+        "discussion_score": 406.77,
         "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
           "agent evolution",

@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 16:26:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 17:29:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
@@ -144,14 +144,6 @@
 <pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
 </item>
 <item>
-<title>Walter Isaacson on curiosity and creativity in the AI age.</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Can AI help scientists identify promising drug candidates?</title>
 <link>https://openai.com/index/introducing-medchembench</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
@@ -166,6 +158,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
+</item>
+<item>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
