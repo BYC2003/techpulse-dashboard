@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:29:11.015740Z",
+  "generated_at": "2026-11-21T21:49:51.885801Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7528,
+        "recency": 0.707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6347,
+        "recency": 0.5961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5493,
+        "recency": 0.5159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,6 +393,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_322e3c7a7c18",
+      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+      "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "primary_url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "title_zh": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "title_en": null,
+          "title_original": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-21T18:47:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "title_zh": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "title_en": null,
+          "title_original": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-21T18:47:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-21T18:47:26Z",
+      "latest_at": "2026-11-21T18:47:26Z",
+      "primary_item": {
+        "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+        "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+        "title_zh": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+        "title_en": null,
+        "title_original": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Rohan Paul",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "claim_type": "reported",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_7f9fbd343c3e",
       "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
       "url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
@@ -447,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6632,
+        "recency": 0.6229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -577,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5493,
+        "recency": 0.5159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -707,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.8593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -782,135 +911,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_f4a0bde39164",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "title_zh": null,
-          "title_en": "Introducing Tool Retrieval in the Gemini API",
-          "title_original": "Introducing Tool Retrieval in the Gemini API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "title_zh": null,
-          "title_en": "Introducing Tool Retrieval in the Gemini API",
-          "title_original": "Introducing Tool Retrieval in the Gemini API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-19T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.5037,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
-      "primary_item": {
-        "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "Introducing Tool Retrieval in the Gemini API",
-        "title_zh": null,
-        "title_en": "Introducing Tool Retrieval in the Gemini API",
-        "title_original": "Introducing Tool Retrieval in the Gemini API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI Blog",
-          "site_id": "official_ai",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "title": "Introducing Tool Retrieval in the Gemini API",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Introducing Tool Retrieval in the Gemini API",
-          "claim_type": "confirmed",
-          "basis_source": "Google AI Blog",
-          "basis_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_7ae3ed731fb7",
       "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
       "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
@@ -965,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7406,
+        "recency": 0.6956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1095,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5493,
+        "recency": 0.5159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1224,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5493,
+        "recency": 0.5159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1299,6 +1299,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_d8ab252acb9f",
+      "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+      "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+      "primary_url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+      "source": "Together AI 研究与产品博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3605fc0e528b96ce618bfd245bb4a792f7ab230d",
+          "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "title_zh": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "title_en": null,
+          "title_original": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+          "source": "Together AI 研究与产品博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-21T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Together AI 研究与产品博客"
+      ],
+      "items": [
+        {
+          "id": "3605fc0e528b96ce618bfd245bb4a792f7ab230d",
+          "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "title_zh": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "title_en": null,
+          "title_original": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+          "source": "Together AI 研究与产品博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-21T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7296,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-21T00:00:00Z",
+      "latest_at": "2026-11-21T00:00:00Z",
+      "primary_item": {
+        "id": "3605fc0e528b96ce618bfd245bb4a792f7ab230d",
+        "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+        "title_zh": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+        "title_en": null,
+        "title_original": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+        "source": "Together AI 研究与产品博客",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Together AI 研究与产品博客",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+          "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "claim_type": "reported",
+          "basis_source": "Together AI 研究与产品博客",
+          "basis_url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_0587e8a5d949",
       "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
       "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
@@ -1353,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7578,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,6 +1557,134 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_e708be513492",
+      "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+      "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+      "primary_url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+      "source": "Ars Technica：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2f110fdcec41e29ba5fc2409ca5a20fa736e8b92",
+          "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "title_zh": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "title_en": null,
+          "title_original": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI"
+      ],
+      "items": [
+        {
+          "id": "2f110fdcec41e29ba5fc2409ca5a20fa736e8b92",
+          "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "title_zh": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "title_en": null,
+          "title_original": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6985,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T20:59:08Z",
+      "latest_at": "2026-11-20T20:59:08Z",
+      "primary_item": {
+        "id": "2f110fdcec41e29ba5fc2409ca5a20fa736e8b92",
+        "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+        "title_zh": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+        "title_en": null,
+        "title_original": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+        "source": "Ars Technica：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ars Technica：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+          "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "claim_type": "reported",
+          "basis_source": "Ars Technica：AI",
+          "basis_url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_3cc782c849bb",
       "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
       "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
@@ -1482,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7207,
+        "recency": 0.6769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1611,15 +1868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7013,
+        "recency": 0.6587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,15 +1996,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6989,
+        "recency": 0.6564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1867,15 +2124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6855,
+        "recency": 0.6438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1941,135 +2198,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_125f90df4bf4",
-      "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-      "url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-      "primary_url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7c6c1b6e3ec73d2f7d8b783cf1442663d00a68ac",
-          "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "title_zh": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "title_en": null,
-          "title_original": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T13:53:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "7c6c1b6e3ec73d2f7d8b783cf1442663d00a68ac",
-          "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "title_zh": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "title_en": null,
-          "title_original": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T13:53:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T13:53:13Z",
-      "latest_at": "2026-11-20T13:53:13Z",
-      "primary_item": {
-        "id": "7c6c1b6e3ec73d2f7d8b783cf1442663d00a68ac",
-        "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-        "title_zh": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-        "title_en": null,
-        "title_original": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hacker News：AI 热帖",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-          "title": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫",
-          "claim_type": "reported",
-          "basis_source": "Hacker News：AI 热帖",
-          "basis_url": "https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_7c2ff4173eed",
       "title": "Pin your favorite repositories to your dashboard",
       "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
@@ -2124,15 +2252,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6743,
+        "recency": 0.6333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2253,15 +2381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5493,
+        "recency": 0.5159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2382,15 +2510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5662,
+        "recency": 0.5318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2451,135 +2579,6 @@
       ],
       "limits": [
         "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_5c21545858a7",
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "Improvements on the pull request overview in public preview",
-          "title_zh": null,
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "Improvements on the pull request overview in public preview",
-          "title_zh": null,
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5496,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
-      "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "Improvements on the pull request overview in public preview",
-        "title_zh": null,
-        "title_en": "Improvements on the pull request overview in public preview",
-        "title_original": "Improvements on the pull request overview in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "title": "Improvements on the pull request overview in public preview",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Improvements on the pull request overview in public preview",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,

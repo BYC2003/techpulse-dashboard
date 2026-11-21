@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 17:29:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:49:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
@@ -32,6 +32,14 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
+<link>https://aihot.news/items/d32df9vzpliz9m348fug74inq</link>
+<guid isPermaLink="true">https://aihot.news/items/d32df9vzpliz9m348fug74inq</guid>
+<description>Rohan Paul</description>
+<category>行业动态</category>
+<pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
+</item>
+<item>
 <title>Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
 <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
 <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
@@ -54,14 +62,6 @@
 <description>The Decoder：AI News</description>
 <category>行业动态</category>
 <pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate</title>
@@ -88,12 +88,28 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug</title>
+<link>https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc</link>
+<guid isPermaLink="true">https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc</guid>
+<description>Together AI 研究与产品博客</description>
+<category>行业动态</category>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划</title>
 <link>https://aihot.news/items/w612ivonntodntv1ydkt2lqwh</link>
 <guid isPermaLink="true">https://aihot.news/items/w612ivonntodntv1ydkt2lqwh</guid>
 <description>Figma AI / Agent / Make</description>
 <category>行业动态</category>
 <pubDate>Fri, 20 Nov 2026 22:17:00 +0000</pubDate>
+</item>
+<item>
+<title>研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露</title>
+<link>https://aihot.news/items/agm7klro03kcu9weuix1bt4su</link>
+<guid isPermaLink="true">https://aihot.news/items/agm7klro03kcu9weuix1bt4su</guid>
+<description>Ars Technica：AI</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件</title>
@@ -128,14 +144,6 @@
 <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
-<link>https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r</link>
-<guid isPermaLink="true">https://aihot.news/items/ufyn252g3i251j0mfwy8xth9r</guid>
-<description>Hacker News：AI 热帖</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 13:53:13 +0000</pubDate>
-</item>
-<item>
 <title>Pin your favorite repositories to your dashboard</title>
 <link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
@@ -158,14 +166,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
-</item>
-<item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
