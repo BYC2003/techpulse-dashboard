@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:14:26.575825Z",
+  "generated_at": "2026-11-21T08:51:59.865031Z",
   "date": "2026-11-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T20:13:09.113185Z"
+      "observed_at": "2026-11-21T08:50:46.369174Z"
     },
     {
-      "id": "project_1922730bb216",
-      "project_name": "Badya",
-      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
-      "summary": "Learn languages from real content with an agentic AI tutor",
+      "id": "project_1d7a60f25588",
+      "project_name": "Shipyard",
+      "url": "https://www.producthunt.com/products/shipyard",
+      "summary": "MCP for Claude, Cursor and Codex to Automate Integrations",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Learn languages from real content with an agentic AI tutor」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Learn languages from real content with an agentic AI tutor\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T08:29:05Z",
-      "updated_at": "2026-11-20T19:09:46Z",
+      "recommend_reason_zh": "体验它主打的「MCP for Claude, Cursor and Codex to Automate Integrations」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"MCP for Claude, Cursor and Codex to Automate Integrations\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-16T18:21:35Z",
+      "updated_at": "2026-11-21T08:51:12Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T20:14:17.172757Z"
+      "observed_at": "2026-11-21T08:51:49.606724Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T20:13:09.113185Z"
+      "observed_at": "2026-11-21T08:50:46.369174Z"
     },
     {
-      "id": "project_8929bb3701e9",
-      "project_name": "Zethos",
-      "url": "https://www.producthunt.com/products/zethos",
-      "summary": "The ledger you and your AI work from",
+      "id": "project_dca981ac9f61",
+      "project_name": "Alter Contacts",
+      "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
+      "summary": "AI client relationship assistant that thinks and does ahead",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The ledger you and your AI work from」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The ledger you and your AI work from\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-19T00:53:37Z",
-      "updated_at": "2026-11-20T19:39:45Z",
+      "recommend_reason_zh": "体验它主打的「AI client relationship assistant that thinks and does ahead」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI client relationship assistant that thinks and does ahead\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T10:25:12Z",
+      "updated_at": "2026-11-21T08:51:10Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T20:14:17.172757Z"
+      "observed_at": "2026-11-21T08:51:49.606724Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 206,
+      "duration_ms": 283,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 187,
+      "duration_ms": 114,
       "error": null
     }
   ]

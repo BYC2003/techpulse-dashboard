@@ -5,15 +5,15 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 20:13:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 08:50:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard</title>
-<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
+<title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
+<link>https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 21:49:29 +0000</pubDate>
 </item>
 <item>
 <title>Combatting adversarial distillation</title>
@@ -24,7 +24,7 @@
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
+<title>Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
 <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
 <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
 <description>MiniMax Blog</description>
@@ -48,6 +48,14 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate</title>
+<link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
+</item>
+<item>
 <title>Introducing Tool Retrieval in the Gemini API</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
@@ -56,12 +64,28 @@
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明</title>
-<link>https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe</link>
-<guid isPermaLink="true">https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe</guid>
-<description>TechCrunch：AI</description>
+<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+<link>https://openai.com/business/customer-stories/hebbia</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+<link>https://huggingface.co/blog/inkling2mini</link>
+<guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划</title>
+<link>https://aihot.news/items/w612ivonntodntv1ydkt2lqwh</link>
+<guid isPermaLink="true">https://aihot.news/items/w612ivonntodntv1ydkt2lqwh</guid>
+<description>Figma AI / Agent / Make</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 22:17:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件</title>
@@ -88,28 +112,12 @@
 <pubDate>Fri, 20 Nov 2026 16:40:57 +0000</pubDate>
 </item>
 <item>
-<title>Can AI help scientists identify promising drug candidates?</title>
-<link>https://openai.com/index/introducing-medchembench</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>MIT 数学面板讨论 AI 冲击下的数学研究未来</title>
 <link>https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</link>
 <guid isPermaLink="true">https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</guid>
 <description>MIT News</description>
 <category>行业动态</category>
 <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Desktop now supports multiple accounts per host</title>
-<link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
@@ -120,20 +128,12 @@
 <pubDate>Fri, 20 Nov 2026 13:53:13 +0000</pubDate>
 </item>
 <item>
-<title>Introducing Gemini 4 Neon</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-neon</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon</guid>
-<description>Google DeepMind</description>
+<title>Pin your favorite repositories to your dashboard</title>
+<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
-</item>
-<item>
-<title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
-<link>https://www.aibase.com/news/32448</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 18:13:09 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
 </item>
 <item>
 <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
@@ -144,28 +144,28 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
+<title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
+<link>https://www.aibase.com/news/32449</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32449</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 18:50:46 +0000</pubDate>
+</item>
+<item>
+<title>Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini</title>
+<link>https://aihot.news/items/y7nk77dxae51qwi826gpmvbho</link>
+<guid isPermaLink="true">https://aihot.news/items/y7nk77dxae51qwi826gpmvbho</guid>
+<description>Thinking Machines Lab：News</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹</title>
 <link>https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g</link>
 <guid isPermaLink="true">https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g</guid>
 <description>MiniMax：Blog</description>
 <category>行业动态</category>
 <pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek Harness 发布100天，作者分享13个实用插件玩法</title>
-<link>https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc</link>
-<guid isPermaLink="true">https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc</guid>
-<description>卡兹克</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 04:01:57 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元开放 Hy4 权重</title>
-<link>https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx</link>
-<guid isPermaLink="true">https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx</guid>
-<description>腾讯混元</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 03:52:40 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:14:53.224337+00:00",
+  "generated_at": "2026-11-21T08:52:27.364712+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -41,7 +41,7 @@
       "items_scanned": 100,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-04T18:07:05+00:00"
+      "latest_at": "2026-11-20T23:30:30+00:00"
     },
     {
       "id": "microsoft_research",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-20T15:20:00+00:00"
+      "latest_at": "2026-11-20T21:00:00+00:00"
     },
     {
       "id": "bair",
@@ -98,7 +98,7 @@
       "kind": "lab",
       "trust": "official",
       "ok": true,
-      "items_scanned": 1420,
+      "items_scanned": 1421,
       "items_kept": 3,
       "error": "",
       "latest_at": "2026-11-18T08:00:00+00:00"
@@ -125,10 +125,70 @@
       "items_scanned": 20,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-19T23:58:21+00:00"
+      "latest_at": "2026-11-20T21:18:41+00:00"
     }
   ],
   "items": [
+    {
+      "id": "3c4954789e24a3a4",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "summary": "Generative AI",
+      "published_at": "2026-11-20T23:30:30+00:00",
+      "source_id": "google_research",
+      "source_name": "Google Research",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
+    {
+      "id": "933d6febd3a546ef",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "url": "https://latent.space/p/formal-verification/",
+      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "published_at": "2026-11-20T21:18:41+00:00",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "e6dadb77e65fd4d2",
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
+      "published_at": "2026-11-20T21:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "interview",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "5f4a73c47be6289a",
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+      "published_at": "2026-11-20T20:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "8b6cbe6b0ceb3aa9",
       "title": "Following the “mathocalypse,” mathematicians consider the future",
@@ -165,36 +225,6 @@
       "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
       "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
       "published_at": "2026-11-19T22:15:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "6f24490fc20b4ab7",
-      "title": "Study reveals data centers’ long-distance damage to air quality",
-      "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-      "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
-      "published_at": "2026-11-19T14:00:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "b183f0dc91b65f83",
-      "title": "This featherweight, flying robot carries its own sensors and computers",
-      "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
-      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
-      "published_at": "2026-11-18T19:00:00+00:00",
       "source_id": "mit_ai",
       "source_name": "MIT News · AI",
       "source_kind": "research",
@@ -321,21 +351,6 @@
       "category": "interview",
       "trust": "research",
       "trust_label": "研究机构",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
-      "id": "0a8f28a27bc586b0",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "url": "https://latent.space/p/jev-revolution/",
-      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "published_at": "2026-11-12T05:08:20+00:00",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "source_kind": "interview",
-      "category": "interview",
-      "trust": "interview",
-      "trust_label": "访谈观点",
       "verification": "访谈观点，需区分事实与受访者判断",
       "is_opinion": true
     },
@@ -472,21 +487,6 @@
       "trust": "research",
       "trust_label": "研究机构",
       "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
-      "id": "1afb4f7d248a1065",
-      "title": "NeurIPS 2026 Invited Speaker Topics",
-      "url": "https://blog.neurips.cc/2026/10/25/neurips-2026-invited-speaker-topics/",
-      "summary": "The NeurIPS 2026 organizing committee is excited to share details about the upcoming invited talks at this year’s conference. New this year,&#160; the conference is held in three locations, each with its own speakers. Our distinguished lineup includes six speakers for the main Sydney location, four speakers for Paris…",
-      "published_at": "2026-10-25T22:31:57+00:00",
-      "source_id": "neurips_blog",
-      "source_name": "NeurIPS Blog",
-      "source_kind": "conference",
-      "category": "conference",
-      "trust": "official",
-      "trust_label": "会议官方",
-      "verification": "会议官方页面，具体安排以原文为准",
       "is_opinion": false
     }
   ]

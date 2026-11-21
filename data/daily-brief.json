@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-20T20:13:09.113185Z",
+  "generated_at": "2026-11-21T08:50:46.369174Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7c2ff4173eed",
-      "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "story_id": "story_fec01ad474e9",
+      "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
+      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-          "title_en": "Pin your favorite repositories to your dashboard",
-          "title_original": "Pin your favorite repositories to your dashboard",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
+          "title_zh": "安全咨询权限现已普遍可用",
+          "title_en": "Security advisory permissions are now generally available",
+          "title_original": "Security advisory permissions are now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-20T14:12:05Z",
+          "published_at": "2026-11-20T21:49:29Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -37,36 +37,36 @@
       ],
       "items": [
         {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-          "title_en": "Pin your favorite repositories to your dashboard",
-          "title_original": "Pin your favorite repositories to your dashboard",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
+          "title_zh": "安全咨询权限现已普遍可用",
+          "title_en": "Security advisory permissions are now generally available",
+          "title_original": "Security advisory permissions are now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-20T14:12:05Z",
+          "published_at": "2026-11-20T21:49:29Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9168,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,17 +75,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T14:12:05Z",
-      "latest_at": "2026-11-20T14:12:05Z",
+      "earliest_at": "2026-11-20T21:49:29Z",
+      "latest_at": "2026-11-20T21:49:29Z",
       "primary_item": {
-        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-        "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-        "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-        "title_en": "Pin your favorite repositories to your dashboard",
-        "title_original": "Pin your favorite repositories to your dashboard",
+        "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+        "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
+        "title_zh": "安全咨询权限现已普遍可用",
+        "title_en": "Security advisory permissions are now generally available",
+        "title_original": "Security advisory permissions are now generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -97,7 +97,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_source_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -107,8 +107,8 @@
         {
           "source": "GitHub Changelog",
           "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+          "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,15 +117,17 @@
       ],
       "key_claims": [
         {
-          "claim": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "claim": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
           "claim_type": "confirmed",
           "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "basis_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -187,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8628,
+        "recency": 0.719,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,7 +265,7 @@
     },
     {
       "story_id": "story_7f9fbd343c3e",
-      "title": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+      "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
       "url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
       "primary_url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
       "source": "MiniMax Blog",
@@ -271,8 +273,8 @@
       "sources": [
         {
           "id": "3566eb86eccbf90c51170097ea373c30f8e96df3",
-          "title": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
-          "title_zh": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research",
+          "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+          "title_zh": null,
           "title_en": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
           "title_original": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
           "summary": null,
@@ -296,8 +298,8 @@
       "items": [
         {
           "id": "3566eb86eccbf90c51170097ea373c30f8e96df3",
-          "title": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
-          "title_zh": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research",
+          "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+          "title_zh": null,
           "title_en": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
           "title_original": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
           "summary": null,
@@ -316,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9017,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,8 +339,8 @@
       "latest_at": "2026-11-20T13:03:02.717000Z",
       "primary_item": {
         "id": "3566eb86eccbf90c51170097ea373c30f8e96df3",
-        "title": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
-        "title_zh": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research",
+        "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+        "title_zh": null,
         "title_en": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
         "title_original": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
         "summary": null,
@@ -350,15 +352,15 @@
         "source_tier": "official",
         "source_tier_label": "官方一手源"
       },
-      "claim_status": "analysis",
-      "claim_status_label": "分析观点",
-      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
-      "claim_status_reason": "matched_analysis_signal",
-      "is_opinion": true,
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
       "primary_source_url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
       "official_source_present": true,
-      "verification_level": "opinion",
-      "verification_score": 53,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
@@ -366,7 +368,7 @@
           "source": "MiniMax Blog",
           "site_id": "official_ai",
           "url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
-          "title": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+          "title": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -375,8 +377,8 @@
       ],
       "key_claims": [
         {
-          "claim": "使用 MiniMax 最新内部模型进行实用密码分析 - MiniMax Research / Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
-          "claim_type": "analysis",
+          "claim": "Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research",
+          "claim_type": "confirmed",
           "basis_source": "MiniMax Blog",
           "basis_url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
           "status": "source_available",
@@ -446,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7468,
+        "recency": 0.6223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,15 +577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7468,
+        "recency": 0.6223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,6 +653,136 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_7ae3ed731fb7",
+      "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T20:41:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T20:41:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.839,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T20:41:26Z",
+      "latest_at": "2026-11-20T20:41:26Z",
+      "primary_item": {
+        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+        "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+        "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+        "title_en": "GitHub Enterprise Server 3.23 release candidate",
+        "title_original": "GitHub Enterprise Server 3.23 release candidate",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_f4a0bde39164",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
@@ -705,15 +837,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.6848,
+        "recency": 0.5707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,69 +912,327 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_0e5e5fd802d5",
-      "title": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-      "url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-      "primary_url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
+      "story_id": "story_cf02b813d300",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "primary_url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c326802e57ca4fc51d47bf6b82a57fb9a1986035",
-          "title": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-          "title_zh": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-          "title_en": null,
-          "title_original": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T19:32:08Z",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c326802e57ca4fc51d47bf6b82a57fb9a1986035",
-          "title": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-          "title_zh": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-          "title_en": null,
-          "title_original": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T19:32:08Z",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6223,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/business/customer-stories/hebbia",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/business/customer-stories/hebbia",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4cb47a4337cf",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "primary_url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": null,
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a5c11918a234fb33203471958054421c3f53925",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_zh": null,
+          "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6223,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "4a5c11918a234fb33203471958054421c3f53925",
+        "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_zh": null,
+        "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "title_original": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/inkling2mini",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/inkling2mini",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/inkling2mini",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_0587e8a5d949",
+      "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+      "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+      "primary_url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+      "source": "Figma AI / Agent / Make",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
+          "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "title_zh": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "title_en": null,
+          "title_original": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T22:17:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Figma AI / Agent / Make"
+      ],
+      "items": [
+        {
+          "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
+          "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "title_zh": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "title_en": null,
+          "title_original": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T22:17:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,18 +1240,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T19:32:08Z",
-      "latest_at": "2026-11-20T19:32:08Z",
+      "earliest_at": "2026-11-20T22:17:00Z",
+      "latest_at": "2026-11-20T22:17:00Z",
       "primary_item": {
-        "id": "c326802e57ca4fc51d47bf6b82a57fb9a1986035",
-        "title": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
-        "title_zh": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+        "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
+        "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
+        "title_zh": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
         "title_en": null,
-        "title_original": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+        "title_original": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-        "source": "TechCrunch：AI",
+        "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+        "source": "Figma AI / Agent / Make",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -880,10 +1270,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "TechCrunch：AI",
+          "source": "Figma AI / Agent / Make",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
-          "title": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+          "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
+          "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -892,15 +1282,16 @@
       ],
       "key_claims": [
         {
-          "claim": "Anthropic 数学家借 Claude 提交黎曼猜想 Lean 证明，斯坦福博后同周发布纯人力证明",
+          "claim": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
           "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/hsbh8rxnbqfw9pzhqq5rw4ihe",
+          "basis_source": "Figma AI / Agent / Make",
+          "basis_url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -963,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.8165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,21 +1484,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T16:54:55Z",
       "latest_at": "2026-11-20T16:54:55Z",
@@ -1222,21 +1612,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9502,
+        "recency": 0.7918,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T16:40:57Z",
       "latest_at": "2026-11-20T16:40:57Z",
@@ -1290,135 +1679,6 @@
       ],
       "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_feb750f07c00",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "primary_url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "title_zh": null,
-          "title_en": "Can AI help scientists identify promising drug candidates?",
-          "title_original": "Can AI help scientists identify promising drug candidates?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-medchembench",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "title_zh": null,
-          "title_en": "Can AI help scientists identify promising drug candidates?",
-          "title_original": "Can AI help scientists identify promising drug candidates?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-medchembench",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7468,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:00:00Z",
-      "latest_at": "2026-11-20T00:00:00Z",
-      "primary_item": {
-        "id": "d2f2da5dc70862cc52dbbc23e73f844115b47634",
-        "title": "Can AI help scientists identify promising drug candidates?",
-        "title_zh": null,
-        "title_en": "Can AI help scientists identify promising drug candidates?",
-        "title_original": "Can AI help scientists identify promising drug candidates?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-medchembench",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/index/introducing-medchembench",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/index/introducing-medchembench",
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Can AI help scientists identify promising drug candidates?",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/index/introducing-medchembench",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1480,21 +1740,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9319,
+        "recency": 0.7765,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T15:20:00Z",
       "latest_at": "2026-11-20T15:20:00Z",
@@ -1548,136 +1807,6 @@
       ],
       "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_8bfa75615929",
-      "title": "GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "title_zh": null,
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "title_zh": null,
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7698,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:06:01Z",
-      "latest_at": "2026-11-20T02:06:01Z",
-      "primary_item": {
-        "id": "4153f14f8744315b507c166df3e939c015d28122",
-        "title": "GitHub Desktop now supports multiple accounts per host",
-        "title_zh": null,
-        "title_en": "GitHub Desktop now supports multiple accounts per host",
-        "title_original": "GitHub Desktop now supports multiple accounts per host",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "GitHub Desktop now supports multiple accounts per host",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1739,21 +1868,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9126,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:53:13Z",
       "latest_at": "2026-11-20T13:53:13Z",
@@ -1815,69 +1943,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_e0cc6809540e",
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "source": "Google DeepMind",
+      "story_id": "story_7c2ff4173eed",
+      "title": "Pin your favorite repositories to your dashboard",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
           "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:35:43Z",
+          "published_at": "2026-11-20T14:12:05Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "Pin your favorite repositories to your dashboard",
           "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-18T21:35:43Z",
+          "published_at": "2026-11-20T14:12:05Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.51,
+        "ai_relevance": 0.87,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1886,18 +2014,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T21:35:43Z",
-      "latest_at": "2026-11-18T21:35:43Z",
+      "earliest_at": "2026-11-20T14:12:05Z",
+      "latest_at": "2026-11-20T14:12:05Z",
       "primary_item": {
-        "id": "4dec27a174458fb924c93975be1ddec17839441f",
-        "title": "Introducing Gemini 4 Neon",
+        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+        "title": "Pin your favorite repositories to your dashboard",
         "title_zh": null,
-        "title_en": "Introducing Gemini 4 Neon",
-        "title_original": "Introducing Gemini 4 Neon",
+        "title_en": "Pin your favorite repositories to your dashboard",
+        "title_original": "Pin your favorite repositories to your dashboard",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-        "source": "Google DeepMind",
+        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
         "source_tier": "official",
@@ -1908,7 +2036,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "primary_source_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -1916,10 +2044,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Google DeepMind",
+          "source": "GitHub Changelog",
           "site_id": "official_ai",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "title": "Introducing Gemini 4 Neon",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "title": "Pin your favorite repositories to your dashboard",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1928,144 +2056,15 @@
       ],
       "key_claims": [
         {
-          "claim": "Introducing Gemini 4 Neon",
+          "claim": "Pin your favorite repositories to your dashboard",
           "claim_type": "confirmed",
-          "basis_source": "Google DeepMind",
-          "basis_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c8d48880c933",
-      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-      "url": "https://www.aibase.com/news/32448",
-      "primary_url": "https://www.aibase.com/news/32448",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "title_en": null,
-          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T18:13:09.113185Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "title_en": null,
-          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T18:13:09.113185Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T18:13:09.113185Z",
-      "latest_at": "2026-11-20T18:13:09.113185Z",
-      "primary_item": {
-        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-        "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-        "title_en": null,
-        "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32448",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32448",
-          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32448",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -2127,15 +2126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.675,
+        "recency": 0.5625,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2202,6 +2201,264 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_43f4ba3b5ec2",
+      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+      "url": "https://www.aibase.com/news/32449",
+      "primary_url": "https://www.aibase.com/news/32449",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T18:50:46.369174Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T18:50:46.369174Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.817,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T18:50:46.369174Z",
+      "latest_at": "2026-11-20T18:50:46.369174Z",
+      "primary_item": {
+        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_en": null,
+        "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32449",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32449",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32449",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_8dbb6c7fb105",
+      "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+      "url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+      "primary_url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+      "source": "Thinking Machines Lab：News",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "508314587d6ddd990f8baa2471ee4d41d17c221b",
+          "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "title_zh": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "title_en": null,
+          "title_original": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+          "source": "Thinking Machines Lab：News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T07:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Thinking Machines Lab：News"
+      ],
+      "items": [
+        {
+          "id": "508314587d6ddd990f8baa2471ee4d41d17c221b",
+          "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "title_zh": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "title_en": null,
+          "title_original": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+          "source": "Thinking Machines Lab：News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-20T07:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6885,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T07:00:00Z",
+      "latest_at": "2026-11-20T07:00:00Z",
+      "primary_item": {
+        "id": "508314587d6ddd990f8baa2471ee4d41d17c221b",
+        "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+        "title_zh": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+        "title_en": null,
+        "title_original": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+        "source": "Thinking Machines Lab：News",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Thinking Machines Lab：News",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+          "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+          "claim_type": "reported",
+          "basis_source": "Thinking Machines Lab：News",
+          "basis_url": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_b18cf27e5fbf",
       "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
       "url": "https://aihot.news/items/sakj36g0tvzaeoianryyn6o6g",
@@ -2256,21 +2513,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.6855,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T06:41:45Z",
       "latest_at": "2026-11-20T06:41:45Z",
@@ -2324,262 +2580,6 @@
       ],
       "limits": [
         "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_4e916fd54eb0",
-      "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-      "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-      "primary_url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-      "source": "卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
-          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "title_en": null,
-          "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T04:01:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "卡兹克"
-      ],
-      "items": [
-        {
-          "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
-          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "title_en": null,
-          "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-          "source": "卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T04:01:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T04:01:57Z",
-      "latest_at": "2026-11-20T04:01:57Z",
-      "primary_item": {
-        "id": "a2a724ad104fb370f9b0db81eabac0eb9f491adc",
-        "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-        "title_zh": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-        "title_en": null,
-        "title_original": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-        "source": "卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-          "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
-          "claim_type": "reported",
-          "basis_source": "卡兹克",
-          "basis_url": "https://aihot.news/items/amx0tnq9rthd6ssx81np25ldc",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_abd9d496d24c",
-      "title": "腾讯混元开放 Hy4 权重",
-      "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-      "primary_url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-      "source": "腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
-          "title": "腾讯混元开放 Hy4 权重",
-          "title_zh": "腾讯混元开放 Hy4 权重",
-          "title_en": null,
-          "title_original": "腾讯混元开放 Hy4 权重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-          "source": "腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T03:52:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
-          "title": "腾讯混元开放 Hy4 权重",
-          "title_zh": "腾讯混元开放 Hy4 权重",
-          "title_en": null,
-          "title_original": "腾讯混元开放 Hy4 权重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-          "source": "腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T03:52:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7898,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T03:52:40Z",
-      "latest_at": "2026-11-20T03:52:40Z",
-      "primary_item": {
-        "id": "fa3a44013d7b28c620cfc50dbc0eec2edeb0ca66",
-        "title": "腾讯混元开放 Hy4 权重",
-        "title_zh": "腾讯混元开放 Hy4 权重",
-        "title_en": null,
-        "title_original": "腾讯混元开放 Hy4 权重",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-        "source": "腾讯混元",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "腾讯混元",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-          "title": "腾讯混元开放 Hy4 权重",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "腾讯混元开放 Hy4 权重",
-          "claim_type": "reported",
-          "basis_source": "腾讯混元",
-          "basis_url": "https://aihot.news/items/jl6m0eymz9z0kleh54c3guowx",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
