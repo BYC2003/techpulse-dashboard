@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 21:49:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 23:13:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
@@ -136,14 +136,6 @@
 <pubDate>Fri, 20 Nov 2026 16:40:57 +0000</pubDate>
 </item>
 <item>
-<title>MIT 数学面板讨论 AI 冲击下的数学研究未来</title>
-<link>https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</link>
-<guid isPermaLink="true">https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by</guid>
-<description>MIT News</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
-</item>
-<item>
 <title>Pin your favorite repositories to your dashboard</title>
 <link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
@@ -166,6 +158,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
+</item>
+<item>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
