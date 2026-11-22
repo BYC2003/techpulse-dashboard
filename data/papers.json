@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:43:44.624655+00:00",
+  "generated_at": "2026-11-22T03:11:54.950559+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -386,7 +386,7 @@
         "published_at": "2026-11-18T00:00:00+00:00",
         "upvotes": 148,
         "comments": 4,
-        "discussion_score": 1488.81,
+        "discussion_score": 1488.8,
         "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
           "System One models",
@@ -419,7 +419,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 67,
         "comments": 3,
-        "discussion_score": 676.43,
+        "discussion_score": 676.42,
         "summary": "TIDEWAY enables efficient inference of large Mixture-of-Experts models on memory-constrained consumer devices by treating host RAM and GPU VRAM as a unified memory pool with phase-aware layouts and optimized CUDA Graph execution under expert paging.",
         "keywords": [
           "large language model (LLM) agents",

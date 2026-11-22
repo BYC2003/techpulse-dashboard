@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:42:22.038145Z",
+  "generated_at": "2026-11-22T03:10:22.807128Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6686,
+        "recency": 0.6546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5636,
+        "recency": 0.5518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.589,
+        "recency": 0.5767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +524,7 @@
     },
     {
       "story_id": "story_7ae3ed731fb7",
-      "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+      "title": "GitHub Enterprise Server 3.23 release candidate",
       "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
       "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
       "source": "GitHub Changelog",
@@ -532,8 +532,8 @@
       "sources": [
         {
           "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": null,
           "title_en": "GitHub Enterprise Server 3.23 release candidate",
           "title_original": "GitHub Enterprise Server 3.23 release candidate",
           "summary": null,
@@ -557,8 +557,8 @@
       "items": [
         {
           "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": null,
           "title_en": "GitHub Enterprise Server 3.23 release candidate",
           "title_original": "GitHub Enterprise Server 3.23 release candidate",
           "summary": null,
@@ -577,15 +577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6577,
+        "recency": 0.6439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -598,8 +598,8 @@
       "latest_at": "2026-11-20T20:41:26Z",
       "primary_item": {
         "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-        "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-        "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+        "title": "GitHub Enterprise Server 3.23 release candidate",
+        "title_zh": null,
         "title_en": "GitHub Enterprise Server 3.23 release candidate",
         "title_original": "GitHub Enterprise Server 3.23 release candidate",
         "summary": null,
@@ -627,7 +627,7 @@
           "source": "GitHub Changelog",
           "site_id": "official_ai",
           "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "title": "GitHub Enterprise Server 3.23 release candidate",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -636,7 +636,7 @@
       ],
       "key_claims": [
         {
-          "claim": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "claim": "GitHub Enterprise Server 3.23 release candidate",
           "claim_type": "confirmed",
           "basis_source": "GitHub Changelog",
           "basis_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
@@ -645,7 +645,6 @@
         }
       ],
       "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -707,21 +706,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8125,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-21T11:19:49Z",
       "latest_at": "2026-11-21T11:19:49Z",
@@ -836,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6899,
+        "recency": 0.6754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.673,
+        "recency": 0.6589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1094,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6605,
+        "recency": 0.6467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1168,135 +1166,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_3cc782c849bb",
-      "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-      "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-      "primary_url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-      "source": "ChatGPT",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-          "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "title_zh": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "title_en": null,
-          "title_original": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "source": "ChatGPT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T18:48:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChatGPT"
-      ],
-      "items": [
-        {
-          "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-          "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "title_zh": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "title_en": null,
-          "title_original": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "source": "ChatGPT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-20T18:48:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.64,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T18:48:12Z",
-      "latest_at": "2026-11-20T18:48:12Z",
-      "primary_item": {
-        "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-        "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-        "title_zh": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-        "title_en": null,
-        "title_original": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-        "source": "ChatGPT",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "ChatGPT",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "claim_type": "reported",
-          "basis_source": "ChatGPT",
-          "basis_url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_7c2ff4173eed",
       "title": "Pin your favorite repositories to your dashboard",
       "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
@@ -1351,15 +1220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5989,
+        "recency": 0.5863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1480,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6899,
+        "recency": 0.6754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,178 +1424,48 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_8bfa75615929",
-      "title": "GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "title_zh": null,
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "title_zh": null,
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5029,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:06:01Z",
-      "latest_at": "2026-11-20T02:06:01Z",
-      "primary_item": {
-        "id": "4153f14f8744315b507c166df3e939c015d28122",
-        "title": "GitHub Desktop now supports multiple accounts per host",
-        "title_zh": null,
-        "title_en": "GitHub Desktop now supports multiple accounts per host",
-        "title_original": "GitHub Desktop now supports multiple accounts per host",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "GitHub Desktop now supports multiple accounts per host",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_880a39b2164f",
-      "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "story_id": "story_b2d08d09cf5f",
+      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
       "source": "Hacker News 首页",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "4e9c988bb7ce74df8621a71361d0fd1b4563f491",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "title_zh": "联合国关于控制自主武器使用的国际谈判破裂",
-          "title_en": "International UN talks on controlling use of autonomous weapons collapse",
-          "title_original": "International UN talks on controlling use of autonomous weapons collapse",
+          "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
+          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "url": "https://www.pandex.io",
           "source": "Hacker News 首页",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "source_tier": "community",
           "source_tier_label": "社区发现",
           "source_tier_rank": 2,
-          "published_at": "2026-11-21T23:10:21Z",
+          "published_at": "2026-11-21T20:47:41Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "title_zh": "联合国关于控制自主武器使用的国际谈判破裂",
-          "title_en": "International UN talks on controlling use of autonomous weapons collapse",
-          "title_original": "International UN talks on controlling use of autonomous weapons collapse",
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
+          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50594564",
+          "url": "https://news.ycombinator.com/item?id=50593481",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-21T23:10:21Z",
+          "published_at": "2026-11-21T20:47:41Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1738,72 +1477,72 @@
       ],
       "items": [
         {
-          "id": "4e9c988bb7ce74df8621a71361d0fd1b4563f491",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "title_zh": "联合国关于控制自主武器使用的国际谈判破裂",
-          "title_en": "International UN talks on controlling use of autonomous weapons collapse",
-          "title_original": "International UN talks on controlling use of autonomous weapons collapse",
+          "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
+          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "url": "https://www.pandex.io",
           "source": "Hacker News 首页",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "source_tier": "community",
           "source_tier_label": "社区发现",
           "source_tier_rank": 2,
-          "published_at": "2026-11-21T23:10:21Z",
+          "published_at": "2026-11-21T20:47:41Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "title_zh": "联合国关于控制自主武器使用的国际谈判破裂",
-          "title_en": "International UN talks on controlling use of autonomous weapons collapse",
-          "title_original": "International UN talks on controlling use of autonomous weapons collapse",
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
+          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50594564",
+          "url": "https://news.ycombinator.com/item?id=50593481",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-21T23:10:21Z",
+          "published_at": "2026-11-21T20:47:41Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6085,
-      "importance": 0.6085,
-      "importance_score": 0.6085,
+      "score": 0.6033,
+      "importance": 0.6033,
+      "importance_score": 0.6033,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.504,
+        "editorial": 0.5112,
         "source_tier": 0.54,
-        "ai_relevance": 0.7,
-        "recency": 0.9641,
+        "ai_relevance": 0.71,
+        "recency": 0.912,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T23:10:21Z",
-      "latest_at": "2026-11-21T23:10:21Z",
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-21T20:47:41Z",
       "primary_item": {
-        "id": "4e9c988bb7ce74df8621a71361d0fd1b4563f491",
-        "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-        "title_zh": "联合国关于控制自主武器使用的国际谈判破裂",
-        "title_en": "International UN talks on controlling use of autonomous weapons collapse",
-        "title_original": "International UN talks on controlling use of autonomous weapons collapse",
+        "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
+        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+        "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
+        "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+        "title_original": "Pandex – Official European Law for AI Agents, over MCP",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "url": "https://www.pandex.io",
         "source": "Hacker News 首页",
         "source_name": "OPML RSS",
         "site_id": "opmlrss",
@@ -1825,8 +1564,8 @@
         {
           "source": "Hacker News 首页",
           "site_id": "opmlrss",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.pandex.io",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
           "source_tier": "community",
           "source_tier_label": "社区发现",
           "role": "primary_report",
@@ -1835,8 +1574,8 @@
         {
           "source": "hackernews",
           "site_id": "newsnow",
-          "url": "https://news.ycombinator.com/item?id=50594564",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "role": "aggregator",
@@ -1845,15 +1584,16 @@
       ],
       "key_claims": [
         {
-          "claim": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "claim": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
           "claim_type": "reported",
           "basis_source": "Hacker News 首页",
-          "basis_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "basis_url": "https://www.pandex.io",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
         "社区榜单或产品发现页不等于官方发布，不能直接当成已确认新闻。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
@@ -1904,7 +1644,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:17:03.805000Z",
+          "published_at": "2026-11-22T02:47:19.779000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1949,7 +1689,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:17:03.805000Z",
+          "published_at": "2026-11-22T02:47:19.779000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1971,8 +1711,8 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T01:17:03.805000Z",
-      "latest_at": "2026-11-22T01:42:22.038145Z",
+      "earliest_at": "2026-11-22T02:47:19.779000Z",
+      "latest_at": "2026-11-22T03:10:22.807128Z",
       "primary_item": {
         "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
         "title": "Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
@@ -2071,7 +1811,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T01:31:12Z",
+          "updated_at": "2026-11-22T02:57:08Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2089,7 +1829,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:28:04.694000Z",
+          "published_at": "2026-11-22T02:44:41.344000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2116,7 +1856,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T01:31:12Z",
+          "updated_at": "2026-11-22T02:57:08Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2134,30 +1874,30 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:28:04.694000Z",
+          "published_at": "2026-11-22T02:44:41.344000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9968,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T01:28:04.694000Z",
-      "latest_at": "2026-11-22T01:31:12Z",
+      "earliest_at": "2026-11-22T02:44:41.344000Z",
+      "latest_at": "2026-11-22T02:57:08Z",
       "primary_item": {
         "id": "01e6968b4ddfaa57c7c3aefd035b2b2b174b5b24",
         "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -2234,185 +1974,6 @@
       "summary_missing": false
     },
     {
-      "story_id": "story_b2d08d09cf5f",
-      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "primary_url": "https://www.pandex.io",
-      "source": "Hacker News 首页",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "Hacker News 首页",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "source_tier": "community",
-          "source_tier_label": "社区发现",
-          "source_tier_rank": 2,
-          "published_at": "2026-11-21T20:47:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-21T20:47:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 首页",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "Hacker News 首页",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "source_tier": "community",
-          "source_tier_label": "社区发现",
-          "source_tier_rank": 2,
-          "published_at": "2026-11-21T20:47:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-21T20:47:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6068,
-      "importance": 0.6068,
-      "importance_score": 0.6068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.54,
-        "ai_relevance": 0.71,
-        "recency": 0.9315,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T20:47:41Z",
-      "latest_at": "2026-11-21T20:47:41Z",
-      "primary_item": {
-        "id": "54cc0442543d435f7f0effab320b1d287ad334b3",
-        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-        "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-        "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-        "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.pandex.io",
-        "source": "Hacker News 首页",
-        "source_name": "OPML RSS",
-        "site_id": "opmlrss",
-        "source_tier": "community",
-        "source_tier_label": "社区发现"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hacker News 首页",
-          "site_id": "opmlrss",
-          "url": "https://www.pandex.io",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "source_tier": "community",
-          "source_tier_label": "社区发现",
-          "role": "primary_report",
-          "is_aggregator": false
-        },
-        {
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "claim_type": "reported",
-          "basis_source": "Hacker News 首页",
-          "basis_url": "https://www.pandex.io",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "社区榜单或产品发现页不等于官方发布，不能直接当成已确认新闻。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 1,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_a48b81e8f653",
       "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
@@ -2454,7 +2015,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:17:03.805000Z",
+          "published_at": "2026-11-22T02:47:19.779000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2499,7 +2060,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:17:03.805000Z",
+          "published_at": "2026-11-22T02:47:19.779000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2521,8 +2082,8 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T01:17:03.805000Z",
-      "latest_at": "2026-11-22T01:42:22.038145Z",
+      "earliest_at": "2026-11-22T02:47:19.779000Z",
+      "latest_at": "2026-11-22T03:10:22.807128Z",
       "primary_item": {
         "id": "9adc9a2b68b79986cf6a0d12f7bcd0d2c3e4c892",
         "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
@@ -2621,7 +2182,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T00:21:37Z",
+          "updated_at": "2026-11-22T02:26:21Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2639,7 +2200,7 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:28:04.694000Z",
+          "published_at": "2026-11-22T02:44:41.344000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2666,7 +2227,7 @@
           "source_tier_label": "新产品",
           "source_tier_rank": 2,
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T00:21:37Z",
+          "updated_at": "2026-11-22T02:26:21Z",
           "recency_basis": "updated_at"
         },
         {
@@ -2684,30 +2245,30 @@
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "source_tier_rank": 5,
-          "published_at": "2026-11-22T01:28:04.694000Z",
+          "published_at": "2026-11-22T02:44:41.344000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5907,
-      "importance": 0.5907,
-      "importance_score": 0.5907,
+      "score": 0.5923,
+      "importance": 0.5923,
+      "importance_score": 0.5923,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9808,
+        "recency": 0.9895,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T00:21:37Z",
-      "latest_at": "2026-11-22T01:28:04.694000Z",
+      "earliest_at": "2026-11-22T02:26:21Z",
+      "latest_at": "2026-11-22T02:44:41.344000Z",
       "primary_item": {
         "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
         "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
@@ -2784,7 +2345,7 @@
     },
     {
       "story_id": "story_04008aa8d212",
-      "title": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+      "title": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
       "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
       "source": "Ars Technica",
@@ -2792,8 +2353,8 @@
       "sources": [
         {
           "id": "7f88dd6de5293a49fa29d15eac041cd056648a34",
-          "title": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "title_zh": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮",
+          "title": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "title_zh": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮",
           "title_en": "Google rolls out new search homepage with AI chat history and no search button",
           "title_original": "Google rolls out new search homepage with AI chat history and no search button",
           "summary": null,
@@ -2836,8 +2397,8 @@
       "items": [
         {
           "id": "7f88dd6de5293a49fa29d15eac041cd056648a34",
-          "title": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "title_zh": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮",
+          "title": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "title_zh": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮",
           "title_en": "Google rolls out new search homepage with AI chat history and no search button",
           "title_original": "Google rolls out new search homepage with AI chat history and no search button",
           "summary": null,
@@ -2875,15 +2436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.58,
         "ai_relevance": 0.67,
-        "recency": 0.67,
+        "recency": 0.656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2894,8 +2455,8 @@
       "latest_at": "2026-11-20T21:58:29Z",
       "primary_item": {
         "id": "7f88dd6de5293a49fa29d15eac041cd056648a34",
-        "title": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-        "title_zh": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮",
+        "title": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+        "title_zh": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮",
         "title_en": "Google rolls out new search homepage with AI chat history and no search button",
         "title_original": "Google rolls out new search homepage with AI chat history and no search button",
         "summary": null,
@@ -2923,7 +2484,7 @@
           "source": "Ars Technica",
           "site_id": "opmlrss",
           "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "title": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "title": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
           "source_tier": "ai_media",
           "source_tier_label": "AI 媒体",
           "role": "primary_report",
@@ -2942,7 +2503,7 @@
       ],
       "key_claims": [
         {
-          "claim": "谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
+          "claim": "谷歌推出新的搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
           "claim_type": "reported",
           "basis_source": "Ars Technica",
           "basis_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
@@ -2952,6 +2513,538 @@
       ],
       "limits": [
         "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_a5451586d5e4",
+      "title": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+      "primary_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+      "source": "TechCrunch",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e8ad6aaf143863b52c245061a769b4ef466fc20b",
+          "title": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "title_zh": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响",
+          "title_en": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "title_original": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "source": "TechCrunch",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-20T20:58:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c9d2bfa72e8bb0b6569594820995a724e1ecf5e",
+          "title": "专家警告：现在人工智能领域几乎每个人都容易受到美人计的影响 / Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "title_zh": "专家警告：现在人工智能领域几乎每个人都容易受到美人计的影响",
+          "title_en": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "title_original": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-20T20:58:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "items": [
+        {
+          "id": "e8ad6aaf143863b52c245061a769b4ef466fc20b",
+          "title": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "title_zh": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响",
+          "title_en": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "title_original": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "source": "TechCrunch",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-20T20:58:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c9d2bfa72e8bb0b6569594820995a724e1ecf5e",
+          "title": "专家警告：现在人工智能领域几乎每个人都容易受到美人计的影响 / Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "title_zh": "专家警告：现在人工智能领域几乎每个人都容易受到美人计的影响",
+          "title_en": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "title_original": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-20T20:58:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.58,
+        "ai_relevance": 0.67,
+        "recency": 0.6466,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T20:58:29Z",
+      "latest_at": "2026-11-20T20:58:29Z",
+      "primary_item": {
+        "id": "e8ad6aaf143863b52c245061a769b4ef466fc20b",
+        "title": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "title_zh": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响",
+        "title_en": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "title_original": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+        "source": "TechCrunch",
+        "source_name": "OPML RSS",
+        "site_id": "opmlrss",
+        "source_tier": "ai_media",
+        "source_tier_label": "媒体核验"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "title": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "source_tier": "ai_media",
+          "source_tier_label": "AI 媒体",
+          "role": "primary_report",
+          "is_aggregator": false
+        },
+        {
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "title": "专家警告：现在人工智能领域几乎每个人都容易受到美人计的影响 / Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "专家警告：目前人工智能领域几乎每个人都容易受到“美人计”的影响 / Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch",
+          "basis_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_0a4ec5e8158e",
+      "title": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "Ars Technica",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5a80b53c89de925db07073b11abb0d8e79f3aa76",
+          "title": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "title_zh": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。",
+          "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "title_original": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
+          "title": "漏洞百出的人工智能供应链正以惊人的速度暴露秘密用户数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "title_zh": "漏洞百出的人工智能供应链正以惊人的速度暴露秘密用户数据",
+          "title_en": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "title_original": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "items": [
+        {
+          "id": "5a80b53c89de925db07073b11abb0d8e79f3aa76",
+          "title": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "title_zh": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。",
+          "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "title_original": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "source_tier": "ai_media",
+          "source_tier_label": "媒体核验",
+          "source_tier_rank": 2,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
+          "title": "漏洞百出的人工智能供应链正以惊人的速度暴露秘密用户数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "title_zh": "漏洞百出的人工智能供应链正以惊人的速度暴露秘密用户数据",
+          "title_en": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "title_original": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-20T20:59:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.58,
+        "ai_relevance": 0.67,
+        "recency": 0.6467,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T20:59:08Z",
+      "latest_at": "2026-11-20T20:59:08Z",
+      "primary_item": {
+        "id": "5a80b53c89de925db07073b11abb0d8e79f3aa76",
+        "title": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "title_zh": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。",
+        "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "title_original": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "Ars Technica",
+        "source_name": "OPML RSS",
+        "site_id": "opmlrss",
+        "source_tier": "ai_media",
+        "source_tier_label": "媒体核验"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ars Technica",
+          "site_id": "opmlrss",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "title": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "source_tier": "ai_media",
+          "source_tier_label": "AI 媒体",
+          "role": "primary_report",
+          "is_aggregator": false
+        },
+        {
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "title": "漏洞百出的人工智能供应链正以惊人的速度暴露秘密用户数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "研究人员将 200 万只金丝雀植入人工智能供应链。一场隐私灾难浮出水面。 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "claim_type": "reported",
+          "basis_source": "Ars Technica",
+          "basis_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 1,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4fce2592a4ed",
+      "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
+      "url": "http://ricapar.net/ClawDOS",
+      "primary_url": "http://ricapar.net/ClawDOS",
+      "source": "ricapar.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_en": null,
+          "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "ricapar.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-21T13:07:54.916000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
+          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_en": "ClawDOS – An AI coding agent for DOS",
+          "title_original": "ClawDOS – An AI coding agent for DOS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-21T05:38:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "ricapar.net"
+      ],
+      "items": [
+        {
+          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_en": null,
+          "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "ricapar.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-21T13:07:54.916000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
+          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_en": "ClawDOS – An AI coding agent for DOS",
+          "title_original": "ClawDOS – An AI coding agent for DOS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "source_tier_rank": 5,
+          "published_at": "2026-11-21T05:38:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8165,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T05:38:01Z",
+      "latest_at": "2026-11-21T13:07:54.916000Z",
+      "primary_item": {
+        "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
+        "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
+        "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+        "title_en": null,
+        "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "http://ricapar.net/ClawDOS",
+        "source": "ricapar.net",
+        "source_name": "Buzzing",
+        "site_id": "buzzing",
+        "source_tier": "discussion",
+        "source_tier_label": "热议参考"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "ricapar.net",
+          "site_id": "buzzing",
+          "url": "http://ricapar.net/ClawDOS",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        },
+        {
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "url": "http://ricapar.net/ClawDOS",
+          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
+          "source_tier": "discussion",
+          "source_tier_label": "热议参考",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "claim_type": "reported",
+          "basis_source": "ricapar.net",
+          "basis_url": "http://ricapar.net/ClawDOS",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "社区榜单或产品发现页不等于官方发布，不能直接当成已确认新闻。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
