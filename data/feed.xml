@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 23:13:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 01:42:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>安全咨询权限现已普遍可用 / Security advisory permissions are now generally available</title>
@@ -24,12 +24,12 @@
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.171.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
+<title>Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
+<link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
+<guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
+<description>MiniMax Blog</description>
 <category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 13:03:02 +0000</pubDate>
 </item>
 <item>
 <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
@@ -40,30 +40,6 @@
 <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
 </item>
 <item>
-<title>Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
-<link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
-<guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
-<description>MiniMax Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 13:03:02 +0000</pubDate>
-</item>
-<item>
-<title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-<link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-<guid isPermaLink="true">https://huggingface.co/blog/harness-adapters-at-scale</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿</title>
-<link>https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq</link>
-<guid isPermaLink="true">https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq</guid>
-<description>The Decoder：AI News</description>
-<category>行业动态</category>
-<pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate</title>
 <link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
@@ -72,20 +48,12 @@
 <pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
 </item>
 <item>
-<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-<link>https://openai.com/business/customer-stories/hebbia</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-<link>https://huggingface.co/blog/inkling2mini</link>
-<guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<title>Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿</title>
+<link>https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq</link>
+<guid isPermaLink="true">https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq</guid>
+<description>The Decoder：AI News</description>
+<category>行业动态</category>
+<pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
 </item>
 <item>
 <title>Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug</title>
@@ -120,22 +88,6 @@
 <pubDate>Fri, 20 Nov 2026 18:48:12 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码</title>
-<link>https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4</link>
-<guid isPermaLink="true">https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 16:54:55 +0000</pubDate>
-</item>
-<item>
-<title>Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染</title>
-<link>https://aihot.news/items/rhln87mprozseglkairsway74</link>
-<guid isPermaLink="true">https://aihot.news/items/rhln87mprozseglkairsway74</guid>
-<description>可灵 Kling AI</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 16:40:57 +0000</pubDate>
-</item>
-<item>
 <title>Pin your favorite repositories to your dashboard</title>
 <link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
@@ -144,12 +96,12 @@
 <pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
 </item>
 <item>
-<title>Can AI help scientists identify promising drug candidates?</title>
-<link>https://openai.com/index/introducing-medchembench</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<title>Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件</title>
+<link>https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0</link>
+<guid isPermaLink="true">https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0</guid>
+<description>Together AI 研究与产品博客</description>
+<category>行业动态</category>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Desktop now supports multiple accounts per host</title>
@@ -160,12 +112,60 @@
 <pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
 </item>
 <item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
+<title>联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse</title>
+<link>https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</link>
+<guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</guid>
+<description>Hacker News 首页</description>
+<category>值得关注</category>
+<pubDate>Sat, 21 Nov 2026 23:10:21 +0000</pubDate>
+</item>
+<item>
+<title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
+<link>https://github.com/cursor/plugins</link>
+<guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+<description>Cursor plugin specification and official plugins（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 01:42:22 +0000</pubDate>
+</item>
+<item>
+<title>AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team</title>
+<link>https://www.producthunt.com/products/ai-context-flow</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/ai-context-flow</guid>
+<description>Memory you control, synced to every agent, tool and team（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 01:31:12 +0000</pubDate>
+</item>
+<item>
+<title>Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP</title>
+<link>https://www.pandex.io</link>
+<guid isPermaLink="true">https://www.pandex.io</guid>
+<description>Hacker News 首页</description>
+<category>值得关注</category>
+<pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
+</item>
+<item>
+<title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
+<link>https://github.com/elementalsouls/Claude-BugHunter</link>
+<guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
+<description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 01:42:22 +0000</pubDate>
+</item>
+<item>
+<title>Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game</title>
+<link>https://www.producthunt.com/products/prompt-puncher</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/prompt-puncher</guid>
+<description>The AI CEO Fighting Game（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 01:28:04 +0000</pubDate>
+</item>
+<item>
+<title>谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button</title>
+<link>https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar</guid>
+<description>Ars Technica</description>
+<category>值得关注</category>
+<pubDate>Fri, 20 Nov 2026 21:58:29 +0000</pubDate>
 </item>
 </channel>
 </rss>

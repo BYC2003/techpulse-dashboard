@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:15:26.456297+00:00",
+  "generated_at": "2026-11-22T01:43:44.624655+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -451,7 +451,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 53,
         "comments": 3,
-        "discussion_score": 536.72,
+        "discussion_score": 536.71,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -484,7 +484,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 51,
         "comments": 4,
-        "discussion_score": 518.86,
+        "discussion_score": 518.85,
         "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
         "keywords": [
           "embodied intelligence",
@@ -517,7 +517,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 44,
         "comments": 3,
-        "discussion_score": 446.86,
+        "discussion_score": 446.85,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -544,7 +544,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 42,
         "comments": 2,
-        "discussion_score": 424.86,
+        "discussion_score": 424.85,
         "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.26590",
@@ -568,7 +568,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 40,
         "comments": 4,
-        "discussion_score": 408.72,
+        "discussion_score": 408.71,
         "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21366",
@@ -621,7 +621,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 37,
         "comments": 4,
-        "discussion_score": 378.86,
+        "discussion_score": 378.85,
         "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
         "keywords": [
           "diffusion distillation",
@@ -654,7 +654,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 35,
         "comments": 4,
-        "discussion_score": 358.86,
+        "discussion_score": 358.85,
         "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
         "keywords": [
           "3D proxies",
