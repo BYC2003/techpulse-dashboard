@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 11:18:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 17:03:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确</title>
+<link>https://aihot.news/items/ikpixx0j7414se1f6lww2csek</link>
+<guid isPermaLink="true">https://aihot.news/items/ikpixx0j7414se1f6lww2csek</guid>
+<description>The Decoder：AI News</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 11:08:31 +0000</pubDate>
+</item>
+<item>
+<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
+<link>https://www.aibase.com/news/32446</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
+</item>
 <item>
 <title>菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可</title>
 <link>https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt</link>
@@ -24,20 +40,12 @@
 <pubDate>Fri, 20 Nov 2026 21:49:29 +0000</pubDate>
 </item>
 <item>
-<title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
-<link>https://www.aibase.com/news/32431</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
+<title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
+<link>https://www.aibase.com/news/32437</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 11:18:56 +0000</pubDate>
-</item>
-<item>
-<title>Practical cryptanalysis with MiniMax's latest Internal Model  - MiniMax Research</title>
-<link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
-<guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
-<description>MiniMax Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 13:03:02 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
 </item>
 <item>
 <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
@@ -48,20 +56,20 @@
 <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
 </item>
 <item>
-<title>给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框</title>
-<link>https://www.aibase.com/news/32430</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32430</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 11:18:56 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Enterprise Server 3.23 release candidate</title>
 <link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
+<link>https://www.aibase.com/news/32443</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿</title>
@@ -72,20 +80,28 @@
 <pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
 </item>
 <item>
-<title>英伟达财报暴增却跌至 52 周新低？股价较 10 月高点重挫近40%</title>
-<link>https://www.aibase.com/news/32429</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32429</guid>
+<title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
+<link>https://www.aibase.com/news/32431</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 11:18:56 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
 </item>
 <item>
-<title>Pin your favorite repositories to your dashboard</title>
-<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
+<title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
+<link>https://www.aibase.com/news/32447</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32447</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理 / Show HN: I built a game where you are an LLM's subagent</title>
+<link>https://github.com/gulivan/worker755</link>
+<guid isPermaLink="true">https://github.com/gulivan/worker755</guid>
+<description>Show HN</description>
+<category>多源热议</category>
+<pubDate>Sun, 22 Nov 2026 16:44:44 +0000</pubDate>
 </item>
 <item>
 <title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
@@ -96,12 +112,36 @@
 <pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
 </item>
 <item>
+<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
+<link>https://www.aibase.com/news/32436</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
+</item>
+<item>
 <title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
 <link>https://github.com/cursor/plugins</link>
 <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
 <description>Cursor plugin specification and official plugins（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 11:18:56 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
+</item>
+<item>
+<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
+<link>https://www.aibase.com/news/32441</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32441</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
+</item>
+<item>
+<title>Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP</title>
+<link>https://www.pandex.io</link>
+<guid isPermaLink="true">https://www.pandex.io</guid>
+<description>Hacker News 首页</description>
+<category>多源热议</category>
+<pubDate>Sun, 22 Nov 2026 11:41:51 +0000</pubDate>
 </item>
 <item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
@@ -109,15 +149,15 @@
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 11:18:56 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
 </item>
 <item>
-<title>Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP</title>
-<link>https://www.pandex.io</link>
-<guid isPermaLink="true">https://www.pandex.io</guid>
-<description>Hacker News 首页</description>
-<category>值得关注</category>
-<pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
+<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
+<link>https://www.aibase.com/news/32439</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32439</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 17:03:13 +0000</pubDate>
 </item>
 <item>
 <title>谷歌推出新搜索主页，带有人工智能聊天记录，没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button</title>
@@ -126,30 +166,6 @@
 <description>Ars Technica</description>
 <category>值得关注</category>
 <pubDate>Fri, 20 Nov 2026 21:58:29 +0000</pubDate>
-</item>
-<item>
-<title>Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now</title>
-<link>https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now</guid>
-<description>TechCrunch</description>
-<category>值得关注</category>
-<pubDate>Fri, 20 Nov 2026 20:58:29 +0000</pubDate>
-</item>
-<item>
-<title>推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers</title>
-<link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</guid>
-<description>Hacker News 首页</description>
-<category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 07:28:01 +0000</pubDate>
-</item>
-<item>
-<title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
-<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</guid>
-<description>Ars Technica</description>
-<category>值得关注</category>
-<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
