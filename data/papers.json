@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:11:54.950559+00:00",
+  "generated_at": "2026-11-22T08:55:35.975990+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -384,9 +384,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 148,
+        "upvotes": 149,
         "comments": 4,
-        "discussion_score": 1488.8,
+        "discussion_score": 1498.79,
         "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
         "keywords": [
           "System One models",
@@ -419,7 +419,7 @@
         "published_at": "2026-11-10T00:00:00+00:00",
         "upvotes": 67,
         "comments": 3,
-        "discussion_score": 676.42,
+        "discussion_score": 676.41,
         "summary": "TIDEWAY enables efficient inference of large Mixture-of-Experts models on memory-constrained consumer devices by treating host RAM and GPU VRAM as a unified memory pool with phase-aware layouts and optimized CUDA Graph execution under expert paging.",
         "keywords": [
           "large language model (LLM) agents",
@@ -449,9 +449,9 @@
           "Ying Tai"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 53,
+        "upvotes": 54,
         "comments": 3,
-        "discussion_score": 536.71,
+        "discussion_score": 546.7,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -484,7 +484,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 51,
         "comments": 4,
-        "discussion_score": 518.85,
+        "discussion_score": 518.84,
         "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
         "keywords": [
           "embodied intelligence",
@@ -515,9 +515,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 44,
+        "upvotes": 45,
         "comments": 3,
-        "discussion_score": 446.85,
+        "discussion_score": 456.84,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -544,7 +544,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 42,
         "comments": 2,
-        "discussion_score": 424.85,
+        "discussion_score": 424.84,
         "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.26590",
@@ -568,7 +568,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 40,
         "comments": 4,
-        "discussion_score": 408.71,
+        "discussion_score": 408.7,
         "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21366",
@@ -592,7 +592,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 39,
         "comments": 8,
-        "discussion_score": 406.76,
+        "discussion_score": 406.74,
         "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
           "agent evolution",
@@ -621,7 +621,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 37,
         "comments": 4,
-        "discussion_score": 378.85,
+        "discussion_score": 378.84,
         "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
         "keywords": [
           "diffusion distillation",
@@ -654,7 +654,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 35,
         "comments": 4,
-        "discussion_score": 358.85,
+        "discussion_score": 358.84,
         "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
         "keywords": [
           "3D proxies",
