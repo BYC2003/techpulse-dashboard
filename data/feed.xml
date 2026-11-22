@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 19:35:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 22:24:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity与智慧 / Perplexity and Intelligence</title>
@@ -21,7 +21,15 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
+</item>
+<item>
+<title>MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国</title>
+<link>https://aihot.news/items/dr26culfdd1cb21w56i8iruts</link>
+<guid isPermaLink="true">https://aihot.news/items/dr26culfdd1cb21w56i8iruts</guid>
+<description>面壁智能 OpenBMB</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 11:25:20 +0000</pubDate>
 </item>
 <item>
 <title>Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确</title>
@@ -40,12 +48,12 @@
 <pubDate>Sun, 22 Nov 2026 09:35:58 +0000</pubDate>
 </item>
 <item>
-<title>Security advisory permissions are now generally available</title>
-<link>https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 21:49:29 +0000</pubDate>
+<title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
+<link>https://www.aibase.com/news/32437</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据</title>
@@ -56,12 +64,12 @@
 <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
-<link>https://www.aibase.com/news/32437</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
-<description>AIbase</description>
+<title>用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析</title>
+<link>https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m</link>
+<guid isPermaLink="true">https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m</guid>
+<description>面壁智能 OpenBMB</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 11:15:31 +0000</pubDate>
 </item>
 <item>
 <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
@@ -72,20 +80,12 @@
 <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise Server 3.23 release candidate</title>
-<link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
-</item>
-<item>
 <title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
 <link>https://www.aibase.com/news/32443</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
@@ -93,7 +93,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
@@ -101,15 +101,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理 / Show HN: I built a game where you are an LLM's subagent</title>
-<link>https://github.com/gulivan/worker755</link>
-<guid isPermaLink="true">https://github.com/gulivan/worker755</guid>
-<description>Hacker News 首页</description>
-<category>多源热议</category>
-<pubDate>Sun, 22 Nov 2026 16:44:44 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
@@ -117,7 +109,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32447</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
@@ -125,15 +117,7 @@
 <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
 <description>Cursor plugin specification and official plugins（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
-</item>
-<item>
-<title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 / 87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
-<link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
-<guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</guid>
-<description>Hacker News 首页</description>
-<category>多源热议</category>
-<pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:25:35 +0000</pubDate>
 </item>
 <item>
 <title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
@@ -141,7 +125,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
@@ -149,7 +133,7 @@
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:25:35 +0000</pubDate>
 </item>
 <item>
 <title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
@@ -157,15 +141,31 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32441</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
 </item>
 <item>
-<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
-<link>https://www.aibase.com/news/32439</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32439</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 19:35:42 +0000</pubDate>
+<title>Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理</title>
+<link>https://github.com/gulivan/worker755</link>
+<guid isPermaLink="true">https://github.com/gulivan/worker755</guid>
+<description>github.com</description>
+<category>多源热议</category>
+<pubDate>Sun, 22 Nov 2026 16:44:44 +0000</pubDate>
+</item>
+<item>
+<title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭</title>
+<link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
+<guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</guid>
+<description>betterdatacenterproject.com</description>
+<category>多源热议</category>
+<pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
+</item>
+<item>
+<title>使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+<link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+<guid isPermaLink="true">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
