@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:59:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:12:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding</title>
+<link>https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz</link>
+<guid isPermaLink="true">https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz</guid>
+<description>公众号：智谱</description>
+<category>行业动态</category>
+<pubDate>Mon, 23 Nov 2026 09:42:11 +0000</pubDate>
+</item>
 <item>
 <title>Perplexity and Intelligence</title>
 <link>https://openai.com/index/perplexity-and-intelligence</link>
@@ -16,12 +24,12 @@
 <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”</title>
-<link>https://www.aibase.com/news/32459</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32459</guid>
+<title>90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机</title>
+<link>https://www.aibase.com/news/32479</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32479</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic IPO 前三家机构如何重注押注</title>
@@ -40,12 +48,12 @@
 <pubDate>Sun, 22 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
-<title>AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩</title>
-<link>https://www.aibase.com/news/32462</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32462</guid>
+<title>GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍</title>
+<link>https://www.aibase.com/news/32472</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32472</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 <item>
 <title>MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国</title>
@@ -72,12 +80,12 @@
 <pubDate>Sun, 22 Nov 2026 09:35:58 +0000</pubDate>
 </item>
 <item>
-<title>GLM-5.4 悄然上线 Coding Plan：补齐视觉能力，额度还涨了 1.5 倍</title>
-<link>https://www.aibase.com/news/32472</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32472</guid>
+<title>Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑</title>
+<link>https://www.aibase.com/news/32475</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32475</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 <item>
 <title>用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析</title>
@@ -88,28 +96,52 @@
 <pubDate>Sun, 22 Nov 2026 11:15:31 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破</title>
-<link>https://www.aibase.com/news/32456</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32456</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
-</item>
-<item>
-<title>Mira Murati 团队把模型“想三遍再说话”开源了：26.4B 循环 Transformer 登顶 Hugging Face，笔记本就能跑</title>
-<link>https://www.aibase.com/news/32475</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32475</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
-</item>
-<item>
 <title>“欧洲版 OpenAI”落子新加坡：Mistral AI 设亚太总部，替亚洲政府造“主权 AI”</title>
 <link>https://www.aibase.com/news/32471</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32471</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
+</item>
+<item>
+<title>一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器</title>
+<link>https://www.aibase.com/news/32466</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32466</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
+</item>
+<item>
+<title>GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+<link>https://z.ai/blog/glm-5.4</link>
+<guid isPermaLink="true">https://z.ai/blog/glm-5.4</guid>
+<description>Hacker News 首页</description>
+<category>多源热议</category>
+<pubDate>Mon, 23 Nov 2026 11:39:43 +0000</pubDate>
+</item>
+<item>
+<title>一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程</title>
+<link>https://www.aibase.com/news/32477</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32477</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
+</item>
+<item>
+<title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
+<link>https://github.com/cursor/plugins</link>
+<guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+<description>Cursor plugin specification and official plugins（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
+</item>
+<item>
+<title>万亿市值换不来投资级：Anthropic 发债大概率是垃圾级</title>
+<link>https://www.aibase.com/news/32470</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32470</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 <item>
 <title>《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
@@ -120,52 +152,20 @@
 <pubDate>Sun, 22 Nov 2026 23:23:39 +0000</pubDate>
 </item>
 <item>
-<title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
-<link>https://github.com/cursor/plugins</link>
-<guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-<description>Cursor plugin specification and official plugins（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Mon, 23 Nov 2026 09:01:41 +0000</pubDate>
-</item>
-<item>
-<title>Othor AI — 您的情报主管。了解您的号码隐藏了什么 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding</title>
-<link>https://www.producthunt.com/products/othor-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/othor-ai</guid>
-<description>Your Head of Intelligence. Know what your numbers are hiding（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Mon, 23 Nov 2026 09:01:16 +0000</pubDate>
-</item>
-<item>
-<title>一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器</title>
-<link>https://www.aibase.com/news/32466</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32466</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
-</item>
-<item>
-<title>亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
-<link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
-<guid isPermaLink="true">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
-<description>Hacker News 首页</description>
-<category>值得关注</category>
-<pubDate>Mon, 23 Nov 2026 00:43:51 +0000</pubDate>
-</item>
-<item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
 <link>https://github.com/elementalsouls/Claude-BugHunter</link>
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Mon, 23 Nov 2026 09:01:41 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 <item>
-<title>万亿市值换不来投资级：Anthropic 发债大概率是垃圾级</title>
-<link>https://www.aibase.com/news/32470</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32470</guid>
+<title>把“增长优先”告上法庭：加州总检察长起诉 OpenAI</title>
+<link>https://www.aibase.com/news/32474</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32474</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 08:59:45 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 12:12:57 +0000</pubDate>
 </item>
 </channel>
 </rss>

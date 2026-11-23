@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:03:06.809056+00:00",
+  "generated_at": "2026-11-23T12:14:54.406458+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,6 +375,39 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
+        "id": "2611.27193",
+        "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+        "authors": [
+          "Haowei He",
+          "Ziwen Zhao",
+          "Chenshuo Pan",
+          "Gang Lin",
+          "Zhihao Yang",
+          "Chao Wang",
+          "Xinzhang Liu",
+          "Kaidong Yu"
+        ],
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "upvotes": 78,
+        "comments": 2,
+        "discussion_score": 784.83,
+        "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
+        "keywords": [
+          "Manifold-constrained Hyper-Connections",
+          "residual connections",
+          "multiple streams",
+          "residual propagation",
+          "stream-mixing residual matrices",
+          "Birkhoff polytope",
+          "doubly stochastic matrices",
+          "residual streams"
+        ],
+        "url": "https://arxiv.org/abs/2611.27193",
+        "arxiv_url": "https://arxiv.org/abs/2611.27193",
+        "discussion_url": "https://huggingface.co/papers/2611.27193",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.21373",
         "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
         "authors": [
@@ -389,7 +422,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 59,
         "comments": 3,
-        "discussion_score": 596.65,
+        "discussion_score": 596.64,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -440,39 +473,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.27193",
-        "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
-        "authors": [
-          "Haowei He",
-          "Ziwen Zhao",
-          "Chenshuo Pan",
-          "Gang Lin",
-          "Zhihao Yang",
-          "Chao Wang",
-          "Xinzhang Liu",
-          "Kaidong Yu"
-        ],
-        "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 54,
-        "comments": 2,
-        "discussion_score": 544.84,
-        "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
-        "keywords": [
-          "Manifold-constrained Hyper-Connections",
-          "residual connections",
-          "multiple streams",
-          "residual propagation",
-          "stream-mixing residual matrices",
-          "Birkhoff polytope",
-          "doubly stochastic matrices",
-          "residual streams"
-        ],
-        "url": "https://arxiv.org/abs/2611.27193",
-        "arxiv_url": "https://arxiv.org/abs/2611.27193",
-        "discussion_url": "https://huggingface.co/papers/2611.27193",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.26409",
         "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
         "authors": [
@@ -486,9 +486,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 48,
+        "upvotes": 49,
         "comments": 3,
-        "discussion_score": 486.79,
+        "discussion_score": 496.79,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -503,6 +503,36 @@
         "url": "https://arxiv.org/abs/2611.26409",
         "arxiv_url": "https://arxiv.org/abs/2611.26409",
         "discussion_url": "https://huggingface.co/papers/2611.26409",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.27963",
+        "title": "Non-penetrating World Models",
+        "authors": [
+          "Yuhang Dai",
+          "Yinwei Wu",
+          "Ziyue Lin",
+          "Han Ji",
+          "Xingyi Yang"
+        ],
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "upvotes": 48,
+        "comments": 2,
+        "discussion_score": 484.83,
+        "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
+        "keywords": [
+          "interactive video world models",
+          "object penetration",
+          "NoPeBench",
+          "diffusion transformers (DiTs)",
+          "hidden states",
+          "prediction head",
+          "frozen DiT",
+          "NoPeWorld"
+        ],
+        "url": "https://arxiv.org/abs/2611.27963",
+        "arxiv_url": "https://arxiv.org/abs/2611.27963",
+        "discussion_url": "https://huggingface.co/papers/2611.27963",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -533,9 +563,9 @@
           "Pinar Yanardag"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 41,
+        "upvotes": 42,
         "comments": 4,
-        "discussion_score": 418.79,
+        "discussion_score": 428.79,
         "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
         "keywords": [
           "diffusion distillation",
@@ -586,36 +616,6 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.27963",
-        "title": "Non-penetrating World Models",
-        "authors": [
-          "Yuhang Dai",
-          "Yinwei Wu",
-          "Ziyue Lin",
-          "Han Ji",
-          "Xingyi Yang"
-        ],
-        "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 39,
-        "comments": 2,
-        "discussion_score": 394.84,
-        "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
-        "keywords": [
-          "interactive video world models",
-          "object penetration",
-          "NoPeBench",
-          "diffusion transformers (DiTs)",
-          "hidden states",
-          "prediction head",
-          "frozen DiT",
-          "NoPeWorld"
-        ],
-        "url": "https://arxiv.org/abs/2611.27963",
-        "arxiv_url": "https://arxiv.org/abs/2611.27963",
-        "discussion_url": "https://huggingface.co/papers/2611.27963",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.26603",
         "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
         "authors": [
@@ -660,7 +660,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 34,
         "comments": 4,
-        "discussion_score": 348.65,
+        "discussion_score": 348.64,
         "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
         "keywords": [
           "3D Gaussian Splatting",
