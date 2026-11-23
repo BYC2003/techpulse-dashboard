@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:03:39.776348+00:00",
+  "generated_at": "2026-11-23T09:03:06.809056+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,68 +375,6 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
-        "id": "2611.24738",
-        "title": "Jeveration: System One Models Now Generate",
-        "authors": [
-          "Yuhe Liu",
-          "Qi Li",
-          "Shihua Zhang",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 149,
-        "comments": 4,
-        "discussion_score": 1498.76,
-        "summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
-        "keywords": [
-          "System One models",
-          "parallel prediction",
-          "single forward pass",
-          "frozen vision-language model",
-          "visual-semantic knowledge",
-          "holistic image generation",
-          "global consistency",
-          "shared random state"
-        ],
-        "url": "https://arxiv.org/abs/2611.24738",
-        "arxiv_url": "https://arxiv.org/abs/2611.24738",
-        "discussion_url": "https://huggingface.co/papers/2611.24738",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.14848",
-        "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
-        "authors": [
-          "Yifei Wang",
-          "Tsun-yu Yang",
-          "Yechen Xu",
-          "Hancheng Ye",
-          "Qinsi Wang",
-          "Baijun Zhou",
-          "Tingjun Chen",
-          "Hai \"Helen\" Li"
-        ],
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "upvotes": 67,
-        "comments": 3,
-        "discussion_score": 676.37,
-        "summary": "TIDEWAY enables efficient inference of large Mixture-of-Experts models on memory-constrained consumer devices by treating host RAM and GPU VRAM as a unified memory pool with phase-aware layouts and optimized CUDA Graph execution under expert paging.",
-        "keywords": [
-          "large language model (LLM) agents",
-          "Mixture-of-Experts (MoE) models",
-          "inference",
-          "GPU VRAM",
-          "host RAM",
-          "prefill",
-          "decode",
-          "phase-aware memory layouts"
-        ],
-        "url": "https://arxiv.org/abs/2611.14848",
-        "arxiv_url": "https://arxiv.org/abs/2611.14848",
-        "discussion_url": "https://huggingface.co/papers/2611.14848",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.21373",
         "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
         "authors": [
@@ -449,9 +387,9 @@
           "Ying Tai"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 57,
+        "upvotes": 59,
         "comments": 3,
-        "discussion_score": 576.66,
+        "discussion_score": 596.65,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -482,9 +420,9 @@
           "Zhengwei Xie"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 54,
+        "upvotes": 57,
         "comments": 4,
-        "discussion_score": 548.8,
+        "discussion_score": 578.79,
         "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
         "keywords": [
           "embodied intelligence",
@@ -502,6 +440,39 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.27193",
+        "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+        "authors": [
+          "Haowei He",
+          "Ziwen Zhao",
+          "Chenshuo Pan",
+          "Gang Lin",
+          "Zhihao Yang",
+          "Chao Wang",
+          "Xinzhang Liu",
+          "Kaidong Yu"
+        ],
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "upvotes": 54,
+        "comments": 2,
+        "discussion_score": 544.84,
+        "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
+        "keywords": [
+          "Manifold-constrained Hyper-Connections",
+          "residual connections",
+          "multiple streams",
+          "residual propagation",
+          "stream-mixing residual matrices",
+          "Birkhoff polytope",
+          "doubly stochastic matrices",
+          "residual streams"
+        ],
+        "url": "https://arxiv.org/abs/2611.27193",
+        "arxiv_url": "https://arxiv.org/abs/2611.27193",
+        "discussion_url": "https://huggingface.co/papers/2611.27193",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.26409",
         "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
         "authors": [
@@ -515,9 +486,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 46,
+        "upvotes": 48,
         "comments": 3,
-        "discussion_score": 466.8,
+        "discussion_score": 486.79,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -544,69 +515,12 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 43,
         "comments": 2,
-        "discussion_score": 434.8,
+        "discussion_score": 434.79,
         "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.26590",
         "arxiv_url": "https://arxiv.org/abs/2611.26590",
         "discussion_url": "https://huggingface.co/papers/2611.26590",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.21366",
-        "title": "ALIVE: Making Streaming Video Models Interactive",
-        "authors": [
-          "Jinzhao Li",
-          "Yuan Xu",
-          "Jinxuan Wu",
-          "Yukun Wang",
-          "Yijia Lei",
-          "Hanyu Ji",
-          "Yinuo Chen",
-          "Zining Huang"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 42,
-        "comments": 4,
-        "discussion_score": 428.66,
-        "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.21366",
-        "arxiv_url": "https://arxiv.org/abs/2611.21366",
-        "discussion_url": "https://huggingface.co/papers/2611.21366",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.23068",
-        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
-        "authors": [
-          "Yuanhao Zeng",
-          "Shaocheng Lan",
-          "Ao Lu",
-          "Kuang Yan",
-          "Heng Lin",
-          "Xinang Xu",
-          "Yuan Luo",
-          "Yueting Wang"
-        ],
-        "published_at": "2026-11-17T00:00:00+00:00",
-        "upvotes": 39,
-        "comments": 8,
-        "discussion_score": 406.71,
-        "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
-        "keywords": [
-          "agent evolution",
-          "proposer",
-          "selection",
-          "candidate artifacts",
-          "prompts",
-          "skills",
-          "memories",
-          "noisy evaluations"
-        ],
-        "url": "https://arxiv.org/abs/2611.23068",
-        "arxiv_url": "https://arxiv.org/abs/2611.23068",
-        "discussion_url": "https://huggingface.co/papers/2611.23068",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -619,9 +533,9 @@
           "Pinar Yanardag"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 39,
+        "upvotes": 41,
         "comments": 4,
-        "discussion_score": 398.8,
+        "discussion_score": 418.79,
         "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
         "keywords": [
           "diffusion distillation",
@@ -654,7 +568,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 39,
         "comments": 4,
-        "discussion_score": 398.8,
+        "discussion_score": 398.79,
         "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
         "keywords": [
           "3D proxies",
@@ -669,6 +583,98 @@
         "url": "https://arxiv.org/abs/2611.26595",
         "arxiv_url": "https://arxiv.org/abs/2611.26595",
         "discussion_url": "https://huggingface.co/papers/2611.26595",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.27963",
+        "title": "Non-penetrating World Models",
+        "authors": [
+          "Yuhang Dai",
+          "Yinwei Wu",
+          "Ziyue Lin",
+          "Han Ji",
+          "Xingyi Yang"
+        ],
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "upvotes": 39,
+        "comments": 2,
+        "discussion_score": 394.84,
+        "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
+        "keywords": [
+          "interactive video world models",
+          "object penetration",
+          "NoPeBench",
+          "diffusion transformers (DiTs)",
+          "hidden states",
+          "prediction head",
+          "frozen DiT",
+          "NoPeWorld"
+        ],
+        "url": "https://arxiv.org/abs/2611.27963",
+        "arxiv_url": "https://arxiv.org/abs/2611.27963",
+        "discussion_url": "https://huggingface.co/papers/2611.27963",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.26603",
+        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+        "authors": [
+          "Peiyun Hu",
+          "Marko Mihajlovic",
+          "Lyndon Duong",
+          "Lahav Lipson",
+          "Wei Dong",
+          "Amaël Delaunoy",
+          "Stephan R. Richter",
+          "Vladlen Koltun"
+        ],
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "upvotes": 35,
+        "comments": 3,
+        "discussion_score": 356.79,
+        "summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
+        "keywords": [
+          "dense metric depth",
+          "monocular depth estimation",
+          "temporal consistency",
+          "boundary sharpness",
+          "multi-frame methods",
+          "single-frame methods",
+          "scalable network",
+          "native resolution"
+        ],
+        "url": "https://arxiv.org/abs/2611.26603",
+        "arxiv_url": "https://arxiv.org/abs/2611.26603",
+        "discussion_url": "https://huggingface.co/papers/2611.26603",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.21383",
+        "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+        "authors": [
+          "Jeonghwan Cho",
+          "Minsu Kim",
+          "Junyoung Hong",
+          "Seon Joo Kim"
+        ],
+        "published_at": "2026-11-16T00:00:00+00:00",
+        "upvotes": 34,
+        "comments": 4,
+        "discussion_score": 348.65,
+        "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
+        "keywords": [
+          "3D Gaussian Splatting",
+          "Gaussian primitives",
+          "segmentation",
+          "rendered views",
+          "alpha-blended feature supervision",
+          "occluded Gaussians",
+          "low-contribution Gaussians",
+          "VODA"
+        ],
+        "url": "https://arxiv.org/abs/2611.21383",
+        "arxiv_url": "https://arxiv.org/abs/2611.21383",
+        "discussion_url": "https://huggingface.co/papers/2611.21383",
         "source": "Hugging Face Daily Papers"
       }
     ]

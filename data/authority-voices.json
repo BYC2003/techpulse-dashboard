@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:03:35.139460+00:00",
+  "generated_at": "2026-11-23T09:02:31.590651+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -65,7 +65,7 @@
       "items_scanned": 50,
       "items_kept": 4,
       "error": "",
-      "latest_at": "2026-11-20T21:00:00+00:00"
+      "latest_at": "2026-11-23T05:00:00+00:00"
     },
     {
       "id": "bair",
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "9d4ec8a0b46c5bf2",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+      "published_at": "2026-11-23T05:00:00+00:00",
+      "source_id": "mit_ai",
+      "source_name": "MIT News · AI",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "3c4954789e24a3a4",
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
@@ -218,21 +233,6 @@
       "trust_label": "访谈观点",
       "verification": "访谈观点，需区分事实与受访者判断",
       "is_opinion": true
-    },
-    {
-      "id": "5d34fe7d8b23132f",
-      "title": "AI helps researchers investigate how thousands of medical studies share code",
-      "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
-      "published_at": "2026-11-19T22:15:00+00:00",
-      "source_id": "mit_ai",
-      "source_name": "MIT News · AI",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
     },
     {
       "id": "b476f208e2203bf2",
