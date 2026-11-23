@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:26:25.496865+00:00",
+  "generated_at": "2026-11-23T00:51:56.970102+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -451,7 +451,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 56,
         "comments": 3,
-        "discussion_score": 566.67,
+        "discussion_score": 566.66,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -568,7 +568,7 @@
         "published_at": "2026-11-16T00:00:00+00:00",
         "upvotes": 42,
         "comments": 4,
-        "discussion_score": 428.67,
+        "discussion_score": 428.66,
         "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to re…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.21366",
@@ -592,7 +592,7 @@
         "published_at": "2026-11-17T00:00:00+00:00",
         "upvotes": 39,
         "comments": 8,
-        "discussion_score": 406.72,
+        "discussion_score": 406.71,
         "summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
         "keywords": [
           "agent evolution",

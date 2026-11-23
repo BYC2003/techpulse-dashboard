@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 22 Nov 2026 22:24:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 00:50:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity与智慧 / Perplexity and Intelligence</title>
@@ -16,12 +16,12 @@
 <pubDate>Sun, 22 Nov 2026 18:20:52 +0000</pubDate>
 </item>
 <item>
-<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
-<link>https://www.aibase.com/news/32446</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
-<description>AIbase</description>
+<title>卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法</title>
+<link>https://aihot.news/items/hz782dpcwhurj6584rtd13eaf</link>
+<guid isPermaLink="true">https://aihot.news/items/hz782dpcwhurj6584rtd13eaf</guid>
+<description>公众号：数字生命卡兹克</description>
 <category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
 <title>MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国</title>
@@ -48,14 +48,6 @@
 <pubDate>Sun, 22 Nov 2026 09:35:58 +0000</pubDate>
 </item>
 <item>
-<title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
-<link>https://www.aibase.com/news/32437</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据</title>
 <link>https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj</link>
 <guid isPermaLink="true">https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj</guid>
@@ -80,52 +72,20 @@
 <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
-<link>https://www.aibase.com/news/32443</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
-</item>
-<item>
-<title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
-<link>https://www.aibase.com/news/32448</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
-</item>
-<item>
-<title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
-<link>https://www.aibase.com/news/32431</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
-</item>
-<item>
-<title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
-<link>https://www.aibase.com/news/32447</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32447</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
-</item>
-<item>
 <title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
 <link>https://github.com/cursor/plugins</link>
 <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
 <description>Cursor plugin specification and official plugins（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 22:25:35 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 00:50:07 +0000</pubDate>
 </item>
 <item>
-<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
-<link>https://www.aibase.com/news/32436</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
+<title>《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》</title>
+<link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+<guid isPermaLink="true">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+<description>www.gpupartner.com</description>
+<category>多源热议</category>
+<pubDate>Sun, 22 Nov 2026 23:23:39 +0000</pubDate>
 </item>
 <item>
 <title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
@@ -133,15 +93,7 @@
 <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
 <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 22:25:35 +0000</pubDate>
-</item>
-<item>
-<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
-<link>https://www.aibase.com/news/32441</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32441</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 22 Nov 2026 22:24:33 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 00:50:07 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: 我开发了一款游戏，在游戏中你将扮演一个大型语言模型（LLM）的子代理</title>
@@ -152,20 +104,52 @@
 <pubDate>Sun, 22 Nov 2026 16:44:44 +0000</pubDate>
 </item>
 <item>
+<title>亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图</title>
+<link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
+<guid isPermaLink="true">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
+<description>claude.ai</description>
+<category>值得关注</category>
+<pubDate>Mon, 23 Nov 2026 00:43:51 +0000</pubDate>
+</item>
+<item>
+<title>0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions</title>
+<link>https://0rwx.com</link>
+<guid isPermaLink="true">https://0rwx.com</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 23:53:00 +0000</pubDate>
+</item>
+<item>
+<title>“有意识的人工智能”的神话</title>
+<link>https://www.noemamag.com/the-mythology-of-conscious-ai</link>
+<guid isPermaLink="true">https://www.noemamag.com/the-mythology-of-conscious-ai</guid>
+<description>www.noemamag.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 14:37:43 +0000</pubDate>
+</item>
+<item>
 <title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭</title>
 <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
 <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</guid>
 <description>betterdatacenterproject.com</description>
-<category>多源热议</category>
+<category>值得关注</category>
 <pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
 </item>
 <item>
-<title>使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
-<link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
-<guid isPermaLink="true">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+<title>推理提供商上的数据处理事件</title>
+<link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</guid>
+<description>openrouter.ai</description>
+<category>值得关注</category>
+<pubDate>Sun, 22 Nov 2026 07:28:01 +0000</pubDate>
+</item>
+<item>
+<title>哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety</title>
+<link>https://boazbk.github.io/mltheoryseminar</link>
+<guid isPermaLink="true">https://boazbk.github.io/mltheoryseminar</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 18:01:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
