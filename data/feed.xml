@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 17:39:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 20:23:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
@@ -32,12 +32,12 @@
 <pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI and Cisco introduce Shirudo</title>
-<link>https://openai.com/index/introducing-shirudo</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<title>Searching for distant planets with Astra</title>
+<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.172.0</title>
@@ -48,12 +48,44 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI and Cisco introduce Shirudo</title>
+<link>https://openai.com/index/introducing-shirudo</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+</item>
+<item>
 <title>Finding faster quantum algorithms with agents and formal verification</title>
 <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
 <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
+<link>https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</link>
+<guid isPermaLink="true">https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</guid>
+<description>Greg Brockman</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元</title>
+<link>https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</link>
+<guid isPermaLink="true">https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
+</item>
+<item>
+<title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
+<link>https://aihot.news/items/nm8mi41auemid3iivue4tel3d</link>
+<guid isPermaLink="true">https://aihot.news/items/nm8mi41auemid3iivue4tel3d</guid>
+<description>Philipp Schmid</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:32:13 +0000</pubDate>
 </item>
 <item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
@@ -85,7 +117,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 17:39:57 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 18:23:34 +0000</pubDate>
 </item>
 <item>
 <title>Issue statuses and repository boards are in public preview</title>
@@ -128,44 +160,12 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Connected intelligence for in-house legal</title>
-<link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
-<guid isPermaLink="true">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
+<title>How Intentful uses dots to make more time for growth</title>
+<link>https://openai.com/business/customer-stories/intentful-dots</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/intentful-dots</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
-<link>https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</link>
-<guid isPermaLink="true">https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</guid>
-<description>公众号：MiniMax</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
-</item>
-<item>
-<title>OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成</title>
-<link>https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh</link>
-<guid isPermaLink="true">https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh</guid>
-<description>OpenClaw：Blog</description>
-<category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude 推出插件，统一连接器与技能的接入方式</title>
-<link>https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2</link>
-<guid isPermaLink="true">https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2</guid>
-<description>Claude</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 20:56:12 +0000</pubDate>
-</item>
-<item>
-<title>Figma agent 正式开放至 FigJam 和 Figma Slides</title>
-<link>https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s</link>
-<guid isPermaLink="true">https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s</guid>
-<description>Figma AI / Agent / Make</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 20:54:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

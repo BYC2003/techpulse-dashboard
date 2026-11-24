@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:42:05.456901+00:00",
+  "generated_at": "2026-11-24T20:25:41.115183+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Hao Tang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 170,
+        "upvotes": 171,
         "comments": 2,
-        "discussion_score": 1704.92,
+        "discussion_score": 1714.91,
         "summary": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resum…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.29897",
@@ -445,9 +445,9 @@
           "Yihang Luo"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 89,
+        "upvotes": 90,
         "comments": 1,
-        "discussion_score": 892.92,
+        "discussion_score": 902.91,
         "summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
         "keywords": [
           "frontier multimodal models",
@@ -473,9 +473,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 69,
+        "upvotes": 73,
         "comments": 1,
-        "discussion_score": 692.92,
+        "discussion_score": 732.91,
         "summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
         "keywords": [
           "vision-language models",
@@ -536,7 +536,7 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 56,
         "comments": 2,
-        "discussion_score": 564.92,
+        "discussion_score": 564.91,
         "summary": "A new benchmark evaluates rigging and motion generation across six 3D morphology categories, compares specialized, video-based, and agent-driven paradigms, and proposes an agentic framework that writes compact parametric skeleton and motion programs executed deterministically for reliable control.",
         "keywords": [
           "large language models",
@@ -569,7 +569,7 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 54,
         "comments": 1,
-        "discussion_score": 542.92,
+        "discussion_score": 542.91,
         "summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
         "keywords": [
           "multimodal large language models",
@@ -597,9 +597,9 @@
           "Safwan AlModhayan"
         ],
         "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 50,
+        "upvotes": 52,
         "comments": 3,
-        "discussion_score": 506.25,
+        "discussion_score": 526.25,
         "summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
         "keywords": [
           "Fixer-Guided Localization (FGL)",
@@ -614,6 +614,39 @@
         "url": "https://arxiv.org/abs/2611.12164",
         "arxiv_url": "https://arxiv.org/abs/2611.12164",
         "discussion_url": "https://huggingface.co/papers/2611.12164",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.29338",
+        "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+        "authors": [
+          "Meng-Hao Guo",
+          "Yi Zhang",
+          "Zhe-Han Mo",
+          "Han-Zheng Wang",
+          "Jia-Jun Wang",
+          "Xin-Sheng Chen",
+          "Jiaxi Song",
+          "Yi-Xuan Deng"
+        ],
+        "published_at": "2026-11-22T00:00:00+00:00",
+        "upvotes": 47,
+        "comments": 1,
+        "discussion_score": 472.86,
+        "summary": "nanoAstra combines semantic action modeling with capability-preserving supervised fine-tuning to train vision-language models for generalizable robot manipulation, achieving strong zero-shot success and faster streaming execution.",
+        "keywords": [
+          "vision-language models",
+          "VLMs",
+          "generalizable manipulation",
+          "semantic action modeling",
+          "capability-preserving supervised fine-tuning",
+          "CP-SFT",
+          "semantic steps",
+          "parameterized action primitives"
+        ],
+        "url": "https://arxiv.org/abs/2611.29338",
+        "arxiv_url": "https://arxiv.org/abs/2611.29338",
+        "discussion_url": "https://huggingface.co/papers/2611.29338",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -647,39 +680,6 @@
         "url": "https://arxiv.org/abs/2611.26954",
         "arxiv_url": "https://arxiv.org/abs/2611.26954",
         "discussion_url": "https://huggingface.co/papers/2611.26954",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.29338",
-        "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
-        "authors": [
-          "Meng-Hao Guo",
-          "Yi Zhang",
-          "Zhe-Han Mo",
-          "Han-Zheng Wang",
-          "Jia-Jun Wang",
-          "Xin-Sheng Chen",
-          "Jiaxi Song",
-          "Yi-Xuan Deng"
-        ],
-        "published_at": "2026-11-22T00:00:00+00:00",
-        "upvotes": 43,
-        "comments": 1,
-        "discussion_score": 432.87,
-        "summary": "nanoAstra combines semantic action modeling with capability-preserving supervised fine-tuning to train vision-language models for generalizable robot manipulation, achieving strong zero-shot success and faster streaming execution.",
-        "keywords": [
-          "vision-language models",
-          "VLMs",
-          "generalizable manipulation",
-          "semantic action modeling",
-          "capability-preserving supervised fine-tuning",
-          "CP-SFT",
-          "semantic steps",
-          "parameterized action primitives"
-        ],
-        "url": "https://arxiv.org/abs/2611.29338",
-        "arxiv_url": "https://arxiv.org/abs/2611.29338",
-        "discussion_url": "https://huggingface.co/papers/2611.29338",
         "source": "Hugging Face Daily Papers"
       }
     ]
