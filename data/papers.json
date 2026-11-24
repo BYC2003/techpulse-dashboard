@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:06:04.118699+00:00",
+  "generated_at": "2026-11-24T09:43:02.567318+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,6 +375,30 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
+        "id": "2611.29897",
+        "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+        "authors": [
+          "Yue Huang",
+          "Tianshan Zhang",
+          "Zeyu Zhang",
+          "Jayeon Kang",
+          "Akide Liu",
+          "Sungjoon Choi",
+          "Dacheng Tao",
+          "Hao Tang"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 104,
+        "comments": 2,
+        "discussion_score": 1044.93,
+        "summary": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resum…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.29897",
+        "arxiv_url": "https://arxiv.org/abs/2611.29897",
+        "discussion_url": "https://huggingface.co/papers/2611.29897",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.27193",
         "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
         "authors": [
@@ -390,7 +414,7 @@
         "published_at": "2026-11-20T00:00:00+00:00",
         "upvotes": 94,
         "comments": 3,
-        "discussion_score": 946.8,
+        "discussion_score": 946.79,
         "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
         "keywords": [
           "Manifold-constrained Hyper-Connections",
@@ -408,68 +432,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.26444",
-        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "id": "2611.31201",
+        "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
         "authors": [
-          "Yuzhi Huang",
-          "Jie Wu",
-          "Fanding Huang",
-          "Junchao Lin",
-          "Weichen Zhang",
-          "Ziyi Xiong",
-          "Yang Li",
-          "Zhengwei Xie"
+          "Xiao-Ming Wu",
+          "Kang Liao",
+          "Yuexiao Ma",
+          "Taolin Zhang",
+          "Mingqian Zhou",
+          "Nuo Chen",
+          "Ziming Li",
+          "Yihang Luo"
         ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 57,
-        "comments": 4,
-        "discussion_score": 578.75,
-        "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 69,
+        "comments": 1,
+        "discussion_score": 692.93,
+        "summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
         "keywords": [
-          "embodied intelligence",
-          "multimodal agents",
-          "vision-language-action models (VLAs)",
-          "world-action models (WAMs)",
-          "end-to-end policies",
-          "closed-loop tasks",
-          "diagnosis harness",
-          "task state"
+          "frontier multimodal models",
+          "robot policies",
+          "closed-loop robotic harnesses",
+          "frontier-model-as-policy",
+          "prompting",
+          "planning",
+          "action execution",
+          "tool use"
         ],
-        "url": "https://arxiv.org/abs/2611.26444",
-        "arxiv_url": "https://arxiv.org/abs/2611.26444",
-        "discussion_url": "https://huggingface.co/papers/2611.26444",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.21373",
-        "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
-        "authors": [
-          "Yipeng Du",
-          "Yuxi Li",
-          "Ying Zhang",
-          "Chong Sun",
-          "Chen Li",
-          "Jing Lyu",
-          "Ying Tai"
-        ],
-        "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 56,
-        "comments": 3,
-        "discussion_score": 566.61,
-        "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
-        "keywords": [
-          "video generation",
-          "chain-of-thought reasoning",
-          "multi-agent workflows",
-          "agentic framework",
-          "main investigator agent",
-          "self-evolving library",
-          "forensic inspector sub-agents",
-          "visual and audio cues"
-        ],
-        "url": "https://arxiv.org/abs/2611.21373",
-        "arxiv_url": "https://arxiv.org/abs/2611.21373",
-        "discussion_url": "https://huggingface.co/papers/2611.21373",
+        "url": "https://arxiv.org/abs/2611.31201",
+        "arxiv_url": "https://arxiv.org/abs/2611.31201",
+        "discussion_url": "https://huggingface.co/papers/2611.31201",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -483,9 +475,9 @@
           "Xingyi Yang"
         ],
         "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 55,
+        "upvotes": 56,
         "comments": 3,
-        "discussion_score": 556.8,
+        "discussion_score": 566.79,
         "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
         "keywords": [
           "interactive video world models",
@@ -503,65 +495,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.26409",
-        "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+        "id": "2611.30013",
+        "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
         "authors": [
-          "Changli Tang",
-          "Jie Yang",
-          "Tianyi Wang",
-          "Lei Li",
-          "Daoze Zhang",
-          "Zijie Xin",
-          "Zhan Liu",
-          "Li Li"
+          "Bohan Zeng",
+          "Kaixin Zhu",
+          "Yifan Yang",
+          "Dongge Yu",
+          "Zihao Wu",
+          "Yifan Dai",
+          "Zhou Liu",
+          "Junbo Niu"
         ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 50,
-        "comments": 3,
-        "discussion_score": 506.75,
-        "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 43,
+        "comments": 2,
+        "discussion_score": 434.93,
+        "summary": "A new benchmark evaluates rigging and motion generation across six 3D morphology categories, compares specialized, video-based, and agent-driven paradigms, and proposes an agentic framework that writes compact parametric skeleton and motion programs executed deterministically for reliable control.",
         "keywords": [
-          "omni-modal foundation models",
-          "joint audio-visual perception",
-          "joint audio-visual reasoning",
-          "hybrid-thinking paradigm",
-          "non-thinking instruct mode",
-          "thinking mode",
-          "explicit step-by-step reasoning",
-          "progressive pre-training"
+          "large language models",
+          "motion generation",
+          "rigging",
+          "motion recovery",
+          "agent-driven generation",
+          "Agentic Motion Framework",
+          "parametric skeleton programs",
+          "motion programs"
         ],
-        "url": "https://arxiv.org/abs/2611.26409",
-        "arxiv_url": "https://arxiv.org/abs/2611.26409",
-        "discussion_url": "https://huggingface.co/papers/2611.26409",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.26629",
-        "title": "Posterior Matching Distillation",
-        "authors": [
-          "Hidir Yesiltepe",
-          "Julius Berner",
-          "Arash Vahdat",
-          "Pinar Yanardag"
-        ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 44,
-        "comments": 4,
-        "discussion_score": 448.75,
-        "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
-        "keywords": [
-          "diffusion distillation",
-          "distribution-based distillation",
-          "teacher-student distillation",
-          "pretrained teacher",
-          "iterative sampling process",
-          "network evaluations",
-          "student output distribution",
-          "reverse-KL objectives"
-        ],
-        "url": "https://arxiv.org/abs/2611.26629",
-        "arxiv_url": "https://arxiv.org/abs/2611.26629",
-        "discussion_url": "https://huggingface.co/papers/2611.26629",
+        "url": "https://arxiv.org/abs/2611.30013",
+        "arxiv_url": "https://arxiv.org/abs/2611.30013",
+        "discussion_url": "https://huggingface.co/papers/2611.30013",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -578,9 +541,9 @@
           "Yunjie Tian"
         ],
         "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 42,
+        "upvotes": 43,
         "comments": 2,
-        "discussion_score": 424.8,
+        "discussion_score": 434.79,
         "summary": "Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.",
         "keywords": [
           "video foresight reasoning",
@@ -598,36 +561,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.26595",
-        "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+        "id": "2611.30662",
+        "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
         "authors": [
-          "Yiyan Ji",
-          "Qixun Wang",
-          "Yang Shi",
-          "Zhuoran Zhang",
-          "Yifan Xu",
-          "Tengfei Liu",
-          "Yuqi Tang",
-          "Xiaohan Zhang"
+          "Binhui Xie",
+          "Jinmin Li",
+          "Haomiao Tang",
+          "Guangting Wang",
+          "Song Jin",
+          "Jianwei Zhu",
+          "Fengyun Rao",
+          "Jing Lyu"
         ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 40,
-        "comments": 4,
-        "discussion_score": 408.75,
-        "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 43,
+        "comments": 1,
+        "discussion_score": 432.93,
+        "summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
         "keywords": [
-          "3D proxies",
-          "Proxy granularity",
-          "Physics simulation",
-          "Proxy-aligned prompting",
-          "Coda-DaVinci",
-          "Task-adaptive agentic framework",
-          "Multi-agent harness",
-          "Instruction following"
+          "multimodal large language models",
+          "dense model",
+          "mixture-of-experts model",
+          "active parameters",
+          "continued pre-training",
+          "multimodal data mixture",
+          "hybrid-thinking post-training",
+          "on-policy distillation"
         ],
-        "url": "https://arxiv.org/abs/2611.26595",
-        "arxiv_url": "https://arxiv.org/abs/2611.26595",
-        "discussion_url": "https://huggingface.co/papers/2611.26595",
+        "url": "https://arxiv.org/abs/2611.30662",
+        "arxiv_url": "https://arxiv.org/abs/2611.30662",
+        "discussion_url": "https://huggingface.co/papers/2611.30662",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -637,9 +600,9 @@
           "DiffuSpace Technical Team"
         ],
         "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 37,
+        "upvotes": 40,
         "comments": 4,
-        "discussion_score": 378.7,
+        "discussion_score": 408.7,
         "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-i…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.24636",
@@ -648,36 +611,53 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.26603",
-        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+        "id": "2611.26590",
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
         "authors": [
-          "Peiyun Hu",
-          "Marko Mihajlovic",
-          "Lyndon Duong",
-          "Lahav Lipson",
-          "Wei Dong",
-          "Amaël Delaunoy",
-          "Stephan R. Richter",
-          "Vladlen Koltun"
+          "Jiahao Huang",
+          "Jun Wang"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 37,
-        "comments": 3,
-        "discussion_score": 376.75,
-        "summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
-        "keywords": [
-          "dense metric depth",
-          "monocular depth estimation",
-          "temporal consistency",
-          "boundary sharpness",
-          "multi-frame methods",
-          "single-frame methods",
-          "scalable network",
-          "native resolution"
+        "upvotes": 36,
+        "comments": 2,
+        "discussion_score": 364.74,
+        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.26590",
+        "arxiv_url": "https://arxiv.org/abs/2611.26590",
+        "discussion_url": "https://huggingface.co/papers/2611.26590",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.26389",
+        "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
+        "authors": [
+          "Kaiwen Zhang",
+          "Yiming Gao",
+          "Zeqi Xiao",
+          "Xintao Wang",
+          "Pengfei Wan",
+          "Kun Gai",
+          "Xingang Pan"
         ],
-        "url": "https://arxiv.org/abs/2611.26603",
-        "arxiv_url": "https://arxiv.org/abs/2611.26603",
-        "discussion_url": "https://huggingface.co/papers/2611.26603",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "upvotes": 31,
+        "comments": 1,
+        "discussion_score": 312.74,
+        "summary": "ViDecide trains video diffusion models to make causal state-transition and stopping decisions, using Corrective Fine-tuning to improve multi-step planning success without policy gradients.",
+        "keywords": [
+          "video generation models",
+          "video diffusion models",
+          "diffusion RL",
+          "decision-centric framework",
+          "state transitions",
+          "decision-focused training schedule",
+          "Corrective Fine-tuning",
+          "policy-gradient optimization"
+        ],
+        "url": "https://arxiv.org/abs/2611.26389",
+        "arxiv_url": "https://arxiv.org/abs/2611.26389",
+        "discussion_url": "https://huggingface.co/papers/2611.26389",
         "source": "Hugging Face Daily Papers"
       }
     ]

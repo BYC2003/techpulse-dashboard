@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 05:59:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:41:36 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
@@ -24,7 +24,7 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>RoboTrack：现实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation</title>
+<title>RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
 <description>Hugging Face Blog</description>
@@ -40,7 +40,7 @@
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
 </item>
 <item>
-<title>更适合您的 Google 搜索 / A more tailored Google Search that’s uniquely yours</title>
+<title>A more tailored Google Search that’s uniquely yours</title>
 <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
 <description>Google AI Blog</description>
@@ -48,7 +48,7 @@
 <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>通过代理和形式验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification</title>
+<title>Finding faster quantum algorithms with agents and formal verification</title>
 <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
 <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
 <description>Google DeepMind</description>
@@ -56,12 +56,28 @@
 <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
 </item>
 <item>
-<title>秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack</title>
+<title>OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统</title>
+<link>https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h</link>
+<guid isPermaLink="true">https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h</guid>
+<description>Tibo</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 08:15:44 +0000</pubDate>
+</item>
+<item>
+<title>Secret scanning reduces false positives for Slack</title>
 <link>https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
+</item>
+<item>
+<title>卡兹克分享两个优化用户体验和产品动效的 Prompt</title>
+<link>https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0</link>
+<guid isPermaLink="true">https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0</guid>
+<description>卡兹克</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 06:12:14 +0000</pubDate>
 </item>
 <item>
 <title>How to build and maintain an agentic evaluation</title>
@@ -72,20 +88,20 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”</title>
+<link>https://www.aibase.com/news/32500</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32500</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 09:41:36 +0000</pubDate>
+</item>
+<item>
 <title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
 <link>https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</link>
 <guid isPermaLink="true">https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</guid>
 <description>公众号：MiniMax</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
-</item>
-<item>
-<title>ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单</title>
-<link>https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</link>
-<guid isPermaLink="true">https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</guid>
-<description>ChinaTalk</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 01:41:25 +0000</pubDate>
 </item>
 <item>
 <title>Connected intelligence for in-house legal</title>
@@ -96,20 +112,12 @@
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol</title>
-<link>https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk</link>
-<guid isPermaLink="true">https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk</guid>
-<description>Tibo</description>
+<title>ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单</title>
+<link>https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</link>
+<guid isPermaLink="true">https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</guid>
+<description>ChinaTalk</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 22:48:30 +0000</pubDate>
-</item>
-<item>
-<title>AI 连代码合入权都接走了：Anthropic 上线 Claude Ship</title>
-<link>https://www.aibase.com/news/32485</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32485</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 05:59:23 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 01:41:25 +0000</pubDate>
 </item>
 <item>
 <title>Claude 推出插件，统一连接器与技能的接入方式</title>
@@ -150,14 +158,6 @@
 <description>Google Blog：AI</description>
 <category>行业动态</category>
 <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据</title>
-<link>https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn</link>
-<guid isPermaLink="true">https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 15:04:01 +0000</pubDate>
 </item>
 <item>
 <title>a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法</title>
