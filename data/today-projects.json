@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:20:23.562562Z",
+  "generated_at": "2026-11-24T00:00:10.519058Z",
   "date": "2026-11-24",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-23T21:19:10.593507Z"
+      "observed_at": "2026-11-23T23:59:06.258966Z"
     },
     {
-      "id": "project_aa72cff1d94e",
-      "project_name": "Chat with Work",
-      "url": "https://www.producthunt.com/products/chat-with-work",
-      "summary": "AI bots in Europe. They work. You decide.",
+      "id": "project_cb6938f9949c",
+      "project_name": "Gauth Personal Study Agent",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "summary": "An AI study agent that remembers where you struggle",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI bots in Europe. They work. You decide」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI bots in Europe. They work. You decide\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-21T09:06:12Z",
-      "updated_at": "2026-11-23T21:18:35Z",
+      "recommend_reason_zh": "体验它主打的「An AI study agent that remembers where you struggle」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"An AI study agent that remembers where you struggle\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-20T17:12:34Z",
+      "updated_at": "2026-11-23T23:36:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-23T21:20:08.223980Z"
+      "observed_at": "2026-11-23T23:59:49.728081Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-23T21:19:10.593507Z"
+      "observed_at": "2026-11-23T23:59:06.258966Z"
     },
     {
-      "id": "project_cb6938f9949c",
-      "project_name": "Gauth Personal Study Agent",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "summary": "An AI study agent that remembers where you struggle",
+      "id": "project_aa72cff1d94e",
+      "project_name": "Chat with Work",
+      "url": "https://www.producthunt.com/products/chat-with-work",
+      "summary": "AI bots in Europe. They work. You decide.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「An AI study agent that remembers where you struggle」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"An AI study agent that remembers where you struggle\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-20T17:12:34Z",
-      "updated_at": "2026-11-23T21:17:57Z",
+      "recommend_reason_zh": "体验它主打的「AI bots in Europe. They work. You decide」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI bots in Europe. They work. You decide\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-21T09:06:12Z",
+      "updated_at": "2026-11-23T23:54:08Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-23T21:20:08.223980Z"
+      "observed_at": "2026-11-23T23:59:49.728081Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1798,
+      "duration_ms": 213,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 137,
+      "duration_ms": 116,
       "error": null
     }
   ]

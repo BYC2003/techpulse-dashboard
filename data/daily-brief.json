@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:19:10.593507Z",
+  "generated_at": "2026-11-23T23:59:06.258966Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.856,
-      "importance_score": 0.856,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9442,
+        "recency": 0.9085,
         "story_heat": 0.0
       },
       "category": "official",
@@ -133,6 +133,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_50849ba4d70a",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "primary_url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "title_zh": null,
+          "title_en": "OpenAI and Cisco introduce Shirudo",
+          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T21:20:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "title_zh": null,
+          "title_en": "OpenAI and Cisco introduce Shirudo",
+          "title_original": "OpenAI and Cisco introduce Shirudo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T21:20:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T21:20:00Z",
+      "latest_at": "2026-11-23T21:20:00Z",
+      "primary_item": {
+        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "title_zh": null,
+        "title_en": "OpenAI and Cisco introduce Shirudo",
+        "title_original": "OpenAI and Cisco introduce Shirudo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://openai.com/index/introducing-shirudo",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OpenAI and Cisco introduce Shirudo",
+          "claim_type": "confirmed",
+          "basis_source": "OpenAI News",
+          "basis_url": "https://openai.com/index/introducing-shirudo",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_c4c2ceef94f4",
       "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
       "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
@@ -187,15 +316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9899,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -316,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9395,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9395,
+        "recency": 0.904,
         "story_heat": 0.0
       },
       "category": "official",
@@ -520,135 +649,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_a8a3c187bbb6",
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "primary_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-          "title": "Connected intelligence for in-house legal",
-          "title_zh": null,
-          "title_en": "Connected intelligence for in-house legal",
-          "title_original": "Connected intelligence for in-house legal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-          "title": "Connected intelligence for in-house legal",
-          "title_zh": null,
-          "title_en": "Connected intelligence for in-house legal",
-          "title_original": "Connected intelligence for in-house legal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.825,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T08:00:00Z",
-      "latest_at": "2026-11-23T08:00:00Z",
-      "primary_item": {
-        "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-        "title": "Connected intelligence for in-house legal",
-        "title_zh": null,
-        "title_en": "Connected intelligence for in-house legal",
-        "title_original": "Connected intelligence for in-house legal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "title": "Connected intelligence for in-house legal",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Connected intelligence for in-house legal",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_be17d06c51ba",
       "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
       "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
@@ -703,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9608,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -908,22 +908,22 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_43302055074e",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "primary_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "story_id": "story_a8a3c187bbb6",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "primary_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
+          "title": "Connected intelligence for in-house legal",
           "title_zh": null,
-          "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-          "title_original": "Richpanel helps companies automate 50% of support in 30 days",
+          "title_en": "Connected intelligence for in-house legal",
+          "title_original": "Connected intelligence for in-house legal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -941,14 +941,14 @@
       ],
       "items": [
         {
-          "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
+          "title": "Connected intelligence for in-house legal",
           "title_zh": null,
-          "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-          "title_original": "Richpanel helps companies automate 50% of support in 30 days",
+          "title_en": "Connected intelligence for in-house legal",
+          "title_original": "Connected intelligence for in-house legal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -962,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.825,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -982,14 +982,14 @@
       "earliest_at": "2026-11-23T08:00:00Z",
       "latest_at": "2026-11-23T08:00:00Z",
       "primary_item": {
-        "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
+        "title": "Connected intelligence for in-house legal",
         "title_zh": null,
-        "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-        "title_original": "Richpanel helps companies automate 50% of support in 30 days",
+        "title_en": "Connected intelligence for in-house legal",
+        "title_original": "Connected intelligence for in-house legal",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -1001,7 +1001,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "primary_source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -1011,8 +1011,8 @@
         {
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "title": "Connected intelligence for in-house legal",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1021,15 +1021,145 @@
       ],
       "key_claims": [
         {
-          "claim": "Richpanel helps companies automate 50% of support in 30 days",
+          "claim": "Connected intelligence for in-house legal",
           "claim_type": "confirmed",
           "basis_source": "OpenAI News",
-          "basis_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "basis_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_5c8f16c88ab8",
+      "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+      "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+      "primary_url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+      "source": "Tibo",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "title_zh": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "title_en": null,
+          "title_original": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-23T22:48:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Tibo"
+      ],
+      "items": [
+        {
+          "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "title_zh": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "title_en": null,
+          "title_original": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "source": "Tibo",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-23T22:48:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T22:48:30Z",
+      "latest_at": "2026-11-23T22:48:30Z",
+      "primary_item": {
+        "id": "4070253bf79d488bd7746589c2cc31e071dabafe",
+        "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+        "title_zh": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+        "title_en": null,
+        "title_original": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+        "source": "Tibo",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Tibo",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "claim_type": "reported",
+          "basis_source": "Tibo",
+          "basis_url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1091,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1479,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1608,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1684,135 +1814,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_11be9b8b789c",
-      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "title_en": null,
-          "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T15:04:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "title_en": null,
-          "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T15:04:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9137,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:04:01Z",
-      "latest_at": "2026-11-23T15:04:01Z",
-      "primary_item": {
-        "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
-        "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-        "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-        "title_en": null,
-        "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_3eca82a1a560",
       "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
       "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
@@ -1867,15 +1868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1929,6 +1930,135 @@
           "claim_type": "reported",
           "basis_source": "a16z：News",
           "basis_url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_11be9b8b789c",
+      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+      "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "primary_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "title_en": null,
+          "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-23T15:04:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "title_en": null,
+          "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-23T15:04:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8792,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T15:04:01Z",
+      "latest_at": "2026-11-23T15:04:01Z",
+      "primary_item": {
+        "id": "7b2b28d61e8965714d400beb4605a5a38ed70f68",
+        "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+        "title_zh": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+        "title_en": null,
+        "title_original": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -1996,15 +2126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9191,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2125,15 +2255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9098,
+        "recency": 0.8754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2254,15 +2384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2383,15 +2513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2450,136 +2580,6 @@
         }
       ],
       "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_03c1988edf68",
-      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-      "url": "https://www.aibase.com/news/32479",
-      "primary_url": "https://www.aibase.com/news/32479",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_en": null,
-          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32479",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T18:19:10.593507Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "title_en": null,
-          "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32479",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T18:19:10.593507Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T18:19:10.593507Z",
-      "latest_at": "2026-11-23T18:19:10.593507Z",
-      "primary_item": {
-        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "title_zh": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "title_en": null,
-        "title_original": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32479",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32479",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32479",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
