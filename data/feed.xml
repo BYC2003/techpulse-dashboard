@@ -5,8 +5,32 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 09:41:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 17:39:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+<link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+</item>
+<item>
+<title>Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com</title>
+<link>https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
 <link>https://openai.com/index/introducing-shirudo</link>
@@ -24,6 +48,14 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Finding faster quantum algorithms with agents and formal verification</title>
+<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
+<guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+</item>
+<item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
@@ -32,28 +64,36 @@
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
 </item>
 <item>
-<title>问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview</title>
+<title>Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day</title>
+<link>https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x</link>
+<guid isPermaLink="true">https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x</guid>
+<description>Ars Technica：AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
+</item>
+<item>
+<title>ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先</title>
+<link>https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</link>
+<guid isPermaLink="true">https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</guid>
+<description>ChinaTalk</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 10:58:57 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元发布并开源Hy MT3</title>
+<link>https://www.aibase.com/news/32503</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 17:39:57 +0000</pubDate>
+</item>
+<item>
+<title>Issue statuses and repository boards are in public preview</title>
 <link>https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
-</item>
-<item>
-<title>A more tailored Google Search that’s uniquely yours</title>
-<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Finding faster quantum algorithms with agents and formal verification</title>
-<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
-<guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统</title>
@@ -64,12 +104,12 @@
 <pubDate>Tue, 24 Nov 2026 08:15:44 +0000</pubDate>
 </item>
 <item>
-<title>Secret scanning reduces false positives for Slack</title>
-<link>https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</guid>
-<description>GitHub Changelog</description>
+<title>A more tailored Google Search that’s uniquely yours</title>
+<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
+<description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>卡兹克分享两个优化用户体验和产品动效的 Prompt</title>
@@ -80,28 +120,12 @@
 <pubDate>Tue, 24 Nov 2026 06:12:14 +0000</pubDate>
 </item>
 <item>
-<title>How to build and maintain an agentic evaluation</title>
-<link>https://huggingface.co/blog/agentic-evals</link>
-<guid isPermaLink="true">https://huggingface.co/blog/agentic-evals</guid>
-<description>Hugging Face Blog</description>
+<title>Codex app 26.1120</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”</title>
-<link>https://www.aibase.com/news/32500</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32500</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 09:41:36 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
-<link>https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</link>
-<guid isPermaLink="true">https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</guid>
-<description>公众号：MiniMax</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
 </item>
 <item>
 <title>Connected intelligence for in-house legal</title>
@@ -112,12 +136,20 @@
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单</title>
-<link>https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</link>
-<guid isPermaLink="true">https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</guid>
-<description>ChinaTalk</description>
+<title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
+<link>https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</link>
+<guid isPermaLink="true">https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</guid>
+<description>公众号：MiniMax</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 01:41:25 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
+</item>
+<item>
+<title>OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成</title>
+<link>https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh</link>
+<guid isPermaLink="true">https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh</guid>
+<description>OpenClaw：Blog</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude 推出插件，统一连接器与技能的接入方式</title>
@@ -134,38 +166,6 @@
 <description>Figma AI / Agent / Make</description>
 <category>行业动态</category>
 <pubDate>Mon, 23 Nov 2026 20:54:00 +0000</pubDate>
-</item>
-<item>
-<title>俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足</title>
-<link>https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte</link>
-<guid isPermaLink="true">https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte</guid>
-<description>The Verge：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 18:26:47 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法</title>
-<link>https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n</link>
-<guid isPermaLink="true">https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n</guid>
-<description>Google DeepMind：Blog</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-</item>
-<item>
-<title>Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用</title>
-<link>https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2</link>
-<guid isPermaLink="true">https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2</guid>
-<description>Google Blog：AI</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法</title>
-<link>https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</link>
-<guid isPermaLink="true">https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</guid>
-<description>a16z：News</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 15:04:27 +0000</pubDate>
 </item>
 </channel>
 </rss>

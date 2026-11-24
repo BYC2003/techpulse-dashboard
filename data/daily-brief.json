@@ -1,8 +1,395 @@
 {
-  "generated_at": "2026-11-24T09:41:36.628292Z",
+  "generated_at": "2026-11-24T17:39:57.109987Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c2e19fb7f5b4",
+      "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "primary_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f38e9dd8e843c459a13862777d8e559648285636",
+          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:34:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f38e9dd8e843c459a13862777d8e559648285636",
+          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:34:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8572,
+      "importance": 0.8572,
+      "importance_score": 0.8572,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:34:13Z",
+      "latest_at": "2026-11-24T16:34:13Z",
+      "primary_item": {
+        "id": "f38e9dd8e843c459a13862777d8e559648285636",
+        "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+        "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_8c2aab0e28f2",
+      "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "primary_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:00:00Z",
+      "latest_at": "2026-11-24T16:00:00Z",
+      "primary_item": {
+        "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+        "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+        "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+        "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+        "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "claim_type": "confirmed",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_4cba4be76f8f",
+      "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "title_zh": "GitHub.com 上的通知更可预测",
+          "title_en": "More predictable notifications on GitHub.com",
+          "title_original": "More predictable notifications on GitHub.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:40:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "title_zh": "GitHub.com 上的通知更可预测",
+          "title_en": "More predictable notifications on GitHub.com",
+          "title_original": "More predictable notifications on GitHub.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T16:40:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:40:59Z",
+      "latest_at": "2026-11-24T16:40:59Z",
+      "primary_item": {
+        "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+        "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+        "title_zh": "GitHub.com 上的通知更可预测",
+        "title_en": "More predictable notifications on GitHub.com",
+        "title_original": "More predictable notifications on GitHub.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "official_source_present": true,
+      "verification_level": "opinion",
+      "verification_score": 53,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "claim_type": "analysis",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
     {
       "story_id": "story_50849ba4d70a",
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -32,8 +419,8 @@
         },
         {
           "id": "9af716f769a76fe683103de026928c4587c5b20f",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_zh": null,
           "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
           "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
           "summary": null,
@@ -77,8 +464,8 @@
         },
         {
           "id": "9af716f769a76fe683103de026928c4587c5b20f",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title_zh": null,
           "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
           "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
           "summary": null,
@@ -97,15 +484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8365,
+        "recency": 0.7456,
         "story_heat": 0.25
       },
       "category": "official",
@@ -158,7 +545,7 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "url": "https://openai.com/index/introducing-shirudo",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
           "source_tier": "discussion",
           "source_tier_label": "热议参考",
           "role": "aggregator",
@@ -237,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8694,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -312,393 +699,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_b483870af4d7",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "primary_url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_zh": null,
-          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T17:20:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_zh": null,
-          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T17:20:37Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7897,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T17:20:37Z",
-      "latest_at": "2026-11-23T17:20:37Z",
-      "primary_item": {
-        "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-        "title_zh": null,
-        "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-        "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/robotrack",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/allenai/robotrack",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/allenai/robotrack",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c4c2ceef94f4",
-      "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "title_zh": "问题状态和代码仓库板处于公共预览状态",
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T20:37:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "title_zh": "问题状态和代码仓库板处于公共预览状态",
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T20:37:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.828,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T20:37:11Z",
-      "latest_at": "2026-11-23T20:37:11Z",
-      "primary_item": {
-        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-        "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-        "title_zh": "问题状态和代码仓库板处于公共预览状态",
-        "title_en": "Issue statuses and repository boards are in public preview",
-        "title_original": "Issue statuses and repository boards are in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "title": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_f0c49f3f943b",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-          "title": "A more tailored Google Search that’s uniquely yours",
-          "title_zh": null,
-          "title_en": "A more tailored Google Search that’s uniquely yours",
-          "title_original": "A more tailored Google Search that’s uniquely yours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-          "title": "A more tailored Google Search that’s uniquely yours",
-          "title_zh": null,
-          "title_en": "A more tailored Google Search that’s uniquely yours",
-          "title_original": "A more tailored Google Search that’s uniquely yours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7858,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T17:00:00Z",
-      "latest_at": "2026-11-23T17:00:00Z",
-      "primary_item": {
-        "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-        "title": "A more tailored Google Search that’s uniquely yours",
-        "title_zh": null,
-        "title_en": "A more tailored Google Search that’s uniquely yours",
-        "title_original": "A more tailored Google Search that’s uniquely yours",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI Blog",
-          "site_id": "official_ai",
-          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "title": "A more tailored Google Search that’s uniquely yours",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "A more tailored Google Search that’s uniquely yours",
-          "claim_type": "confirmed",
-          "basis_source": "Google AI Blog",
-          "basis_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_68ff84661e7c",
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
@@ -753,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7857,
+        "recency": 0.7003,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,6 +828,651 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_b483870af4d7",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "primary_url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "title_zh": null,
+          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T17:20:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "title_zh": null,
+          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T17:20:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7038,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T17:20:37Z",
+      "latest_at": "2026-11-23T17:20:37Z",
+      "primary_item": {
+        "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "title_zh": null,
+        "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/allenai/robotrack",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/robotrack",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_aba4dab991ea",
+      "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+      "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+      "primary_url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+      "source": "Ars Technica：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "title_zh": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "title_en": null,
+          "title_original": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T12:30:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI"
+      ],
+      "items": [
+        {
+          "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "title_zh": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "title_en": null,
+          "title_original": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "source": "Ars Technica：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T12:30:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9281,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T12:30:05Z",
+      "latest_at": "2026-11-24T12:30:05Z",
+      "primary_item": {
+        "id": "652bf4c338a71ac9ad9d5d966cabc30935eb164a",
+        "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+        "title_zh": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+        "title_en": null,
+        "title_original": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+        "source": "Ars Technica：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ars Technica：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "claim_type": "reported",
+          "basis_source": "Ars Technica：AI",
+          "basis_url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_29d8c6006261",
+      "title": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+      "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+      "primary_url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+      "source": "ChinaTalk",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08a46ab49d451b39dafeedac65224a952a2acbca",
+          "title": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "title_zh": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "title_en": null,
+          "title_original": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T10:58:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ChinaTalk"
+      ],
+      "items": [
+        {
+          "id": "08a46ab49d451b39dafeedac65224a952a2acbca",
+          "title": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "title_zh": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "title_en": null,
+          "title_original": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+          "source": "ChinaTalk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T10:58:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T10:58:57Z",
+      "latest_at": "2026-11-24T10:58:57Z",
+      "primary_item": {
+        "id": "08a46ab49d451b39dafeedac65224a952a2acbca",
+        "title": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+        "title_zh": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+        "title_en": null,
+        "title_original": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+        "source": "ChinaTalk",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "analysis",
+      "claim_status_label": "分析观点",
+      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
+      "claim_status_reason": "matched_analysis_signal",
+      "is_opinion": true,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "opinion",
+      "verification_score": 37,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "ChinaTalk",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+          "title": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先",
+          "claim_type": "analysis",
+          "basis_source": "ChinaTalk",
+          "basis_url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_95be8f3370d2",
+      "title": "腾讯混元发布并开源Hy MT3",
+      "url": "https://www.aibase.com/news/32503",
+      "primary_url": "https://www.aibase.com/news/32503",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "title_en": null,
+          "title_original": "腾讯混元发布并开源Hy MT3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T17:39:57.109987Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "title_en": null,
+          "title_original": "腾讯混元发布并开源Hy MT3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T17:39:57.109987Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T17:39:57.109987Z",
+      "latest_at": "2026-11-24T17:39:57.109987Z",
+      "primary_item": {
+        "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+        "title": "腾讯混元发布并开源Hy MT3",
+        "title_zh": "腾讯混元发布并开源Hy MT3",
+        "title_en": null,
+        "title_original": "腾讯混元发布并开源Hy MT3",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32503",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32503",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "腾讯混元发布并开源Hy MT3",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32503",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_c4c2ceef94f4",
+      "title": "Issue statuses and repository boards are in public preview",
+      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+          "title": "Issue statuses and repository boards are in public preview",
+          "title_zh": null,
+          "title_en": "Issue statuses and repository boards are in public preview",
+          "title_original": "Issue statuses and repository boards are in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T20:37:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+          "title": "Issue statuses and repository boards are in public preview",
+          "title_zh": null,
+          "title_en": "Issue statuses and repository boards are in public preview",
+          "title_original": "Issue statuses and repository boards are in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-23T20:37:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7379,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T20:37:11Z",
+      "latest_at": "2026-11-23T20:37:11Z",
+      "primary_item": {
+        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
+        "title": "Issue statuses and repository boards are in public preview",
+        "title_zh": null,
+        "title_en": "Issue statuses and repository boards are in public preview",
+        "title_original": "Issue statuses and repository boards are in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "title": "Issue statuses and repository boards are in public preview",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Issue statuses and repository boards are in public preview",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_d9efc3976825",
       "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
       "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
@@ -882,15 +1527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,69 +1602,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_be17d06c51ba",
-      "title": "Secret scanning reduces false positives for Slack",
-      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "source": "GitHub Changelog",
+      "story_id": "story_f0c49f3f943b",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "Secret scanning reduces false positives for Slack",
+          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
+          "title": "A more tailored Google Search that’s uniquely yours",
           "title_zh": null,
-          "title_en": "Secret scanning reduces false positives for Slack",
-          "title_original": "Secret scanning reduces false positives for Slack",
+          "title_en": "A more tailored Google Search that’s uniquely yours",
+          "title_original": "A more tailored Google Search that’s uniquely yours",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-23T18:32:59Z",
+          "published_at": "2026-11-23T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "Secret scanning reduces false positives for Slack",
+          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
+          "title": "A more tailored Google Search that’s uniquely yours",
           "title_zh": null,
-          "title_en": "Secret scanning reduces false positives for Slack",
-          "title_original": "Secret scanning reduces false positives for Slack",
+          "title_en": "A more tailored Google Search that’s uniquely yours",
+          "title_original": "A more tailored Google Search that’s uniquely yours",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-23T18:32:59Z",
+          "published_at": "2026-11-23T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8036,
+        "recency": 0.7003,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1028,18 +1673,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T18:32:59Z",
-      "latest_at": "2026-11-23T18:32:59Z",
+      "earliest_at": "2026-11-23T17:00:00Z",
+      "latest_at": "2026-11-23T17:00:00Z",
       "primary_item": {
-        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-        "title": "Secret scanning reduces false positives for Slack",
+        "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
+        "title": "A more tailored Google Search that’s uniquely yours",
         "title_zh": null,
-        "title_en": "Secret scanning reduces false positives for Slack",
-        "title_original": "Secret scanning reduces false positives for Slack",
+        "title_en": "A more tailored Google Search that’s uniquely yours",
+        "title_original": "A more tailored Google Search that’s uniquely yours",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-        "source": "GitHub Changelog",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
         "source_tier": "official",
@@ -1050,7 +1695,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "primary_source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -1058,10 +1703,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "GitHub Changelog",
+          "source": "Google AI Blog",
           "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "title": "Secret scanning reduces false positives for Slack",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+          "title": "A more tailored Google Search that’s uniquely yours",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1070,10 +1715,10 @@
       ],
       "key_claims": [
         {
-          "claim": "Secret scanning reduces false positives for Slack",
+          "claim": "A more tailored Google Search that’s uniquely yours",
           "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "basis_source": "Google AI Blog",
+          "basis_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -1140,15 +1785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.8475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,23 +1860,23 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_3ee0d2cfed08",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "primary_url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face Blog",
+      "story_id": "story_0a26a8f22801",
+      "title": "Codex app 26.1120",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-          "title": "How to build and maintain an agentic evaluation",
+          "id": "ecb05f4a4c40a5a2c96c483dabd41b88727ceb62",
+          "title": "Codex app 26.1120",
           "title_zh": null,
-          "title_en": "How to build and maintain an agentic evaluation",
-          "title_original": "How to build and maintain an agentic evaluation",
+          "title_en": "Codex app 26.1120",
+          "title_original": "Codex app 26.1120",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/agentic-evals",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
@@ -1244,19 +1889,19 @@
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-          "title": "How to build and maintain an agentic evaluation",
+          "id": "ecb05f4a4c40a5a2c96c483dabd41b88727ceb62",
+          "title": "Codex app 26.1120",
           "title_zh": null,
-          "title_en": "How to build and maintain an agentic evaluation",
-          "title_original": "How to build and maintain an agentic evaluation",
+          "title_en": "Codex app 26.1120",
+          "title_original": "Codex app 26.1120",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/agentic-evals",
-          "source": "Hugging Face Blog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
@@ -1269,15 +1914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.6147,
+        "ai_relevance": 0.98,
+        "recency": 0.5479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1289,15 +1934,15 @@
       "earliest_at": "2026-11-23T00:00:00Z",
       "latest_at": "2026-11-23T00:00:00Z",
       "primary_item": {
-        "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-        "title": "How to build and maintain an agentic evaluation",
+        "id": "ecb05f4a4c40a5a2c96c483dabd41b88727ceb62",
+        "title": "Codex app 26.1120",
         "title_zh": null,
-        "title_en": "How to build and maintain an agentic evaluation",
-        "title_original": "How to build and maintain an agentic evaluation",
+        "title_en": "Codex app 26.1120",
+        "title_original": "Codex app 26.1120",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/agentic-evals",
-        "source": "Hugging Face Blog",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
         "source_tier": "official",
@@ -1308,7 +1953,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/agentic-evals",
+      "primary_source_url": "https://developers.openai.com/codex/changelog",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -1316,10 +1961,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Hugging Face Blog",
+          "source": "OpenAI Codex Changelog",
           "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/agentic-evals",
-          "title": "How to build and maintain an agentic evaluation",
+          "url": "https://developers.openai.com/codex/changelog",
+          "title": "Codex app 26.1120",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1328,276 +1973,15 @@
       ],
       "key_claims": [
         {
-          "claim": "How to build and maintain an agentic evaluation",
+          "claim": "Codex app 26.1120",
           "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/agentic-evals",
+          "basis_source": "OpenAI Codex Changelog",
+          "basis_url": "https://developers.openai.com/codex/changelog",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_0bb8d1c5a29e",
-      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-      "url": "https://www.aibase.com/news/32500",
-      "primary_url": "https://www.aibase.com/news/32500",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_en": null,
-          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T09:41:36.628292Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_en": null,
-          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T09:41:36.628292Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T09:41:36.628292Z",
-      "latest_at": "2026-11-24T09:41:36.628292Z",
-      "primary_item": {
-        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "title_en": null,
-        "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32500",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32500",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32500",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_81ea8035a2da",
-      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-      "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-      "primary_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-      "source": "公众号：MiniMax",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "title_en": null,
-          "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T02:11:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：MiniMax"
-      ],
-      "items": [
-        {
-          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "title_en": null,
-          "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T02:11:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8974,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T02:11:36Z",
-      "latest_at": "2026-11-24T02:11:36Z",
-      "primary_item": {
-        "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
-        "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-        "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-        "title_en": null,
-        "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-        "source": "公众号：MiniMax",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：MiniMax",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
-          "claim_type": "reported",
-          "basis_source": "公众号：MiniMax",
-          "basis_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1659,15 +2043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.69,
+        "recency": 0.615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1734,88 +2118,87 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_fa66de77d4b0",
-      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-      "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "primary_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-      "source": "ChinaTalk",
+      "story_id": "story_81ea8035a2da",
+      "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+      "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "primary_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+      "source": "公众号：MiniMax",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-          "title_zh": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+          "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "title_en": null,
-          "title_original": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
+          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+          "source": "公众号：MiniMax",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-24T01:41:25Z",
+          "published_at": "2026-11-24T02:11:36Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "ChinaTalk"
+        "公众号：MiniMax"
       ],
       "items": [
         {
-          "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-          "title_zh": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+          "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "title_en": null,
-          "title_original": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "source": "ChinaTalk",
+          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+          "source": "公众号：MiniMax",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-24T01:41:25Z",
+          "published_at": "2026-11-24T02:11:36Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7998,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T01:41:25Z",
-      "latest_at": "2026-11-24T01:41:25Z",
+      "earliest_at": "2026-11-24T02:11:36Z",
+      "latest_at": "2026-11-24T02:11:36Z",
       "primary_item": {
-        "id": "b91e28e62d90a1962519b4ee38167faf771e196c",
-        "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
-        "title_zh": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+        "id": "5fedca57db7cbec626bec133d83e1bb55f3c5a58",
+        "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+        "title_zh": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
         "title_en": null,
-        "title_original": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+        "title_original": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-        "source": "ChinaTalk",
+        "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+        "source": "公众号：MiniMax",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -1834,10 +2217,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "ChinaTalk",
+          "source": "公众号：MiniMax",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
-          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -1846,15 +2229,146 @@
       ],
       "key_claims": [
         {
-          "claim": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "claim": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
           "claim_type": "reported",
-          "basis_source": "ChinaTalk",
-          "basis_url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+          "basis_source": "公众号：MiniMax",
+          "basis_url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_656389592857",
+      "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+      "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+      "primary_url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+      "source": "OpenClaw：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3714371190a7b6d78e4a3a791b576c717f92d67f",
+          "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "title_zh": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "title_en": null,
+          "title_original": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+          "source": "OpenClaw：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenClaw：Blog"
+      ],
+      "items": [
+        {
+          "id": "3714371190a7b6d78e4a3a791b576c717f92d67f",
+          "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "title_zh": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "title_en": null,
+          "title_original": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+          "source": "OpenClaw：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-24T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7748,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
+      "primary_item": {
+        "id": "3714371190a7b6d78e4a3a791b576c717f92d67f",
+        "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+        "title_zh": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+        "title_en": null,
+        "title_original": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+        "source": "OpenClaw：Blog",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenClaw：Blog",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+          "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "claim_type": "reported",
+          "basis_source": "OpenClaw：Blog",
+          "basis_url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -1917,21 +2431,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8318,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-23T20:56:12Z",
       "latest_at": "2026-11-23T20:56:12Z",
@@ -2047,21 +2560,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.7409,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-23T20:54:00Z",
       "latest_at": "2026-11-23T20:54:00Z",
@@ -2109,520 +2621,6 @@
           "claim_type": "reported",
           "basis_source": "Figma AI / Agent / Make",
           "basis_url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_584f8e00a76a",
-      "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-      "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-      "primary_url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-      "source": "The Verge：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "title_zh": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "title_en": null,
-          "title_original": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T18:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI"
-      ],
-      "items": [
-        {
-          "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "title_zh": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "title_en": null,
-          "title_original": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T18:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8024,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T18:26:47Z",
-      "latest_at": "2026-11-23T18:26:47Z",
-      "primary_item": {
-        "id": "d45a51b15646f72dfb77165f9f2cfa7174133818",
-        "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-        "title_zh": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-        "title_en": null,
-        "title_original": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-        "source": "The Verge：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "The Verge：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "claim_type": "reported",
-          "basis_source": "The Verge：AI",
-          "basis_url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_51f1a2b40eb0",
-      "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-      "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-      "primary_url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-      "source": "Google DeepMind：Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "title_zh": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "title_en": null,
-          "title_original": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T16:59:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog"
-      ],
-      "items": [
-        {
-          "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "title_zh": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "title_en": null,
-          "title_original": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "source": "Google DeepMind：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T16:59:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T16:59:40Z",
-      "latest_at": "2026-11-23T16:59:40Z",
-      "primary_item": {
-        "id": "4ea8910cd1a2077c485be3249464d1c7d1ae30df",
-        "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-        "title_zh": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-        "title_en": null,
-        "title_original": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-        "source": "Google DeepMind：Blog",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google DeepMind：Blog",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "claim_type": "reported",
-          "basis_source": "Google DeepMind：Blog",
-          "basis_url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_deaf92ceabd1",
-      "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-      "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-      "primary_url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-      "source": "Google Blog：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "title_zh": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "title_en": null,
-          "title_original": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI"
-      ],
-      "items": [
-        {
-          "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "title_zh": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "title_en": null,
-          "title_original": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "source": "Google Blog：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7858,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T17:00:00Z",
-      "latest_at": "2026-11-23T17:00:00Z",
-      "primary_item": {
-        "id": "1f3221cd21c41734197caec6558e40df0d24f1c0",
-        "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-        "title_zh": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-        "title_en": null,
-        "title_original": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-        "source": "Google Blog：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google Blog：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "claim_type": "reported",
-          "basis_source": "Google Blog：AI",
-          "basis_url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_3eca82a1a560",
-      "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-      "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "primary_url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-      "source": "a16z：News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "title_zh": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "title_en": null,
-          "title_original": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T15:04:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News"
-      ],
-      "items": [
-        {
-          "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "title_zh": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "title_en": null,
-          "title_original": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-23T15:04:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7642,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T15:04:27Z",
-      "latest_at": "2026-11-23T15:04:27Z",
-      "primary_item": {
-        "id": "53831b9f3ad4638d07c08844b031d724c1c518d0",
-        "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-        "title_zh": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-        "title_en": null,
-        "title_original": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-        "source": "a16z：News",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "a16z：News",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "claim_type": "reported",
-          "basis_source": "a16z：News",
-          "basis_url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }

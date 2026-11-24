@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:43:02.567318+00:00",
+  "generated_at": "2026-11-24T17:42:05.456901+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Hao Tang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 104,
+        "upvotes": 170,
         "comments": 2,
-        "discussion_score": 1044.93,
+        "discussion_score": 1704.92,
         "summary": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resum…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.29897",
@@ -414,7 +414,7 @@
         "published_at": "2026-11-20T00:00:00+00:00",
         "upvotes": 94,
         "comments": 3,
-        "discussion_score": 946.79,
+        "discussion_score": 946.77,
         "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
         "keywords": [
           "Manifold-constrained Hyper-Connections",
@@ -445,9 +445,9 @@
           "Yihang Luo"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 69,
+        "upvotes": 89,
         "comments": 1,
-        "discussion_score": 692.93,
+        "discussion_score": 892.92,
         "summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
         "keywords": [
           "frontier multimodal models",
@@ -465,6 +465,32 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.30989",
+        "title": "WorldLeague: Benchmarking Physical Agency",
+        "authors": [
+          "Xinyang Zhou",
+          "Qi Li",
+          "Xinchao Wang"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 69,
+        "comments": 1,
+        "discussion_score": 692.92,
+        "summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
+        "keywords": [
+          "vision-language models",
+          "vision-language-action models",
+          "world-action models",
+          "embodied AI",
+          "physical AI",
+          "agentic AI"
+        ],
+        "url": "https://arxiv.org/abs/2611.30989",
+        "arxiv_url": "https://arxiv.org/abs/2611.30989",
+        "discussion_url": "https://huggingface.co/papers/2611.30989",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.27963",
         "title": "Non-penetrating World Models",
         "authors": [
@@ -475,9 +501,9 @@
           "Xingyi Yang"
         ],
         "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 56,
+        "upvotes": 60,
         "comments": 3,
-        "discussion_score": 566.79,
+        "discussion_score": 606.77,
         "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
         "keywords": [
           "interactive video world models",
@@ -508,9 +534,9 @@
           "Junbo Niu"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 43,
+        "upvotes": 56,
         "comments": 2,
-        "discussion_score": 434.93,
+        "discussion_score": 564.92,
         "summary": "A new benchmark evaluates rigging and motion generation across six 3D morphology categories, compares specialized, video-based, and agent-driven paradigms, and proposes an agentic framework that writes compact parametric skeleton and motion programs executed deterministically for reliable control.",
         "keywords": [
           "large language models",
@@ -525,6 +551,69 @@
         "url": "https://arxiv.org/abs/2611.30013",
         "arxiv_url": "https://arxiv.org/abs/2611.30013",
         "discussion_url": "https://huggingface.co/papers/2611.30013",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.30662",
+        "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+        "authors": [
+          "Binhui Xie",
+          "Jinmin Li",
+          "Haomiao Tang",
+          "Guangting Wang",
+          "Song Jin",
+          "Jianwei Zhu",
+          "Fengyun Rao",
+          "Jing Lyu"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 54,
+        "comments": 1,
+        "discussion_score": 542.92,
+        "summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
+        "keywords": [
+          "multimodal large language models",
+          "dense model",
+          "mixture-of-experts model",
+          "active parameters",
+          "continued pre-training",
+          "multimodal data mixture",
+          "hybrid-thinking post-training",
+          "on-policy distillation"
+        ],
+        "url": "https://arxiv.org/abs/2611.30662",
+        "arxiv_url": "https://arxiv.org/abs/2611.30662",
+        "discussion_url": "https://huggingface.co/papers/2611.30662",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.12164",
+        "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+        "authors": [
+          "Khalil Hennara",
+          "Muhammad Hreden",
+          "Zeina Aldallal",
+          "Sara Chrouf",
+          "Safwan AlModhayan"
+        ],
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "upvotes": 50,
+        "comments": 3,
+        "discussion_score": 506.25,
+        "summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
+        "keywords": [
+          "Fixer-Guided Localization (FGL)",
+          "code localizer",
+          "frozen fixer",
+          "weighted supervised fine-tuning",
+          "reinforcement learning",
+          "Gemma 4 E4B",
+          "Kimi K3 trajectories",
+          "coding agents"
+        ],
+        "url": "https://arxiv.org/abs/2611.12164",
+        "arxiv_url": "https://arxiv.org/abs/2611.12164",
+        "discussion_url": "https://huggingface.co/papers/2611.12164",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -543,7 +632,7 @@
         "published_at": "2026-11-20T00:00:00+00:00",
         "upvotes": 43,
         "comments": 2,
-        "discussion_score": 434.79,
+        "discussion_score": 434.77,
         "summary": "Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.",
         "keywords": [
           "video foresight reasoning",
@@ -561,103 +650,36 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.30662",
-        "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+        "id": "2611.29338",
+        "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
         "authors": [
-          "Binhui Xie",
-          "Jinmin Li",
-          "Haomiao Tang",
-          "Guangting Wang",
-          "Song Jin",
-          "Jianwei Zhu",
-          "Fengyun Rao",
-          "Jing Lyu"
+          "Meng-Hao Guo",
+          "Yi Zhang",
+          "Zhe-Han Mo",
+          "Han-Zheng Wang",
+          "Jia-Jun Wang",
+          "Xin-Sheng Chen",
+          "Jiaxi Song",
+          "Yi-Xuan Deng"
         ],
-        "published_at": "2026-11-23T00:00:00+00:00",
+        "published_at": "2026-11-22T00:00:00+00:00",
         "upvotes": 43,
         "comments": 1,
-        "discussion_score": 432.93,
-        "summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
+        "discussion_score": 432.87,
+        "summary": "nanoAstra combines semantic action modeling with capability-preserving supervised fine-tuning to train vision-language models for generalizable robot manipulation, achieving strong zero-shot success and faster streaming execution.",
         "keywords": [
-          "multimodal large language models",
-          "dense model",
-          "mixture-of-experts model",
-          "active parameters",
-          "continued pre-training",
-          "multimodal data mixture",
-          "hybrid-thinking post-training",
-          "on-policy distillation"
+          "vision-language models",
+          "VLMs",
+          "generalizable manipulation",
+          "semantic action modeling",
+          "capability-preserving supervised fine-tuning",
+          "CP-SFT",
+          "semantic steps",
+          "parameterized action primitives"
         ],
-        "url": "https://arxiv.org/abs/2611.30662",
-        "arxiv_url": "https://arxiv.org/abs/2611.30662",
-        "discussion_url": "https://huggingface.co/papers/2611.30662",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.24636",
-        "title": "Clover-35B-A3B-Preview Technical Report",
-        "authors": [
-          "DiffuSpace Technical Team"
-        ],
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 40,
-        "comments": 4,
-        "discussion_score": 408.7,
-        "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-i…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.24636",
-        "arxiv_url": "https://arxiv.org/abs/2611.24636",
-        "discussion_url": "https://huggingface.co/papers/2611.24636",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.26590",
-        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
-        "authors": [
-          "Jiahao Huang",
-          "Jun Wang"
-        ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 36,
-        "comments": 2,
-        "discussion_score": 364.74,
-        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.26590",
-        "arxiv_url": "https://arxiv.org/abs/2611.26590",
-        "discussion_url": "https://huggingface.co/papers/2611.26590",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.26389",
-        "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
-        "authors": [
-          "Kaiwen Zhang",
-          "Yiming Gao",
-          "Zeqi Xiao",
-          "Xintao Wang",
-          "Pengfei Wan",
-          "Kun Gai",
-          "Xingang Pan"
-        ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 31,
-        "comments": 1,
-        "discussion_score": 312.74,
-        "summary": "ViDecide trains video diffusion models to make causal state-transition and stopping decisions, using Corrective Fine-tuning to improve multi-step planning success without policy gradients.",
-        "keywords": [
-          "video generation models",
-          "video diffusion models",
-          "diffusion RL",
-          "decision-centric framework",
-          "state transitions",
-          "decision-focused training schedule",
-          "Corrective Fine-tuning",
-          "policy-gradient optimization"
-        ],
-        "url": "https://arxiv.org/abs/2611.26389",
-        "arxiv_url": "https://arxiv.org/abs/2611.26389",
-        "discussion_url": "https://huggingface.co/papers/2611.26389",
+        "url": "https://arxiv.org/abs/2611.29338",
+        "arxiv_url": "https://arxiv.org/abs/2611.29338",
+        "discussion_url": "https://huggingface.co/papers/2611.29338",
         "source": "Hugging Face Daily Papers"
       }
     ]
