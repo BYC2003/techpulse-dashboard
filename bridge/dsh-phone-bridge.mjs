@@ -33,8 +33,7 @@ const AUTH_PREFIX = 'dsh-auth-';
 const DSH_MANIFEST_MARK = '"short_name": "DSH"';
 
 let upstreamPort = Number(process.env.DSH_PORT ?? 0) || null;
-let cookieName = null;
-let cookieValue = null;
+let session = null;
 
 const log = (...args) => console.log(new Date().toISOString(), ...args);
 
@@ -136,7 +135,7 @@ async function proxy(req, res) {
       'access-control-allow-origin': '*',
       'cache-control': 'no-store',
     });
-    res.end(JSON.stringify({ ok: online, port: port ?? null, cookie: cookieName !== null }));
+    res.end(JSON.stringify({ ok: online, port: port ?? null, cookie: session !== null && session.port === port }));
     return;
   }
 
@@ -146,19 +145,18 @@ async function proxy(req, res) {
     res.end('DSH is not running, or its web server is not listening yet.');
     return;
   }
-  if (cookieName === null) {
+  if (session === null || session.port !== port) {
     const authority = `127.0.0.1:${String(port)}`;
     const minted = mintSessionCookie(readSigningSecret(), authority);
-    cookieName = minted.name;
-    cookieValue = minted.value;
+    session = { port, name: minted.name, value: minted.value };
     log('minted browser-session cookie for', authority);
   }
-  const hasCookie = typeof req.headers.cookie === 'string' && req.headers.cookie.includes(`${cookieName}=`);
+  const hasCookie = typeof req.headers.cookie === 'string' && req.headers.cookie.includes(`${session.name}=`);
   const headers = rewriteHeaders(req.headers, port);
   if (!hasCookie) {
     headers.cookie = req.headers.cookie === undefined
-      ? `${cookieName}=${cookieValue}`
-      : `${req.headers.cookie}; ${cookieName}=${cookieValue}`;
+      ? `${session.name}=${session.value}`
+      : `${req.headers.cookie}; ${session.name}=${session.value}`;
   }
 
   const upstream = http.request({
@@ -170,7 +168,7 @@ async function proxy(req, res) {
   }, (response) => {
     const headers = { ...response.headers };
     delete headers['set-cookie'];
-    if (!hasCookie) headers['set-cookie'] = [`${cookieName}=${cookieValue}; Max-Age=${COOKIE_DAYS * 86400}; Path=/; Expires=${new Date(Date.now() + COOKIE_DAYS * 86400000).toUTCString()}; HttpOnly; SameSite=Strict`];
+    if (!hasCookie) headers['set-cookie'] = [`${session.name}=${session.value}; Max-Age=${COOKIE_DAYS * 86400}; Path=/; Expires=${new Date(Date.now() + COOKIE_DAYS * 86400000).toUTCString()}; HttpOnly; SameSite=Strict`];
     res.writeHead(response.statusCode ?? 502, headers);
     response.pipe(res);
   });
@@ -197,16 +195,15 @@ server.on('upgrade', (req, socket, head) => {
       socket.end('HTTP/1.1 503 Service Unavailable\r\n\r\n');
       return;
     }
-    if (cookieName === null) {
+    if (session === null || session.port !== port) {
       const minted = mintSessionCookie(readSigningSecret(), `127.0.0.1:${String(port)}`);
-      cookieName = minted.name;
-      cookieValue = minted.value;
+      session = { port, name: minted.name, value: minted.value };
     }
     const headers = rewriteHeaders(req.headers, port);
-    if (typeof req.headers.cookie !== 'string' || !req.headers.cookie.includes(`${cookieName}=`)) {
+    if (typeof req.headers.cookie !== 'string' || !req.headers.cookie.includes(`${session.name}=`)) {
       headers.cookie = req.headers.cookie === undefined
-        ? `${cookieName}=${cookieValue}`
-        : `${req.headers.cookie}; ${cookieName}=${cookieValue}`;
+        ? `${session.name}=${session.value}`
+        : `${req.headers.cookie}; ${session.name}=${session.value}`;
     }
     const lines = [`GET ${req.url} HTTP/1.1`];
     for (const [key, value] of Object.entries(headers)) {
