@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 23 Nov 2026 23:59:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 05:59:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>OpenAI and Cisco introduce Shirudo</title>
+<link>https://openai.com/index/introducing-shirudo</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.172.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>RoboTrack：现实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
@@ -14,14 +30,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI and Cisco introduce Shirudo</title>
-<link>https://openai.com/index/introducing-shirudo</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
 </item>
 <item>
 <title>问题状态和代码仓库板处于公共预览状态 / Issue statuses and repository boards are in public preview</title>
@@ -64,6 +72,22 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
+<link>https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</link>
+<guid isPermaLink="true">https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8</guid>
+<description>公众号：MiniMax</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
+</item>
+<item>
+<title>ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单</title>
+<link>https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</link>
+<guid isPermaLink="true">https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z</guid>
+<description>ChinaTalk</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 01:41:25 +0000</pubDate>
+</item>
+<item>
 <title>Connected intelligence for in-house legal</title>
 <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
 <guid isPermaLink="true">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
@@ -78,6 +102,14 @@
 <description>Tibo</description>
 <category>行业动态</category>
 <pubDate>Mon, 23 Nov 2026 22:48:30 +0000</pubDate>
+</item>
+<item>
+<title>AI 连代码合入权都接走了：Anthropic 上线 Claude Ship</title>
+<link>https://www.aibase.com/news/32485</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32485</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 05:59:23 +0000</pubDate>
 </item>
 <item>
 <title>Claude 推出插件，统一连接器与技能的接入方式</title>
@@ -120,14 +152,6 @@
 <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法</title>
-<link>https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</link>
-<guid isPermaLink="true">https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</guid>
-<description>a16z：News</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 15:04:27 +0000</pubDate>
-</item>
-<item>
 <title>Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据</title>
 <link>https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn</link>
 <guid isPermaLink="true">https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn</guid>
@@ -136,36 +160,12 @@
 <pubDate>Mon, 23 Nov 2026 15:04:01 +0000</pubDate>
 </item>
 <item>
-<title>代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats</title>
-<link>https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 15:28:36 +0000</pubDate>
-</item>
-<item>
-<title>Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例</title>
-<link>https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff</link>
-<guid isPermaLink="true">https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff</guid>
-<description>Wiz：Research</description>
+<title>a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法</title>
+<link>https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</link>
+<guid isPermaLink="true">https://aihot.news/items/qkxvs90ewfu3k430sdefndv56</guid>
+<description>a16z：News</description>
 <category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 14:46:19 +0000</pubDate>
-</item>
-<item>
-<title>ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散</title>
-<link>https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7</link>
-<guid isPermaLink="true">https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7</guid>
-<description>404 Media</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 14:16:47 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会</title>
-<link>https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l</link>
-<guid isPermaLink="true">https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l</guid>
-<description>X.PIN</description>
-<category>行业动态</category>
-<pubDate>Mon, 23 Nov 2026 14:04:30 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 15:04:27 +0000</pubDate>
 </item>
 </channel>
 </rss>

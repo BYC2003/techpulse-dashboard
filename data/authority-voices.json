@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-24T00:00:48.481284+00:00",
+  "generated_at": "2026-11-24T06:04:26.826852+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
   "item_count": 24,
-  "ok_source_count": 10,
+  "ok_source_count": 9,
   "source_count": 10,
   "sources": [
     {
@@ -49,11 +49,10 @@
       "url": "https://www.microsoft.com/en-us/research/feed/",
       "kind": "research",
       "trust": "research",
-      "ok": true,
-      "items_scanned": 10,
-      "items_kept": 4,
-      "error": "",
-      "latest_at": "2026-11-17T16:52:17+00:00"
+      "ok": false,
+      "items_scanned": 0,
+      "items_kept": 0,
+      "error": "feed request failed: HTTPSConnectionPool(host='www.microsoft.com', port=443): Read timed out. (read timeout=30)"
     },
     {
       "id": "mit_ai",
@@ -280,36 +279,6 @@
       "is_opinion": true
     },
     {
-      "id": "addd2ad9b3104856",
-      "title": "Can AI help build a healthier future?",
-      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier…",
-      "published_at": "2026-11-17T16:52:17+00:00",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "interview",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
-      "id": "9fae1493f0a4fd7a",
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The pos…",
-      "published_at": "2026-11-16T17:01:35+00:00",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
-    },
-    {
       "id": "7445935c570e03bd",
       "title": "Broadening access to AI for scientists",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -355,21 +324,6 @@
       "is_opinion": true
     },
     {
-      "id": "d7df43c6b0af893e",
-      "title": "Microsoft Research Focus – Edition #98",
-      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient.",
-      "published_at": "2026-11-12T21:31:57+00:00",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "interview",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
       "id": "d2315804aef8ce21",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -383,21 +337,6 @@
       "trust_label": "官方实验室",
       "verification": "机构官方发布，以原文为准",
       "is_opinion": true
-    },
-    {
-      "id": "3ba7283ebd446743",
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could…",
-      "published_at": "2026-11-10T20:52:56+00:00",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
     },
     {
       "id": "e529edff70c7f0ca",
@@ -488,6 +427,66 @@
       "trust_label": "会议官方",
       "verification": "会议官方页面，具体安排以原文为准",
       "is_opinion": false
+    },
+    {
+      "id": "1afb4f7d248a1065",
+      "title": "NeurIPS 2026 Invited Speaker Topics",
+      "url": "https://blog.neurips.cc/2026/10/25/neurips-2026-invited-speaker-topics/",
+      "summary": "The NeurIPS 2026 organizing committee is excited to share details about the upcoming invited talks at this year’s conference. New this year,&#160; the conference is held in three locations, each with its own speakers. Our distinguished lineup includes six speakers for the main Sydney location, four speakers for Paris…",
+      "published_at": "2026-10-25T22:31:57+00:00",
+      "source_id": "neurips_blog",
+      "source_name": "NeurIPS Blog",
+      "source_kind": "conference",
+      "category": "conference",
+      "trust": "official",
+      "trust_label": "会议官方",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
+    },
+    {
+      "id": "1cd8ca1cb0a7a2d0",
+      "title": "Australasian AI Research Gatherings: Connecting NeurIPS 2026 with the AJCAI 2026 and ACML 2026",
+      "url": "https://blog.neurips.cc/2026/10/21/australasian-ai-research-gatherings-connecting-neurips-2026-with-the-ajcai-2026-and-acml-2026/",
+      "summary": "As we prepare to welcome the global AI and machine learning community to NeurIPS 2026 in Sydney, Australia (December 6–12), we are excited about the opportunity to strengthen connections with researchers across Australia, New Zealand, and the broader Asia-Pacific region. Research communities thrive through collaborati…",
+      "published_at": "2026-10-22T06:55:22+00:00",
+      "source_id": "neurips_blog",
+      "source_name": "NeurIPS Blog",
+      "source_kind": "conference",
+      "category": "conference",
+      "trust": "official",
+      "trust_label": "会议官方",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
+    },
+    {
+      "id": "c022cd8e3f9b7139",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "published_at": "2026-10-15T16:08:03+00:00",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "source_kind": "lab",
+      "category": "viewpoint",
+      "trust": "official",
+      "trust_label": "官方实验室",
+      "verification": "机构官方发布，以原文为准",
+      "is_opinion": true
+    },
+    {
+      "id": "a14d7708b28f29c5",
+      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "summary": "&#8220;We never want to be in a situation again where we underestimate the AI.&#8221;",
+      "published_at": "2026-09-17T15:38:13+00:00",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Podcast",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
     }
   ]
 }

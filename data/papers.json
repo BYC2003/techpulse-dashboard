@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:00:53.736022+00:00",
+  "generated_at": "2026-11-24T06:06:04.118699+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Kaidong Yu"
         ],
         "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 88,
-        "comments": 2,
-        "discussion_score": 884.81,
+        "upvotes": 94,
+        "comments": 3,
+        "discussion_score": 946.8,
         "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
         "keywords": [
           "Manifold-constrained Hyper-Connections",
@@ -423,7 +423,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 57,
         "comments": 4,
-        "discussion_score": 578.76,
+        "discussion_score": 578.75,
         "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
         "keywords": [
           "embodied intelligence",
@@ -453,9 +453,9 @@
           "Ying Tai"
         ],
         "published_at": "2026-11-16T00:00:00+00:00",
-        "upvotes": 55,
+        "upvotes": 56,
         "comments": 3,
-        "discussion_score": 556.62,
+        "discussion_score": 566.61,
         "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
         "keywords": [
           "video generation",
@@ -483,9 +483,9 @@
           "Xingyi Yang"
         ],
         "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 54,
-        "comments": 2,
-        "discussion_score": 544.81,
+        "upvotes": 55,
+        "comments": 3,
+        "discussion_score": 556.8,
         "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
         "keywords": [
           "interactive video world models",
@@ -516,9 +516,9 @@
           "Li Li"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 49,
+        "upvotes": 50,
         "comments": 3,
-        "discussion_score": 496.76,
+        "discussion_score": 506.75,
         "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
         "keywords": [
           "omni-modal foundation models",
@@ -545,9 +545,9 @@
           "Pinar Yanardag"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 43,
+        "upvotes": 44,
         "comments": 4,
-        "discussion_score": 438.76,
+        "discussion_score": 448.75,
         "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
         "keywords": [
           "diffusion distillation",
@@ -565,6 +565,39 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.26954",
+        "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+        "authors": [
+          "Jingchen Sun",
+          "Jiaxing Zhang",
+          "Qingqiao Hu",
+          "Dingqiang Ye",
+          "Yuqi Jia",
+          "Yijun Liang",
+          "Di Fu",
+          "Yunjie Tian"
+        ],
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "upvotes": 42,
+        "comments": 2,
+        "discussion_score": 424.8,
+        "summary": "Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.",
+        "keywords": [
+          "video foresight reasoning",
+          "vision-language models",
+          "on-policy self-distillation",
+          "self-supervised signal",
+          "LLM supervision",
+          "foresight score",
+          "contrastive privilege advantage",
+          "tractable lower-bound surrogate"
+        ],
+        "url": "https://arxiv.org/abs/2611.26954",
+        "arxiv_url": "https://arxiv.org/abs/2611.26954",
+        "discussion_url": "https://huggingface.co/papers/2611.26954",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.26595",
         "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
         "authors": [
@@ -578,9 +611,9 @@
           "Xiaohan Zhang"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 39,
+        "upvotes": 40,
         "comments": 4,
-        "discussion_score": 398.76,
+        "discussion_score": 408.75,
         "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
         "keywords": [
           "3D proxies",
@@ -595,6 +628,23 @@
         "url": "https://arxiv.org/abs/2611.26595",
         "arxiv_url": "https://arxiv.org/abs/2611.26595",
         "discussion_url": "https://huggingface.co/papers/2611.26595",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.24636",
+        "title": "Clover-35B-A3B-Preview Technical Report",
+        "authors": [
+          "DiffuSpace Technical Team"
+        ],
+        "published_at": "2026-11-18T00:00:00+00:00",
+        "upvotes": 37,
+        "comments": 4,
+        "discussion_score": 378.7,
+        "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-i…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.24636",
+        "arxiv_url": "https://arxiv.org/abs/2611.24636",
+        "discussion_url": "https://huggingface.co/papers/2611.24636",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -613,7 +663,7 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "upvotes": 37,
         "comments": 3,
-        "discussion_score": 376.76,
+        "discussion_score": 376.75,
         "summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
         "keywords": [
           "dense metric depth",
@@ -628,41 +678,6 @@
         "url": "https://arxiv.org/abs/2611.26603",
         "arxiv_url": "https://arxiv.org/abs/2611.26603",
         "discussion_url": "https://huggingface.co/papers/2611.26603",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.24636",
-        "title": "Clover-35B-A3B-Preview Technical Report",
-        "authors": [
-          "DiffuSpace Technical Team"
-        ],
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "upvotes": 36,
-        "comments": 3,
-        "discussion_score": 366.71,
-        "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-i…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.24636",
-        "arxiv_url": "https://arxiv.org/abs/2611.24636",
-        "discussion_url": "https://huggingface.co/papers/2611.24636",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.26590",
-        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
-        "authors": [
-          "Jiahao Huang",
-          "Jun Wang"
-        ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 36,
-        "comments": 2,
-        "discussion_score": 364.76,
-        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.26590",
-        "arxiv_url": "https://arxiv.org/abs/2611.26590",
-        "discussion_url": "https://huggingface.co/papers/2611.26590",
         "source": "Hugging Face Daily Papers"
       }
     ]
