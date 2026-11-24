@@ -80,6 +80,19 @@
       <p><strong>稳定性：</strong>静态网站 + GitHub Pages，没有数据库；单个来源失败不会让整个页面失效，底部可以查看来源健康状态。</p>
     </section>
 
+    <section id="dsh">
+      <h2>6. 手机看 DSH 进度（Tailscale，可选）</h2>
+      <p>首页多了一张「DSH 进度」卡片：点开就是电脑上 DeepSeek Harness 的完整界面，实时看进度、改文件、审批命令。它<strong>不走公网</strong>，只在你自己的 Tailscale 私有网络里可达。</p>
+      <ol>
+        <li><strong>电脑：</strong>安装 Tailscale 并登录（<a href="https://tailscale.com/download/windows" target="_blank" rel="noopener noreferrer">Windows 版</a>）。</li>
+        <li><strong>手机：</strong>安装 Tailscale App（Android / iOS），登录<strong>同一个账号</strong>，打开开关。</li>
+        <li><strong>电脑：</strong>运行 <code>bridge\install-bridge.ps1</code>，它会注册一个开机自启的本地桥接服务（只监听 127.0.0.1）。</li>
+        <li><strong>电脑：</strong>执行 <code>tailscale serve --bg 8787</code>，把桥接服务发布到 tailnet；同时记下 <code>tailscale status</code> 里本机的 <code>*.ts.net</code> 名字。</li>
+        <li><strong>手机：</strong>在 TechPulse 首页点「DSH 进度」卡片，填入 <code>https://你的机器名.xxxx.ts.net/</code>，保存即可。</li>
+      </ol>
+      <p class="note">卡片上的「在线 / 离线」来自桥接服务的健康检查。电脑关机、DSH 没启动或手机不在 tailnet 时都会显示离线。不要把 <code>8787</code> 端口做公网映射，也不要用 <code>tailscale funnel</code>：入口等于电脑的所有者权限。</p>
+    </section>
+
     <p style="text-align:center;color:#8b8780;font-size:11px;margin-top:24px;">TechPulse · 基于 AI News Radar 的 MIT 开源实现改造</p>
   </main>
 </body>

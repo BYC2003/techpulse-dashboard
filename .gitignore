@@ -43,3 +43,6 @@ data/top3-personas.json
 data/merge-log.json
 data/service-status.json
 data/paid-source-state.json
+
+# TechPulse: generated per-machine bridge launcher
+bridge/start-bridge.vbs

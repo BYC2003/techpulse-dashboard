@@ -60,6 +60,35 @@ arXiv cs.AI / cs.LG / cs.CL、Berkeley AI Research 等。
 
 详细说明见首页的“安装到手机”链接和 `setup.html`。
 
+## 手机看 DSH 进度（可选）
+
+首页新增「DSH 进度」卡片：点开就是电脑上 DeepSeek Harness（DSH）桌面版的完整网页界面，
+实时看进度、改文件、审批命令。入口只在你自己账号的 Tailscale 私有网络内可达，不经过公网。
+
+组成：
+
+- `bridge/dsh-phone-bridge.mjs`：只监听 `127.0.0.1` 的桥接，自动找 DSH 的随机端口，
+  并按 DSH 的格式签发 30 天会话 cookie，把 Host / Origin 改写回 loopback；
+- `bridge/install-bridge.ps1`：注册登录自启任务（隐藏窗口），并做一次健康检查；
+- `assets/dsh.js` + `assets/dsh-config.js`：首页卡片、地址保存（本机 localStorage）和在线状态。
+
+快速步骤：
+
+```powershell
+# 电脑：装 Tailscale 并登录后
+cd bridge
+powershell -ExecutionPolicy Bypass -File .\install-bridge.ps1
+tailscale serve --bg 8787
+tailscale status     # 记下 Self 行的 xxx.yyy.ts.net
+```
+
+手机：装 Tailscale App、登录同一账号、打开开关；在 TechPulse 首页点「DSH 进度」，
+填 `https://xxx.yyy.ts.net/` 保存。详细说明见 `bridge/README.md` 与 `setup.html#dsh`。
+
+安全边界：桥接只监听 loopback，对外只有 tailnet 地址；**不要**使用 `tailscale funnel`
+或端口映射。这个入口等价于电脑的 DSH 所有者权限，只让自己账号下的设备加入 tailnet。
+
+
 ## 更新时效
 
 - GitHub Actions 主任务每小时检查一次来源（UTC `17 * * * *`）。

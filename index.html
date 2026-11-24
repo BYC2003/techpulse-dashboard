@@ -15,7 +15,10 @@
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
     <link rel="stylesheet" href="./assets/home.css?v=mobile-1024a" />
+    <link rel="stylesheet" href="./assets/dsh.css?v=1" />
     <script src="./assets/home.js?v=sync-ai-20261115b" defer></script>
+    <script src="./assets/dsh-config.js?v=1" defer></script>
+    <script src="./assets/dsh.js?v=1" defer></script>
   </head>
   <body>
     <main class="overview-shell">
@@ -124,6 +127,15 @@
             <div class="index-card-meta"><strong id="overviewVoiceCount">--</strong><span>条近 90 天内容 · <b id="overviewVoiceSources">--</b> 个来源</span></div>
             <span class="index-card-link">进入观点库 <i aria-hidden="true">↗</i></span>
           </a>
+
+          <a class="overview-index-card card-dsh" id="overviewDshCard" data-dsh href="#" rel="noopener">
+            <span class="index-number">06</span>
+            <span class="index-kicker">LOCAL AGENT</span>
+            <h3>DSH 进度</h3>
+            <p>打开电脑上的 DeepSeek Harness 完整界面：实时进度、改文件、审批操作都能在手机上完成。只在 Tailscale 私有网络内可达。</p>
+            <div class="index-card-meta"><strong id="overviewDshState" data-tone="idle">未配置</strong><span>Tailscale 私有入口</span></div>
+            <span class="index-card-link">打开 DSH <i aria-hidden="true">↗</i></span>
+          </a>
         </div>
       </section>
 
@@ -169,6 +181,28 @@
         <div class="overview-sync-dialog-actions">
           <button class="overview-sync-clear" id="overviewSyncClear" type="button">清除本机 Token</button>
           <button class="overview-sync-save" type="submit">保存并同步</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog class="overview-sync-dialog" id="dshDialog" aria-labelledby="dshDialogTitle">
+      <form class="overview-sync-form" id="dshForm">
+        <div class="overview-sync-dialog-head">
+          <div>
+            <p class="overview-kicker">TAILSCALE ENTRY</p>
+            <h2 id="dshDialogTitle">设置 DSH 入口</h2>
+          </div>
+          <button class="overview-sync-dialog-close" id="dshClose" type="button" aria-label="关闭">×</button>
+        </div>
+        <p class="overview-sync-dialog-copy">填入电脑在 Tailscale 里的私有地址，例如 <code>https://my-pc.tailabc123.ts.net/</code>。地址只保存在这台设备的浏览器，不会写进公开代码。</p>
+        <label class="overview-sync-field">
+          <span>Tailscale 入口地址</span>
+          <input id="dshUrlInput" type="url" inputmode="url" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="https://my-pc.tailabc123.ts.net/" />
+        </label>
+        <p class="dsh-dialog-hint">手机要先加入同一个 tailnet（同一个 Tailscale 账号）。详细步骤见 <a href="setup.html#dsh">安装说明</a>。</p>
+        <div class="overview-sync-dialog-actions">
+          <button class="overview-sync-clear" id="dshClear" type="button">清除本机地址</button>
+          <button class="overview-sync-save" type="submit">保存</button>
         </div>
       </form>
     </dialog>

@@ -446,6 +446,7 @@ button {
 .card-douyin { --card-accent: #b55231; }
 .card-github { --card-accent: #2f6d5a; }
 .card-voices { --card-accent: #725675; }
+.card-dsh { --card-accent: #35506f; }
 
 .index-number {
   position: absolute;
