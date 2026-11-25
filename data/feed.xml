@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 20:23:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 02:24:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+<link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+<guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 23:32:43 +0000</pubDate>
+</item>
 <item>
 <title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
 <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
@@ -16,7 +24,7 @@
 <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
 </item>
 <item>
-<title>Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.</title>
+<title>How Gemini is changing the game for Golden State's organization and fans.</title>
 <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</guid>
 <description>Google AI Blog</description>
@@ -32,14 +40,6 @@
 <pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
 </item>
 <item>
-<title>Searching for distant planets with Astra</title>
-<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Codex CLI 0.172.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
@@ -48,12 +48,20 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI and Cisco introduce Shirudo</title>
-<link>https://openai.com/index/introducing-shirudo</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<title>Searching for distant planets with Astra</title>
+<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10</title>
+<link>https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z</link>
+<guid isPermaLink="true">https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
 <title>Finding faster quantum algorithms with agents and formal verification</title>
@@ -64,28 +72,12 @@
 <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
-<link>https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</link>
-<guid isPermaLink="true">https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</guid>
-<description>Greg Brockman</description>
+<title>Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问</title>
+<link>https://aihot.news/items/gat7lwf755dyryyd45gvlesxz</link>
+<guid isPermaLink="true">https://aihot.news/items/gat7lwf755dyryyd45gvlesxz</guid>
+<description>Anthropic</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元</title>
-<link>https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</link>
-<guid isPermaLink="true">https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
-</item>
-<item>
-<title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
-<link>https://aihot.news/items/nm8mi41auemid3iivue4tel3d</link>
-<guid isPermaLink="true">https://aihot.news/items/nm8mi41auemid3iivue4tel3d</guid>
-<description>Philipp Schmid</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 18:32:13 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 21:32:51 +0000</pubDate>
 </item>
 <item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
@@ -96,28 +88,60 @@
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
 </item>
 <item>
+<title>AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成</title>
+<link>https://www.aibase.com/news/32511</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32511</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 25 Nov 2026 02:24:42 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
+<link>https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</link>
+<guid isPermaLink="true">https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</guid>
+<description>Greg Brockman</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
+</item>
+<item>
+<title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
+<link>https://aihot.news/items/nm8mi41auemid3iivue4tel3d</link>
+<guid isPermaLink="true">https://aihot.news/items/nm8mi41auemid3iivue4tel3d</guid>
+<description>Philipp Schmid</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:32:13 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元</title>
+<link>https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</link>
+<guid isPermaLink="true">https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo</guid>
+<description>TechCrunch：AI</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
+</item>
+<item>
+<title>Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险</title>
+<link>https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r</link>
+<guid isPermaLink="true">https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r</guid>
+<description>Ed Zitron 长文 / Where’s Your Ed At</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:08:05 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力</title>
+<link>https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2</link>
+<guid isPermaLink="true">https://aihot.news/items/yg04c9d5qnwzitqstg19c6ow2</guid>
+<description>OpenAI：官网动态</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day</title>
 <link>https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x</link>
 <guid isPermaLink="true">https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x</guid>
 <description>Ars Technica：AI</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
-</item>
-<item>
-<title>ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先</title>
-<link>https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</link>
-<guid isPermaLink="true">https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</guid>
-<description>ChinaTalk</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 10:58:57 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元发布并开源Hy MT3</title>
-<link>https://www.aibase.com/news/32503</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 18:23:34 +0000</pubDate>
 </item>
 <item>
 <title>Issue statuses and repository boards are in public preview</title>
@@ -128,44 +152,20 @@
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统</title>
-<link>https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h</link>
-<guid isPermaLink="true">https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h</guid>
-<description>Tibo</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 08:15:44 +0000</pubDate>
-</item>
-<item>
-<title>A more tailored Google Search that’s uniquely yours</title>
-<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>卡兹克分享两个优化用户体验和产品动效的 Prompt</title>
-<link>https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0</link>
-<guid isPermaLink="true">https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0</guid>
-<description>卡兹克</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:12:14 +0000</pubDate>
-</item>
-<item>
-<title>Codex app 26.1120</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>How Intentful uses dots to make more time for growth</title>
-<link>https://openai.com/business/customer-stories/intentful-dots</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/intentful-dots</guid>
+<title>Clay helps sales teams win with Codex and ChatGPT</title>
+<link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先</title>
+<link>https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</link>
+<guid isPermaLink="true">https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2</guid>
+<description>ChinaTalk</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 10:58:57 +0000</pubDate>
 </item>
 </channel>
 </rss>
