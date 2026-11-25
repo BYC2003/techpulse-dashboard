@@ -93,15 +93,20 @@ async function detectDshPort() {
     log('netstat failed:', error.message);
   }
   candidates.delete(LISTEN_PORT);
-  for (const port of candidates) {
-    if (await probeDsh(port)) return port;
-  }
-  return null;
+  const ports = [...candidates];
+  const results = await Promise.all(ports.map(async (port) => ({ port, ok: await probeDsh(port, 300) })));
+  const hit = results.find((entry) => entry.ok);
+  return hit === undefined ? null : hit.port;
 }
+
+let detecting = null;
 
 async function ensureUpstream() {
   if (upstreamPort !== null && await probeDsh(upstreamPort)) return upstreamPort;
-  const detected = await detectDshPort();
+  if (detecting === null) {
+    detecting = detectDshPort().finally(() => { detecting = null; });
+  }
+  const detected = await detecting;
   if (detected !== null) {
     upstreamPort = detected;
     log('DSH web port:', detected);
@@ -109,6 +114,16 @@ async function ensureUpstream() {
     log('DSH web port not found; will retry on the next request');
   }
   return upstreamPort;
+}
+
+function ensureSession(port) {
+  if (session === null || session.port !== port) {
+    const authority = `127.0.0.1:${String(port)}`;
+    const minted = mintSessionCookie(readSigningSecret(), authority);
+    session = { port, name: minted.name, value: minted.value };
+    log('minted browser-session cookie for', authority);
+  }
+  return session;
 }
 
 function rewriteHeaders(headers, port) {
@@ -128,8 +143,11 @@ function rewriteHeaders(headers, port) {
 
 async function proxy(req, res) {
   if (req.url === '/__health') {
-    const port = await ensureUpstream();
-    const online = port !== null && await probeDsh(port);
+    const port = await Promise.race([
+      ensureUpstream(),
+      new Promise((resolve) => { setTimeout(() => resolve(null), 4000).unref(); }),
+    ]);
+    const online = port !== null && await probeDsh(port, 800);
     res.writeHead(200, {
       'content-type': 'application/json; charset=utf-8',
       'access-control-allow-origin': '*',
@@ -145,39 +163,39 @@ async function proxy(req, res) {
     res.end('DSH is not running, or its web server is not listening yet.');
     return;
   }
-  if (session === null || session.port !== port) {
-    const authority = `127.0.0.1:${String(port)}`;
-    const minted = mintSessionCookie(readSigningSecret(), authority);
-    session = { port, name: minted.name, value: minted.value };
-    log('minted browser-session cookie for', authority);
-  }
-  const hasCookie = typeof req.headers.cookie === 'string' && req.headers.cookie.includes(`${session.name}=`);
-  const headers = rewriteHeaders(req.headers, port);
-  if (!hasCookie) {
-    headers.cookie = req.headers.cookie === undefined
-      ? `${session.name}=${session.value}`
-      : `${req.headers.cookie}; ${session.name}=${session.value}`;
+  let current = ensureSession(port);
+  let hasCookie = typeof req.headers.cookie === 'string' && req.headers.cookie.includes(`${current.name}=`);
+  const buildHeaders = () => {
+    const next = rewriteHeaders(req.headers, port);
+    if (!hasCookie) {
+      next.cookie = req.headers.cookie === undefined
+        ? `${current.name}=${current.value}`
+        : `${req.headers.cookie}; ${current.name}=${current.value}`;
+    }
+    return next;
+  };
+  const send = (headers) => new Promise((resolve, reject) => {
+    const upstream = http.request({ host: LISTEN_HOST, port, method: req.method, path: req.url, headers }, resolve);
+    upstream.on('error', reject);
+    req.pipe(upstream);
+  });
+
+  let response = await send(buildHeaders());
+  if (response.statusCode === 401 && !hasCookie && (req.method === 'GET' || req.method === 'HEAD')) {
+    response.resume();
+    log('upstream rejected the minted cookie; re-minting once');
+    session = null;
+    current = ensureSession(port);
+    response = await send(buildHeaders());
   }
 
-  const upstream = http.request({
-    host: LISTEN_HOST,
-    port,
-    method: req.method,
-    path: req.url,
-    headers,
-  }, (response) => {
-    const headers = { ...response.headers };
-    delete headers['set-cookie'];
-    if (!hasCookie) headers['set-cookie'] = [`${session.name}=${session.value}; Max-Age=${COOKIE_DAYS * 86400}; Path=/; Expires=${new Date(Date.now() + COOKIE_DAYS * 86400000).toUTCString()}; HttpOnly; SameSite=Strict`];
-    res.writeHead(response.statusCode ?? 502, headers);
-    response.pipe(res);
-  });
-  upstream.on('error', (error) => {
-    log('upstream error:', error.message);
-    if (!res.headersSent) res.writeHead(502, { 'content-type': 'text/plain; charset=utf-8' });
-    res.end('DSH upstream error: ' + error.message);
-  });
-  req.pipe(upstream);
+  const outHeaders = { ...response.headers };
+  delete outHeaders['set-cookie'];
+  if (!hasCookie) {
+    outHeaders['set-cookie'] = [`${current.name}=${current.value}; Max-Age=${COOKIE_DAYS * 86400}; Path=/; Expires=${new Date(Date.now() + COOKIE_DAYS * 86400000).toUTCString()}; HttpOnly; SameSite=Strict`];
+  }
+  res.writeHead(response.statusCode ?? 502, outHeaders);
+  response.pipe(res);
 }
 
 const server = http.createServer((req, res) => {
@@ -195,10 +213,7 @@ server.on('upgrade', (req, socket, head) => {
       socket.end('HTTP/1.1 503 Service Unavailable\r\n\r\n');
       return;
     }
-    if (session === null || session.port !== port) {
-      const minted = mintSessionCookie(readSigningSecret(), `127.0.0.1:${String(port)}`);
-      session = { port, name: minted.name, value: minted.value };
-    }
+    if (session === null || session.port !== port) ensureSession(port);
     const headers = rewriteHeaders(req.headers, port);
     if (typeof req.headers.cookie !== 'string' || !req.headers.cookie.includes(`${session.name}=`)) {
       headers.cookie = req.headers.cookie === undefined
