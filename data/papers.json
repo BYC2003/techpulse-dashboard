@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:26:42.717615+00:00",
+  "generated_at": "2026-11-25T03:44:26.838114+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Hao Tang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 175,
+        "upvotes": 179,
         "comments": 3,
-        "discussion_score": 1756.9,
+        "discussion_score": 1796.9,
         "summary": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resum…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.29897",
@@ -407,9 +407,9 @@
           "Xinchao Wang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 103,
+        "upvotes": 113,
         "comments": 2,
-        "discussion_score": 1034.9,
+        "discussion_score": 1134.9,
         "summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
         "keywords": [
           "vision-language models",
@@ -422,39 +422,6 @@
         "url": "https://arxiv.org/abs/2611.30989",
         "arxiv_url": "https://arxiv.org/abs/2611.30989",
         "discussion_url": "https://huggingface.co/papers/2611.30989",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.27193",
-        "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
-        "authors": [
-          "Haowei He",
-          "Ziwen Zhao",
-          "Chenshuo Pan",
-          "Gang Lin",
-          "Zhihao Yang",
-          "Chao Wang",
-          "Xinzhang Liu",
-          "Kaidong Yu"
-        ],
-        "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 94,
-        "comments": 3,
-        "discussion_score": 946.76,
-        "summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
-        "keywords": [
-          "Manifold-constrained Hyper-Connections",
-          "residual connections",
-          "multiple streams",
-          "residual propagation",
-          "stream-mixing residual matrices",
-          "Birkhoff polytope",
-          "doubly stochastic matrices",
-          "residual streams"
-        ],
-        "url": "https://arxiv.org/abs/2611.27193",
-        "arxiv_url": "https://arxiv.org/abs/2611.27193",
-        "discussion_url": "https://huggingface.co/papers/2611.27193",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -488,36 +455,6 @@
         "url": "https://arxiv.org/abs/2611.31201",
         "arxiv_url": "https://arxiv.org/abs/2611.31201",
         "discussion_url": "https://huggingface.co/papers/2611.31201",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.27963",
-        "title": "Non-penetrating World Models",
-        "authors": [
-          "Yuhang Dai",
-          "Yinwei Wu",
-          "Ziyue Lin",
-          "Han Ji",
-          "Xingyi Yang"
-        ],
-        "published_at": "2026-11-20T00:00:00+00:00",
-        "upvotes": 60,
-        "comments": 3,
-        "discussion_score": 606.76,
-        "summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
-        "keywords": [
-          "interactive video world models",
-          "object penetration",
-          "NoPeBench",
-          "diffusion transformers (DiTs)",
-          "hidden states",
-          "prediction head",
-          "frozen DiT",
-          "NoPeWorld"
-        ],
-        "url": "https://arxiv.org/abs/2611.27963",
-        "arxiv_url": "https://arxiv.org/abs/2611.27963",
-        "discussion_url": "https://huggingface.co/papers/2611.27963",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -665,7 +602,7 @@
         "published_at": "2026-11-20T00:00:00+00:00",
         "upvotes": 43,
         "comments": 2,
-        "discussion_score": 434.76,
+        "discussion_score": 434.75,
         "summary": "Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.",
         "keywords": [
           "video foresight reasoning",
@@ -680,6 +617,62 @@
         "url": "https://arxiv.org/abs/2611.26954",
         "arxiv_url": "https://arxiv.org/abs/2611.26954",
         "discussion_url": "https://huggingface.co/papers/2611.26954",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.26389",
+        "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
+        "authors": [
+          "Kaiwen Zhang",
+          "Yiming Gao",
+          "Zeqi Xiao",
+          "Xintao Wang",
+          "Pengfei Wan",
+          "Kun Gai",
+          "Xingang Pan"
+        ],
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "upvotes": 39,
+        "comments": 3,
+        "discussion_score": 396.71,
+        "summary": "ViDecide trains video diffusion models to make causal state-transition and stopping decisions, using Corrective Fine-tuning to improve multi-step planning success without policy gradients.",
+        "keywords": [
+          "video generation models",
+          "video diffusion models",
+          "diffusion RL",
+          "decision-centric framework",
+          "state transitions",
+          "decision-focused training schedule",
+          "Corrective Fine-tuning",
+          "policy-gradient optimization"
+        ],
+        "url": "https://arxiv.org/abs/2611.26389",
+        "arxiv_url": "https://arxiv.org/abs/2611.26389",
+        "discussion_url": "https://huggingface.co/papers/2611.26389",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.31358",
+        "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+        "authors": [
+          "Guo Chen",
+          "Fuxiao Liu",
+          "Haoqin Tu",
+          "Yiyang Zhou",
+          "Andrew Tao",
+          "Bryan Catanzaro",
+          "Cihang Xie",
+          "Yuyin Zhou"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 34,
+        "comments": 1,
+        "discussion_score": 342.9,
+        "summary": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.31358",
+        "arxiv_url": "https://arxiv.org/abs/2611.31358",
+        "discussion_url": "https://huggingface.co/papers/2611.31358",
         "source": "Hugging Face Daily Papers"
       }
     ]

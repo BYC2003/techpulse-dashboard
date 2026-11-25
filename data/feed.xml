@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 25 Nov 2026 02:24:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 03:42:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities</title>
@@ -56,6 +56,14 @@
 <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
+<title>矩阵乘法指数被证明精确为 9/4</title>
+<link>https://aihot.news/items/pdtslys0302mclldlo6l1dlr9</link>
+<guid isPermaLink="true">https://aihot.news/items/pdtslys0302mclldlo6l1dlr9</guid>
+<description>Greg Brockman</description>
+<category>行业动态</category>
+<pubDate>Wed, 25 Nov 2026 02:35:38 +0000</pubDate>
+</item>
+<item>
 <title>Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10</title>
 <link>https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z</link>
 <guid isPermaLink="true">https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z</guid>
@@ -80,28 +88,20 @@
 <pubDate>Tue, 24 Nov 2026 21:32:51 +0000</pubDate>
 </item>
 <item>
+<title>AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成</title>
+<link>https://www.aibase.com/news/32511</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32511</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 25 Nov 2026 03:42:44 +0000</pubDate>
+</item>
+<item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-</item>
-<item>
-<title>AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成</title>
-<link>https://www.aibase.com/news/32511</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32511</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 02:24:42 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
-<link>https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</link>
-<guid isPermaLink="true">https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st</guid>
-<description>Greg Brockman</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
 </item>
 <item>
 <title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
