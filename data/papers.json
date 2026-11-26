@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:52:07.984776+00:00",
+  "generated_at": "2026-11-26T04:31:55.043381+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -375,85 +375,6 @@
     "source_url": "https://huggingface.co/papers",
     "items": [
       {
-        "id": "2611.30989",
-        "title": "WorldLeague: Benchmarking Physical Agency",
-        "authors": [
-          "Xinyang Zhou",
-          "Qi Li",
-          "Xinchao Wang"
-        ],
-        "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 142,
-        "comments": 2,
-        "discussion_score": 1424.88,
-        "summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
-        "keywords": [
-          "vision-language models",
-          "vision-language-action models",
-          "world-action models",
-          "embodied AI",
-          "physical AI",
-          "agentic AI"
-        ],
-        "url": "https://arxiv.org/abs/2611.30989",
-        "arxiv_url": "https://arxiv.org/abs/2611.30989",
-        "discussion_url": "https://huggingface.co/papers/2611.30989",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.31201",
-        "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
-        "authors": [
-          "Xiao-Ming Wu",
-          "Kang Liao",
-          "Yuexiao Ma",
-          "Taolin Zhang",
-          "Mingqian Zhou",
-          "Nuo Chen",
-          "Ziming Li",
-          "Yihang Luo"
-        ],
-        "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 100,
-        "comments": 2,
-        "discussion_score": 1004.88,
-        "summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
-        "keywords": [
-          "frontier multimodal models",
-          "robot policies",
-          "closed-loop robotic harnesses",
-          "frontier-model-as-policy",
-          "prompting",
-          "planning",
-          "action execution",
-          "tool use"
-        ],
-        "url": "https://arxiv.org/abs/2611.31201",
-        "arxiv_url": "https://arxiv.org/abs/2611.31201",
-        "discussion_url": "https://huggingface.co/papers/2611.31201",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.30634",
-        "title": "Rewirable Circuits in Transformers with Loom Attention",
-        "authors": [
-          "Da Xiao",
-          "Qingye Meng",
-          "Shengping Li",
-          "Xingyuan Yuan"
-        ],
-        "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 74,
-        "comments": 2,
-        "discussion_score": 744.88,
-        "summary": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) with its horizontal attention over tokens. We instantiate vertical attention efficiently with normalized and gated linear attention over a per-token matrix memory, which stores the compressed head outputs and serves as a second residual stream. This yields LoomFormer, a dual-stream architecture that…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.30634",
-        "arxiv_url": "https://arxiv.org/abs/2611.30634",
-        "discussion_url": "https://huggingface.co/papers/2611.30634",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
         "id": "2611.25403",
         "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
         "authors": [
@@ -467,99 +388,14 @@
           "Yinhao Liu"
         ],
         "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 72,
-        "comments": 1,
-        "discussion_score": 722.69,
+        "upvotes": 106,
+        "comments": 3,
+        "discussion_score": 1066.66,
         "summary": "We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters, with approximately 1.7B activated per task route. Antom 3-in-1 Transformer is pretrained to learn reusable behavioral and relational representations, primarily on Ant International's internal payment data. In a cross-business transfer experiment, pretraining improves the target business metric by 34…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.25403",
         "arxiv_url": "https://arxiv.org/abs/2611.25403",
         "discussion_url": "https://huggingface.co/papers/2611.25403",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.31205",
-        "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
-        "authors": [
-          "Zexin He",
-          "Rui Li",
-          "Yushi Lan",
-          "Chengkai Jin",
-          "Zhi Hou",
-          "Xingang Pan"
-        ],
-        "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 60,
-        "comments": 2,
-        "discussion_score": 604.88,
-        "summary": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often have physical depe…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.31205",
-        "arxiv_url": "https://arxiv.org/abs/2611.31205",
-        "discussion_url": "https://huggingface.co/papers/2611.31205",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.12164",
-        "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
-        "authors": [
-          "Khalil Hennara",
-          "Muhammad Hreden",
-          "Zeina Aldallal",
-          "Sara Chrouf",
-          "Safwan AlModhayan"
-        ],
-        "published_at": "2026-11-09T00:00:00+00:00",
-        "upvotes": 57,
-        "comments": 4,
-        "discussion_score": 578.21,
-        "summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
-        "keywords": [
-          "Fixer-Guided Localization (FGL)",
-          "code localizer",
-          "frozen fixer",
-          "weighted supervised fine-tuning",
-          "reinforcement learning",
-          "Gemma 4 E4B",
-          "Kimi K3 trajectories",
-          "coding agents"
-        ],
-        "url": "https://arxiv.org/abs/2611.12164",
-        "arxiv_url": "https://arxiv.org/abs/2611.12164",
-        "discussion_url": "https://huggingface.co/papers/2611.12164",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.30662",
-        "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
-        "authors": [
-          "Binhui Xie",
-          "Jinmin Li",
-          "Haomiao Tang",
-          "Guangting Wang",
-          "Song Jin",
-          "Jianwei Zhu",
-          "Fengyun Rao",
-          "Jing Lyu"
-        ],
-        "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 57,
-        "comments": 1,
-        "discussion_score": 572.88,
-        "summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
-        "keywords": [
-          "multimodal large language models",
-          "dense model",
-          "mixture-of-experts model",
-          "active parameters",
-          "continued pre-training",
-          "multimodal data mixture",
-          "hybrid-thinking post-training",
-          "on-policy distillation"
-        ],
-        "url": "https://arxiv.org/abs/2611.30662",
-        "arxiv_url": "https://arxiv.org/abs/2611.30662",
-        "discussion_url": "https://huggingface.co/papers/2611.30662",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -572,9 +408,9 @@
           "Soujanya Poria"
         ],
         "published_at": "2026-11-24T00:00:00+00:00",
-        "upvotes": 54,
-        "comments": 5,
-        "discussion_score": 550.93,
+        "upvotes": 97,
+        "comments": 6,
+        "discussion_score": 982.9,
         "summary": "A reinforcement learning method rewards agents for delaying commitment until their inferred posterior over answers is sufficiently narrow, improving evidence-based answering across vision-language benchmarks.",
         "keywords": [
           "Reinforcement Learning with Verifiable Beliefs (RLVB)",
@@ -602,9 +438,9 @@
           "Haiyan Yin"
         ],
         "published_at": "2026-11-21T00:00:00+00:00",
-        "upvotes": 52,
-        "comments": 1,
-        "discussion_score": 522.78,
+        "upvotes": 97,
+        "comments": 2,
+        "discussion_score": 974.75,
         "summary": "NightWatch adds a lightweight streaming watcher to vision-language computer-use agents to keep perception synchronized with dynamic interfaces, reducing latency and wasted time while maintaining or improving task success.",
         "keywords": [
           "vision-language models",
@@ -622,35 +458,189 @@
         "source": "Hugging Face Daily Papers"
       },
       {
-        "id": "2611.26389",
-        "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
+        "id": "2611.30634",
+        "title": "Rewirable Circuits in Transformers with Loom Attention",
         "authors": [
-          "Kaiwen Zhang",
-          "Yiming Gao",
-          "Zeqi Xiao",
-          "Xintao Wang",
-          "Pengfei Wan",
-          "Kun Gai",
+          "Da Xiao",
+          "Qingye Meng",
+          "Shengping Li",
+          "Xingyuan Yuan"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 89,
+        "comments": 3,
+        "discussion_score": 896.85,
+        "summary": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) with its horizontal attention over tokens. We instantiate vertical attention efficiently with normalized and gated linear attention over a per-token matrix memory, which stores the compressed head outputs and serves as a second residual stream. This yields LoomFormer, a dual-stream architecture that…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.30634",
+        "arxiv_url": "https://arxiv.org/abs/2611.30634",
+        "discussion_url": "https://huggingface.co/papers/2611.30634",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.31358",
+        "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+        "authors": [
+          "Guo Chen",
+          "Fuxiao Liu",
+          "Haoqin Tu",
+          "Yiyang Zhou",
+          "Andrew Tao",
+          "Bryan Catanzaro",
+          "Cihang Xie",
+          "Yuyin Zhou"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 81,
+        "comments": 3,
+        "discussion_score": 816.85,
+        "summary": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.31358",
+        "arxiv_url": "https://arxiv.org/abs/2611.31358",
+        "discussion_url": "https://huggingface.co/papers/2611.31358",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.31205",
+        "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+        "authors": [
+          "Zexin He",
+          "Rui Li",
+          "Yushi Lan",
+          "Chengkai Jin",
+          "Zhi Hou",
           "Xingang Pan"
         ],
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "upvotes": 43,
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 62,
         "comments": 3,
-        "discussion_score": 436.69,
-        "summary": "ViDecide trains video diffusion models to make causal state-transition and stopping decisions, using Corrective Fine-tuning to improve multi-step planning success without policy gradients.",
-        "keywords": [
-          "video generation models",
-          "video diffusion models",
-          "diffusion RL",
-          "decision-centric framework",
-          "state transitions",
-          "decision-focused training schedule",
-          "Corrective Fine-tuning",
-          "policy-gradient optimization"
+        "discussion_score": 626.85,
+        "summary": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often have physical depe…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.31205",
+        "arxiv_url": "https://arxiv.org/abs/2611.31205",
+        "discussion_url": "https://huggingface.co/papers/2611.31205",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.12164",
+        "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+        "authors": [
+          "Khalil Hennara",
+          "Muhammad Hreden",
+          "Zeina Aldallal",
+          "Sara Chrouf",
+          "Safwan AlModhayan"
         ],
-        "url": "https://arxiv.org/abs/2611.26389",
-        "arxiv_url": "https://arxiv.org/abs/2611.26389",
-        "discussion_url": "https://huggingface.co/papers/2611.26389",
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "upvotes": 60,
+        "comments": 4,
+        "discussion_score": 608.18,
+        "summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
+        "keywords": [
+          "Fixer-Guided Localization (FGL)",
+          "code localizer",
+          "frozen fixer",
+          "weighted supervised fine-tuning",
+          "reinforcement learning",
+          "Gemma 4 E4B",
+          "Kimi K3 trajectories",
+          "coding agents"
+        ],
+        "url": "https://arxiv.org/abs/2611.12164",
+        "arxiv_url": "https://arxiv.org/abs/2611.12164",
+        "discussion_url": "https://huggingface.co/papers/2611.12164",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.30962",
+        "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+        "authors": [
+          "Wenhao Wang",
+          "Panrong Tong",
+          "Quyu Kong",
+          "Pengxiang Li",
+          "Haowen Yang",
+          "chenglin Cai",
+          "Siheng Chen",
+          "Yue Wang"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 48,
+        "comments": 2,
+        "discussion_score": 484.85,
+        "summary": "CUA-SEE is a closed-loop evaluation environment that co-evolves tasks and executable verifiers to adaptively measure computer-use agents’ capabilities, boundaries, and progress reliability.",
+        "keywords": [
+          "computer-use agents",
+          "closed-loop evaluation environment",
+          "executable verifiers",
+          "rollout evidence",
+          "benchmark evolution",
+          "cohort-calibrated difficulty",
+          "coverage growth",
+          "diagnostic evolution"
+        ],
+        "url": "https://arxiv.org/abs/2611.30962",
+        "arxiv_url": "https://arxiv.org/abs/2611.30962",
+        "discussion_url": "https://huggingface.co/papers/2611.30962",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.30254",
+        "title": "Innata-0: A Native Embodied World System with Model-Agent Co-Design",
+        "authors": [
+          "Innata Team",
+          "Yu Bai",
+          "Ziyi Bai",
+          "Yuxuan Cai",
+          "Chenrui He",
+          "Wenhao Li",
+          "Zhe Lin",
+          "Heng Wang"
+        ],
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "upvotes": 44,
+        "comments": 3,
+        "discussion_score": 446.85,
+        "summary": "Innata-0 is a native embodied world system that co-designs a world-action model and an agent to enable reliable long-horizon physical behaviors through integrated understanding, prediction, action generation, memory, verification, and recovery.",
+        "keywords": [
+          "foundation models",
+          "embodied intelligence",
+          "embodied world-action model",
+          "tri-tower Mixture-of-Transformers architecture",
+          "action generation",
+          "long-horizon execution",
+          "co-design protocol",
+          "world prediction"
+        ],
+        "url": "https://arxiv.org/abs/2611.30254",
+        "arxiv_url": "https://arxiv.org/abs/2611.30254",
+        "discussion_url": "https://huggingface.co/papers/2611.30254",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.28649",
+        "title": "S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence",
+        "authors": [
+          "Muxin Fu",
+          "Peike Yu",
+          "Guibin Zhang",
+          "Wenrui Zhou",
+          "Runze Liu",
+          "Lang Feng",
+          "Fuchao Yang",
+          "Feng Chen"
+        ],
+        "published_at": "2026-11-21T00:00:00+00:00",
+        "upvotes": 41,
+        "comments": 3,
+        "discussion_score": 416.75,
+        "summary": "Spatial intelligence, the ability to reason about 3D space from visual observations, becomes essential as multimodal large language models (MLLMs) move into the physical world. Beyond perceiving each view, it rests on two cornerstones of human cognition: fusing multiple views into one coherent 3D scene and mentally transforming that scene to new viewpoints as reasoning unfolds. Yet our spatial probes reveal that MLLMs largely lack both capabilities, even after spatial fine-tuning. We therefore present S-Mind, whic…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.28649",
+        "arxiv_url": "https://arxiv.org/abs/2611.28649",
+        "discussion_url": "https://huggingface.co/papers/2611.28649",
         "source": "Hugging Face Daily Papers"
       }
     ]

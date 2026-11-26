@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:52:02.545519+00:00",
+  "generated_at": "2026-11-26T04:31:50.873413+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -41,7 +41,7 @@
       "items_scanned": 100,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-23T17:21:12+00:00"
+      "latest_at": "2026-11-25T17:10:27+00:00"
     },
     {
       "id": "microsoft_research",
@@ -125,10 +125,40 @@
       "items_scanned": 20,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-20T21:18:41+00:00"
+      "latest_at": "2026-11-25T22:28:01+00:00"
     }
   ],
   "items": [
+    {
+      "id": "bc264cea1f2d1a79",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "published_at": "2026-11-25T22:28:01+00:00",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
+    {
+      "id": "f891b6c51994c58c",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "summary": "Generative AI",
+      "published_at": "2026-11-25T17:10:27+00:00",
+      "source_id": "google_research",
+      "source_name": "Google Research",
+      "source_kind": "research",
+      "category": "viewpoint",
+      "trust": "research",
+      "trust_label": "研究机构",
+      "verification": "研究机构原文，以论文或原文为准",
+      "is_opinion": false
+    },
     {
       "id": "46c21c4c670eea56",
       "title": "Agentic system personalizes physical controls to help users “DJ their art”",
@@ -340,21 +370,6 @@
       "is_opinion": true
     },
     {
-      "id": "6bddcbbb58234863",
-      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "url": "https://latent.space/p/artcraft/",
-      "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "published_at": "2026-11-13T04:17:25+00:00",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "source_kind": "interview",
-      "category": "interview",
-      "trust": "interview",
-      "trust_label": "访谈观点",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
-    },
-    {
       "id": "d7df43c6b0af893e",
       "title": "Microsoft Research Focus – Edition #98",
       "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
@@ -458,21 +473,6 @@
       "trust_label": "访谈观点",
       "verification": "访谈观点，需区分事实与受访者判断",
       "is_opinion": true
-    },
-    {
-      "id": "58b7150140b12ba4",
-      "title": "Agile Deliberation: How AI helps humans define the gray areas",
-      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-      "summary": "Data Mining & Modeling",
-      "published_at": "2026-11-04T18:07:05+00:00",
-      "source_id": "google_research",
-      "source_name": "Google Research",
-      "source_kind": "research",
-      "category": "viewpoint",
-      "trust": "research",
-      "trust_label": "研究机构",
-      "verification": "研究机构原文，以论文或原文为准",
-      "is_opinion": false
     },
     {
       "id": "8734693d6a7d51d9",

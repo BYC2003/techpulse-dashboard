@@ -1,11 +1,398 @@
 {
-  "generated_at": "2026-11-25T12:50:15.284334Z",
+  "generated_at": "2026-11-26T04:30:00.482794Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_9ef31414a556",
+      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "title_zh": "科学家为人工智能代理划定界限",
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T18:52:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "title_zh": "科学家为人工智能代理划定界限",
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T18:52:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8703,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
+      "primary_item": {
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+        "title_zh": "科学家为人工智能代理划定界限",
+        "title_en": "Where scientists draw the line on AI agents",
+        "title_original": "Where scientists draw the line on AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_5d02dfd2e5bb",
+      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title_en": "Copilot code review billing will default to the organization",
+          "title_original": "Copilot code review billing will default to the organization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T22:18:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title_en": "Copilot code review billing will default to the organization",
+          "title_original": "Copilot code review billing will default to the organization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T22:18:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9144,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T22:18:03Z",
+      "latest_at": "2026-11-25T22:18:03Z",
+      "primary_item": {
+        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+        "title_zh": "Copilot 代码审查计费将默认由组织承担",
+        "title_en": "Copilot code review billing will default to the organization",
+        "title_original": "Copilot code review billing will default to the organization",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub Changelog",
+          "site_id": "official_ai",
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub Changelog",
+          "basis_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_99c27e1d7e6a",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "title_zh": null,
+          "title_en": "How to choose the next safe step in application modernization",
+          "title_original": "How to choose the next safe step in application modernization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "title_zh": null,
+          "title_en": "How to choose the next safe step in application modernization",
+          "title_original": "How to choose the next safe step in application modernization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8229,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T15:00:00Z",
+      "latest_at": "2026-11-25T15:00:00Z",
+      "primary_item": {
+        "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+        "title": "How to choose the next safe step in application modernization",
+        "title_zh": null,
+        "title_en": "How to choose the next safe step in application modernization",
+        "title_original": "How to choose the next safe step in application modernization",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "GitHub AI & ML",
+          "site_id": "official_ai",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "title": "How to choose the next safe step in application modernization",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "How to choose the next safe step in application modernization",
+          "claim_type": "confirmed",
+          "basis_source": "GitHub AI & ML",
+          "basis_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_34d415b543f1",
-      "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+      "title": "An Indic Voice Agent with CUGA",
       "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "primary_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "source": "Hugging Face Blog",
@@ -13,8 +400,8 @@
       "sources": [
         {
           "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-          "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
-          "title_zh": "带有 CUGA 的印度语语音代理",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
           "title_en": "An Indic Voice Agent with CUGA",
           "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
@@ -38,8 +425,8 @@
       "items": [
         {
           "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-          "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
-          "title_zh": "带有 CUGA 的印度语语音代理",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
           "title_en": "An Indic Voice Agent with CUGA",
           "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
@@ -58,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.965,
+        "recency": 0.7696,
         "story_heat": 0.0
       },
       "category": "official",
@@ -79,8 +466,8 @@
       "latest_at": "2026-11-25T10:22:09Z",
       "primary_item": {
         "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-        "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
-        "title_zh": "带有 CUGA 的印度语语音代理",
+        "title": "An Indic Voice Agent with CUGA",
+        "title_zh": null,
         "title_en": "An Indic Voice Agent with CUGA",
         "title_original": "An Indic Voice Agent with CUGA",
         "summary": null,
@@ -108,7 +495,7 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-          "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+          "title": "An Indic Voice Agent with CUGA",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,7 +504,7 @@
       ],
       "key_claims": [
         {
-          "claim": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+          "claim": "An Indic Voice Agent with CUGA",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
           "basis_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -134,7 +521,7 @@
     },
     {
       "story_id": "story_94d1586a7d4f",
-      "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI News",
@@ -142,8 +529,8 @@
       "sources": [
         {
           "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": null,
           "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "summary": null,
@@ -158,37 +545,17 @@
           "published_at": "2026-11-24T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-24T23:32:43.781000Z",
-          "updated_at": null,
-          "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
           "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": null,
           "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "summary": null,
@@ -203,53 +570,33 @@
           "published_at": "2026-11-24T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "source_tier_rank": 5,
-          "published_at": "2026-11-24T23:32:43.781000Z",
-          "updated_at": null,
-          "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7088,
-        "story_heat": 0.25
+        "recency": 0.5653,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-24T13:00:00Z",
-      "latest_at": "2026-11-24T23:32:43.781000Z",
+      "latest_at": "2026-11-24T13:00:00Z",
       "primary_item": {
         "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-        "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_zh": null,
         "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "summary": null,
@@ -277,26 +624,16 @@
           "source": "OpenAI News",
           "site_id": "official_ai",
           "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
           "is_aggregator": false
-        },
-        {
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "source_tier": "discussion",
-          "source_tier_label": "热议参考",
-          "role": "aggregator",
-          "is_aggregator": true
         }
       ],
       "key_claims": [
         {
-          "claim": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "claim": "GPT-6 models demonstrate intrinsic protein-design capabilities",
           "claim_type": "confirmed",
           "basis_source": "OpenAI News",
           "basis_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -309,7 +646,7 @@
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
-      "repost_count": 1,
+      "repost_count": 0,
       "summary_missing": true
     },
     {
@@ -367,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7401,
+        "recency": 0.5903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -442,6 +779,1429 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_e899497322a0",
+      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+      "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "primary_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "source": "Calif：Research",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "title_en": null,
+          "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Calif：Research"
+      ],
+      "items": [
+        {
+          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "title_en": null,
+          "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9371,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
+      "primary_item": {
+        "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+        "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+        "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+        "title_en": null,
+        "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+        "source": "Calif：Research",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Calif：Research",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "claim_type": "reported",
+          "basis_source": "Calif：Research",
+          "basis_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_6ff05624158a",
+      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_en": null,
+          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_en": null,
+          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9362,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T23:56:00Z",
+      "latest_at": "2026-11-25T23:56:00Z",
+      "primary_item": {
+        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "title_en": null,
+        "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "claim_type": "reported",
+          "basis_source": "公众号：数字生命卡兹克",
+          "basis_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_9b0d60c572bb",
+      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+      "url": "https://www.aibase.com/news/32547",
+      "primary_url": "https://www.aibase.com/news/32547",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_en": null,
+          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32547",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T04:30:00.482794Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_en": null,
+          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32547",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T04:30:00.482794Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T04:30:00.482794Z",
+      "latest_at": "2026-11-26T04:30:00.482794Z",
+      "primary_item": {
+        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "title_en": null,
+        "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32547",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32547",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32547",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_c485c6cea996",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "primary_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "907f5eb2f227ab10dfe90accabfb9f6d871f61ff",
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "title_zh": null,
+          "title_en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "title_original": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T13:07:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "907f5eb2f227ab10dfe90accabfb9f6d871f61ff",
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "title_zh": null,
+          "title_en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "title_original": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-24T13:07:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5664,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:07:53Z",
+      "latest_at": "2026-11-24T13:07:53Z",
+      "primary_item": {
+        "id": "907f5eb2f227ab10dfe90accabfb9f6d871f61ff",
+        "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "title_zh": null,
+        "title_en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "title_original": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+          "claim_type": "confirmed",
+          "basis_source": "Google DeepMind",
+          "basis_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_d5e2b49fdb3d",
+      "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+      "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+      "primary_url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
+          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "title_en": null,
+          "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T17:35:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI"
+      ],
+      "items": [
+        {
+          "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
+          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "title_en": null,
+          "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T17:35:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8544,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T17:35:58Z",
+      "latest_at": "2026-11-25T17:35:58Z",
+      "primary_item": {
+        "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
+        "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+        "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+        "title_en": null,
+        "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "TechCrunch：AI",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
+          "claim_type": "reported",
+          "basis_source": "TechCrunch：AI",
+          "basis_url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_c74b357b868b",
+      "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+      "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+      "primary_url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+      "source": "Pragmatic Engineer",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e12107a54e839bba58899cb7aa44b739780fc672",
+          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "title_en": null,
+          "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+          "source": "Pragmatic Engineer",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T17:31:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Pragmatic Engineer"
+      ],
+      "items": [
+        {
+          "id": "e12107a54e839bba58899cb7aa44b739780fc672",
+          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "title_en": null,
+          "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+          "source": "Pragmatic Engineer",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T17:31:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8534,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T17:31:32Z",
+      "latest_at": "2026-11-25T17:31:32Z",
+      "primary_item": {
+        "id": "e12107a54e839bba58899cb7aa44b739780fc672",
+        "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+        "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+        "title_en": null,
+        "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+        "source": "Pragmatic Engineer",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Pragmatic Engineer",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
+          "claim_type": "reported",
+          "basis_source": "Pragmatic Engineer",
+          "basis_url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_61158f0e1131",
+      "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+      "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+      "primary_url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+      "source": "Google AI：DEV 作者专属",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
+          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "title_en": null,
+          "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+          "source": "Google AI：DEV 作者专属",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T16:19:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属"
+      ],
+      "items": [
+        {
+          "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
+          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "title_en": null,
+          "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+          "source": "Google AI：DEV 作者专属",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T16:19:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8388,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T16:19:30Z",
+      "latest_at": "2026-11-25T16:19:30Z",
+      "primary_item": {
+        "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
+        "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+        "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+        "title_en": null,
+        "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+        "source": "Google AI：DEV 作者专属",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Google AI：DEV 作者专属",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
+          "claim_type": "reported",
+          "basis_source": "Google AI：DEV 作者专属",
+          "basis_url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_38812ef2d583",
+      "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+      "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+      "primary_url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+      "source": "OpenClaw",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
+          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "title_en": null,
+          "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+          "source": "OpenClaw",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T14:05:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenClaw"
+      ],
+      "items": [
+        {
+          "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
+          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "title_en": null,
+          "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+          "source": "OpenClaw",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T14:05:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8122,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T14:05:57Z",
+      "latest_at": "2026-11-25T14:05:57Z",
+      "primary_item": {
+        "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
+        "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+        "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+        "title_en": null,
+        "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+        "source": "OpenClaw",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "OpenClaw",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
+          "claim_type": "reported",
+          "basis_source": "OpenClaw",
+          "basis_url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_e337d638e5db",
+      "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+      "url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+      "primary_url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+      "source": "面壁智能 OpenBMB",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3f57f6d232118da5fffad734e02fb566941c31e",
+          "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "title_zh": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "title_en": null,
+          "title_original": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T13:00:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "面壁智能 OpenBMB"
+      ],
+      "items": [
+        {
+          "id": "b3f57f6d232118da5fffad734e02fb566941c31e",
+          "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "title_zh": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "title_en": null,
+          "title_original": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T13:00:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T13:00:09Z",
+      "latest_at": "2026-11-25T13:00:09Z",
+      "primary_item": {
+        "id": "b3f57f6d232118da5fffad734e02fb566941c31e",
+        "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+        "title_zh": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+        "title_en": null,
+        "title_original": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+        "source": "面壁智能 OpenBMB",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "面壁智能 OpenBMB",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+          "title": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足",
+          "claim_type": "reported",
+          "basis_source": "面壁智能 OpenBMB",
+          "basis_url": "https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_f23d81739695",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "primary_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "source": "Calif：Research",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_en": null,
+          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Calif：Research"
+      ],
+      "items": [
+        {
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_en": null,
+          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9371,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
+      "primary_item": {
+        "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+        "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "title_en": null,
+        "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+        "source": "Calif：Research",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Calif：Research",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "claim_type": "reported",
+          "basis_source": "Calif：Research",
+          "basis_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_55a96ad4baf0",
+      "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+      "url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+      "primary_url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+      "source": "Pydantic AI 官方文章",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "420d22152438fd224dadbb45532d9399c0af14b7",
+          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "title_zh": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "title_en": null,
+          "title_original": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+          "source": "Pydantic AI 官方文章",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T09:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Pydantic AI 官方文章"
+      ],
+      "items": [
+        {
+          "id": "420d22152438fd224dadbb45532d9399c0af14b7",
+          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "title_zh": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "title_en": null,
+          "title_original": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+          "source": "Pydantic AI 官方文章",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T09:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7546,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T09:00:00Z",
+      "latest_at": "2026-11-25T09:00:00Z",
+      "primary_item": {
+        "id": "420d22152438fd224dadbb45532d9399c0af14b7",
+        "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+        "title_zh": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+        "title_en": null,
+        "title_original": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+        "source": "Pydantic AI 官方文章",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Pydantic AI 官方文章",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+          "title": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0",
+          "claim_type": "reported",
+          "basis_source": "Pydantic AI 官方文章",
+          "basis_url": "https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_4cba4be76f8f",
       "title": "More predictable notifications on GitHub.com",
       "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
@@ -496,15 +2256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7475,
+        "recency": 0.5962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,653 +2331,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_163fbb440649",
-      "title": "Codex CLI 0.172.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.5875,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-        "title": "Codex CLI 0.172.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.172.0",
-        "title_original": "Codex CLI 0.172.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://developers.openai.com/codex/changelog",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "url": "https://developers.openai.com/codex/changelog",
-          "title": "Codex CLI 0.172.0",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Codex CLI 0.172.0",
-          "claim_type": "confirmed",
-          "basis_source": "OpenAI Codex Changelog",
-          "basis_url": "https://developers.openai.com/codex/changelog",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c2e19fb7f5b4",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "primary_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f38e9dd8e843c459a13862777d8e559648285636",
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_zh": null,
-          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T16:34:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f38e9dd8e843c459a13862777d8e559648285636",
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_zh": null,
-          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T16:34:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7463,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T16:34:13Z",
-      "latest_at": "2026-11-24T16:34:13Z",
-      "primary_item": {
-        "id": "f38e9dd8e843c459a13862777d8e559648285636",
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "title_zh": null,
-        "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_3a5d3424143b",
-      "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-      "url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-      "primary_url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-      "source": "Addy Osmani",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ffe55b7e22b879b01061d807dc50d9e72a173c07",
-          "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "title_zh": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "title_en": null,
-          "title_original": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "source": "Addy Osmani",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T07:30:08Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Addy Osmani"
-      ],
-      "items": [
-        {
-          "id": "ffe55b7e22b879b01061d807dc50d9e72a173c07",
-          "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "title_zh": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "title_en": null,
-          "title_original": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "source": "Addy Osmani",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T07:30:08Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9258,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T07:30:08Z",
-      "latest_at": "2026-11-25T07:30:08Z",
-      "primary_item": {
-        "id": "ffe55b7e22b879b01061d807dc50d9e72a173c07",
-        "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-        "title_zh": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-        "title_en": null,
-        "title_original": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-        "source": "Addy Osmani",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Addy Osmani",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "title": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法",
-          "claim_type": "reported",
-          "basis_source": "Addy Osmani",
-          "basis_url": "https://aihot.news/items/uyodjb16jngloilypsm1d3q0d",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_225c4389abca",
-      "title": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-      "url": "https://www.aibase.com/news/32526",
-      "primary_url": "https://www.aibase.com/news/32526",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a56ef6e0be0cd0afebdd82445722ea0013bfcdf0",
-          "title": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "title_zh": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T12:50:15.284334Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a56ef6e0be0cd0afebdd82445722ea0013bfcdf0",
-          "title": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "title_zh": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32526",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T12:50:15.284334Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T12:50:15.284334Z",
-      "latest_at": "2026-11-25T12:50:15.284334Z",
-      "primary_item": {
-        "id": "a56ef6e0be0cd0afebdd82445722ea0013bfcdf0",
-        "title": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-        "title_zh": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-        "title_en": null,
-        "title_original": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32526",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32526",
-          "title": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "OpenAI、Anthropic 内部讨论\"停训\"：前沿模型强到不敢发，员工担忧安全风险失控",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32526",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_46239114ff06",
-      "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-      "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-      "primary_url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-      "source": "Rohan Paul",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e9f5b8f89f8f5ad29903d49f2aaa6dd48da4ba13",
-          "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "title_zh": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "title_en": null,
-          "title_original": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T05:29:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Rohan Paul"
-      ],
-      "items": [
-        {
-          "id": "e9f5b8f89f8f5ad29903d49f2aaa6dd48da4ba13",
-          "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "title_zh": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "title_en": null,
-          "title_original": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T05:29:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8994,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T05:29:48Z",
-      "latest_at": "2026-11-25T05:29:48Z",
-      "primary_item": {
-        "id": "e9f5b8f89f8f5ad29903d49f2aaa6dd48da4ba13",
-        "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-        "title_zh": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-        "title_en": null,
-        "title_original": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-        "source": "Rohan Paul",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Rohan Paul",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-          "title": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%",
-          "claim_type": "reported",
-          "basis_source": "Rohan Paul",
-          "basis_url": "https://aihot.news/items/hyofqy3ukzks1eyr4bu317bez",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_8c7ce3fbf64d",
       "title": "Searching for distant planets with Astra",
       "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
@@ -1272,15 +2385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6886,
+        "recency": 0.5492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1347,460 +2460,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_9c6c96cca967",
-      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-      "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-      "primary_url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-      "source": "公众号：千问APP",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95258550019d055124d7e30267ce376444203c51",
-          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "title_zh": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "title_en": null,
-          "title_original": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "source": "公众号：千问APP",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T04:32:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP"
-      ],
-      "items": [
-        {
-          "id": "95258550019d055124d7e30267ce376444203c51",
-          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "title_zh": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "title_en": null,
-          "title_original": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "source": "公众号：千问APP",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T04:32:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T04:32:44Z",
-      "latest_at": "2026-11-25T04:32:44Z",
-      "primary_item": {
-        "id": "95258550019d055124d7e30267ce376444203c51",
-        "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-        "title_zh": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-        "title_en": null,
-        "title_original": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-        "source": "公众号：千问APP",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：千问APP",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "claim_type": "reported",
-          "basis_source": "公众号：千问APP",
-          "basis_url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_fd691983210e",
-      "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-      "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-      "primary_url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "title_zh": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "title_en": null,
-          "title_original": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T03:29:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "title_zh": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "title_en": null,
-          "title_original": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T03:29:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8737,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T03:29:13Z",
-      "latest_at": "2026-11-25T03:29:13Z",
-      "primary_item": {
-        "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-        "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-        "title_zh": "Anthropic 上市不到一周跌破 83 美元发行价",
-        "title_en": null,
-        "title_original": "Anthropic 上市不到一周跌破 83 美元发行价",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "IT之家·人工智能",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "claim_type": "reported",
-          "basis_source": "IT之家·人工智能",
-          "basis_url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "融资、估值和上市信息必须再核对公司公告、SEC/交易所文件或权威原始报道。",
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c06680657e14",
-      "title": "矩阵乘法指数被证明精确为 9/4",
-      "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-      "primary_url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-      "source": "Greg Brockman",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
-          "title": "矩阵乘法指数被证明精确为 9/4",
-          "title_zh": "矩阵乘法指数被证明精确为 9/4",
-          "title_en": null,
-          "title_original": "矩阵乘法指数被证明精确为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T02:35:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Greg Brockman"
-      ],
-      "items": [
-        {
-          "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
-          "title": "矩阵乘法指数被证明精确为 9/4",
-          "title_zh": "矩阵乘法指数被证明精确为 9/4",
-          "title_en": null,
-          "title_original": "矩阵乘法指数被证明精确为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-          "source": "Greg Brockman",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T02:35:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8625,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T02:35:38Z",
-      "latest_at": "2026-11-25T02:35:38Z",
-      "primary_item": {
-        "id": "ee064d308c5ee65dd65066659d8988bf5094e80a",
-        "title": "矩阵乘法指数被证明精确为 9/4",
-        "title_zh": "矩阵乘法指数被证明精确为 9/4",
-        "title_en": null,
-        "title_original": "矩阵乘法指数被证明精确为 9/4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-        "source": "Greg Brockman",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Greg Brockman",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-          "title": "矩阵乘法指数被证明精确为 9/4",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "矩阵乘法指数被证明精确为 9/4",
-          "claim_type": "reported",
-          "basis_source": "Greg Brockman",
-          "basis_url": "https://aihot.news/items/pdtslys0302mclldlo6l1dlr9",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_68ff84661e7c",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "primary_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "source": "Google DeepMind",
+      "story_id": "story_66c207de1851",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "primary_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "title_zh": null,
-          "title_en": "Finding faster quantum algorithms with agents and formal verification",
-          "title_original": "Finding faster quantum algorithms with agents and formal verification",
+          "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "source": "Google DeepMind",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-23T16:59:40Z",
+          "published_at": "2026-11-25T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "title_zh": null,
-          "title_en": "Finding faster quantum algorithms with agents and formal verification",
-          "title_original": "Finding faster quantum algorithms with agents and formal verification",
+          "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "source": "Google DeepMind",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-23T16:59:40Z",
+          "published_at": "2026-11-25T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5309,
+        "ai_relevance": 0.95,
+        "recency": 0.6626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1809,18 +2531,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T16:59:40Z",
-      "latest_at": "2026-11-23T16:59:40Z",
+      "earliest_at": "2026-11-25T00:00:00Z",
+      "latest_at": "2026-11-25T00:00:00Z",
       "primary_item": {
-        "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
         "title_zh": null,
-        "title_en": "Finding faster quantum algorithms with agents and formal verification",
-        "title_original": "Finding faster quantum algorithms with agents and formal verification",
+        "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+        "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-        "source": "Google DeepMind",
+        "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
         "source_tier": "official",
@@ -1831,7 +2553,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "primary_source_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -1839,10 +2561,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Google DeepMind",
+          "source": "Hugging Face Blog",
           "site_id": "official_ai",
-          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1851,784 +2573,10 @@
       ],
       "key_claims": [
         {
-          "claim": "Finding faster quantum algorithms with agents and formal verification",
+          "claim": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
           "claim_type": "confirmed",
-          "basis_source": "Google DeepMind",
-          "basis_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_4e61c12e7f62",
-      "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-      "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-      "primary_url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
-          "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "title_zh": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "title_en": null,
-          "title_original": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
-          "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "title_zh": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "title_en": null,
-          "title_original": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.83,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T23:56:00Z",
-      "latest_at": "2026-11-24T23:56:00Z",
-      "primary_item": {
-        "id": "fccf6796989cac3e26a34126d22b9a0a43050911",
-        "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-        "title_zh": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-        "title_en": null,
-        "title_original": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-          "title": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10",
-          "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_d132577912db",
-      "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-      "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-      "primary_url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-      "source": "Anthropic",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e668666b33294b12d346eadb4addbfec6c779264",
-          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "title_zh": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "title_en": null,
-          "title_original": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T21:32:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic"
-      ],
-      "items": [
-        {
-          "id": "e668666b33294b12d346eadb4addbfec6c779264",
-          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "title_zh": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "title_en": null,
-          "title_original": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-          "source": "Anthropic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T21:32:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8019,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T21:32:51Z",
-      "latest_at": "2026-11-24T21:32:51Z",
-      "primary_item": {
-        "id": "e668666b33294b12d346eadb4addbfec6c779264",
-        "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-        "title_zh": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-        "title_en": null,
-        "title_original": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-        "source": "Anthropic",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "analysis",
-      "claim_status_label": "分析观点",
-      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
-      "claim_status_reason": "matched_analysis_signal",
-      "is_opinion": true,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "opinion",
-      "verification_score": 37,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Anthropic",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
-          "claim_type": "analysis",
-          "basis_source": "Anthropic",
-          "basis_url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_41c48d96e389",
-      "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-      "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-      "primary_url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-      "source": "Philipp Schmid",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
-          "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "title_zh": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "title_en": null,
-          "title_original": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T18:32:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Philipp Schmid"
-      ],
-      "items": [
-        {
-          "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
-          "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "title_zh": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "title_en": null,
-          "title_original": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-          "source": "Philipp Schmid",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T18:32:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7678,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T18:32:13Z",
-      "latest_at": "2026-11-24T18:32:13Z",
-      "primary_item": {
-        "id": "7c91020dae83159fe3e9a3e4ef5726dc93b88b2a",
-        "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-        "title_zh": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-        "title_en": null,
-        "title_original": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-        "source": "Philipp Schmid",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Philipp Schmid",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-          "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
-          "claim_type": "reported",
-          "basis_source": "Philipp Schmid",
-          "basis_url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_cfd9aa2159ae",
-      "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-      "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-      "primary_url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-      "source": "Ed Zitron 长文 / Where’s Your Ed At",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8c4cf0437f790263816b3eb938243359bcb4fd2e",
-          "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "title_zh": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "title_en": null,
-          "title_original": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T18:08:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ed Zitron 长文 / Where’s Your Ed At"
-      ],
-      "items": [
-        {
-          "id": "8c4cf0437f790263816b3eb938243359bcb4fd2e",
-          "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "title_zh": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "title_en": null,
-          "title_original": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-24T18:08:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T18:08:05Z",
-      "latest_at": "2026-11-24T18:08:05Z",
-      "primary_item": {
-        "id": "8c4cf0437f790263816b3eb938243359bcb4fd2e",
-        "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-        "title_zh": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-        "title_en": null,
-        "title_original": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-        "source": "Ed Zitron 长文 / Where’s Your Ed At",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "analysis",
-      "claim_status_label": "分析观点",
-      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
-      "claim_status_reason": "matched_analysis_signal",
-      "is_opinion": true,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "opinion",
-      "verification_score": 37,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Ed Zitron 长文 / Where’s Your Ed At",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "title": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险",
-          "claim_type": "analysis",
-          "basis_source": "Ed Zitron 长文 / Where’s Your Ed At",
-          "basis_url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_6ecebcc0d01e",
-      "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-      "url": "https://www.aibase.com/news/32522",
-      "primary_url": "https://www.aibase.com/news/32522",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "title_zh": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "title_en": null,
-          "title_original": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T12:50:15.284334Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "title_zh": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "title_en": null,
-          "title_original": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T12:50:15.284334Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T12:50:15.284334Z",
-      "latest_at": "2026-11-25T12:50:15.284334Z",
-      "primary_item": {
-        "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-        "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-        "title_zh": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-        "title_en": null,
-        "title_original": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32522",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32522",
-          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32522",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c4c2ceef94f4",
-      "title": "Issue statuses and repository boards are in public preview",
-      "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "Issue statuses and repository boards are in public preview",
-          "title_zh": null,
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T20:37:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-          "title": "Issue statuses and repository boards are in public preview",
-          "title_zh": null,
-          "title_en": "Issue statuses and repository boards are in public preview",
-          "title_original": "Issue statuses and repository boards are in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-23T20:37:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5595,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T20:37:11Z",
-      "latest_at": "2026-11-23T20:37:11Z",
-      "primary_item": {
-        "id": "12ede07f3f701aadaf7c8c928c0f2f8fa887d17f",
-        "title": "Issue statuses and repository boards are in public preview",
-        "title_zh": null,
-        "title_en": "Issue statuses and repository boards are in public preview",
-        "title_original": "Issue statuses and repository boards are in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "GitHub Changelog",
-          "site_id": "official_ai",
-          "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
-          "title": "Issue statuses and repository boards are in public preview",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Issue statuses and repository boards are in public preview",
-          "claim_type": "confirmed",
-          "basis_source": "GitHub Changelog",
-          "basis_url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
