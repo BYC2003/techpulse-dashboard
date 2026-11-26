@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 04:30:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 14:18:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents</title>
-<link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+<title>推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+<link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+<pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+</item>
+<item>
+<title>H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research</title>
+<link>https://www.minimax.io/blog/minimax-h3-family</link>
+<guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-family</guid>
+<description>MiniMax Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
 </item>
 <item>
 <title>Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization</title>
@@ -24,6 +32,14 @@
 <pubDate>Wed, 25 Nov 2026 22:18:03 +0000</pubDate>
 </item>
 <item>
+<title>基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+</item>
+<item>
 <title>How to choose the next safe step in application modernization</title>
 <link>https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization</guid>
@@ -32,20 +48,44 @@
 <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>An Indic Voice Agent with CUGA</title>
-<link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+<title>Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP</title>
+<link>https://aihot.news/items/jcdfpftbam647yhc210dbace9</link>
+<guid isPermaLink="true">https://aihot.news/items/jcdfpftbam647yhc210dbace9</guid>
+<description>Philipp Schmid</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 13:30:28 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-<link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
-<guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
-<description>OpenAI News</description>
+<title>MiniMax 推出 H3 Family：旗舰与扩展视频图像模型</title>
+<link>https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf</link>
+<guid isPermaLink="true">https://aihot.news/items/cxodjj13xa8ey821rbnmumcrf</guid>
+<description>MiniMax：Blog</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
+</item>
+<item>
+<title>群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+<link>https://huggingface.co/blog/training-swarms</link>
+<guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号</title>
+<link>https://www.aibase.com/news/32549</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32549</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 14:18:30 +0000</pubDate>
+</item>
+<item>
+<title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
+<link>https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30</link>
+<guid isPermaLink="true">https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30</guid>
+<description>Rohan Paul</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 07:00:25 +0000</pubDate>
 </item>
 <item>
 <title>How Gemini is changing the game for Golden State's organization and fans.</title>
@@ -64,6 +104,14 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件</title>
+<link>https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh</link>
+<guid isPermaLink="true">https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh</guid>
+<description>Hacker News：AI 热帖</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义</title>
 <link>https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</link>
 <guid isPermaLink="true">https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</guid>
@@ -72,20 +120,12 @@
 <pubDate>Wed, 25 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
-<title>10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作</title>
-<link>https://www.aibase.com/news/32547</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32547</guid>
-<description>AIbase</description>
+<title>Dario Amodei 澄清不主张向 AI 交出人类自由意志</title>
+<link>https://aihot.news/items/e6gp31eup40d99unaon9umnpo</link>
+<guid isPermaLink="true">https://aihot.news/items/e6gp31eup40d99unaon9umnpo</guid>
+<description>Elon Musk</description>
 <category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 04:30:00 +0000</pubDate>
-</item>
-<item>
-<title>From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity</title>
-<link>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity</link>
-<guid isPermaLink="true">https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 13:07:53 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 19:12:53 +0000</pubDate>
 </item>
 <item>
 <title>42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录</title>
@@ -104,6 +144,14 @@
 <pubDate>Wed, 25 Nov 2026 17:31:32 +0000</pubDate>
 </item>
 <item>
+<title>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考</title>
+<link>https://www.aibase.com/news/32554</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32554</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 14:18:30 +0000</pubDate>
+</item>
+<item>
 <title>上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法</title>
 <link>https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam</link>
 <guid isPermaLink="true">https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam</guid>
@@ -118,54 +166,6 @@
 <description>OpenClaw</description>
 <category>行业动态</category>
 <pubDate>Wed, 25 Nov 2026 14:05:57 +0000</pubDate>
-</item>
-<item>
-<title>面壁智能等发布 EVIL 基准，测出 GPT-4o 等模型在违法场景下安全率不足</title>
-<link>https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx</link>
-<guid isPermaLink="true">https://aihot.news/items/ogucsvlqrdr1rvfh5nvx757cx</guid>
-<description>面壁智能 OpenBMB</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 13:00:09 +0000</pubDate>
-</item>
-<item>
-<title>OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机</title>
-<link>https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy</link>
-<guid isPermaLink="true">https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy</guid>
-<description>Calif：Research</description>
-<category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Pydantic AI 发布终端编码 agent Pax，并宣布 Harness 将在约一个月后进入 1.0</title>
-<link>https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo</link>
-<guid isPermaLink="true">https://aihot.news/items/i5qr52169dlque8rb2sl4i5jo</guid>
-<description>Pydantic AI 官方文章</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>More predictable notifications on GitHub.com</title>
-<link>https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
-</item>
-<item>
-<title>Searching for distant planets with Astra</title>
-<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
-<link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
-<guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
