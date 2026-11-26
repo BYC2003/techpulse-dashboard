@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:18:30.630493Z",
+  "generated_at": "2026-11-26T23:50:22.168804Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9619,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9672,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,8 +265,137 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_b832b7cb6cf7",
+      "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+      "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "primary_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "source": "ByteDance Seed Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "source": "ByteDance Seed Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T07:37:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ByteDance Seed Blog"
+      ],
+      "items": [
+        {
+          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "source": "ByteDance Seed Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T07:37:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7913,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T07:37:48Z",
+      "latest_at": "2026-11-26T07:37:48Z",
+      "primary_item": {
+        "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+        "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+        "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+        "source": "ByteDance Seed Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "ByteDance Seed Blog",
+          "site_id": "official_ai",
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "claim_type": "confirmed",
+          "basis_source": "ByteDance Seed Blog",
+          "basis_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_5d02dfd2e5bb",
-      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+      "title": "Copilot code review billing will default to the organization",
       "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
       "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
       "source": "GitHub Changelog",
@@ -274,8 +403,8 @@
       "sources": [
         {
           "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title": "Copilot code review billing will default to the organization",
+          "title_zh": null,
           "title_en": "Copilot code review billing will default to the organization",
           "title_original": "Copilot code review billing will default to the organization",
           "summary": null,
@@ -299,8 +428,8 @@
       "items": [
         {
           "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title": "Copilot code review billing will default to the organization",
+          "title_zh": null,
           "title_en": "Copilot code review billing will default to the organization",
           "title_original": "Copilot code review billing will default to the organization",
           "summary": null,
@@ -319,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7936,
+        "recency": 0.6916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,8 +469,8 @@
       "latest_at": "2026-11-25T22:18:03Z",
       "primary_item": {
         "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-        "title_zh": "Copilot 代码审查计费将默认由组织承担",
+        "title": "Copilot code review billing will default to the organization",
+        "title_zh": null,
         "title_en": "Copilot code review billing will default to the organization",
         "title_original": "Copilot code review billing will default to the organization",
         "summary": null,
@@ -369,7 +498,7 @@
           "source": "GitHub Changelog",
           "site_id": "official_ai",
           "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "title": "Copilot code review billing will default to the organization",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -378,7 +507,7 @@
       ],
       "key_claims": [
         {
-          "claim": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "claim": "Copilot code review billing will default to the organization",
           "claim_type": "confirmed",
           "basis_source": "GitHub Changelog",
           "basis_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
@@ -448,15 +577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8754,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -578,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7142,
+        "recency": 0.6224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,6 +782,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_b48ef90628e3",
+      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+      "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "primary_url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+      "source": "Ado Kukic",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "109703faef3119807708885c21c80f147acd34fc",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "title_zh": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "title_en": null,
+          "title_original": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "source": "Ado Kukic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T16:44:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ado Kukic"
+      ],
+      "items": [
+        {
+          "id": "109703faef3119807708885c21c80f147acd34fc",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "title_zh": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "title_en": null,
+          "title_original": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "source": "Ado Kukic",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T16:44:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9026,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T16:44:47Z",
+      "latest_at": "2026-11-26T16:44:47Z",
+      "primary_item": {
+        "id": "109703faef3119807708885c21c80f147acd34fc",
+        "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+        "title_zh": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+        "title_en": null,
+        "title_original": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+        "source": "Ado Kukic",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Ado Kukic",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
+          "claim_type": "reported",
+          "basis_source": "Ado Kukic",
+          "basis_url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_408cc28d1fa7",
       "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
       "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
@@ -707,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,7 +1172,7 @@
     },
     {
       "story_id": "story_22833905baff",
-      "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "url": "https://huggingface.co/blog/training-swarms",
       "primary_url": "https://huggingface.co/blog/training-swarms",
       "source": "Hugging Face Blog",
@@ -922,8 +1180,8 @@
       "sources": [
         {
           "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "title_zh": null,
           "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
           "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
           "summary": null,
@@ -947,8 +1205,8 @@
       "items": [
         {
           "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "title_zh": null,
           "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
           "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
           "summary": null,
@@ -967,15 +1225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8133,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -988,8 +1246,8 @@
       "latest_at": "2026-11-26T00:00:00Z",
       "primary_item": {
         "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-        "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "title_zh": null,
         "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
         "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
         "summary": null,
@@ -1001,15 +1259,15 @@
         "source_tier": "official",
         "source_tier_label": "官方一手源"
       },
-      "claim_status": "analysis",
-      "claim_status_label": "分析观点",
-      "claim_status_note": "标题包含推测、判断或评论信号，只能作为观点，不应直接写成事实。",
-      "claim_status_reason": "matched_analysis_signal",
-      "is_opinion": true,
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
       "primary_source_url": "https://huggingface.co/blog/training-swarms",
       "official_source_present": true,
-      "verification_level": "opinion",
-      "verification_score": 53,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
@@ -1017,7 +1275,7 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "url": "https://huggingface.co/blog/training-swarms",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -1026,8 +1284,8 @@
       ],
       "key_claims": [
         {
-          "claim": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "claim_type": "analysis",
+          "claim": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
           "basis_url": "https://huggingface.co/blog/training-swarms",
           "status": "source_available",
@@ -1042,29 +1300,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_8d9adf05ae74",
-      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-      "url": "https://www.aibase.com/news/32549",
-      "primary_url": "https://www.aibase.com/news/32549",
+      "story_id": "story_c75eda73f1b0",
+      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+      "url": "https://www.aibase.com/news/32554",
+      "primary_url": "https://www.aibase.com/news/32554",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32549",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T14:18:30.630493Z",
+          "published_at": "2026-11-26T17:50:22.168804Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1075,36 +1333,36 @@
       ],
       "items": [
         {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32549",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T14:18:30.630493Z",
+          "published_at": "2026-11-26T17:50:22.168804Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,17 +1370,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T14:18:30.630493Z",
-      "latest_at": "2026-11-26T14:18:30.630493Z",
+      "earliest_at": "2026-11-26T17:50:22.168804Z",
+      "latest_at": "2026-11-26T17:50:22.168804Z",
       "primary_item": {
-        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "title_en": null,
-        "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32549",
+        "url": "https://www.aibase.com/news/32554",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -1144,8 +1402,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32549",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "url": "https://www.aibase.com/news/32554",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -1154,15 +1412,16 @@
       ],
       "key_claims": [
         {
-          "claim": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "claim": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32549",
+          "basis_url": "https://www.aibase.com/news/32554",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
+        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -1225,21 +1484,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.7842,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T07:00:25Z",
       "latest_at": "2026-11-26T07:00:25Z",
@@ -1293,135 +1551,6 @@
       ],
       "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_8c2aab0e28f2",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "primary_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-          "title": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_zh": null,
-          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-          "title": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_zh": null,
-          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-24T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T16:00:00Z",
-      "latest_at": "2026-11-24T16:00:00Z",
-      "primary_item": {
-        "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-        "title": "How Gemini is changing the game for Golden State's organization and fans.",
-        "title_zh": null,
-        "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-        "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI Blog",
-          "site_id": "official_ai",
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "title": "How Gemini is changing the game for Golden State's organization and fans.",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "How Gemini is changing the game for Golden State's organization and fans.",
-          "claim_type": "confirmed",
-          "basis_source": "Google AI Blog",
-          "basis_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -1483,21 +1612,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T00:00:00Z",
       "latest_at": "2026-11-26T00:00:00Z",
@@ -1612,21 +1740,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T00:00:00Z",
       "latest_at": "2026-11-26T00:00:00Z",
@@ -1741,21 +1868,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8125,
+        "recency": 0.7081,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T23:56:00Z",
       "latest_at": "2026-11-25T23:56:00Z",
@@ -1870,15 +1996,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.759,
+        "recency": 0.6614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1944,6 +2070,136 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_8467615e6b8b",
+      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+      "url": "https://www.aibase.com/news/32555",
+      "primary_url": "https://www.aibase.com/news/32555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_en": null,
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T17:50:22.168804Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_en": null,
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T17:50:22.168804Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T17:50:22.168804Z",
+      "latest_at": "2026-11-26T17:50:22.168804Z",
+      "primary_item": {
+        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_en": null,
+        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32555",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32555",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32555",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_d5e2b49fdb3d",
       "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
       "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
@@ -1998,15 +2254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7415,
+        "recency": 0.6462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2126,15 +2382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.6455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2200,389 +2456,128 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_c75eda73f1b0",
-      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-      "url": "https://www.aibase.com/news/32554",
-      "primary_url": "https://www.aibase.com/news/32554",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_9ef31414a556",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "Where scientists draw the line on AI agents",
+          "title_zh": null,
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T14:18:30.630493Z",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T18:52:55Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "Where scientists draw the line on AI agents",
+          "title_zh": null,
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T14:18:30.630493Z",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T18:52:55Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6583,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T14:18:30.630493Z",
-      "latest_at": "2026-11-26T14:18:30.630493Z",
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
       "primary_item": {
-        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "title_en": null,
-        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "Where scientists draw the line on AI agents",
+        "title_zh": null,
+        "title_en": "Where scientists draw the line on AI agents",
+        "title_original": "Where scientists draw the line on AI agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32554",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
       },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
+      "primary_source_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
       "review_required": true,
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32554",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "title": "Where scientists draw the line on AI agents",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
           "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32554",
-          "status": "needs_primary_source",
+          "claim": "Where scientists draw the line on AI agents",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_61158f0e1131",
-      "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-      "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-      "primary_url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-      "source": "Google AI：DEV 作者专属",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
-          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "title_en": null,
-          "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-          "source": "Google AI：DEV 作者专属",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T16:19:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属"
-      ],
-      "items": [
-        {
-          "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
-          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "title_en": null,
-          "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-          "source": "Google AI：DEV 作者专属",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T16:19:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.728,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T16:19:30Z",
-      "latest_at": "2026-11-25T16:19:30Z",
-      "primary_item": {
-        "id": "eb0f662e07c117029cdb371b15717ced1b7b1411",
-        "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-        "title_zh": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-        "title_en": null,
-        "title_original": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-        "source": "Google AI：DEV 作者专属",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Google AI：DEV 作者专属",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-          "title": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法",
-          "claim_type": "reported",
-          "basis_source": "Google AI：DEV 作者专属",
-          "basis_url": "https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_38812ef2d583",
-      "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-      "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-      "primary_url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-      "source": "OpenClaw",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
-          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "title_en": null,
-          "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-          "source": "OpenClaw",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T14:05:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenClaw"
-      ],
-      "items": [
-        {
-          "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
-          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "title_en": null,
-          "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-          "source": "OpenClaw",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T14:05:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.705,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T14:05:57Z",
-      "latest_at": "2026-11-25T14:05:57Z",
-      "primary_item": {
-        "id": "810f48955d680b539278bc7ca1b223bb9f412da0",
-        "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-        "title_zh": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-        "title_en": null,
-        "title_original": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-        "source": "OpenClaw",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "OpenClaw",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-          "title": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff",
-          "claim_type": "reported",
-          "basis_source": "OpenClaw",
-          "basis_url": "https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,

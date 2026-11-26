@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 14:18:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:50:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -24,7 +24,15 @@
 <pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
 </item>
 <item>
-<title>Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization</title>
+<title>SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction</title>
+<link>https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</link>
+<guid isPermaLink="true">https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</guid>
+<description>ByteDance Seed Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 07:37:48 +0000</pubDate>
+</item>
+<item>
+<title>Copilot code review billing will default to the organization</title>
 <link>https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization</guid>
 <description>GitHub Changelog</description>
@@ -48,6 +56,14 @@
 <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
+<link>https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</link>
+<guid isPermaLink="true">https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</guid>
+<description>Ado Kukic</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 16:44:47 +0000</pubDate>
+</item>
+<item>
 <title>Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP</title>
 <link>https://aihot.news/items/jcdfpftbam647yhc210dbace9</link>
 <guid isPermaLink="true">https://aihot.news/items/jcdfpftbam647yhc210dbace9</guid>
@@ -64,7 +80,7 @@
 <pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
 </item>
 <item>
-<title>群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+<title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
 <link>https://huggingface.co/blog/training-swarms</link>
 <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
 <description>Hugging Face Blog</description>
@@ -72,12 +88,12 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号</title>
-<link>https://www.aibase.com/news/32549</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32549</guid>
+<title>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考</title>
+<link>https://www.aibase.com/news/32554</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32554</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 14:18:30 +0000</pubDate>
+<pubDate>Thu, 26 Nov 2026 17:50:22 +0000</pubDate>
 </item>
 <item>
 <title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
@@ -86,14 +102,6 @@
 <description>Rohan Paul</description>
 <category>行业动态</category>
 <pubDate>Thu, 26 Nov 2026 07:00:25 +0000</pubDate>
-</item>
-<item>
-<title>How Gemini is changing the game for Golden State's organization and fans.</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露</title>
@@ -128,6 +136,14 @@
 <pubDate>Wed, 25 Nov 2026 19:12:53 +0000</pubDate>
 </item>
 <item>
+<title>不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速</title>
+<link>https://www.aibase.com/news/32555</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32555</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 17:50:22 +0000</pubDate>
+</item>
+<item>
 <title>42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录</title>
 <link>https://aihot.news/items/j0hoj1rlmltoft6okserijp25</link>
 <guid isPermaLink="true">https://aihot.news/items/j0hoj1rlmltoft6okserijp25</guid>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 25 Nov 2026 17:31:32 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考</title>
-<link>https://www.aibase.com/news/32554</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32554</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 14:18:30 +0000</pubDate>
-</item>
-<item>
-<title>上下文漂移如何影响你的 AI Agent：470 项实验与一个免费的 MCP 解法</title>
-<link>https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam</link>
-<guid isPermaLink="true">https://aihot.news/items/br6usy3mxv1q0mzxhgf9y8qam</guid>
-<description>Google AI：DEV 作者专属</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 16:19:30 +0000</pubDate>
-</item>
-<item>
-<title>OpenClaw 2026.11.10 发布，新增 Deep Research、Knowledge 记忆系统与 Browser handoff</title>
-<link>https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78</link>
-<guid isPermaLink="true">https://aihot.news/items/vz3bvc1o7zuki3x2zw8lnnv78</guid>
-<description>OpenClaw</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 14:05:57 +0000</pubDate>
+<title>Where scientists draw the line on AI agents</title>
+<link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
 </item>
 </channel>
 </rss>
