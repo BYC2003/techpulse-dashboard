@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:55:59.639309Z",
+  "generated_at": "2026-11-27T08:25:30.400784Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7788,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -135,7 +135,7 @@
     },
     {
       "story_id": "story_ab5bcf5239fd",
-      "title": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
+      "title": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
       "url": "https://www.minimax.io/blog/minimax-h3-family",
       "primary_url": "https://www.minimax.io/blog/minimax-h3-family",
       "source": "MiniMax Blog",
@@ -143,8 +143,8 @@
       "sources": [
         {
           "id": "0814a852efec8bf45dae3bfa21d1b53d911aefbe",
-          "title": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
-          "title_zh": "H3 系列：模型、社区和下一步 - MiniMax Research",
+          "title": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
+          "title_zh": null,
           "title_en": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "title_original": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "summary": null,
@@ -168,8 +168,8 @@
       "items": [
         {
           "id": "0814a852efec8bf45dae3bfa21d1b53d911aefbe",
-          "title": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
-          "title_zh": "H3 系列：模型、社区和下一步 - MiniMax Research",
+          "title": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
+          "title_zh": null,
           "title_en": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "title_original": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "summary": null,
@@ -188,15 +188,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7831,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -209,8 +209,8 @@
       "latest_at": "2026-11-26T12:00:09Z",
       "primary_item": {
         "id": "0814a852efec8bf45dae3bfa21d1b53d911aefbe",
-        "title": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
-        "title_zh": "H3 系列：模型、社区和下一步 - MiniMax Research",
+        "title": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
+        "title_zh": null,
         "title_en": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
         "title_original": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
         "summary": null,
@@ -238,7 +238,7 @@
           "source": "MiniMax Blog",
           "site_id": "official_ai",
           "url": "https://www.minimax.io/blog/minimax-h3-family",
-          "title": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
+          "title": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -247,7 +247,7 @@
       ],
       "key_claims": [
         {
-          "claim": "H3 系列：模型、社区和下一步 - MiniMax Research / The H3 Family: Models, Community, and What's Next - MiniMax Research",
+          "claim": "The H3 Family: Models, Community, and What's Next - MiniMax Research",
           "claim_type": "confirmed",
           "basis_source": "MiniMax Blog",
           "basis_url": "https://www.minimax.io/blog/minimax-h3-family",
@@ -318,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7352,
+        "recency": 0.699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,6 +393,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_1ad1bb622cb3",
+      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+      "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "primary_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_en": null,
+          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T07:21:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_en": null,
+          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T07:21:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T07:21:40Z",
+      "latest_at": "2026-11-27T07:21:40Z",
+      "primary_item": {
+        "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+        "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "title_en": null,
+        "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Rohan Paul",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "claim_type": "reported",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_5d02dfd2e5bb",
       "title": "Copilot code review billing will default to the organization",
       "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
@@ -447,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6425,
+        "recency": 0.6109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -576,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7087,
+        "recency": 0.6739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,6 +780,136 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_ebc0327a2e55",
+      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+      "url": "https://www.aibase.com/news/32574",
+      "primary_url": "https://www.aibase.com/news/32574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:25:30.400784Z",
+      "latest_at": "2026-11-27T08:25:30.400784Z",
+      "primary_item": {
+        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_en": null,
+        "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32574",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32574",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32574",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_761e7b979f15",
       "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
       "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
@@ -705,15 +964,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5782,
+        "recency": 0.5498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,135 +1168,6 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_8039e997c594",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:55:59.639309Z",
-      "latest_at": "2026-11-27T04:55:59.639309Z",
-      "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_en": null,
-        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32560",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32560",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32560",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
       "story_id": "story_b48ef90628e3",
       "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
       "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
@@ -1092,21 +1222,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.7974,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T16:44:47Z",
       "latest_at": "2026-11-26T16:44:47Z",
@@ -1221,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8003,
+        "recency": 0.761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1349,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1479,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6585,
+        "recency": 0.6261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1554,6 +1683,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_8039e997c594",
+      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+      "url": "https://www.aibase.com/news/32560",
+      "primary_url": "https://www.aibase.com/news/32560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_en": null,
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_en": null,
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:25:30.400784Z",
+      "latest_at": "2026-11-27T08:25:30.400784Z",
+      "primary_item": {
+        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_en": null,
+        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32560",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32560",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32560",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_1e0690f0af65",
       "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
       "url": "https://www.aibase.com/news/32558",
@@ -1576,7 +1834,7 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
+          "published_at": "2026-11-27T08:25:30.400784Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1601,7 +1859,7 @@
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
+          "published_at": "2026-11-27T08:25:30.400784Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1624,8 +1882,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T04:55:59.639309Z",
-      "latest_at": "2026-11-27T04:55:59.639309Z",
+      "earliest_at": "2026-11-27T08:25:30.400784Z",
+      "latest_at": "2026-11-27T08:25:30.400784Z",
       "primary_item": {
         "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
         "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
@@ -1737,15 +1995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.6928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1798,391 +2056,6 @@
           "claim_type": "reported",
           "basis_source": "Rohan Paul",
           "basis_url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_e899497322a0",
-      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-      "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-      "primary_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-      "source": "Calif：Research",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "title_en": null,
-          "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Calif：Research"
-      ],
-      "items": [
-        {
-          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "title_en": null,
-          "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6585,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
-      "primary_item": {
-        "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
-        "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-        "title_zh": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-        "title_en": null,
-        "title_original": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-        "source": "Calif：Research",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Calif：Research",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
-          "claim_type": "reported",
-          "basis_source": "Calif：Research",
-          "basis_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_f4f4d73d14c1",
-      "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-      "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-      "primary_url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "21dd3d6ac9879a622a023cfdd95fd3a7df89f751",
-          "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "title_zh": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "title_en": null,
-          "title_original": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "21dd3d6ac9879a622a023cfdd95fd3a7df89f751",
-          "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "title_zh": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "title_en": null,
-          "title_original": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6585,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
-      "primary_item": {
-        "id": "21dd3d6ac9879a622a023cfdd95fd3a7df89f751",
-        "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-        "title_zh": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-        "title_en": null,
-        "title_original": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hacker News：AI 热帖",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-          "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
-          "claim_type": "reported",
-          "basis_source": "Hacker News：AI 热帖",
-          "basis_url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_d64538dcce5d",
-      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-      "url": "https://www.aibase.com/news/32564",
-      "primary_url": "https://www.aibase.com/news/32564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T04:55:59.639309Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:55:59.639309Z",
-      "latest_at": "2026-11-27T04:55:59.639309Z",
-      "primary_item": {
-        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_en": null,
-        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32564",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32564",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32564",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2250,15 +2123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6116,
+        "recency": 0.5815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2325,89 +2198,90 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_f23d81739695",
-      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-      "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-      "primary_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-      "source": "Calif：Research",
-      "source_name": "AI HOT",
+      "story_id": "story_7525e2fde9a9",
+      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+      "url": "https://www.aibase.com/news/32577",
+      "primary_url": "https://www.aibase.com/news/32577",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "title_en": null,
-          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
+          "published_at": "2026-11-27T08:25:30.400784Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Calif：Research"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "title_en": null,
-          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-          "source": "Calif：Research",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T00:00:00Z",
+          "published_at": "2026-11-27T08:25:30.400784Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6585,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
+      "earliest_at": "2026-11-27T08:25:30.400784Z",
+      "latest_at": "2026-11-27T08:25:30.400784Z",
       "primary_item": {
-        "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
-        "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
-        "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
         "title_en": null,
-        "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-        "source": "Calif：Research",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
+        "url": "https://www.aibase.com/news/32577",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源"
       },
@@ -2424,22 +2298,22 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Calif：Research",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
-          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32577",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
+          "role": "primary_report",
+          "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "claim": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "claim_type": "reported",
-          "basis_source": "Calif：Research",
-          "basis_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32577",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2453,89 +2327,219 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_6ff05624158a",
-      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_34d415b543f1",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "primary_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_en": null,
-          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
+          "title_en": "An Indic Voice Agent with CUGA",
+          "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T23:56:00Z",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T10:22:09Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_en": null,
-          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
+          "title_en": "An Indic Voice Agent with CUGA",
+          "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T23:56:00Z",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-25T10:22:09Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T10:22:09Z",
+      "latest_at": "2026-11-25T10:22:09Z",
+      "primary_item": {
+        "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+        "title": "An Indic Voice Agent with CUGA",
+        "title_zh": null,
+        "title_en": "An Indic Voice Agent with CUGA",
+        "title_original": "An Indic Voice Agent with CUGA",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "title": "An Indic Voice Agent with CUGA",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "An Indic Voice Agent with CUGA",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_d64538dcce5d",
+      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+      "url": "https://www.aibase.com/news/32564",
+      "primary_url": "https://www.aibase.com/news/32564",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T08:25:30.400784Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6579,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-25T23:56:00Z",
-      "latest_at": "2026-11-25T23:56:00Z",
+      "earliest_at": "2026-11-27T08:25:30.400784Z",
+      "latest_at": "2026-11-27T08:25:30.400784Z",
       "primary_item": {
-        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-        "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
         "title_en": null,
-        "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
+        "url": "https://www.aibase.com/news/32564",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
         "source_tier": "ai_vertical",
         "source_tier_label": "AI垂直源"
       },
@@ -2552,22 +2556,22 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32564",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
+          "role": "primary_report",
+          "is_aggregator": false
         }
       ],
       "key_claims": [
         {
-          "claim": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "claim": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32564",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }

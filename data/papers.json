@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:00:27.094877+00:00",
+  "generated_at": "2026-11-27T08:29:58.890884+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,43 +388,14 @@
           "Yidi Wu"
         ],
         "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 107,
+        "upvotes": 108,
         "comments": 3,
-        "discussion_score": 1076.89,
+        "discussion_score": 1086.89,
         "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline. This leads to N times M integrations when evaluating N methods on M benchmarks. To this end, we present Real2SimLab, a unified plat…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.34849",
         "arxiv_url": "https://arxiv.org/abs/2611.34849",
         "discussion_url": "https://huggingface.co/papers/2611.34849",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.32884",
-        "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
-        "authors": [
-          "Richmond Sin Jing Xuan",
-          "Peilin Feng",
-          "Wenbin Wang",
-          "Soujanya Poria"
-        ],
-        "published_at": "2026-11-24T00:00:00+00:00",
-        "upvotes": 98,
-        "comments": 10,
-        "discussion_score": 1000.85,
-        "summary": "A reinforcement learning method rewards agents for delaying commitment until their inferred posterior over answers is sufficiently narrow, improving evidence-based answering across vision-language benchmarks.",
-        "keywords": [
-          "Reinforcement Learning with Verifiable Beliefs (RLVB)",
-          "outcome reward",
-          "process reward",
-          "reward model",
-          "critic",
-          "LLM judge",
-          "GRPO",
-          "PPO"
-        ],
-        "url": "https://arxiv.org/abs/2611.32884",
-        "arxiv_url": "https://arxiv.org/abs/2611.32884",
-        "discussion_url": "https://huggingface.co/papers/2611.32884",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -452,6 +423,39 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.34232",
+        "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+        "authors": [
+          "Hui Shen",
+          "Yunta Hsieh",
+          "Jianing Ma",
+          "Zhuoran Yin",
+          "Zhuhan Bao",
+          "Ziyuan Liu",
+          "Qi Han",
+          "Xiuqi Xu"
+        ],
+        "published_at": "2026-11-25T00:00:00+00:00",
+        "upvotes": 83,
+        "comments": 2,
+        "discussion_score": 834.89,
+        "summary": "A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.",
+        "keywords": [
+          "computer-using agents",
+          "generalist agent",
+          "long-horizon workflows",
+          "cross-platform benchmark",
+          "execution environment",
+          "platform-specific adapters",
+          "trajectory logging",
+          "executable final-state evaluators"
+        ],
+        "url": "https://arxiv.org/abs/2611.34232",
+        "arxiv_url": "https://arxiv.org/abs/2611.34232",
+        "discussion_url": "https://huggingface.co/papers/2611.34232",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.31358",
         "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
         "authors": [
@@ -467,12 +471,36 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 82,
         "comments": 3,
-        "discussion_score": 826.8,
+        "discussion_score": 826.79,
         "summary": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.31358",
         "arxiv_url": "https://arxiv.org/abs/2611.31358",
         "discussion_url": "https://huggingface.co/papers/2611.31358",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
+        "id": "2611.34051",
+        "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+        "authors": [
+          "Xichong Zhang",
+          "Xixuan Hao",
+          "Zhichen Liu",
+          "Le Zhou",
+          "Zeyu Zhang",
+          "Boyu Chen",
+          "Mingfei Lu",
+          "Zehao Lin"
+        ],
+        "published_at": "2026-11-25T00:00:00+00:00",
+        "upvotes": 79,
+        "comments": 2,
+        "discussion_score": 794.89,
+        "summary": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry between reading and modification directions during erasure, which yields non-normal erase operators whose directional gains…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.34051",
+        "arxiv_url": "https://arxiv.org/abs/2611.34051",
+        "discussion_url": "https://huggingface.co/papers/2611.34051",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -487,9 +515,9 @@
           "Xiang Bai"
         ],
         "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 66,
+        "upvotes": 69,
         "comments": 2,
-        "discussion_score": 664.89,
+        "discussion_score": 694.89,
         "summary": "A Mixture-of-Loops Transformer reuses key-value memory across loops and depths, and its U-shaped variant improves pretraining efficiency and inference latency.",
         "keywords": [
           "Looped Transformers",
@@ -518,7 +546,7 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 57,
         "comments": 4,
-        "discussion_score": 578.8,
+        "discussion_score": 578.79,
         "summary": "A dynamic looped mixture-of-experts diffusion transformer reuses shared parameters and varies compute across noise levels, improving image generation quality under matched budgets.",
         "keywords": [
           "Diffusion Transformers",
@@ -557,30 +585,6 @@
         "url": "https://arxiv.org/abs/2611.34237",
         "arxiv_url": "https://arxiv.org/abs/2611.34237",
         "discussion_url": "https://huggingface.co/papers/2611.34237",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.34051",
-        "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
-        "authors": [
-          "Xichong Zhang",
-          "Xixuan Hao",
-          "Zhichen Liu",
-          "Le Zhou",
-          "Zeyu Zhang",
-          "Boyu Chen",
-          "Mingfei Lu",
-          "Zehao Lin"
-        ],
-        "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 52,
-        "comments": 2,
-        "discussion_score": 524.89,
-        "summary": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry between reading and modification directions during erasure, which yields non-normal erase operators whose directional gains…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.34051",
-        "arxiv_url": "https://arxiv.org/abs/2611.34051",
-        "discussion_url": "https://huggingface.co/papers/2611.34051",
         "source": "Hugging Face Daily Papers"
       },
       {
@@ -631,7 +635,7 @@
         "published_at": "2026-11-24T00:00:00+00:00",
         "upvotes": 44,
         "comments": 3,
-        "discussion_score": 446.85,
+        "discussion_score": 446.84,
         "summary": "A framework enables coding agents to develop dexterous manipulation policies without demonstrations by exploring and distilling successful attempts into a program, then refining it for strong simulated and real-world results.",
         "keywords": [
           "dexterous manipulation",
