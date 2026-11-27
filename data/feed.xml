@@ -5,23 +5,15 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:25:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 14:53:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-<link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+<title>让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+<link>https://huggingface.co/blog/video-trainium3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/video-trainium3</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
-</item>
-<item>
-<title>The H3 Family: Models, Community, and What's Next - MiniMax Research</title>
-<link>https://www.minimax.io/blog/minimax-h3-family</link>
-<guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-family</guid>
-<description>MiniMax Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction</title>
@@ -32,12 +24,36 @@
 <pubDate>Thu, 26 Nov 2026 07:37:48 +0000</pubDate>
 </item>
 <item>
-<title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
-<link>https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96</link>
-<guid isPermaLink="true">https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96</guid>
-<description>Rohan Paul</description>
+<title>The H3 Family: Models, Community, and What's Next - MiniMax Research</title>
+<link>https://www.minimax.io/blog/minimax-h3-family</link>
+<guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-family</guid>
+<description>MiniMax Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
+</item>
+<item>
+<title>OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction</title>
+<link>https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw</link>
+<guid isPermaLink="true">https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw</guid>
+<description>面壁智能 OpenBMB</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 07:21:40 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 13:32:15 +0000</pubDate>
+</item>
+<item>
+<title>Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报</title>
+<link>https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc</link>
+<guid isPermaLink="true">https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc</guid>
+<description>卡兹克</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 12:38:45 +0000</pubDate>
+</item>
+<item>
+<title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+<link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
 </item>
 <item>
 <title>Copilot code review billing will default to the organization</title>
@@ -48,28 +64,20 @@
 <pubDate>Wed, 25 Nov 2026 22:18:03 +0000</pubDate>
 </item>
 <item>
-<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
-<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
-</item>
-<item>
-<title>90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”</title>
-<link>https://www.aibase.com/news/32574</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32574</guid>
+<title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
+<link>https://www.aibase.com/news/32579</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32579</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 08:25:30 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 14:53:54 +0000</pubDate>
 </item>
 <item>
-<title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
-<link>https://aihot.news/items/cdkswjz368inpelrz3f52rekx</link>
-<guid isPermaLink="true">https://aihot.news/items/cdkswjz368inpelrz3f52rekx</guid>
-<description>公众号：数字生命卡兹克</description>
+<title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
+<link>https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96</link>
+<guid isPermaLink="true">https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96</guid>
+<description>Rohan Paul</description>
 <category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 07:21:40 +0000</pubDate>
 </item>
 <item>
 <title>How to choose the next safe step in application modernization</title>
@@ -80,12 +88,36 @@
 <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
+<link>https://aihot.news/items/cdkswjz368inpelrz3f52rekx</link>
+<guid isPermaLink="true">https://aihot.news/items/cdkswjz368inpelrz3f52rekx</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
+</item>
+<item>
+<title>90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”</title>
+<link>https://www.aibase.com/news/32574</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32574</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 14:53:54 +0000</pubDate>
+</item>
+<item>
 <title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
 <link>https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</link>
 <guid isPermaLink="true">https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</guid>
 <description>Ado Kukic</description>
 <category>行业动态</category>
 <pubDate>Thu, 26 Nov 2026 16:44:47 +0000</pubDate>
+</item>
+<item>
+<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
 </item>
 <item>
 <title>Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP</title>
@@ -104,6 +136,14 @@
 <pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
 </item>
 <item>
+<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
+<link>https://www.aibase.com/news/32580</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 14:53:54 +0000</pubDate>
+</item>
+<item>
 <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
 <link>https://huggingface.co/blog/training-swarms</link>
 <guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
@@ -112,28 +152,12 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手</title>
-<link>https://www.aibase.com/news/32560</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32560</guid>
+<title>JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降</title>
+<link>https://www.aibase.com/news/32577</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32577</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 08:25:30 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重</title>
-<link>https://www.aibase.com/news/32558</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32558</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 08:25:30 +0000</pubDate>
-</item>
-<item>
-<title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
-<link>https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30</link>
-<guid isPermaLink="true">https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30</guid>
-<description>Rohan Paul</description>
-<category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 07:00:25 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 14:53:54 +0000</pubDate>
 </item>
 <item>
 <title>Where scientists draw the line on AI agents</title>
@@ -142,30 +166,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
-</item>
-<item>
-<title>JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降</title>
-<link>https://www.aibase.com/news/32577</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32577</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 08:25:30 +0000</pubDate>
-</item>
-<item>
-<title>An Indic Voice Agent with CUGA</title>
-<link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4</title>
-<link>https://www.aibase.com/news/32564</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32564</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 08:25:30 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-27T08:25:30.400784Z",
+  "generated_at": "2026-11-27T14:53:54.578531Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_70e53371dbeb",
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "story_id": "story_ea3f87ca002e",
+      "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "primary_url": "https://huggingface.co/blog/video-trainium3",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": null,
-          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "url": "https://huggingface.co/blog/video-trainium3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-26T11:37:17Z",
+          "published_at": "2026-11-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -37,36 +37,36 @@
       ],
       "items": [
         {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": null,
-          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "url": "https://huggingface.co/blog/video-trainium3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "source_tier": "official",
           "source_tier_label": "官方一手源",
           "source_tier_rank": 0,
-          "published_at": "2026-11-26T11:37:17Z",
+          "published_at": "2026-11-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7405,
+        "ai_relevance": 0.95,
+        "recency": 0.8064,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,17 +75,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T11:37:17Z",
-      "latest_at": "2026-11-26T11:37:17Z",
+      "earliest_at": "2026-11-27T00:00:00Z",
+      "latest_at": "2026-11-27T00:00:00Z",
       "primary_item": {
-        "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "title_zh": null,
-        "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+        "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+        "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "url": "https://huggingface.co/blog/video-trainium3",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "site_id": "official_ai",
@@ -97,7 +97,7 @@
       "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
       "claim_status_reason": "primary_item_is_official",
       "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "primary_source_url": "https://huggingface.co/blog/video-trainium3",
       "official_source_present": true,
       "verification_level": "primary_confirmed",
       "verification_score": 87,
@@ -107,8 +107,8 @@
         {
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/video-trainium3",
+          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,16 +117,144 @@
       ],
       "key_claims": [
         {
-          "claim": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "claim": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "basis_url": "https://huggingface.co/blog/video-trainium3",
           "status": "source_available",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_b832b7cb6cf7",
+      "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+      "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "primary_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "source": "ByteDance Seed Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": null,
+          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "source": "ByteDance Seed Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T07:37:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ByteDance Seed Blog"
+      ],
+      "items": [
+        {
+          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": null,
+          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "source": "ByteDance Seed Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T07:37:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6367,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T07:37:48Z",
+      "latest_at": "2026-11-26T07:37:48Z",
+      "primary_item": {
+        "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
+        "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "title_zh": null,
+        "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+        "source": "ByteDance Seed Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "ByteDance Seed Blog",
+          "site_id": "official_ai",
+          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "claim_type": "confirmed",
+          "basis_source": "ByteDance Seed Blog",
+          "basis_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -188,15 +316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7446,
+        "recency": 0.6781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,198 +392,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_b832b7cb6cf7",
-      "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-      "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-      "primary_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-      "source": "ByteDance Seed Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_zh": null,
-          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-          "source": "ByteDance Seed Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-26T07:37:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ByteDance Seed Blog"
-      ],
-      "items": [
-        {
-          "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_zh": null,
-          "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-          "source": "ByteDance Seed Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-26T07:37:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.699,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T07:37:48Z",
-      "latest_at": "2026-11-26T07:37:48Z",
-      "primary_item": {
-        "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-        "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-        "title_zh": null,
-        "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-        "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-        "source": "ByteDance Seed Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "ByteDance Seed Blog",
-          "site_id": "official_ai",
-          "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "claim_type": "confirmed",
-          "basis_source": "ByteDance Seed Blog",
-          "basis_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_1ad1bb622cb3",
-      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-      "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-      "primary_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-      "source": "Rohan Paul",
+      "story_id": "story_2ba1e553f60c",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "primary_url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "source": "面壁智能 OpenBMB",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "title_zh": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "title_en": null,
-          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_original": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-          "source": "Rohan Paul",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T07:21:40Z",
+          "published_at": "2026-11-27T13:32:15Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Rohan Paul"
+        "面壁智能 OpenBMB"
       ],
       "items": [
         {
-          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "title_zh": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "title_en": null,
-          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_original": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-          "source": "Rohan Paul",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T07:21:40Z",
+          "published_at": "2026-11-27T13:32:15Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9848,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -463,18 +462,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T07:21:40Z",
-      "latest_at": "2026-11-27T07:21:40Z",
+      "earliest_at": "2026-11-27T13:32:15Z",
+      "latest_at": "2026-11-27T13:32:15Z",
       "primary_item": {
-        "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
-        "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-        "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+        "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+        "title_zh": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
         "title_en": null,
-        "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "title_original": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-        "source": "Rohan Paul",
+        "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+        "source": "面壁智能 OpenBMB",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -493,10 +492,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "Rohan Paul",
+          "source": "面壁智能 OpenBMB",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -505,16 +504,276 @@
       ],
       "key_claims": [
         {
-          "claim": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "claim": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
           "claim_type": "reported",
-          "basis_source": "Rohan Paul",
-          "basis_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "basis_source": "面壁智能 OpenBMB",
+          "basis_url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_3a2aa11acb0d",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "primary_url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "title_zh": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "title_en": null,
+          "title_original": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T12:38:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "title_zh": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "title_en": null,
+          "title_original": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T12:38:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T12:38:45Z",
+      "latest_at": "2026-11-27T12:38:45Z",
+      "primary_item": {
+        "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+        "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+        "title_zh": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+        "title_en": null,
+        "title_original": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+        "source": "卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "claim_type": "reported",
+          "basis_source": "卡兹克",
+          "basis_url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_70e53371dbeb",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": null,
+          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T11:37:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": null,
+          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T11:37:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.6744,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T11:37:17Z",
+      "latest_at": "2026-11-26T11:37:17Z",
+      "primary_item": {
+        "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "title_zh": null,
+        "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -576,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6109,
+        "recency": 0.5564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,158 +910,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_899fac7e23dc",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": null,
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-26T05:05:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": null,
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-26T05:05:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6739,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T05:05:36Z",
-      "latest_at": "2026-11-26T05:05:36Z",
-      "primary_item": {
-        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_zh": null,
-        "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_ebc0327a2e55",
-      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-      "url": "https://www.aibase.com/news/32574",
-      "primary_url": "https://www.aibase.com/news/32574",
+      "story_id": "story_4cefc7ededb0",
+      "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+      "url": "https://www.aibase.com/news/32579",
+      "primary_url": "https://www.aibase.com/news/32579",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "title_en": null,
-          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32574",
+          "url": "https://www.aibase.com/news/32579",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
+          "published_at": "2026-11-27T14:53:54.578531Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -813,21 +943,21 @@
       ],
       "items": [
         {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "title_en": null,
-          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32574",
+          "url": "https://www.aibase.com/news/32579",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
+          "published_at": "2026-11-27T14:53:54.578531Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -850,17 +980,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T08:25:30.400784Z",
-      "latest_at": "2026-11-27T08:25:30.400784Z",
+      "earliest_at": "2026-11-27T14:53:54.578531Z",
+      "latest_at": "2026-11-27T14:53:54.578531Z",
       "primary_item": {
-        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-        "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+        "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+        "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
         "title_en": null,
-        "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32574",
+        "url": "https://www.aibase.com/news/32579",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -882,8 +1012,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32574",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "url": "https://www.aibase.com/news/32579",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -892,16 +1022,16 @@
       ],
       "key_claims": [
         {
-          "claim": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "claim": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32574",
+          "basis_url": "https://www.aibase.com/news/32579",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -910,69 +1040,69 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_761e7b979f15",
-      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-      "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-      "primary_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_1ad1bb622cb3",
+      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+      "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "primary_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+      "source": "Rohan Paul",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "title_en": null,
-          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T23:56:00Z",
+          "published_at": "2026-11-27T07:21:40Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "Rohan Paul"
       ],
       "items": [
         {
-          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+          "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "title_en": null,
-          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T23:56:00Z",
+          "published_at": "2026-11-27T07:21:40Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -980,18 +1110,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T23:56:00Z",
-      "latest_at": "2026-11-26T23:56:00Z",
+      "earliest_at": "2026-11-27T07:21:40Z",
+      "latest_at": "2026-11-27T07:21:40Z",
       "primary_item": {
-        "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-        "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-        "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "id": "a07e5bffc5148db025b36448c8dc490936a33b88",
+        "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
+        "title_zh": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
         "title_en": null,
-        "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "title_original": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-        "source": "公众号：数字生命卡兹克",
+        "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+        "source": "Rohan Paul",
         "source_name": "AI HOT",
         "site_id": "aihot",
         "source_tier": "ai_vertical",
@@ -1010,10 +1140,10 @@
       "publish_ready": false,
       "source_chain": [
         {
-          "source": "公众号：数字生命卡兹克",
+          "source": "Rohan Paul",
           "site_id": "aihot",
-          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
+          "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "aggregator",
@@ -1022,10 +1152,10 @@
       ],
       "key_claims": [
         {
-          "claim": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "claim": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
           "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "basis_source": "Rohan Paul",
+          "basis_url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -1093,15 +1223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5498,
+        "recency": 0.5007,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1168,6 +1298,265 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_761e7b979f15",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "primary_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_en": null,
+          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_en": null,
+          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8057,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T23:56:00Z",
+      "latest_at": "2026-11-26T23:56:00Z",
+      "primary_item": {
+        "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+        "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "title_en": null,
+        "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "claim_type": "reported",
+          "basis_source": "公众号：数字生命卡兹克",
+          "basis_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_ebc0327a2e55",
+      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+      "url": "https://www.aibase.com/news/32574",
+      "primary_url": "https://www.aibase.com/news/32574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T14:53:54.578531Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T14:53:54.578531Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T14:53:54.578531Z",
+      "latest_at": "2026-11-27T14:53:54.578531Z",
+      "primary_item": {
+        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_en": null,
+        "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32574",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32574",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32574",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "价格、币种、优惠期限和适用套餐需以官方页面为准。",
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_b48ef90628e3",
       "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
       "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
@@ -1222,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7974,
+        "recency": 0.7262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,6 +1685,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_899fac7e23dc",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": null,
+          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T05:05:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": null,
+          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "source_tier": "official",
+          "source_tier_label": "官方一手源",
+          "source_tier_rank": 0,
+          "published_at": "2026-11-26T05:05:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6138,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T05:05:36Z",
+      "latest_at": "2026-11-26T05:05:36Z",
+      "primary_item": {
+        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_zh": null,
+        "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "site_id": "official_ai",
+        "source_tier": "official",
+        "source_tier_label": "官方一手源"
+      },
+      "claim_status": "confirmed",
+      "claim_status_label": "已确认",
+      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
+      "claim_status_reason": "primary_item_is_official",
+      "is_opinion": false,
+      "primary_source_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "official_source_present": true,
+      "verification_level": "primary_confirmed",
+      "verification_score": 87,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "source_tier": "official",
+          "source_tier_label": "官方一手",
+          "role": "primary_source",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "claim_type": "confirmed",
+          "basis_source": "Hugging Face Blog",
+          "basis_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "status": "source_available",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_408cc28d1fa7",
       "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
       "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
@@ -1350,15 +1868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.761,
+        "recency": 0.693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,15 +1996,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.6781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1554,6 +2072,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_f707740900a2",
+      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+      "url": "https://www.aibase.com/news/32580",
+      "primary_url": "https://www.aibase.com/news/32580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T14:53:54.578531Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T14:53:54.578531Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T14:53:54.578531Z",
+      "latest_at": "2026-11-27T14:53:54.578531Z",
+      "primary_item": {
+        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_en": null,
+        "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32580",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32580",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32580",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_22833905baff",
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "url": "https://huggingface.co/blog/training-swarms",
@@ -1608,15 +2255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6261,
+        "recency": 0.5702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1683,29 +2330,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_8039e997c594",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
+      "story_id": "story_7525e2fde9a9",
+      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+      "url": "https://www.aibase.com/news/32577",
+      "primary_url": "https://www.aibase.com/news/32577",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
+          "url": "https://www.aibase.com/news/32577",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
+          "published_at": "2026-11-27T14:53:54.578531Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1716,21 +2363,21 @@
       ],
       "items": [
         {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
+          "url": "https://www.aibase.com/news/32577",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
+          "published_at": "2026-11-27T14:53:54.578531Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1753,17 +2400,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T08:25:30.400784Z",
-      "latest_at": "2026-11-27T08:25:30.400784Z",
+      "earliest_at": "2026-11-27T14:53:54.578531Z",
+      "latest_at": "2026-11-27T14:53:54.578531Z",
       "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
         "title_en": null,
-        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32560",
+        "url": "https://www.aibase.com/news/32577",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -1785,8 +2432,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32560",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "url": "https://www.aibase.com/news/32577",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -1795,267 +2442,10 @@
       ],
       "key_claims": [
         {
-          "claim": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "claim": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32560",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_1e0690f0af65",
-      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-      "url": "https://www.aibase.com/news/32558",
-      "primary_url": "https://www.aibase.com/news/32558",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:25:30.400784Z",
-      "latest_at": "2026-11-27T08:25:30.400784Z",
-      "primary_item": {
-        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "title_en": null,
-        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32558",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32558",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32558",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_916e06697ec4",
-      "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-      "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-      "primary_url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-      "source": "Rohan Paul",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-          "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "title_zh": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "title_en": null,
-          "title_original": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T07:00:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Rohan Paul"
-      ],
-      "items": [
-        {
-          "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-          "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "title_zh": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "title_en": null,
-          "title_original": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "source": "Rohan Paul",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-26T07:00:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6928,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T07:00:25Z",
-      "latest_at": "2026-11-26T07:00:25Z",
-      "primary_item": {
-        "id": "a042eef78ad9b9c70ad55e28e3d33d177177935f",
-        "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-        "title_zh": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-        "title_en": null,
-        "title_original": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-        "source": "Rohan Paul",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Rohan Paul",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
-          "title": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "FT 报道 Nvidia 暂停向东南亚四国发运服务器",
-          "claim_type": "reported",
-          "basis_source": "Rohan Paul",
-          "basis_url": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
+          "basis_url": "https://www.aibase.com/news/32577",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2123,15 +2513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5815,
+        "recency": 0.5296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2191,393 +2581,6 @@
         }
       ],
       "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_7525e2fde9a9",
-      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-      "url": "https://www.aibase.com/news/32577",
-      "primary_url": "https://www.aibase.com/news/32577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "title_en": null,
-          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "title_en": null,
-          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:25:30.400784Z",
-      "latest_at": "2026-11-27T08:25:30.400784Z",
-      "primary_item": {
-        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-        "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-        "title_en": null,
-        "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32577",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32577",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32577",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_34d415b543f1",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "primary_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-          "title": "An Indic Voice Agent with CUGA",
-          "title_zh": null,
-          "title_en": "An Indic Voice Agent with CUGA",
-          "title_original": "An Indic Voice Agent with CUGA",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-25T10:22:09Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-          "title": "An Indic Voice Agent with CUGA",
-          "title_zh": null,
-          "title_en": "An Indic Voice Agent with CUGA",
-          "title_original": "An Indic Voice Agent with CUGA",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "source_tier": "official",
-          "source_tier_label": "官方一手源",
-          "source_tier_rank": 0,
-          "published_at": "2026-11-25T10:22:09Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T10:22:09Z",
-      "latest_at": "2026-11-25T10:22:09Z",
-      "primary_item": {
-        "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
-        "title": "An Indic Voice Agent with CUGA",
-        "title_zh": null,
-        "title_en": "An Indic Voice Agent with CUGA",
-        "title_original": "An Indic Voice Agent with CUGA",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "site_id": "official_ai",
-        "source_tier": "official",
-        "source_tier_label": "官方一手源"
-      },
-      "claim_status": "confirmed",
-      "claim_status_label": "已确认",
-      "claim_status_note": "主条目来自官方一手发布，仍未替代人工阅读原文。",
-      "claim_status_reason": "primary_item_is_official",
-      "is_opinion": false,
-      "primary_source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "official_source_present": true,
-      "verification_level": "primary_confirmed",
-      "verification_score": 87,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-          "title": "An Indic Voice Agent with CUGA",
-          "source_tier": "official",
-          "source_tier_label": "官方一手",
-          "role": "primary_source",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "An Indic Voice Agent with CUGA",
-          "claim_type": "confirmed",
-          "basis_source": "Hugging Face Blog",
-          "basis_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-          "status": "source_available",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_d64538dcce5d",
-      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-      "url": "https://www.aibase.com/news/32564",
-      "primary_url": "https://www.aibase.com/news/32564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-27T08:25:30.400784Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:25:30.400784Z",
-      "latest_at": "2026-11-27T08:25:30.400784Z",
-      "primary_item": {
-        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_en": null,
-        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32564",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "site_id": "aibase",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "AIbase",
-          "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32564",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "primary_report",
-          "is_aggregator": false
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "claim_type": "reported",
-          "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32564",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
