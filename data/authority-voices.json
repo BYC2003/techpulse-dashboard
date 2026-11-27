@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:58:08.141102+00:00",
+  "generated_at": "2026-11-27T19:02:50.903437+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
@@ -113,7 +113,7 @@
       "items_scanned": 20,
       "items_kept": 3,
       "error": "",
-      "latest_at": "2026-11-13T18:37:51+00:00"
+      "latest_at": "2026-11-27T18:01:14+00:00"
     },
     {
       "id": "latent_space",
@@ -129,6 +129,21 @@
     }
   ],
   "items": [
+    {
+      "id": "0188d07df29e912d",
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "summary": "\"If we pause now, people still won't understand what's at stake.\"",
+      "published_at": "2026-11-27T18:01:14+00:00",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Podcast",
+      "source_kind": "interview",
+      "category": "interview",
+      "trust": "interview",
+      "trust_label": "访谈观点",
+      "verification": "访谈观点，需区分事实与受访者判断",
+      "is_opinion": true
+    },
     {
       "id": "421dd7437a5dc47c",
       "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
@@ -473,21 +488,6 @@
       "trust_label": "访谈观点",
       "verification": "访谈观点，需区分事实与受访者判断",
       "is_opinion": true
-    },
-    {
-      "id": "8734693d6a7d51d9",
-      "title": "MLRC 2026: Announcing the Accepted Papers",
-      "url": "https://blog.neurips.cc/2026/11/04/mlrc-2026-announcing-the-accepted-papers/",
-      "summary": "We are delighted to announce the 16 papers accepted to the Machine Learning Reproducibility Challenge (MLRC) 2026, an official NeurIPS 2026 track. The papers will be presented in person at NeurIPS 2026 in Sydney, Australia (December 6–13, 2026), alongside papers from the Main Track and the Evaluations &#38; Datasets T…",
-      "published_at": "2026-11-04T08:16:31+00:00",
-      "source_id": "neurips_blog",
-      "source_name": "NeurIPS Blog",
-      "source_kind": "conference",
-      "category": "conference",
-      "trust": "official",
-      "trust_label": "会议官方",
-      "verification": "会议官方页面，具体安排以原文为准",
-      "is_opinion": false
     }
   ]
 }
