@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:02:54.693126+00:00",
+  "generated_at": "2026-11-27T23:26:19.973288+00:00",
   "authoritative": {
     "count": 40,
     "selection": "editorial-landmarks",
@@ -388,9 +388,9 @@
           "Zehao Lin"
         ],
         "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 126,
+        "upvotes": 128,
         "comments": 2,
-        "discussion_score": 1264.87,
+        "discussion_score": 1284.86,
         "summary": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry between reading and modification directions during erasure, which yields non-normal erase operators whose directional gains…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.34051",
@@ -412,9 +412,9 @@
           "Xiuqi Xu"
         ],
         "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 100,
+        "upvotes": 102,
         "comments": 2,
-        "discussion_score": 1004.87,
+        "discussion_score": 1024.86,
         "summary": "A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.",
         "keywords": [
           "computer-using agents",
@@ -447,7 +447,7 @@
         "published_at": "2026-11-25T00:00:00+00:00",
         "upvotes": 81,
         "comments": 2,
-        "discussion_score": 814.87,
+        "discussion_score": 814.86,
         "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we intro…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.34575",
@@ -469,7 +469,7 @@
         "published_at": "2026-11-25T00:00:00+00:00",
         "upvotes": 74,
         "comments": 2,
-        "discussion_score": 744.87,
+        "discussion_score": 744.86,
         "summary": "A Mixture-of-Loops Transformer reuses key-value memory across loops and depths, and its U-shaped variant improves pretraining efficiency and inference latency.",
         "keywords": [
           "Looped Transformers",
@@ -496,9 +496,9 @@
           "Wei Zhang"
         ],
         "published_at": "2026-11-23T00:00:00+00:00",
-        "upvotes": 61,
+        "upvotes": 69,
         "comments": 4,
-        "discussion_score": 618.77,
+        "discussion_score": 698.76,
         "summary": "A dynamic looped mixture-of-experts diffusion transformer reuses shared parameters and varies compute across noise levels, improving image generation quality under matched budgets.",
         "keywords": [
           "Diffusion Transformers",
@@ -516,6 +516,30 @@
         "source": "Hugging Face Daily Papers"
       },
       {
+        "id": "2611.34813",
+        "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+        "authors": [
+          "Dezhi Luo",
+          "Fengyuan Yu",
+          "Haotian Zhang",
+          "Zehong Zhao",
+          "Ran Ji",
+          "Siyuan An",
+          "Huayi Qin",
+          "Qingying Gao"
+        ],
+        "published_at": "2026-11-25T00:00:00+00:00",
+        "upvotes": 59,
+        "comments": 4,
+        "discussion_score": 598.86,
+        "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact the more reliable path to visual reasoning has not been tested against a symbolic alternative under the same condition…",
+        "keywords": [],
+        "url": "https://arxiv.org/abs/2611.34813",
+        "arxiv_url": "https://arxiv.org/abs/2611.34813",
+        "discussion_url": "https://huggingface.co/papers/2611.34813",
+        "source": "Hugging Face Daily Papers"
+      },
+      {
         "id": "2611.34237",
         "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
         "authors": [
@@ -529,9 +553,9 @@
           "Bin Wen"
         ],
         "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 57,
+        "upvotes": 58,
         "comments": 5,
-        "discussion_score": 580.87,
+        "discussion_score": 590.86,
         "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, a camera aimed away from its subject, broken object interactions, or narration that drifts out of sync, and none of these raise a runtime error. Feeding rendered frames and audio back into the coding session bloats its…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.34237",
@@ -549,7 +573,7 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 57,
         "comments": 4,
-        "discussion_score": 578.77,
+        "discussion_score": 578.76,
         "summary": "A tool called Vernier measures the smallest score difference a time-series forecasting leaderboard can distinguish, showing that most boards cannot separate top entries and that ranking order can change with pool composition.",
         "keywords": [
           "foundation model",
@@ -582,7 +606,7 @@
         "published_at": "2026-11-23T00:00:00+00:00",
         "upvotes": 55,
         "comments": 3,
-        "discussion_score": 556.77,
+        "discussion_score": 556.76,
         "summary": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness…",
         "keywords": [],
         "url": "https://arxiv.org/abs/2611.31358",
@@ -605,7 +629,7 @@
         "published_at": "2026-11-25T00:00:00+00:00",
         "upvotes": 46,
         "comments": 3,
-        "discussion_score": 466.87,
+        "discussion_score": 466.86,
         "summary": "Image-to-Video Transfer improves pretrained video editors by training them as image editors on single images, enabling new video editing tasks and state-of-the-art results on OpenVE-Bench and OpenVE++.",
         "keywords": [
           "Image-to-Video Transfer (I2VT)",
@@ -620,30 +644,6 @@
         "url": "https://arxiv.org/abs/2611.34941",
         "arxiv_url": "https://arxiv.org/abs/2611.34941",
         "discussion_url": "https://huggingface.co/papers/2611.34941",
-        "source": "Hugging Face Daily Papers"
-      },
-      {
-        "id": "2611.34813",
-        "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
-        "authors": [
-          "Dezhi Luo",
-          "Fengyuan Yu",
-          "Haotian Zhang",
-          "Zehong Zhao",
-          "Ran Ji",
-          "Siyuan An",
-          "Huayi Qin",
-          "Qingying Gao"
-        ],
-        "published_at": "2026-11-25T00:00:00+00:00",
-        "upvotes": 45,
-        "comments": 4,
-        "discussion_score": 458.87,
-        "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact the more reliable path to visual reasoning has not been tested against a symbolic alternative under the same condition…",
-        "keywords": [],
-        "url": "https://arxiv.org/abs/2611.34813",
-        "arxiv_url": "https://arxiv.org/abs/2611.34813",
-        "discussion_url": "https://huggingface.co/papers/2611.34813",
         "source": "Hugging Face Daily Papers"
       }
     ]
