@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T23:50:22.168804Z",
+  "generated_at": "2026-11-27T04:55:59.639309Z",
   "window_hours": 48,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_70e53371dbeb",
-      "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": null,
           "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "summary": null,
@@ -38,8 +38,8 @@
       "items": [
         {
           "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": null,
           "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "summary": null,
@@ -58,15 +58,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8383,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -79,8 +79,8 @@
       "latest_at": "2026-11-26T11:37:17Z",
       "primary_item": {
         "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-        "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "title_zh": null,
         "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
         "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
         "summary": null,
@@ -108,7 +108,7 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -117,7 +117,7 @@
       ],
       "key_claims": [
         {
-          "claim": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "claim": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
           "basis_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -126,7 +126,6 @@
         }
       ],
       "limits": [
-        "可用地区、账号资格、版本和灰度范围可能有额外限制。",
         "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -189,15 +188,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8429,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -266,7 +265,7 @@
     },
     {
       "story_id": "story_b832b7cb6cf7",
-      "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+      "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
       "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
       "primary_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
       "source": "ByteDance Seed Blog",
@@ -274,8 +273,8 @@
       "sources": [
         {
           "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": null,
           "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "summary": null,
@@ -299,8 +298,8 @@
       "items": [
         {
           "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-          "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title_zh": null,
           "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "summary": null,
@@ -319,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7913,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,8 +339,8 @@
       "latest_at": "2026-11-26T07:37:48Z",
       "primary_item": {
         "id": "23f9146a05e0012be5d39026baec7e0c106d4e69",
-        "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
-        "title_zh": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互",
+        "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+        "title_zh": null,
         "title_en": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
         "title_original": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
         "summary": null,
@@ -369,7 +368,7 @@
           "source": "ByteDance Seed Blog",
           "site_id": "official_ai",
           "url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
-          "title": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "title": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -378,7 +377,7 @@
       ],
       "key_claims": [
         {
-          "claim": "SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
+          "claim": "SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction",
           "claim_type": "confirmed",
           "basis_source": "ByteDance Seed Blog",
           "basis_url": "https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
@@ -448,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6916,
+        "recency": 0.6425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,7 +523,7 @@
     },
     {
       "story_id": "story_899fac7e23dc",
-      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "Hugging Face Blog",
@@ -532,8 +531,8 @@
       "sources": [
         {
           "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": null,
           "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "summary": null,
@@ -557,8 +556,8 @@
       "items": [
         {
           "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": null,
           "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "summary": null,
@@ -577,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7628,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -598,8 +597,8 @@
       "latest_at": "2026-11-26T05:05:36Z",
       "primary_item": {
         "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_zh": null,
         "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
         "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
         "summary": null,
@@ -627,7 +626,7 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "source_tier": "official",
           "source_tier_label": "官方一手",
           "role": "primary_source",
@@ -636,7 +635,7 @@
       ],
       "key_claims": [
         {
-          "claim": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "claim": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "claim_type": "confirmed",
           "basis_source": "Hugging Face Blog",
           "basis_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -645,7 +644,135 @@
         }
       ],
       "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_761e7b979f15",
+      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+      "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "primary_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_en": null,
+          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "title_en": null,
+          "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T23:56:00Z",
+      "latest_at": "2026-11-26T23:56:00Z",
+      "primary_item": {
+        "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
+        "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "title_zh": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "title_en": null,
+        "title_original": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
+          "claim_type": "reported",
+          "basis_source": "公众号：数字生命卡兹克",
+          "basis_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,
@@ -707,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6224,
+        "recency": 0.5782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,6 +909,135 @@
       "summary_missing": true
     },
     {
+      "story_id": "story_8039e997c594",
+      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+      "url": "https://www.aibase.com/news/32560",
+      "primary_url": "https://www.aibase.com/news/32560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_en": null,
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T04:55:59.639309Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_en": null,
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-27T04:55:59.639309Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T04:55:59.639309Z",
+      "latest_at": "2026-11-27T04:55:59.639309Z",
+      "primary_item": {
+        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_en": null,
+        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32560",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "site_id": "aibase",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "AIbase",
+          "site_id": "aibase",
+          "url": "https://www.aibase.com/news/32560",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "primary_report",
+          "is_aggregator": false
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "claim_type": "reported",
+          "basis_source": "AIbase",
+          "basis_url": "https://www.aibase.com/news/32560",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
       "story_id": "story_b48ef90628e3",
       "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
       "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
@@ -836,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.8386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,21 +1221,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8614,
+        "recency": 0.8003,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T13:30:28Z",
       "latest_at": "2026-11-26T13:30:28Z",
@@ -1094,21 +1349,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T12:00:09Z",
       "latest_at": "2026-11-26T12:00:09Z",
@@ -1225,15 +1479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7087,
+        "recency": 0.6585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1300,29 +1554,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_c75eda73f1b0",
-      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-      "url": "https://www.aibase.com/news/32554",
-      "primary_url": "https://www.aibase.com/news/32554",
+      "story_id": "story_1e0690f0af65",
+      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+      "url": "https://www.aibase.com/news/32558",
+      "primary_url": "https://www.aibase.com/news/32558",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
+          "url": "https://www.aibase.com/news/32558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T17:50:22.168804Z",
+          "published_at": "2026-11-27T04:55:59.639309Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1333,36 +1587,36 @@
       ],
       "items": [
         {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "title_en": null,
-          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32554",
+          "url": "https://www.aibase.com/news/32558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T17:50:22.168804Z",
+          "published_at": "2026-11-27T04:55:59.639309Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1370,17 +1624,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T17:50:22.168804Z",
-      "latest_at": "2026-11-26T17:50:22.168804Z",
+      "earliest_at": "2026-11-27T04:55:59.639309Z",
+      "latest_at": "2026-11-27T04:55:59.639309Z",
       "primary_item": {
-        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
         "title_en": null,
-        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32554",
+        "url": "https://www.aibase.com/news/32558",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -1402,8 +1656,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32554",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "url": "https://www.aibase.com/news/32558",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -1412,16 +1666,15 @@
       ],
       "key_claims": [
         {
-          "claim": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "claim": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32554",
+          "basis_url": "https://www.aibase.com/news/32558",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
       ],
       "limits": [
-        "监管、法律或政策口径需核对适用地区、生效日期和原文。",
         "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
@@ -1484,15 +1737,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "recency": 0.7286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1612,15 +1865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7087,
+        "recency": 0.6585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1740,15 +1993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7087,
+        "recency": 0.6585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1814,285 +2067,29 @@
       "summary_missing": true
     },
     {
-      "story_id": "story_6ff05624158a",
-      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_en": null,
-          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "title_en": null,
-          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T23:56:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T23:56:00Z",
-      "latest_at": "2026-11-25T23:56:00Z",
-      "primary_item": {
-        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
-        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-        "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-        "title_en": null,
-        "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
-          "claim_type": "reported",
-          "basis_source": "公众号：数字生命卡兹克",
-          "basis_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_658fab709523",
-      "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-      "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-      "primary_url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-      "source": "Elon Musk",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
-          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "title_zh": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "title_en": null,
-          "title_original": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-          "source": "Elon Musk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T19:12:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Elon Musk"
-      ],
-      "items": [
-        {
-          "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
-          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "title_zh": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "title_en": null,
-          "title_original": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-          "source": "Elon Musk",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T19:12:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T19:12:53Z",
-      "latest_at": "2026-11-25T19:12:53Z",
-      "primary_item": {
-        "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
-        "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-        "title_zh": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-        "title_en": null,
-        "title_original": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-        "source": "Elon Musk",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Elon Musk",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
-          "claim_type": "reported",
-          "basis_source": "Elon Musk",
-          "basis_url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_8467615e6b8b",
-      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-      "url": "https://www.aibase.com/news/32555",
-      "primary_url": "https://www.aibase.com/news/32555",
+      "story_id": "story_d64538dcce5d",
+      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+      "url": "https://www.aibase.com/news/32564",
+      "primary_url": "https://www.aibase.com/news/32564",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
+          "url": "https://www.aibase.com/news/32564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T17:50:22.168804Z",
+          "published_at": "2026-11-27T04:55:59.639309Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2103,36 +2100,36 @@
       ],
       "items": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
+          "url": "https://www.aibase.com/news/32564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI垂直源",
           "source_tier_rank": 1,
-          "published_at": "2026-11-26T17:50:22.168804Z",
+          "published_at": "2026-11-27T04:55:59.639309Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2140,17 +2137,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T17:50:22.168804Z",
-      "latest_at": "2026-11-26T17:50:22.168804Z",
+      "earliest_at": "2026-11-27T04:55:59.639309Z",
+      "latest_at": "2026-11-27T04:55:59.639309Z",
       "primary_item": {
-        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
         "title_en": null,
-        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32555",
+        "url": "https://www.aibase.com/news/32564",
         "source": "AIbase",
         "source_name": "AIbase",
         "site_id": "aibase",
@@ -2172,8 +2169,8 @@
         {
           "source": "AIbase",
           "site_id": "aibase",
-          "url": "https://www.aibase.com/news/32555",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/news/32564",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "source_tier": "ai_vertical",
           "source_tier_label": "AI 垂直源",
           "role": "primary_report",
@@ -2182,267 +2179,10 @@
       ],
       "key_claims": [
         {
-          "claim": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "claim": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
           "claim_type": "reported",
           "basis_source": "AIbase",
-          "basis_url": "https://www.aibase.com/news/32555",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "模型能力、版本与权限需核对官方模型卡、发布页或技术报告。",
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_d5e2b49fdb3d",
-      "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-      "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-      "primary_url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-      "source": "TechCrunch：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
-          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "title_en": null,
-          "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI"
-      ],
-      "items": [
-        {
-          "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
-          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "title_en": null,
-          "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-          "source": "TechCrunch：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6462,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T17:35:58Z",
-      "latest_at": "2026-11-25T17:35:58Z",
-      "primary_item": {
-        "id": "9f7e44603cbc7e422d256751b8191c2d4a41aa6e",
-        "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-        "title_zh": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-        "title_en": null,
-        "title_original": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-        "source": "TechCrunch：AI",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "TechCrunch：AI",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-          "title": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录",
-          "claim_type": "reported",
-          "basis_source": "TechCrunch：AI",
-          "basis_url": "https://aihot.news/items/j0hoj1rlmltoft6okserijp25",
-          "status": "needs_primary_source",
-          "note": "标题或摘要级声明，须回原文逐句核验。"
-        }
-      ],
-      "limits": [
-        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
-        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
-      ],
-      "independent_source_count": 1,
-      "repost_count": 0,
-      "summary_missing": true
-    },
-    {
-      "story_id": "story_c74b357b868b",
-      "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-      "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-      "primary_url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-      "source": "Pragmatic Engineer",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e12107a54e839bba58899cb7aa44b739780fc672",
-          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "title_en": null,
-          "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-          "source": "Pragmatic Engineer",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T17:31:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Pragmatic Engineer"
-      ],
-      "items": [
-        {
-          "id": "e12107a54e839bba58899cb7aa44b739780fc672",
-          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "title_en": null,
-          "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-          "source": "Pragmatic Engineer",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI垂直源",
-          "source_tier_rank": 1,
-          "published_at": "2026-11-25T17:31:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T17:31:32Z",
-      "latest_at": "2026-11-25T17:31:32Z",
-      "primary_item": {
-        "id": "e12107a54e839bba58899cb7aa44b739780fc672",
-        "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-        "title_zh": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-        "title_en": null,
-        "title_original": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-        "source": "Pragmatic Engineer",
-        "source_name": "AI HOT",
-        "site_id": "aihot",
-        "source_tier": "ai_vertical",
-        "source_tier_label": "AI垂直源"
-      },
-      "claim_status": "reported",
-      "claim_status_label": "媒体报道",
-      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
-      "claim_status_reason": "primary_item_is_not_official",
-      "is_opinion": false,
-      "primary_source_url": null,
-      "official_source_present": false,
-      "verification_level": "single_report",
-      "verification_score": 43,
-      "review_required": true,
-      "publish_ready": false,
-      "source_chain": [
-        {
-          "source": "Pragmatic Engineer",
-          "site_id": "aihot",
-          "url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
-          "title": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "source_tier": "ai_vertical",
-          "source_tier_label": "AI 垂直源",
-          "role": "aggregator",
-          "is_aggregator": true
-        }
-      ],
-      "key_claims": [
-        {
-          "claim": "Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件",
-          "claim_type": "reported",
-          "basis_source": "Pragmatic Engineer",
-          "basis_url": "https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la",
+          "basis_url": "https://www.aibase.com/news/32564",
           "status": "needs_primary_source",
           "note": "标题或摘要级声明，须回原文逐句核验。"
         }
@@ -2510,15 +2250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.6583,
+        "recency": 0.6116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2578,6 +2318,262 @@
         }
       ],
       "limits": [
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_f23d81739695",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "primary_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "source": "Calif：Research",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_en": null,
+          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Calif：Research"
+      ],
+      "items": [
+        {
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "title_en": null,
+          "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-26T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6585,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
+      "primary_item": {
+        "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+        "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "title_zh": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "title_en": null,
+        "title_original": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+        "source": "Calif：Research",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "Calif：Research",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "claim_type": "reported",
+          "basis_source": "Calif：Research",
+          "basis_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
+        "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
+      ],
+      "independent_source_count": 1,
+      "repost_count": 0,
+      "summary_missing": true
+    },
+    {
+      "story_id": "story_6ff05624158a",
+      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_en": null,
+          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "title_en": null,
+          "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI垂直源",
+          "source_tier_rank": 1,
+          "published_at": "2026-11-25T23:56:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6579,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T23:56:00Z",
+      "latest_at": "2026-11-25T23:56:00Z",
+      "primary_item": {
+        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "title_zh": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "title_en": null,
+        "title_original": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "site_id": "aihot",
+        "source_tier": "ai_vertical",
+        "source_tier_label": "AI垂直源"
+      },
+      "claim_status": "reported",
+      "claim_status_label": "媒体报道",
+      "claim_status_note": "当前主要是媒体或聚合源转述，关键数字与结论需回到一手原文。",
+      "claim_status_reason": "primary_item_is_not_official",
+      "is_opinion": false,
+      "primary_source_url": null,
+      "official_source_present": false,
+      "verification_level": "single_report",
+      "verification_score": 43,
+      "review_required": true,
+      "publish_ready": false,
+      "source_chain": [
+        {
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "source_tier": "ai_vertical",
+          "source_tier_label": "AI 垂直源",
+          "role": "aggregator",
+          "is_aggregator": true
+        }
+      ],
+      "key_claims": [
+        {
+          "claim": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "claim_type": "reported",
+          "basis_source": "公众号：数字生命卡兹克",
+          "basis_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "status": "needs_primary_source",
+          "note": "标题或摘要级声明，须回原文逐句核验。"
+        }
+      ],
+      "limits": [
+        "当前未在同一事件中找到官方原文或论文页，正式写稿前必须补一手来源。",
         "当前条目只有标题和链接，标题中的数字、范围和因果关系均需打开原文复核。"
       ],
       "independent_source_count": 1,

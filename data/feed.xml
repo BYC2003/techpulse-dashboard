@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:50:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:55:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+<title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
 <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
 <description>Hugging Face Blog</description>
@@ -24,7 +24,7 @@
 <pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
 </item>
 <item>
-<title>SeedRealtime视听全双工法学硕士发布：迈向全模态自然交互 / SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction</title>
+<title>SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction</title>
 <link>https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</link>
 <guid isPermaLink="true">https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</guid>
 <description>ByteDance Seed Blog</description>
@@ -40,12 +40,20 @@
 <pubDate>Wed, 25 Nov 2026 22:18:03 +0000</pubDate>
 </item>
 <item>
-<title>基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
 <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+</item>
+<item>
+<title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
+<link>https://aihot.news/items/cdkswjz368inpelrz3f52rekx</link>
+<guid isPermaLink="true">https://aihot.news/items/cdkswjz368inpelrz3f52rekx</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
 <title>How to choose the next safe step in application modernization</title>
@@ -54,6 +62,14 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手</title>
+<link>https://www.aibase.com/news/32560</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32560</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 04:55:59 +0000</pubDate>
 </item>
 <item>
 <title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
@@ -88,12 +104,12 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考</title>
-<link>https://www.aibase.com/news/32554</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32554</guid>
+<title>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重</title>
+<link>https://www.aibase.com/news/32558</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32558</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 17:50:22 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 04:55:59 +0000</pubDate>
 </item>
 <item>
 <title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
@@ -120,44 +136,12 @@
 <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义</title>
-<link>https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</link>
-<guid isPermaLink="true">https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 23:56:00 +0000</pubDate>
-</item>
-<item>
-<title>Dario Amodei 澄清不主张向 AI 交出人类自由意志</title>
-<link>https://aihot.news/items/e6gp31eup40d99unaon9umnpo</link>
-<guid isPermaLink="true">https://aihot.news/items/e6gp31eup40d99unaon9umnpo</guid>
-<description>Elon Musk</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 19:12:53 +0000</pubDate>
-</item>
-<item>
-<title>不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速</title>
-<link>https://www.aibase.com/news/32555</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32555</guid>
+<title>OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4</title>
+<link>https://www.aibase.com/news/32564</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32564</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 17:50:22 +0000</pubDate>
-</item>
-<item>
-<title>42 州总检察长介入 Character.AI 破产程序，反对拍卖用户私密聊天记录</title>
-<link>https://aihot.news/items/j0hoj1rlmltoft6okserijp25</link>
-<guid isPermaLink="true">https://aihot.news/items/j0hoj1rlmltoft6okserijp25</guid>
-<description>TechCrunch：AI</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 17:35:58 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 平台工程负责人 Katelyn Lesse 谈 2026 年如何用 Claude 构建软件</title>
-<link>https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la</link>
-<guid isPermaLink="true">https://aihot.news/items/rnanzlnaqxdr2icjqw0qwv9la</guid>
-<description>Pragmatic Engineer</description>
-<category>行业动态</category>
-<pubDate>Wed, 25 Nov 2026 17:31:32 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 04:55:59 +0000</pubDate>
 </item>
 <item>
 <title>Where scientists draw the line on AI agents</title>
@@ -166,6 +150,22 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+</item>
+<item>
+<title>OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机</title>
+<link>https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy</link>
+<guid isPermaLink="true">https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy</guid>
+<description>Calif：Research</description>
+<category>行业动态</category>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义</title>
+<link>https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</link>
+<guid isPermaLink="true">https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc</guid>
+<description>公众号：数字生命卡兹克</description>
+<category>行业动态</category>
+<pubDate>Wed, 25 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

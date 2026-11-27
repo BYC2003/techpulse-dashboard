@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T23:54:41.437195+00:00",
+  "generated_at": "2026-11-27T05:00:22.496174+00:00",
   "window_days": 90,
   "source": "Curated official labs, research institutions, conferences and interviews",
   "methodology": "仅采集白名单来源；保留原文标题、摘要和链接；观点类内容明确标注，不做二次事实断言。",
   "item_count": 24,
-  "ok_source_count": 8,
+  "ok_source_count": 10,
   "source_count": 10,
   "sources": [
     {
@@ -13,10 +13,11 @@
       "url": "https://blog.neurips.cc/feed/",
       "kind": "conference",
       "trust": "official",
-      "ok": false,
-      "items_scanned": 0,
-      "items_kept": 0,
-      "error": "feed has no entries"
+      "ok": true,
+      "items_scanned": 10,
+      "items_kept": 4,
+      "error": "",
+      "latest_at": "2026-11-08T12:14:15+00:00"
     },
     {
       "id": "iclr_blog",
@@ -24,10 +25,11 @@
       "url": "https://blog.iclr.cc/feed/",
       "kind": "conference",
       "trust": "official",
-      "ok": false,
-      "items_scanned": 0,
-      "items_kept": 0,
-      "error": "feed has no entries"
+      "ok": true,
+      "items_scanned": 10,
+      "items_kept": 2,
+      "error": "",
+      "latest_at": "2026-09-10T16:02:25+00:00"
     },
     {
       "id": "google_research",
@@ -443,6 +445,21 @@
       "is_opinion": false
     },
     {
+      "id": "3f784b09aef19462",
+      "title": "NeurIPS Newsletter – October 2026",
+      "url": "https://blog.neurips.cc/2026/11/08/neurips-newsletter-october-2026/",
+      "summary": "Welcome to the October edition of the NeurIPS monthly Newsletter! The NeurIPS Newsletter aims to provide an easy way to keep up to date with NeurIPS events and planning progress, respond to requests for feedback and participation, and find information about new initiatives. This newsletter will focus on NeurIPS 2026,…",
+      "published_at": "2026-11-08T12:14:15+00:00",
+      "source_id": "neurips_blog",
+      "source_name": "NeurIPS Blog",
+      "source_kind": "conference",
+      "category": "conference",
+      "trust": "official",
+      "trust_label": "会议官方",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
+    },
+    {
       "id": "331208b87ed8db56",
       "title": "The benchmark where AIs have to lie to win",
       "url": "https://www.dwarkesh.com/p/clocktower",
@@ -458,34 +475,19 @@
       "is_opinion": true
     },
     {
-      "id": "c022cd8e3f9b7139",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "published_at": "2026-10-15T16:08:03+00:00",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "source_kind": "lab",
-      "category": "viewpoint",
+      "id": "8734693d6a7d51d9",
+      "title": "MLRC 2026: Announcing the Accepted Papers",
+      "url": "https://blog.neurips.cc/2026/11/04/mlrc-2026-announcing-the-accepted-papers/",
+      "summary": "We are delighted to announce the 16 papers accepted to the Machine Learning Reproducibility Challenge (MLRC) 2026, an official NeurIPS 2026 track. The papers will be presented in person at NeurIPS 2026 in Sydney, Australia (December 6–13, 2026), alongside papers from the Main Track and the Evaluations &#38; Datasets T…",
+      "published_at": "2026-11-04T08:16:31+00:00",
+      "source_id": "neurips_blog",
+      "source_name": "NeurIPS Blog",
+      "source_kind": "conference",
+      "category": "conference",
       "trust": "official",
-      "trust_label": "官方实验室",
-      "verification": "机构官方发布，以原文为准",
-      "is_opinion": true
-    },
-    {
-      "id": "a14d7708b28f29c5",
-      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/noam-brown",
-      "summary": "&#8220;We never want to be in a situation again where we underestimate the AI.&#8221;",
-      "published_at": "2026-09-17T15:38:13+00:00",
-      "source_id": "dwarkesh",
-      "source_name": "Dwarkesh Podcast",
-      "source_kind": "interview",
-      "category": "interview",
-      "trust": "interview",
-      "trust_label": "访谈观点",
-      "verification": "访谈观点，需区分事实与受访者判断",
-      "is_opinion": true
+      "trust_label": "会议官方",
+      "verification": "会议官方页面，具体安排以原文为准",
+      "is_opinion": false
     }
   ]
 }
