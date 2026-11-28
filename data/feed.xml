@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:21:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 01:57:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
@@ -56,12 +56,12 @@
 <pubDate>Fri, 27 Nov 2026 12:38:45 +0000</pubDate>
 </item>
 <item>
-<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
-<link>https://www.aibase.com/news/32580</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
+<title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
+<link>https://www.aibase.com/news/32579</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32579</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 18:21:53 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 17:57:42 +0000</pubDate>
 </item>
 <item>
 <title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
@@ -80,20 +80,12 @@
 <pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
 </item>
 <item>
-<title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
-<link>https://www.aibase.com/news/32579</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32579</guid>
+<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
+<link>https://www.aibase.com/news/32580</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 17:21:53 +0000</pubDate>
-</item>
-<item>
-<title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
-<link>https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</link>
-<guid isPermaLink="true">https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj</guid>
-<description>Ado Kukic</description>
-<category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 16:44:47 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 17:57:42 +0000</pubDate>
 </item>
 <item>
 <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
@@ -104,28 +96,20 @@
 <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
 </item>
 <item>
-<title>90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”</title>
-<link>https://www.aibase.com/news/32574</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32574</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:21:53 +0000</pubDate>
-</item>
-<item>
-<title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
-<link>https://huggingface.co/blog/training-swarms</link>
-<guid isPermaLink="true">https://huggingface.co/blog/training-swarms</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降</title>
 <link>https://www.aibase.com/news/32577</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32577</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:21:53 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:57:42 +0000</pubDate>
+</item>
+<item>
+<title>谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB</title>
+<link>https://www.aibase.com/news/32575</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32575</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 16:57:42 +0000</pubDate>
 </item>
 <item>
 <title>各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
@@ -136,20 +120,12 @@
 <pubDate>Fri, 27 Nov 2026 21:51:48 +0000</pubDate>
 </item>
 <item>
-<title>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心</title>
-<link>https://www.aibase.com/news/32572</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32572</guid>
+<title>豆包独家接入剪映，用“对话式交互”重塑视频创作工作流</title>
+<link>https://www.aibase.com/news/32576</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32576</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:21:53 +0000</pubDate>
-</item>
-<item>
-<title>谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB</title>
-<link>https://www.aibase.com/news/32575</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32575</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:21:53 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:57:42 +0000</pubDate>
 </item>
 <item>
 <title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
@@ -157,7 +133,7 @@
 <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
 <description>Cursor plugin specification and official plugins（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Fri, 27 Nov 2026 23:21:53 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 01:57:42 +0000</pubDate>
 </item>
 <item>
 <title>Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand</title>
@@ -165,7 +141,31 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/depost-ai</guid>
 <description>The LinkedIn AI agent that learns what works for your brand（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Fri, 27 Nov 2026 23:25:17 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 01:54:25 +0000</pubDate>
+</item>
+<item>
+<title>90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”</title>
+<link>https://www.aibase.com/news/32574</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32574</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 15:57:42 +0000</pubDate>
+</item>
+<item>
+<title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+<link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>显示 HN：在 1 GB10 上从 vLLM 中的 Inkling 2 Mini 获得 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10</title>
+<link>https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10</link>
+<guid isPermaLink="true">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10</guid>
+<description>Hacker News 首页</description>
+<category>值得关注</category>
+<pubDate>Fri, 27 Nov 2026 18:59:55 +0000</pubDate>
 </item>
 </channel>
 </rss>
