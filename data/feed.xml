@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 28 Nov 2026 04:47:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 10:23:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
@@ -14,14 +14,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>SeedRealtime Audio-Visual Full-Duplex LLM Released: Toward Omni-Modal Natural Interaction</title>
-<link>https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</link>
-<guid isPermaLink="true">https://seed.bytedance.com/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</guid>
-<description>ByteDance Seed Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 07:37:48 +0000</pubDate>
 </item>
 <item>
 <title>The H3 Family: Models, Community, and What's Next - MiniMax Research</title>
@@ -56,12 +48,12 @@
 <pubDate>Fri, 27 Nov 2026 12:38:45 +0000</pubDate>
 </item>
 <item>
-<title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
-<link>https://www.aibase.com/news/32579</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32579</guid>
+<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
+<link>https://www.aibase.com/news/32580</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 17:47:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 18:23:08 +0000</pubDate>
 </item>
 <item>
 <title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
@@ -72,28 +64,12 @@
 <pubDate>Fri, 27 Nov 2026 07:21:40 +0000</pubDate>
 </item>
 <item>
-<title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
-<link>https://aihot.news/items/cdkswjz368inpelrz3f52rekx</link>
-<guid isPermaLink="true">https://aihot.news/items/cdkswjz368inpelrz3f52rekx</guid>
-<description>公众号：数字生命卡兹克</description>
-<category>行业动态</category>
-<pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
-<link>https://www.aibase.com/news/32580</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
+<title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
+<link>https://www.aibase.com/news/32579</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32579</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 17:47:36 +0000</pubDate>
-</item>
-<item>
-<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
-<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 17:23:08 +0000</pubDate>
 </item>
 <item>
 <title>90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”</title>
@@ -101,7 +77,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32574</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:47:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:23:08 +0000</pubDate>
 </item>
 <item>
 <title>JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降</title>
@@ -109,7 +85,7 @@
 <guid isPermaLink="true">https://www.aibase.com/news/32577</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:47:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:23:08 +0000</pubDate>
 </item>
 <item>
 <title>各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
@@ -120,12 +96,12 @@
 <pubDate>Fri, 27 Nov 2026 21:51:48 +0000</pubDate>
 </item>
 <item>
-<title>谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB</title>
-<link>https://www.aibase.com/news/32575</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32575</guid>
+<title>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心</title>
+<link>https://www.aibase.com/news/32572</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32572</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:47:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:23:08 +0000</pubDate>
 </item>
 <item>
 <title>Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins</title>
@@ -133,7 +109,7 @@
 <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
 <description>Cursor plugin specification and official plugins（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Sat, 28 Nov 2026 04:47:36 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 10:23:08 +0000</pubDate>
 </item>
 <item>
 <title>Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand</title>
@@ -141,23 +117,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/depost-ai</guid>
 <description>The LinkedIn AI agent that learns what works for your brand（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 28 Nov 2026 04:34:02 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 10:05:42 +0000</pubDate>
 </item>
 <item>
-<title>房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent</title>
-<link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
-<guid isPermaLink="true">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
-<description>Hacker News 首页</description>
-<category>多源热议</category>
-<pubDate>Sat, 28 Nov 2026 04:31:49 +0000</pubDate>
-</item>
-<item>
-<title>豆包独家接入剪映，用“对话式交互”重塑视频创作工作流</title>
-<link>https://www.aibase.com/news/32576</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32576</guid>
+<title>谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB</title>
+<link>https://www.aibase.com/news/32575</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32575</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 27 Nov 2026 16:47:36 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 16:23:08 +0000</pubDate>
 </item>
 <item>
 <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
@@ -166,6 +134,38 @@
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
+<link>https://github.com/elementalsouls/Claude-BugHunter</link>
+<guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
+<description>A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 28 Nov 2026 10:23:08 +0000</pubDate>
+</item>
+<item>
+<title>豆包独家接入剪映，用“对话式交互”重塑视频创作工作流</title>
+<link>https://www.aibase.com/news/32576</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32576</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 27 Nov 2026 16:23:08 +0000</pubDate>
+</item>
+<item>
+<title>Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui</title>
+<link>https://github.com/skeeto/prospero</link>
+<guid isPermaLink="true">https://github.com/skeeto/prospero</guid>
+<description>Hacker News 首页</description>
+<category>值得关注</category>
+<pubDate>Fri, 27 Nov 2026 20:23:14 +0000</pubDate>
+</item>
+<item>
+<title>房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境</title>
+<link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
+<guid isPermaLink="true">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
+<description>drmahfouz.substack.com</description>
+<category>值得关注</category>
+<pubDate>Sat, 28 Nov 2026 04:31:49 +0000</pubDate>
 </item>
 </channel>
 </rss>

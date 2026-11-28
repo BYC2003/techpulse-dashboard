@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:51:53.028233+00:00",
+  "generated_at": "2026-11-28T10:27:56.478292+00:00",
   "source": "GitHub Trending",
   "methodology": "抓取 GitHub 官方 Trending 页面，读取页面展示的周期新增 Star 与仓库信息。",
   "periods": {
@@ -15,7 +15,7 @@
           "url": "https://github.com/backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
           "language": "TypeScript",
-          "total_stars": 15447,
+          "total_stars": 15480,
           "period_stars": 1596,
           "period_label": "本周新增 Star",
           "period_text": "1,596 stars this week"
@@ -28,7 +28,7 @@
           "url": "https://github.com/google-labs-code/stitch-skills",
           "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
           "language": "TypeScript",
-          "total_stars": 13638,
+          "total_stars": 13703,
           "period_stars": 2616,
           "period_label": "本周新增 Star",
           "period_text": "2,616 stars this week"
@@ -41,7 +41,7 @@
           "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "description": "Keep your coding agent up to date with the latest web best practices",
           "language": "TypeScript",
-          "total_stars": 11488,
+          "total_stars": 11530,
           "period_stars": 2008,
           "period_label": "本周新增 Star",
           "period_text": "2,008 stars this week"
@@ -54,7 +54,7 @@
           "url": "https://github.com/n8n-io/nod",
           "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
           "language": "TypeScript",
-          "total_stars": 4423,
+          "total_stars": 4544,
           "period_stars": 1424,
           "period_label": "本周新增 Star",
           "period_text": "1,424 stars this week"
@@ -67,7 +67,7 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "total_stars": 56944,
+          "total_stars": 56991,
           "period_stars": 2335,
           "period_label": "本周新增 Star",
           "period_text": "2,335 stars this week"
@@ -80,7 +80,7 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "total_stars": 76441,
+          "total_stars": 76548,
           "period_stars": 5072,
           "period_label": "本周新增 Star",
           "period_text": "5,072 stars this week"
@@ -93,7 +93,7 @@
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "description": "Chrome DevTools for coding agents",
           "language": "TypeScript",
-          "total_stars": 59644,
+          "total_stars": 59669,
           "period_stars": 1150,
           "period_label": "本周新增 Star",
           "period_text": "1,150 stars this week"
@@ -106,7 +106,7 @@
           "url": "https://github.com/tradermonty/claude-trading-skills",
           "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
           "language": "Python",
-          "total_stars": 8753,
+          "total_stars": 8781,
           "period_stars": 1332,
           "period_label": "本周新增 Star",
           "period_text": "1,332 stars this week"
@@ -119,7 +119,7 @@
           "url": "https://github.com/ag-ui-protocol/ag-ui",
           "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
           "language": "TypeScript",
-          "total_stars": 21968,
+          "total_stars": 21998,
           "period_stars": 1185,
           "period_label": "本周新增 Star",
           "period_text": "1,185 stars this week"
@@ -132,7 +132,7 @@
           "url": "https://github.com/meta/astryx",
           "description": "An open source design system that's fully customizable and agent ready",
           "language": "TypeScript",
-          "total_stars": 33555,
+          "total_stars": 33584,
           "period_stars": 2306,
           "period_label": "本周新增 Star",
           "period_text": "2,306 stars this week"
@@ -151,7 +151,7 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "total_stars": 62161,
+          "total_stars": 62260,
           "period_stars": 24421,
           "period_label": "本月新增 Star",
           "period_text": "24,421 stars this month"
@@ -164,7 +164,7 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 79328,
+          "total_stars": 79406,
           "period_stars": 30171,
           "period_label": "本月新增 Star",
           "period_text": "30,171 stars this month"
@@ -177,7 +177,7 @@
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
           "language": "TypeScript",
-          "total_stars": 28612,
+          "total_stars": 28671,
           "period_stars": 22900,
           "period_label": "本月新增 Star",
           "period_text": "22,900 stars this month"
@@ -190,7 +190,7 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": "The best way to control Claude Code, Codex and more from any computer or phone",
           "language": "TypeScript",
-          "total_stars": 82339,
+          "total_stars": 82516,
           "period_stars": 51428,
           "period_label": "本月新增 Star",
           "period_text": "51,428 stars this month"
@@ -203,7 +203,7 @@
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "total_stars": 201587,
+          "total_stars": 201691,
           "period_stars": 17791,
           "period_label": "本月新增 Star",
           "period_text": "17,791 stars this month"
@@ -216,7 +216,7 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "total_stars": 120245,
+          "total_stars": 120296,
           "period_stars": 17228,
           "period_label": "本月新增 Star",
           "period_text": "17,228 stars this month"
@@ -229,7 +229,7 @@
           "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
           "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
           "language": "Python",
-          "total_stars": 9916,
+          "total_stars": 9992,
           "period_stars": 6548,
           "period_label": "本月新增 Star",
           "period_text": "6,548 stars this month"
@@ -242,7 +242,7 @@
           "url": "https://github.com/backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
           "language": "TypeScript",
-          "total_stars": 15447,
+          "total_stars": 15480,
           "period_stars": 5746,
           "period_label": "本月新增 Star",
           "period_text": "5,746 stars this month"
@@ -255,7 +255,7 @@
           "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
           "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
           "language": "JavaScript",
-          "total_stars": 89284,
+          "total_stars": 89542,
           "period_stars": 45874,
           "period_label": "本月新增 Star",
           "period_text": "45,874 stars this month"
@@ -268,7 +268,7 @@
           "url": "https://github.com/HKUDS/DeepTutor",
           "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
           "language": "Python",
-          "total_stars": 63859,
+          "total_stars": 63921,
           "period_stars": 19184,
           "period_label": "本月新增 Star",
           "period_text": "19,184 stars this month"
